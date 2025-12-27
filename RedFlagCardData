@@ -24,7 +24,7 @@
         }
       ]
     },
-    "Boundary Violations": {
+    "Boundary": {
       "tips": [
         {
           "title": "Ignoring Your 'No'",
@@ -36,7 +36,7 @@
         }
       ]
     },
-    "Communication Issues": {
+    "Communication": {
       "tips": [
         {
           "title": "Silent Treatment",
@@ -48,7 +48,7 @@
         }
       ]
     },
-    "Commitment Concerns": {
+    "Commitment": {
       "tips": [
         {
           "title": "Hot and Cold Behavior",
