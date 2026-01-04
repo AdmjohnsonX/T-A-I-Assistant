@@ -1,1 +1,64 @@
-
+{
+  "RedFlagCards_DataBase": {
+    "General": {
+      "tips": [
+        {
+          "title": "Trust Your Gut Feelings",
+          "tip": "If something feels off about a person or situation, listen to that inner voice. Your intuition is your best protector in dating."
+        },
+        {
+          "title": "Inconsistent Stories",
+          "tip": "Pay attention when details don't match up or stories change. This could indicate dishonesty or hiding something important."
+        }
+      ]
+    },
+    "Manipulation": {
+      "tips": [
+        {
+          "title": "Love Bombing",
+          "tip": "Excessive affection and attention early on can be a manipulation tactic to quickly create emotional dependency."
+        },
+        {
+          "title": "Gaslighting",
+          "tip": "If they make you question your own reality or memory, that's gaslighting. Trust your perception of events."
+        }
+      ]
+    },
+    "Boundary": {
+      "tips": [
+        {
+          "title": "Ignoring Your 'No'",
+          "tip": "Someone who can't respect small boundaries won't respect bigger ones. 'No' should always be enough."
+        },
+        {
+          "title": "Pushing for Intimacy Too Fast",
+          "tip": "Rushing physical or emotional intimacy before you're ready is a major red flag. Healthy relationships progress at a comfortable pace."
+        }
+      ]
+    },
+    "Communication": {
+      "tips": [
+        {
+          "title": "Silent Treatment",
+          "tip": "Using silence as punishment is emotional manipulation. Healthy partners communicate even during disagreements."
+        },
+        {
+          "title": "Dismissing Your Feelings",
+          "tip": "If they regularly tell you you're 'too sensitive' or 'overreacting,' they're invalidating your emotions."
+        }
+      ]
+    },
+    "Commitment": {
+      "tips": [
+        {
+          "title": "Hot and Cold Behavior",
+          "tip": "Alternating between intense interest and distance creates anxiety and keeps you off-balance. Consistency matters."
+        },
+        {
+          "title": "Future Faking",
+          "tip": "Making big promises about the future with no follow-through is a way to keep you invested without real commitment."
+        }
+      ]
+    }
+  }
+}
