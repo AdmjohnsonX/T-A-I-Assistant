@@ -3,62 +3,3937 @@
     "General": {
       "tips": [
         {
-          "title": "Trust Your Gut Feelings",
-          "tip": "If something feels off about a person or situation, listen to that inner voice. Your intuition is your best protector in dating."
+          "title": "Rude to Service Staff",
+          "tip": "Watch how he treats servers. Rudeness to staff often reveals deep-seated arrogance and a lack of empathy."
         },
         {
-          "title": "Inconsistent Stories",
-          "tip": "Pay attention when details don't match up or stories change. This could indicate dishonesty or hiding something important."
+          "title": "The \"Crazy\" Exes",
+          "tip": "If all his exes were \"crazy,\" he is the common denominator. He likely takes no responsibility for past breakups."
+        },
+        {
+          "title": "Phone Secrecy",
+          "tip": "Guarding his phone or flipping it screen-down constantly suggests he is hiding something or someone from you."
+        },
+        {
+          "title": "Zero Questions About You",
+          "tip": "If he talks only about himself and never asks about your life, he is likely self-absorbed and uninterested in you."
+        },
+        {
+          "title": "He Is Never Wrong",
+          "tip": "A man who can't apologize or admit mistakes lacks maturity. You will eventually be blamed for every conflict."
+        },
+        {
+          "title": "Late Night Texts Only",
+          "tip": "If he only messages you late at night, he is likely looking for a convenient hookup, not a genuine relationship."
+        },
+        {
+          "title": "Critiques Your Looks",
+          "tip": "Negging or \"jokes\" about your appearance are meant to lower your self-esteem. Don't date someone who makes you feel small."
+        },
+        {
+          "title": "Inconsistent Availability",
+          "tip": "If he disappears for days without explanation, he isn't serious. Consistent communication is the bare minimum."
+        },
+        {
+          "title": "No Social Proof",
+          "tip": "Be cautious if he has no long-term friends. An inability to maintain platonic relationships is a warning sign."
+        },
+        {
+          "title": "He Hides You",
+          "tip": "If you've been dating a while but haven't met his friends or family, he may be compartmentalizing you."
+        },
+        {
+          "title": "Asking for Money",
+          "tip": "Asking for financial help early on is a major red flag. A stable partner handles their own finances responsibly."
+        },
+        {
+          "title": "The Victim Mentality",
+          "tip": "If life is always \"happening to him\" and nothing is ever his fault, he lacks accountability and resilience."
+        },
+
+{
+  "title": "Too Fast Exclusivity",
+  "tip": "If he pushes exclusivity immediately, he may be rushing control. Healthy bonds take time."
+},
+{
+  "title": "Pressures for Your Address",
+  "tip": "Pushing to know where you live early ignores safety. Meet in public until trust is earned."
+},
+{
+  "title": "Won't Plan Ahead",
+  "tip": "Last-minute invites can signal low effort. Consistent planning shows real interest."
+},
+{
+  "title": "Always Talks Sex",
+  "tip": "If conversations turn sexual quickly, he may be chasing access, not connection."
+},
+{
+  "title": "Hates All Women",
+  "tip": "Generalizing that women are bad is misogyny. It can become contempt toward you."
+},
+{
+  "title": "Jealous of Male Friends",
+  "tip": "Overreacting to your male friends suggests insecurity and future controlling behavior."
+},
+{
+  "title": "Badmouths Your Goals",
+  "tip": "Mocking your career or dreams shows disrespect. A partner should support your growth."
+},
+{
+  "title": "Rushes Alcohol on Dates",
+  "tip": "Pressuring you to drink can be a tactic to lower boundaries. Stick to what feels safe."
+},
+{
+  "title": "Insists on Picking You Up",
+  "tip": "Pushing to drive you on first dates can limit your exit. Keep your own transport."
+},
+{
+  "title": "Disrespects Your Time",
+  "tip": "Repeated lateness without care shows entitlement. Your time should be valued."
+},
+{
+  "title": "Boundary Testing Jokes",
+  "tip": "If he jokes about crossing lines, he is testing you. Take it seriously, not lightly."
+},
+{
+  "title": "Avoids Basic Questions",
+  "tip": "Dodging simple info like job or city can mean secrecy. Transparency matters."
+},
+{
+  "title": "Love/Hate About Mom",
+  "tip": "Extreme hatred or idealization of his mom may signal issues that spill into dating."
+},
+{
+  "title": "Still Living With Ex",
+  "tip": "If he lives with an ex, clarify boundaries. It can mean unfinished business."
+},
+{
+  "title": "Refuses Video Call",
+  "tip": "Avoiding a quick video call may indicate catfishing or hiding a relationship."
+},
+{
+  "title": "No Recent Photos",
+  "tip": "Only old or filtered photos can be misleading. Ask for a current, clear picture."
+},
+{
+  "title": "Wants Private First Date",
+  "tip": "Suggesting his place as a first date is unsafe. Choose a public, busy spot."
+},
+{
+  "title": "Talks Down to You",
+  "tip": "A condescending tone early is a preview. Respect should be immediate and consistent."
+},
+{
+  "title": "Checks Out Other Women",
+  "tip": "If he stares or flirts openly on dates, he lacks respect and self-control."
+},
+{
+  "title": "Keeps You Off Social",
+  "tip": "Refusing any public acknowledgment can mean he is hiding you or keeping options."
+},
+{
+  "title": "Secretive About Status",
+  "tip": "If he will not clearly say he is single, assume he is not. Clarity matters."
+},
+{
+  "title": "Never Asks Consent",
+  "tip": "Ignoring consent cues is dangerous. A safe partner checks in, not pushes."
+},
+{
+  "title": "Dismisses Your Safety",
+  "tip": "If he laughs at your precautions, he does not prioritize your wellbeing."
+},
+{
+  "title": "Forced Intensity",
+  "tip": "Over-the-top intensity can be a power move. Real chemistry feels natural."
+},
+{
+  "title": "Brags About Fighting",
+  "tip": "Proud stories of fights or rage suggest volatility. Take it as a warning."
+},
+{
+  "title": "Road Rage",
+  "tip": "Angry driving shows poor impulse control. It often appears elsewhere too."
+},
+{
+  "title": "Punches Walls",
+  "tip": "Intimidation, even at objects, is a violence red flag. Leave immediately."
+},
+{
+  "title": "Keeps Score",
+  "tip": "Tracking what he paid or did breeds resentment. Healthy partners avoid ledgers."
+},
+{
+  "title": "Triangulates Women",
+  "tip": "Mentioning other women to spark jealousy is manipulation. It creates competition."
+},
+{
+  "title": "Compares You to Others",
+  "tip": "Comparisons are control. You should be valued for who you are, not ranked."
+},
+{
+  "title": "Refuses Protection",
+  "tip": "If he argues about condoms, he does not respect your health. Do not negotiate."
+},
+{
+  "title": "Pressures for Nudes",
+  "tip": "Requesting nudes early is risky. A respectful man will not push or guilt you."
+},
+{
+  "title": "Shares Others' Nudes",
+  "tip": "If he shows private pics of exes, he will betray your privacy too."
+},
+{
+  "title": "Mocks Therapy",
+  "tip": "Ridiculing therapy or emotions signals low emotional maturity and poor repair skills."
+},
+{
+  "title": "Drinks to Cope",
+  "tip": "Needing alcohol to handle stress can signal dependency. Watch patterns, not words."
+},
+{
+  "title": "Frequent Drug Use",
+  "tip": "Regular drug use can bring instability and risk. Protect your safety and future."
+},
+{
+  "title": "Gambles Regularly",
+  "tip": "Compulsive gambling can destroy finances and trust. Notice secrecy and debt."
+},
+{
+  "title": "Chronic Money Chaos",
+  "tip": "Always unpaid bills can mean irresponsibility. Love will not fix stability."
+},
+{
+  "title": "Constant Job Drama",
+  "tip": "Repeated job blowups can mean unreliable habits. Look for accountability."
+},
+{
+  "title": "Poor Hygiene",
+  "tip": "Consistently poor hygiene is disrespect. Standards are allowed."
+},
+{
+  "title": "Cruel \"Honesty\"",
+  "tip": "Using honesty to be cruel is a cover. Kindness and truth can coexist."
+},
+{
+  "title": "Insults as Teasing",
+  "tip": "If teasing hurts and he will not stop, it is disrespect. Your discomfort is enough."
+},
+{
+  "title": "Pushes Past No",
+  "tip": "Trying again after a clear no is boundary testing. Escalation is likely."
+},
+{
+  "title": "Stalks Your Socials",
+  "tip": "Obsessive monitoring early is controlling. Curiosity should not become surveillance."
+},
+{
+  "title": "Demands Passwords",
+  "tip": "Asking for passwords is control, not trust. Healthy trust respects privacy."
+},
+{
+  "title": "Controls What You Wear",
+  "tip": "Comments about your clothes can escalate. You choose your body and style."
+},
+{
+  "title": "Tries to Isolate You",
+  "tip": "If he turns you against friends, it is a danger sign. Keep your support system."
+},
+{
+  "title": "Jealous of Your Wins",
+  "tip": "Downplaying your wins signals insecurity. A good partner celebrates you."
+},
+{
+  "title": "Targets Much Younger",
+  "tip": "If he dates much younger women, ask why. Power imbalance can be the point."
+},
+{
+  "title": "Pity Story Overload",
+  "tip": "Constant sob stories early can bait caretaking. Compassion needs boundaries."
+},
+{
+  "title": "Alpha/Dominance Talk",
+  "tip": "Dominance talk can hide misogyny. Expect control, not partnership."
+},
+{
+  "title": "Hates Feminists",
+  "tip": "Anger at women's rights often means contempt for women. It rarely stays polite."
+},
+{
+  "title": "Avoids Relationship Talk",
+  "tip": "If he avoids labels but wants benefits, he is keeping options open."
+},
+{
+  "title": "Only Home Dates",
+  "tip": "If dates are always indoors, he may be hiding you or seeking convenience."
+},
+{
+  "title": "No Daytime Dates",
+  "tip": "Refusing daytime dates can signal secrecy. Normal dating includes public time."
+},
+{
+  "title": "Always On His Phone",
+  "tip": "If he scrolls through dates, he is not present. Attention is basic respect."
+},
+{
+  "title": "Talks Over You",
+  "tip": "Constant interruptions show he does not value your voice. It usually worsens."
+},
+{
+  "title": "Breaks Small Promises",
+  "tip": "Broken small promises predict bigger ones. Reliability is attractive."
+},
+{
+  "title": "Cancels Often",
+  "tip": "Frequent cancellations show low priority. Do not build on maybe."
+},
+{
+  "title": "Pet Names Too Fast",
+  "tip": "Calling you baby too soon can be false intimacy. Real closeness is earned."
+},
+{
+  "title": "Too Many Rules",
+  "tip": "Strict rules for you are control. Adults set boundaries, not laws."
+},
+{
+  "title": "You Must Earn Kindness",
+  "tip": "If kindness feels conditional, it is unhealthy. Love should not be a test."
+},
+{
+  "title": "Avoids STI Talk",
+  "tip": "Dodging STI discussions is unsafe. Responsible partners talk about health."
+},
+{
+  "title": "Hides His Last Name",
+  "tip": "Refusing basic identity info is unsafe. Verify who you are dating."
+},
+{
+  "title": "Vague Living Situation",
+  "tip": "Extreme vagueness about where he lives can mean a partner at home."
+},
+{
+  "title": "Asks You To Lie",
+  "tip": "If he asks you to cover for him, he will make you complicit. Choose integrity."
+},
+{
+  "title": "Flirts Online Publicly",
+  "tip": "Public flirting while dating you shows disrespect. Actions must match words."
+},
+{
+  "title": "Puts You on Pedestal",
+  "tip": "Idealizing you as perfect can flip to devaluing. Healthy love is realistic."
+},
+{
+  "title": "Marriage Talk Day One",
+  "tip": "Big future talk on day one can be fantasy, not commitment. Slow is safer."
+},
+{
+  "title": "Says Cheating Is Normal",
+  "tip": "If he normalizes cheating, believe him. Do not try to be the exception."
+},
+{
+  "title": "No Accountability",
+  "tip": "If every problem is someone else's fault, you will be blamed later."
+},
+{
+  "title": "Angry at Your No",
+  "tip": "If your no triggers anger, it is entitlement. It is not love."
+},
+{
+  "title": "Calls Boundaries Drama",
+  "tip": "If he calls boundaries drama, he wants access without effort. Hold firm."
+},
+{
+  "title": "Rushes Off App",
+  "tip": "Rushing off the app can bypass safety tools. Move only when comfortable."
+},
+{
+  "title": "Avoids Public Places",
+  "tip": "Avoiding public venues can be secrecy or control. Choose safe public dates."
+},
+{
+  "title": "Texts While Driving",
+  "tip": "Risky behavior shows poor judgment. Safety mindset matters in partners."
+},
+{
+  "title": "Revenge Fantasies",
+  "tip": "Revenge talk suggests cruelty. Healthy people process hurt without harm."
+},
+{
+  "title": "Punch-Down Humor",
+  "tip": "If his jokes target others, it is a character clue. Kindness is not optional."
+},
+{
+  "title": "Anti-Boundary Speech",
+  "tip": "Saying boundaries are walls usually means he wants access. Respect matters."
+},
+{
+  "title": "Makes You Compete",
+  "tip": "Creating competition with other women is disrespect. You are not an audition."
+},
+{
+  "title": "Trauma Dumping Early",
+  "tip": "Oversharing trauma early can force intimacy. Pace protects you."
+},
+{
+  "title": "Not Like Other Girls",
+  "tip": "This often demeans women as a group. Respect should include all women."
+},
+{
+  "title": "Objectifies Women",
+  "tip": "Objectifying women predicts disrespect. Watch how he talks about bodies."
+},
+{
+  "title": "Harsh About Moms",
+  "tip": "Judging mothers harshly signals low empathy. It can turn on you later."
+},
+{
+  "title": "Mocks Budgeting",
+  "tip": "Mocking money planning predicts chaos. Financial habits matter long term."
+},
+{
+  "title": "Needs Your Location",
+  "tip": "Demanding location sharing is control. Safety is not surveillance."
+},
+{
+  "title": "Pressures Beliefs",
+  "tip": "Pressuring you to adopt his beliefs shows control. Healthy partners allow differences."
+},
+{
+  "title": "Gold Digger Rants",
+  "tip": "Ranting that women are gold diggers reveals resentment. Expect stinginess and blame."
+},
+{
+  "title": "Calls Exes Names",
+  "tip": "Name-calling past partners shows contempt. It can become your future."
+},
+{
+  "title": "Uses Slurs",
+  "tip": "Racist or sexist slurs show character. Do not excuse it as humor."
+},
+{
+  "title": "Breakup Threats",
+  "tip": "Using breakup threats controls you with fear. Stable love does not weaponize exit."
+},
+{
+  "title": "Tests Your Loyalty",
+  "tip": "If he tests you, he is insecure and controlling. Adults communicate needs."
+},
+{
+  "title": "Keeps Options Open",
+  "tip": "If he says you are an option, believe him. Invest where you are chosen."
+},
+{
+  "title": "Rigid 50/50 Math",
+  "tip": "Obsessive split-the-bill talk can hide selfishness. Fairness includes effort."
+},
+{
+  "title": "No Introductions",
+  "tip": "If months pass with no friends met, you may be hidden. Ask directly."
+},
+{
+  "title": "You're Mine Early",
+  "tip": "Possessive language early is a warning. You are a person, not property."
+},
+{
+  "title": "Wants You To Quit Job",
+  "tip": "Suggesting you stop working can be control. Independence is safety."
+},
+{
+  "title": "Resents Your Freedom",
+  "tip": "If he resents your autonomy, he wants control. Healthy love supports freedom."
+},
+{
+  "title": "Plays Mind Games",
+  "tip": "Mixed signals and hot-cold teasing are games. Choose clarity and consistency."
+},
+{
+  "title": "Explodes Easily",
+  "tip": "Explosive reactions to small issues predict unstable conflict. Calm is required."
+},
+{
+  "title": "No Gratitude",
+  "tip": "Never saying thank you shows entitlement. Appreciation should be normal."
+},
+{
+  "title": "Claims \"No Drama\"",
+  "tip": "Saying no drama often means he avoids accountability. Watch actions, not slogans."
+},
+
+{
+  "title": "Moves Too Fast Emotionally",
+  "tip": "If he pushes deep bonding in days, it may be intensity, not intimacy. Pace protects you."
+},
+{
+  "title": "Refuses Your Boundaries",
+  "tip": "If he debates your boundaries instead of respecting them, he is testing control."
+},
+{
+  "title": "Public Humiliation",
+  "tip": "Jokes that embarrass you in public are disrespect. Early cruelty usually escalates."
+},
+{
+  "title": "Negs Your Confidence",
+  "tip": "Backhanded compliments are meant to lower self-esteem. Choose someone who uplifts."
+},
+{
+  "title": "Blames You for His Mood",
+  "tip": "If you are responsible for his feelings, you will be walking on eggshells."
+},
+{
+  "title": "Always Needs Praise",
+  "tip": "Constant reassurance demands can become draining and controlling. Look for stability."
+},
+{
+  "title": "Dismisses Your Opinions",
+  "tip": "If he calls your views stupid, he will not respect you in conflict."
+},
+{
+  "title": "Fixes You",
+  "tip": "Trying to \"improve\" you early is control. Support feels like acceptance, not correction."
+},
+{
+  "title": "Pushy With Waiters",
+  "tip": "Snapping fingers or ordering people around shows entitlement. That can turn on you."
+},
+{
+  "title": "Racist or Sexist Jokes",
+  "tip": "Offensive jokes are not humor; they show values. Do not ignore early signs."
+},
+{
+  "title": "Calls Women Females",
+  "tip": "Reducing women to \"females\" can signal misogyny. Language reveals mindset."
+},
+{
+  "title": "Porn Bragging",
+  "tip": "Bragging about porn habits or kinks early can be coercive. Consent needs trust."
+},
+{
+  "title": "Talks About Your Body",
+  "tip": "Constant body comments can be objectifying. You deserve to be seen as a whole person."
+},
+{
+  "title": "Wants You Smaller",
+  "tip": "Pressuring you to lose weight or change looks is control. A partner should not police you."
+},
+{
+  "title": "Always the Hero",
+  "tip": "If every story makes him the hero, he may be ego-driven and dishonest."
+},
+{
+  "title": "Can't Handle Feedback",
+  "tip": "If gentle feedback triggers anger, healthy problem-solving will be impossible."
+},
+{
+  "title": "Silent When You Cry",
+  "tip": "If he ignores your distress, he lacks empathy. Emotional safety matters."
+},
+{
+  "title": "Mocks Your Boundaries",
+  "tip": "Laughing at boundaries is disrespect. A safe man takes them seriously."
+},
+{
+  "title": "Rushes Physical Touch",
+  "tip": "Unwanted touching on early dates shows entitlement. Your body is not a negotiation."
+},
+{
+  "title": "Insists You Owe Him",
+  "tip": "If he expects affection because he paid, he is transactional and unsafe."
+},
+{
+  "title": "Overly Persistent",
+  "tip": "If he will not accept a no, he is not romantic—he is intrusive."
+},
+{
+  "title": "Knows Your Schedule",
+  "tip": "Tracking your routine early is controlling. Privacy is safety."
+},
+{
+  "title": "Shows Up Uninvited",
+  "tip": "Surprise visits early can be boundary crossing. Safety comes before spontaneity."
+},
+{
+  "title": "Too Curious About Trauma",
+  "tip": "Digging into past trauma early can be manipulation. Share only with trust."
+},
+{
+  "title": "Says You Need Him",
+  "tip": "If he says you \"need\" him, he wants dependence. Healthy love supports autonomy."
+},
+{
+  "title": "Wants You Off Birth Ctrl",
+  "tip": "Pressuring reproductive choices is control. Your health decisions are yours."
+},
+{
+  "title": "Anti-Condom Rants",
+  "tip": "Complaining about condoms is selfish. A respectful partner prioritizes safety."
+},
+{
+  "title": "Hides His Friends",
+  "tip": "If he keeps friends off-limits, he may be hiding his real life."
+},
+{
+  "title": "No Clear Goals",
+  "tip": "Having no direction is fine, but avoiding adult responsibilities can drain you."
+},
+{
+  "title": "Always Borrowing Stuff",
+  "tip": "Borrowing money or items early can be a pattern. Watch for entitlement."
+},
+{
+  "title": "Financial Sob Stories",
+  "tip": "Using money problems to gain sympathy can lead to requests. Protect your resources."
+},
+{
+  "title": "Love Tests",
+  "tip": "If he sets little tests to \"prove\" yourself, he is insecure and controlling."
+},
+{
+  "title": "Threatens Self-Harm",
+  "tip": "Threats to self-harm to keep you are coercion. Get help, but protect yourself."
+},
+{
+  "title": "Calls You Paranoid",
+  "tip": "If he labels safety as paranoia, he is minimizing you. Trust your instincts."
+},
+{
+  "title": "Mirrors Everything",
+  "tip": "Copying your likes and values too perfectly can be mirroring. Watch over time."
+},
+{
+  "title": "Too Many Coincidences",
+  "tip": "If he always appears where you are, it may be stalking, not fate."
+},
+{
+  "title": "Demands Forgiveness Fast",
+  "tip": "If he demands quick forgiveness, he is avoiding accountability. Repair takes time."
+},
+{
+  "title": "Non-Apology Apology",
+  "tip": "Saying \"sorry you feel that\" is not an apology. Look for real ownership."
+},
+{
+  "title": "Says He Is a Nice Guy",
+  "tip": "Self-proclaimed nice guys may feel entitled to you. Judge actions, not labels."
+},
+{
+  "title": "Love as a Trophy",
+  "tip": "If he treats dating you like a win, he may value status more than you."
+},
+{
+  "title": "Hates Your Standards",
+  "tip": "If he mocks your standards, he wants easier access. Standards protect you."
+},
+{
+  "title": "Pushes for Sleepovers",
+  "tip": "Early sleepover pressure is about access. A respectful man accepts your pace."
+},
+{
+  "title": "Won't Take No for Plans",
+  "tip": "If he keeps pushing after you decline plans, he is ignoring your autonomy."
+},
+{
+  "title": "Criticizes Other Women",
+  "tip": "Putting women down is insecurity and misogyny. It can target you later."
+},
+{
+  "title": "High Maintenance Insults",
+  "tip": "Mocking women's needs is a red flag. Your needs deserve respect."
+},
+{
+  "title": "Shames Your Past",
+  "tip": "If he judges your dating history, he will use it against you. Choose respect."
+},
+{
+  "title": "Purity Obsession",
+  "tip": "Purity talk can signal control and shame. Your worth is not your history."
+},
+{
+  "title": "Anti-Boundary Comments",
+  "tip": "If he calls boundaries \"rules,\" he may be unsafe. Boundaries are normal."
+},
+{
+  "title": "Wants Access 24/7",
+  "tip": "Expecting instant replies is control. Healthy partners respect your life."
+},
+{
+  "title": "Punishes Late Replies",
+  "tip": "Guilt trips for delayed texts are manipulation. Communication should feel safe."
+},
+{
+  "title": "Jealous of Your Family",
+  "tip": "Competing with your family for attention can become isolation. Watch for control."
+},
+{
+  "title": "Belittles Your Work",
+  "tip": "If he belittles your job, he does not value your independence."
+},
+{
+  "title": "Calls You Bossy",
+  "tip": "Labeling you bossy for asserting needs is sexist. Confidence is not aggression."
+},
+{
+  "title": "Hates Child Support",
+  "tip": "Complaining about supporting his kids can signal selfish values and resentment."
+},
+{
+  "title": "Expects You to Serve",
+  "tip": "If he expects women to serve him, you'll do unpaid labor. Choose partnership."
+},
+{
+  "title": "Traditional Demands Only",
+  "tip": "If he demands roles but offers no stability, it is exploitation."
+},
+{
+  "title": "Submission Talk",
+  "tip": "Demanding submission can hide control. Equality should be the baseline."
+},
+{
+  "title": "Polices Work Contacts",
+  "tip": "Controlling work interactions is unsafe. Professional boundaries are enough."
+},
+{
+  "title": "Accuses You of Cheating",
+  "tip": "Baseless cheating accusations are projection or control. Trust is not a trial."
+},
+{
+  "title": "Interrogates Your Exes",
+  "tip": "Constant questioning about exes is insecurity. You do not owe endless proof."
+},
+{
+  "title": "Wants Your Phone Checks",
+  "tip": "Checking your phone is surveillance. Privacy is not secrecy."
+},
+{
+  "title": "Uses Secrets in Fights",
+  "tip": "If he uses private info to hurt you, he is unsafe. Trust should be protected."
+},
+{
+  "title": "Yells at Strangers",
+  "tip": "Explosive anger at strangers is a preview. You cannot love someone into calm."
+},
+{
+  "title": "Mean Under Stress",
+  "tip": "If stress turns him mean, life will be painful. Kindness should be consistent."
+},
+{
+  "title": "Instant Blame Shifting",
+  "tip": "If he shifts blame instantly, conflict will be endless. Accountability is required."
+},
+{
+  "title": "Turns Everything Sexual",
+  "tip": "Turning normal topics sexual can be boundary pushing. Respectful pacing matters."
+},
+{
+  "title": "Pushes Kinks Early",
+  "tip": "Introducing intense kinks early can test consent. Trust must come first."
+},
+{
+  "title": "Ownership Jokes",
+  "tip": "Possessive jokes about owning you are not cute. Control can start as humor."
+},
+{
+  "title": "Hates Friends' Input",
+  "tip": "If he hates your friends' opinions, he may want isolation. Perspective helps."
+},
+{
+  "title": "Friends Are \"Bad\"",
+  "tip": "Calling your friends bad can be a control move. Keep your support network."
+},
+{
+  "title": "Discourages Independence",
+  "tip": "Discouraging savings, work, or study is control. Independence is safety."
+},
+{
+  "title": "Rushes Moving In",
+  "tip": "Suggesting living together quickly can trap you. Build trust first."
+},
+{
+  "title": "Delete Contacts Request",
+  "tip": "Asking to delete men from contacts is controlling. Boundaries are not isolation."
+},
+{
+  "title": "Tracks Online Status",
+  "tip": "Monitoring when you are online is controlling. You are allowed to be unavailable."
+},
+{
+  "title": "Sulks When Refused",
+  "tip": "If he sulks when you refuse, he is manipulating. Consent must be free."
+},
+{
+  "title": "Hints He Will Replace You",
+  "tip": "Hints that he has options are coercion. Love should not be competition."
+},
+{
+  "title": "Money as Leverage",
+  "tip": "If he pays then controls decisions, it is leverage. Gifts should not buy access."
+},
+{
+  "title": "Demands Proof of Love",
+  "tip": "If he asks for proof like sex or nudes, it is coercion. Love is not a test."
+},
+{
+  "title": "Secret Phone Calls",
+  "tip": "Taking calls in secret can be cheating or hiding something. Transparency matters."
+},
+{
+  "title": "Never Shares Plans",
+  "tip": "If he is vague about weekends or nights, he may be attached. Clarity protects you."
+},
+{
+  "title": "Weekends Are Off-Limits",
+  "tip": "If weekends are always off-limits, he may have a partner. Watch patterns."
+},
+{
+  "title": "Refuses Photos Together",
+  "tip": "Refusing photos can mean he is hiding you. Ask why and watch his reaction."
+},
+{
+  "title": "No Trace + Secrecy",
+  "tip": "No online trace can be fine, but with secrecy it is a warning."
+},
+{
+  "title": "Uses Burner Numbers",
+  "tip": "Changing numbers often can signal deception. Stable people are reachable."
+},
+{
+  "title": "Won't Let You Contribute",
+  "tip": "Refusing your contribution can be control. Generosity should not mean power."
+},
+{
+  "title": "Judges Your Spending",
+  "tip": "Criticizing small purchases early can become financial control. Your money is yours."
+},
+{
+  "title": "Praise Then Cold",
+  "tip": "Fast praise then withdrawal can hook you. Consistency is the green flag."
+},
+{
+  "title": "Extracts Secrets Early",
+  "tip": "Demanding deep secrets early is control. Trust is built, not extracted."
+},
+{
+  "title": "Pushes Early Travel",
+  "tip": "Pushing trips early can isolate you. Travel only when trust is strong."
+},
+{
+  "title": "Always Far From You",
+  "tip": "Always choosing locations far from you can limit support. Balance matters."
+},
+{
+  "title": "Disrupts Your Sleep",
+  "tip": "Keeping you up with calls or texts is selfish. A caring partner respects rest."
+},
+{
+  "title": "Calls You Difficult",
+  "tip": "If you set needs and he calls you difficult, he wants low standards. Keep yours."
+},
+{
+  "title": "Performative Flirting",
+  "tip": "Overt flirting in front of others can be performative. Look for private respect."
+},
+{
+  "title": "Tells You Keep Quiet",
+  "tip": "Telling you not to talk about him can be secrecy. Healthy dating is not hidden."
+},
+{
+  "title": "Says Boundaries Kill Vibe",
+  "tip": "If he says boundaries kill vibes, he is unsafe. Boundaries create safety."
+},
+{
+  "title": "Status Obsessed",
+  "tip": "If he fixates on money, clout, or fame, he may value image over character."
+},
+{
+  "title": "Refuses Simple Dates",
+  "tip": "If he only offers expensive or sexualized plans, he may be buying access. Real effort is simple too."
+},
+{
+  "title": "Keeps You Waiting",
+  "tip": "Making you wait on purpose is a power move. Mutual respect includes timely replies."
+},
+{
+  "title": "Dismisses Birth Control",
+  "tip": "If he mocks contraception or your choices, he does not respect your body or future."
+},
+{
+  "title": "Wants You to Be Quiet",
+  "tip": "If he dislikes you speaking up, he wants control. A partner should value your voice."
+},
+
+        {
+          "title": "Aggressive Driving Habits",
+          "tip": "Frequent road rage or reckless driving can indicate poor impulse control and difficulty managing frustration."
+        },
+        {
+          "title": "Frequent Late-Night Invites",
+          "tip": "Relying only on 'last minute' evening plans may suggest they aren't looking for a meaningful daytime connection."
+        },
+        {
+          "title": "The Constant Victim",
+          "tip": "If they never admit fault and everyone else is always to blame, they may lack the maturity to handle conflict."
+        },
+        {
+          "title": "Testing Your Boundaries",
+          "tip": "Seeing how you react to small 'nos' early on is often a way to gauge how much control they can eventually exert."
+        },
+        {
+          "title": "Negativity About Others",
+          "tip": "Consistently speaking poorly of friends or coworkers suggests a pattern of judgment that will eventually turn on you."
+        },
+        {
+          "title": "Excessive Phone Use",
+          "tip": "Staying on their phone during a date often reflects a lack of presence and respect for the time you’re spending together."
+        },
+        {
+          "title": "Ordering For You",
+          "tip": "Choosing your meal without asking may seem 'old school' but can actually be an early sign of controlling tendencies."
+        },
+        {
+          "title": "Vague About Their Life",
+          "tip": "Being overly secretive about their job, home, or friends can be a sign they are hiding something or leading a double life."
+        },
+        {
+          "title": "Financial Pressure",
+          "tip": "Expecting you to pay or complaining about money early on can signal a lack of stability or a desire to take advantage."
+        },
+        {
+          "title": "Inconsistent Life Values",
+          "tip": "If their actions don't match their stated goals (like family or career), they may be telling you what you want to hear."
+        },
+        {
+          "title": "Overpowering Presence",
+          "tip": "Dominating every conversation without letting you speak is a sign of a self-centered personality."
+        },
+        {
+          "title": "Rushing the 'Label'",
+          "tip": "Pushing for a committed relationship after only one or two dates can be a sign of emotional instability or obsession."
+        },
+        {
+          "title": "Disrespecting Your Time",
+          "tip": "Being consistently late without an apology shows they don't value your schedule or prioritize your presence."
+        },
+        {
+          "title": "Passive-Aggressive Jokes",
+          "tip": "Using 'just kidding' to mask insults is a way to test your tolerance for disrespect and undermine your confidence."
+        },
+        {
+          "title": "Extreme Jealousy Early",
+          "tip": "Questioning who you’re texting or where you’re going this early is a sign of possessiveness and insecurity."
+        },
+        {
+          "title": "Lack of Emotional Depth",
+          "tip": "Avoiding all serious or personal topics can mean they are emotionally unavailable or just looking for something shallow."
+        },
+        {
+          "title": "Frequent Self-Deprecation",
+          "tip": "Constantly putting themselves down can be a tactic to elicit pity and force you into an emotional caregiver role."
+        },
+        {
+          "title": "Unexplained Radio Silence",
+          "tip": "Disappearing for days without warning creates anxiety and is a sign of inconsistent interest and low reliability."
+        },
+        {
+          "title": "Comparing You to Exes",
+          "tip": "Whether positive or negative, frequent comparisons mean they haven't emotionally moved on from their past."
+        },
+        {
+          "title": "Refusal to Apologize",
+          "tip": "A person who can't say 'sorry' for small mistakes will likely struggle to take responsibility for bigger ones later."
         }
       ]
     },
+    
     "Manipulation": {
-      "tips": [
-        {
-          "title": "Love Bombing",
-          "tip": "Excessive affection and attention early on can be a manipulation tactic to quickly create emotional dependency."
-        },
-        {
-          "title": "Gaslighting",
-          "tip": "If they make you question your own reality or memory, that's gaslighting. Trust your perception of events."
-        }
-      ]
+  "tips": [
+    {
+      "title": "Guilt-Loaded Favors",
+      "tip": "They do you 'big favors' then subtly remind you, creating pressure to say yes to things you’re not okay with."
     },
-    "Boundary": {
-      "tips": [
-        {
-          "title": "Ignoring Your 'No'",
-          "tip": "Someone who can't respect small boundaries won't respect bigger ones. 'No' should always be enough."
-        },
-        {
-          "title": "Pushing for Intimacy Too Fast",
-          "tip": "Rushing physical or emotional intimacy before you're ready is a major red flag. Healthy relationships progress at a comfortable pace."
-        }
-      ]
+    {
+      "title": "Conditional Kindness",
+      "tip": "Their warmth appears only when you agree with them, teaching you that love must be earned by compliance."
     },
-    "Communication": {
-      "tips": [
-        {
-          "title": "Silent Treatment",
-          "tip": "Using silence as punishment is emotional manipulation. Healthy partners communicate even during disagreements."
-        },
-        {
-          "title": "Dismissing Your Feelings",
-          "tip": "If they regularly tell you you're 'too sensitive' or 'overreacting,' they're invalidating your emotions."
-        }
-      ]
+    {
+      "title": "Selective Hearing",
+      "tip": "They only 'hear' what benefits them, ignoring your clear words so they can later claim you never said it."
     },
-    "Commitment": {
-      "tips": [
+    {
+      "title": "Weaponized Confusion",
+      "tip": "They answer questions in a vague or tangled way so you doubt yourself instead of clearly understanding."
+    },
+    {
+      "title": "Crisis When You Pull Back",
+      "tip": "Every time you set distance, they suddenly have an emergency, linking your empathy to staying with them."
+    },
+    {
+      "title": "Over-Explaining Needed",
+      "tip": "You find you must over-explain simple needs because they act confused to avoid giving a direct answer."
+    },
+    {
+      "title": "Blame-Shifting Patterns",
+      "tip": "When conflict arises, they quickly turn the focus to your flaws so the original issue never gets resolved."
+    },
+    {
+      "title": "Performative Apologies",
+      "tip": "They say sorry in public or by text but don’t change the behavior, using apologies to reset, not repair."
+    },
+    {
+      "title": "Keeping Score of Kindness",
+      "tip": "They track every nice thing they do, using it later to question your right to feel hurt or set limits."
+    },
+    {
+      "title": "Emotional Withholding",
+      "tip": "They become cold or distant after you express a boundary, linking your honesty with emotional punishment."
+    },
+    {
+      "title": "Rewriting Past Promises",
+      "tip": "They later insist they never agreed to something clearly discussed, slowly eroding your trust in memory."
+    },
+    {
+      "title": "Flattery After Conflict",
+      "tip": "Right after upsetting you, they overwhelm you with praise so you doubt whether the problem was serious."
+    },
+    {
+      "title": "Strategic Helplessness",
+      "tip": "They act incapable of basic tasks so you’ll feel obligated to handle everything and avoid challenging them."
+    },
+    {
+      "title": "Pressure to Prove Love",
+      "tip": "They ask you to do uncomfortable things as a 'test' of your love, turning affection into a performance."
+    },
+    {
+      "title": "Using Your Insecurities",
+      "tip": "They bring up personal fears you once shared at moments when you resist, shaping you through self-doubt."
+    },
+    {
+      "title": "Timing Serious Talks",
+      "tip": "They start intense talks when you’re tired or busy, increasing the chance you’ll just give in to end it."
+    },
+    {
+      "title": "Minimizing Your Achievements",
+      "tip": "They downplay your wins so you feel less confident, making their approval feel more important."
+    },
+    {
+      "title": "Changing Rules Midway",
+      "tip": "They shift expectations after you adapt, keeping you chasing their approval instead of feeling secure."
+    },
+    {
+      "title": "Jealousy as Proof of Love",
+      "tip": "They frame extreme jealousy as 'caring deeply,' normalizing control as a sign of passion."
+    },
+    {
+      "title": "Joking About Your Limits",
+      "tip": "They turn your boundaries into jokes, teaching you that speaking up will be met with teasing."
+    },
+    {
+      "title": "Playing Dumb on Promises",
+      "tip": "When reminded of commitments, they suddenly 'don’t remember,' avoiding responsibility without open refusal."
+    },
+    {
+      "title": "Sudden Romantic Gestures",
+      "tip": "Grand gestures appear right after hurtful behavior, training you to accept highs after emotional lows."
+    },
+    {
+      "title": "Using Others’ Opinions",
+      "tip": "They claim 'everyone agrees' with them, using invisible backup to make you question your stance."
+    },
+    {
+      "title": "Selective Transparency",
+      "tip": "They share vulnerable stories mainly when you’re upset, shifting focus from your needs to their pain."
+    },
+    {
+      "title": "Overstating Sacrifices",
+      "tip": "They exaggerate what they give up for you to create a quiet debt that makes you feel you owe them."
+    },
+    {
+      "title": "Rushing Emotional Bonding",
+      "tip": "They push for intense emotional sharing quickly, gathering information that can later be used in conflict."
+    },
+    {
+      "title": "Inconsistent Affection",
+      "tip": "Affection appears and disappears without explanation, keeping you focused on regaining their warmth."
+    },
+    {
+      "title": "Public vs Private Self",
+      "tip": "They act extremely kind in public but dismissive in private, making your concerns harder to validate."
+    },
+    {
+      "title": "Comparing You to Others",
+      "tip": "They subtly compare you to exes or friends, nudging you to change to fit their preferences."
+    },
+    {
+      "title": "Testing Your Reactions",
+      "tip": "They say provocative things just to see how you respond, gathering data on which buttons to press."
+    },
+    {
+      "title": "Information Control",
+      "tip": "They share only parts of key stories, shaping your perception while keeping full context to themselves."
+    },
+    {
+      "title": "Invisible Rules",
+      "tip": "You keep breaking 'rules' that were never stated, leaving you anxious and eager to please."
+    },
+    {
+      "title": "Shifting Between Roles",
+      "tip": "They switch quickly from victim to hero, guiding you into the role of fixer instead of equal partner."
+    },
+    {
+      "title": "Only Nice After Fights",
+      "tip": "The sweetest version of them appears only post-argument, pairing tension with relief in a cycle."
+    },
+    {
+      "title": "Story Changes Over Time",
+      "tip": "Details of important stories change slightly, training you to accept their version over your memory."
+    },
+    {
+      "title": "Questions That Corner You",
+      "tip": "They ask questions where any honest answer can be used later, making openness feel unsafe."
+    },
+    {
+      "title": "Using Silence as Control",
+      "tip": "They withdraw communication until you apologize, teaching you that peace requires surrender."
+    },
+    {
+      "title": "Overexplaining Their Hurt",
+      "tip": "They take long to explain how you hurt them but rush past your pain, centering their feelings every time."
+    },
+    {
+      "title": "Micromanaging Your Words",
+      "tip": "They focus on tiny wording details to avoid addressing the main concern you tried to express."
+    },
+    {
+      "title": "Blaming Your Sensitivity",
+      "tip": "They frame your reactions as 'too much,' so the focus shifts from their actions to your emotional tone."
+    },
+    {
+      "title": "Questioning Your Intentions",
+      "tip": "They often suggest you had bad motives, teaching you to doubt yourself instead of their impact."
+    },
+    {
+      "title": "Using Your Past Against You",
+      "tip": "Old mistakes resurface in every disagreement, keeping you feeling permanently on trial."
+    },
+    {
+      "title": "Rushing Serious Decisions",
+      "tip": "They push you to decide big things quickly, reducing the time you have to think clearly."
+    },
+    {
+      "title": "Labeling Calm as Cold",
+      "tip": "When you stay calm, they accuse you of not caring, pressuring you into emotional performances."
+    },
+    {
+      "title": "Selective Memory of Kindness",
+      "tip": "They remember every nice act they did but forget times you supported them, skewing the balance."
+    },
+    {
+      "title": "Turning Others Against You",
+      "tip": "They subtly share your flaws with friends, shaping the narrative so you appear unreasonable."
+    },
+    {
+      "title": "Creating False Urgency",
+      "tip": "They insist something must be decided 'now,' reducing your ability to check in with yourself."
+    },
+    {
+      "title": "Using Breakup Threats",
+      "tip": "They mention leaving whenever you disagree, linking honesty with the risk of abandonment."
+    },
+    {
+      "title": "Over-Sharing Too Soon",
+      "tip": "They reveal extremely intense stories quickly, fast-tracking your empathy to create quick loyalty."
+    },
+    {
+      "title": "Changing Your Words Later",
+      "tip": "They retell what you said with a different tone or meaning, guiding how others view you."
+    },
+    {
+      "title": "Confusing Jokes and Truth",
+      "tip": "They hide hurtful truths in jokes, then claim you 'can’t take a joke' when you react."
+    },
+    {
+      "title": "Praise When You Comply",
+      "tip": "They become especially loving after you give in, training you to link harmony with self-abandonment."
+    },
+    {
+      "title": "Critique Wrapped in Concern",
+      "tip": "They regularly criticize you but frame it as 'just caring,' making you doubt your right to feel hurt."
+    },
+    {
+      "title": "Strategic Vulnerability",
+      "tip": "They share pain mainly when you’re upset with them, shifting you into comforter instead of equal partner."
+    },
+    {
+      "title": "Only Listening to Win",
+      "tip": "They listen just long enough to respond, not to understand, keeping every talk as a debate to win."
+    },
+    {
+      "title": "Rewarding Your Silence",
+      "tip": "Things are peaceful only when you stop bringing up issues, teaching you to stay quiet to keep calm."
+    },
+    {
+      "title": "Acting Confused by Clarity",
+      "tip": "Even when you speak clearly, they act puzzled, stretching talks until you drop the topic."
+    },
+
+      {
+        "title": "Equality in Compromise",
+        "tip": "Negotiation feels fair; neither person is expected to do all the yielding or changing."
+      },
+      {
+        "title": "Shares Mental Labor",
+        "tip": "Thinking ahead about birthdays, groceries, or plans is a shared habit, preventing burnout."
+      },
+      {
+        "title": "Values Your Career",
+        "tip": "He treats your work goals as equally important to his, showing respect for your ambition."
+      },
+      {
+        "title": "Balanced Listening",
+        "tip": "Conversations have a natural flow where both people feel their stories are valued."
+      },
+      {
+        "title": "Respects Solo Friendships",
+        "tip": "He encourages your time with friends, understanding that outside bonds strengthen you."
+      },
+      {
+        "title": "No Financial Policing",
+        "tip": "Personal spending is respected, showing trust in each other's autonomy and judgment."
+      },
+      {
+        "title": "Mutual Skill Sharing",
+        "tip": "Both partners teach and learn from each other, creating a dynamic of mutual growth."
+      },
+      {
+        "title": "Comfortable Apart",
+        "tip": "Being physically apart doesn't trigger anxiety; trust provides a stable baseline for balance."
+      },
+      {
+        "title": "Shares Household Pride",
+        "tip": "Caring for shared spaces is a joint effort, reflecting a pattern of mutual contribution."
+      },
+      {
+        "title": "Balanced Conflict Entry",
+        "tip": "Both feel safe bringing up issues, ensuring grievances don't pile up on one side."
+      },
+      {
+        "title": "Respects Social Limits",
+        "tip": "He notices when you're socially drained and supports leaving events without guilt."
+      },
+      {
+        "title": "Mutual Goal Setting",
+        "tip": "Future plans incorporate both of your dreams, making the path forward a joint venture."
+      },
+      {
+        "title": "Reciprocal Reassurance",
+        "tip": "Both give and receive comfort during doubt, maintaining an emotional equilibrium."
+      },
+      {
+        "title": "Values Your Hobbies",
+        "tip": "He makes space for your interests even if he doesn't participate, showing true respect."
+      },
+      {
+        "title": "Balanced Physical Touch",
+        "tip": "Affection is a shared language; both initiate and respond with consistent warmth."
+      },
+      {
+        "title": "Equitable Holiday Plans",
+        "tip": "Dividing time between families is handled with fairness and cooperation."
+      },
+      {
+        "title": "Respects Decision Pace",
+        "tip": "He allows you time to think through choices, mirroring the patience you show him."
+      },
+      {
+        "title": "Shared Crisis Management",
+        "tip": "When life gets hard, the workload is divided based on capacity, not tradition."
+      },
+      {
+        "title": "Promotes Your Voice",
+        "tip": "In groups, he ensures your ideas are heard, reinforcing your status as an equal."
+      },
+      {
+        "title": "No Competitive Success",
+        "tip": "Your wins don't make him feel 'less than'; he sees your success as a shared joy."
+      },
+      {
+        "title": "Shared Emotional Data",
+        "tip": "Both partners are open about their 'inner weather,' making it easy to adjust to moods."
+      },
+      {
+        "title": "Values Your Mentors",
+        "tip": "He respects the people you look up to, showing he values your personal influences."
+      },
+      {
+        "title": "Mutual Privacy Trust",
+        "tip": "Phones and accounts are private not out of secrecy, but out of healthy boundaries."
+      },
+      {
+        "title": "Equitable Gift Giving",
+        "tip": "Thoughtfulness in gifts goes both ways, reflecting mutual observation and care."
+      },
+      {
+        "title": "Balanced Daily Check-ins",
+        "tip": "Texts during the day are a two-way street, showing you're both on each other's minds."
+      },
+      {
+        "title": "Respects Sleep Needs",
+        "tip": "Individual rest requirements are honored without making the other feel rejected."
+      },
+      {
+        "title": "No Unilateral Changes",
+        "tip": "Big shifts in routine are discussed first, maintaining a predictable balance."
+      },
+      {
+        "title": "Supports Self-Care",
+        "tip": "He encourages your therapy or gym time, recognizing it benefits the whole relationship."
+      },
+      {
+        "title": "Mutual Learning Curve",
+        "tip": "As the relationship evolves, both adapt their habits to suit the growing connection."
+      },
+      {
+        "title": "Balances Talk and Play",
+        "tip": "The relationship has room for both deep processing and lighthearted fun."
+      },
+      {
+        "title": "Respects Parenting Views",
+        "tip": "If applicable, both voices carry equal weight in discussing family values."
+      },
+      {
+        "title": "Shares Social Planning",
+        "tip": "Maintaining a social calendar is a joint effort, not a 'social director' role for one."
+      },
+      {
+        "title": "Balanced Apologies",
+        "tip": "The habit of saying sorry is shared; neither person is always the 'wrong' one."
+      },
+      {
+        "title": "Honors Identity Growth",
+        "tip": "He supports you as you change, understanding that growth is a lifelong pattern."
+      },
+      {
+        "title": "No Emotional Pushing",
+        "tip": "Vulnerability is invited, never forced, allowing for a natural, safe flow."
+      },
+      {
+        "title": "Balanced Intimacy Needs",
+        "tip": "Both partners’ physical needs are discussed with equal importance and care."
+      },
+      {
+        "title": "Supports Career Risks",
+        "tip": "He is willing to adjust the household balance to support your professional leaps."
+      },
+      {
+        "title": "Consistent Value Alignment",
+        "tip": "Both people act on the values they preach, building a stable, honest foundation."
+      },
+      {
+        "title": "Shares Tech Boundaries",
+        "tip": "Agreement on phone use during dinner or dates is mutual and respected."
+      },
+      {
+        "title": "Balanced Driving/Travel",
+        "tip": "Logistics of getting around are shared, reflecting a team approach to travel."
+      },
+      {
+        "title": "Respects Personal Style",
+        "tip": "He admires your self-expression without trying to mold it into his preference."
+      },
+      {
+        "title": "Mutual Curiosity",
+        "tip": "Both ask 'how was your day?' and really stay present for the answer."
+      },
+      {
+        "title": "No Informational Gaps",
+        "tip": "Significant life updates are shared promptly, keeping both people on the same page."
+      },
+      {
+        "title": "Shares Problem Solving",
+        "tip": "When a fridge breaks or a bill is due, both contribute to the solution."
+      },
+      {
+        "title": "Balanced Space in Bed",
+        "tip": "Physical space in shared living areas is negotiated to suit both temperaments."
+      },
+      {
+        "title": "Respects Cultural Roots",
+        "tip": "He values your background as much as his own, creating a rich, balanced blend."
+      },
+      {
+        "title": "Mutual Venting Rights",
+        "tip": "Both have 'the floor' to complain about work or life without being judged."
+      },
+      {
+        "title": "Shared Future Vision",
+        "tip": "The 'five-year plan' is a conversation, not a set of demands from one side."
+      },
+      {
+        "title": "No Dominating Hobbies",
+        "tip": "His interests don't consume all your shared weekends or budget."
+      },
+      {
+        "title": "Balanced Guest Policy",
+        "tip": "Having people over is a joint decision, respecting both people's home sanctuary."
+      },
+      {
+        "title": "Respects Different Diets",
+        "tip": "Food preferences are managed with cooperation, not criticism or control."
+      },
+      {
+        "title": "Mutual Grace Periods",
+        "tip": "Both allow the other to be 'off' or grumpy occasionally without taking it personally."
+      },
+      {
+        "title": "Shared Financial Goals",
+        "tip": "Saving for a house or trip is a team effort with transparent contributions."
+      },
+      {
+        "title": "Balanced Social Battery",
+        "tip": "Neither person is forced to 'perform' for the other's social circle."
+      },
+      {
+        "title": "Respects Your Pace",
+        "tip": "He doesn't rush you through chores or life stages, valuing your rhythm."
+      },
+      {
+        "title": "Mutual Appreciation",
+        "tip": "Both people regularly say 'thank you' for the mundane things the other does."
+      },
+      {
+        "title": "Balanced Advice Giving",
+        "tip": "Advice is offered when asked, not used as a way to direct the other's life."
+      },
+      {
+        "title": "Shared Reading/Media",
+        "tip": "Both take turns picking the movie or book, showing interest in each other's tastes."
+      },
+      {
+        "title": "Respects Education Paths",
+        "tip": "He values your degree or certifications as much as his own achievements."
+      },
+      {
+        "title": "No Hidden Decisions",
+        "tip": "Large purchases or changes are discussed openly, maintaining team trust."
+      },
+      {
+        "title": "Balanced Workout Styles",
+        "tip": "If you train together, he respects your level and goals without ego."
+      },
+      {
+        "title": "Supports Family Care",
+        "tip": "He steps up when your family needs help, treating them as his own team."
+      },
+      {
+        "title": "Mutual Safety Priority",
+        "tip": "Both check in on each other’s physical safety when traveling or out late."
+      },
+      {
+        "title": "Balanced Pet Care",
+        "tip": "Responsibilities for shared pets are divided based on schedule and ability."
+      },
+      {
+        "title": "Respects Your Mentors",
+        "tip": "He values the people who helped you grow, showing respect for your history."
+      },
+      {
+        "title": "No Passive Demands",
+        "tip": "Needs are stated clearly rather than through 'tests' or heavy hints."
+      },
+      {
+        "title": "Balanced Travel Roles",
+        "tip": "One might navigate while the other drives; roles are clear and agreed."
+      },
+      {
+        "title": "Mutual Humor Style",
+        "tip": "Inside jokes are built together, ensuring neither person is the punchline."
+      },
+      {
+        "title": "Respects Spiritual Flow",
+        "tip": "Both partners’ beliefs—or lack thereof—have a seat at the table."
+      },
+      {
+        "title": "Shared Life Lessons",
+        "tip": "Both are willing to look at 'what we learned' from a rough patch together."
+      },
+      {
+        "title": "Balanced Phone Access",
+        "tip": "Sharing a passcode feels like convenience, not a surveillance tool."
+      },
+      {
+        "title": "Mutual Home Styling",
+        "tip": "Shared living spaces reflect both personalities, not just one person's taste."
+      },
+      {
+        "title": "Respects Work-Life Gap",
+        "tip": "Both understand that 'work mode' and 'home mode' need different energies."
+      },
+      {
+        "title": "No Emotional Withholding",
+        "tip": "Affection isn't used as a bargaining chip; it remains a steady baseline."
+      },
+      {
+        "title": "Balanced Gift Spending",
+        "tip": "Budgets for gifts are agreed upon, preventing 'guilt gaps' in generosity."
+      },
+      {
+        "title": "Supports Career Changes",
+        "tip": "He is a partner in your pivot, helping balance the load during transitions."
+      },
+      {
+        "title": "Mutual Vulnerability",
+        "tip": "Being the 'strong one' rotates; both have the right to be soft and supported."
+      },
+      {
+        "title": "Respects Your Time-Off",
+        "tip": "He doesn't fill your vacation or weekends with his chores without asking."
+      },
+      {
+        "title": "Shared Tech Support",
+        "tip": "Both help each other with life’s little frictions without condescension."
+      },
+      {
+        "title": "Balanced Night Routines",
+        "tip": "Sleep habits are adjusted to find a middle ground that works for both."
+      },
+      {
+        "title": "Mutual Advocacy",
+        "tip": "He speaks highly of you to his family, and you do the same for him."
+      },
+      {
+        "title": "Respects Creative Flow",
+        "tip": "He understands when you're 'in the zone' and protects that time for you."
+      },
+      {
+        "title": "No Social Policing",
+        "tip": "He trusts you to interact with anyone without monitoring your every word."
+      },
+      {
+        "title": "Balanced Exercise Goals",
+        "tip": "He encourages your health without criticizing your current fitness."
+      },
+      {
+        "title": "Mutual Conflict Repair",
+        "tip": "Both reach out to reconnect after a fight, showing shared responsibility."
+      },
+      {
+        "title": "Respects Friend Tensions",
+        "tip": "If a friend is difficult, he supports you without forcing his opinion."
+      },
+      {
+        "title": "Shared Kitchen Effort",
+        "tip": "Cooking and cleaning are viewed as a team sport, not a one-person job."
+      },
+      {
+        "title": "Balanced Morning Needs",
+        "tip": "Both allow the other to wake up and start the day in their own way."
+      },
+      {
+        "title": "Respects Privacy of Chat",
+        "tip": "He doesn't read your messages with friends, honoring your private vents."
+      },
+      {
+        "title": "Mutual Encouragement",
+        "tip": "Both act as each other's 'hype person' during moments of self-doubt."
+      },
+      {
+        "title": "No Unfair Comparisons",
+        "tip": "The relationship is treated as its own unique world, not compared to exes."
+      },
+      {
+        "title": "Balanced Date Logistics",
+        "tip": "One picks the place, the other handles the ride; effort stays level."
+      },
+      {
+        "title": "Respects Political Views",
+        "tip": "Differing views are discussed with intellectual respect, not anger."
+      },
+      {
+        "title": "Shared Vision of Home",
+        "tip": "What 'home' feels like is a co-created atmosphere of peace and safety."
+      },
+      {
+        "title": "Mutual Skill Respect",
+        "tip": "He values your expertise in your field and seeks your insight often."
+      },
+      {
+        "title": "Balanced Parent Care",
+        "tip": "Supporting aging parents is viewed as a shared life stage, not a solo task."
+      },
+      {
+        "title": "Respects Clothing Choice",
+        "tip": "He appreciates how you dress without acting like he owns your image."
+      },
+      {
+        "title": "No Habit Policing",
+        "tip": "Small quirks are handled with humor and acceptance rather than nagging."
+      },
+      {
+        "title": "Shared Emotional Growth",
+        "tip": "Both are willing to read the same relationship book or try a new tool."
+      },
+      {
+        "title": "Balanced Listening Time",
+        "tip": "He makes sure he doesn't take up 90% of the airtime in your talks."
+      },
+      
+      {
+      "title": "Guilt-Loaded Favors",
+      "tip": "They do you 'big favors' then subtly remind you, creating pressure to say yes to things you’re not okay with."
+    },
+    {
+      "title": "Conditional Kindness",
+      "tip": "Their warmth appears only when you agree with them, teaching you that love must be earned by compliance."
+    },
+    {
+      "title": "Selective Hearing",
+      "tip": "They only 'hear' what benefits them, ignoring your clear words so they can later claim you never said it."
+    },
+    {
+      "title": "Weaponized Confusion",
+      "tip": "They answer questions in a vague or tangled way so you doubt yourself instead of clearly understanding."
+    },
+    {
+      "title": "Crisis When You Pull Back",
+      "tip": "Every time you set distance, they suddenly have an emergency, linking your empathy to staying with them."
+    },
+    {
+      "title": "Over-Explaining Needed",
+      "tip": "You find you must over-explain simple needs because they act confused to avoid giving a direct answer."
+    },
+    {
+      "title": "Blame-Shifting Patterns",
+      "tip": "When conflict arises, they quickly turn the focus to your flaws so the original issue never gets resolved."
+    },
+    {
+      "title": "Performative Apologies",
+      "tip": "They say sorry in public or by text but don’t change the behavior, using apologies to reset, not repair."
+    },
+    {
+      "title": "Keeping Score of Kindness",
+      "tip": "They track every nice thing they do, using it later to question your right to feel hurt or set limits."
+    },
+    {
+      "title": "Emotional Withholding",
+      "tip": "They become cold or distant after you express a boundary, linking your honesty with emotional punishment."
+    },
+    {
+      "title": "Rewriting Past Promises",
+      "tip": "They later insist they never agreed to something clearly discussed, slowly eroding your trust in memory."
+    },
+    {
+      "title": "Flattery After Conflict",
+      "tip": "Right after upsetting you, they overwhelm you with praise so you doubt whether the problem was serious."
+    },
+    {
+      "title": "Strategic Helplessness",
+      "tip": "They act incapable of basic tasks so you’ll feel obligated to handle everything and avoid challenging them."
+    },
+    {
+      "title": "Pressure to Prove Love",
+      "tip": "They ask you to do uncomfortable things as a 'test' of your love, turning affection into a performance."
+    },
+    {
+      "title": "Using Your Insecurities",
+      "tip": "They bring up personal fears you once shared at moments when you resist, shaping you through self-doubt."
+    },
+    {
+      "title": "Timing Serious Talks",
+      "tip": "They start intense talks when you’re tired or busy, increasing the chance you’ll just give in to end it."
+    },
+    {
+      "title": "Minimizing Your Achievements",
+      "tip": "They downplay your wins so you feel less confident, making their approval feel more important."
+    },
+    {
+      "title": "Changing Rules Midway",
+      "tip": "They shift expectations after you adapt, keeping you chasing their approval instead of feeling secure."
+    },
+    {
+      "title": "Jealousy as Proof of Love",
+      "tip": "They frame extreme jealousy as 'caring deeply,' normalizing control as a sign of passion."
+    },
+    {
+      "title": "Joking About Your Limits",
+      "tip": "They turn your boundaries into jokes, teaching you that speaking up will be met with teasing."
+    },
+    {
+      "title": "Playing Dumb on Promises",
+      "tip": "When reminded of commitments, they suddenly 'don’t remember,' avoiding responsibility without open refusal."
+    },
+    {
+      "title": "Sudden Romantic Gestures",
+      "tip": "Grand gestures appear right after hurtful behavior, training you to accept highs after emotional lows."
+    },
+    {
+      "title": "Using Others’ Opinions",
+      "tip": "They claim 'everyone agrees' with them, using invisible backup to make you question your stance."
+    },
+    {
+      "title": "Selective Transparency",
+      "tip": "They share vulnerable stories mainly when you’re upset, shifting focus from your needs to their pain."
+    },
+    {
+      "title": "Overstating Sacrifices",
+      "tip": "They exaggerate what they give up for you to create a quiet debt that makes you feel you owe them."
+    },
+    {
+      "title": "Rushing Emotional Bonding",
+      "tip": "They push for intense emotional sharing quickly, gathering information that can later be used in conflict."
+    },
+    {
+      "title": "Inconsistent Affection",
+      "tip": "Affection appears and disappears without explanation, keeping you focused on regaining their warmth."
+    },
+    {
+      "title": "Public vs Private Self",
+      "tip": "They act extremely kind in public but dismissive in private, making your concerns harder to validate."
+    },
+    {
+      "title": "Comparing You to Others",
+      "tip": "They subtly compare you to exes or friends, nudging you to change to fit their preferences."
+    },
+    {
+      "title": "Testing Your Reactions",
+      "tip": "They say provocative things just to see how you respond, gathering data on which buttons to press."
+    },
+    {
+      "title": "Information Control",
+      "tip": "They share only parts of key stories, shaping your perception while keeping full context to themselves."
+    },
+    {
+      "title": "Invisible Rules",
+      "tip": "You keep breaking 'rules' that were never stated, leaving you anxious and eager to please."
+    },
+    {
+      "title": "Shifting Between Roles",
+      "tip": "They switch quickly from victim to hero, guiding you into the role of fixer instead of equal partner."
+    },
+    {
+      "title": "Only Nice After Fights",
+      "tip": "The sweetest version of them appears only post-argument, pairing tension with relief in a cycle."
+    },
+    {
+      "title": "Story Changes Over Time",
+      "tip": "Details of important stories change slightly, training you to accept their version over your memory."
+    },
+    {
+      "title": "Questions That Corner You",
+      "tip": "They ask questions where any honest answer can be used later, making openness feel unsafe."
+    },
+    {
+      "title": "Using Silence as Control",
+      "tip": "They withdraw communication until you apologize, teaching you that peace requires surrender."
+    },
+    {
+      "title": "Overexplaining Their Hurt",
+      "tip": "They take long to explain how you hurt them but rush past your pain, centering their feelings every time."
+    },
+    {
+      "title": "Micromanaging Your Words",
+      "tip": "They focus on tiny wording details to avoid addressing the main concern you tried to express."
+    },
+    {
+      "title": "Blaming Your Sensitivity",
+      "tip": "They frame your reactions as 'too much,' so the focus shifts from their actions to your emotional tone."
+    },
+    {
+      "title": "Questioning Your Intentions",
+      "tip": "They often suggest you had bad motives, teaching you to doubt yourself instead of their impact."
+    },
+    {
+      "title": "Using Your Past Against You",
+      "tip": "Old mistakes resurface in every disagreement, keeping you feeling permanently on trial."
+    },
+    {
+      "title": "Rushing Serious Decisions",
+      "tip": "They push you to decide big things quickly, reducing the time you have to think clearly."
+    },
+    {
+      "title": "Labeling Calm as Cold",
+      "tip": "When you stay calm, they accuse you of not caring, pressuring you into emotional performances."
+    },
+    {
+      "title": "Selective Memory of Kindness",
+      "tip": "They remember every nice act they did but forget times you supported them, skewing the balance."
+    },
+    {
+      "title": "Turning Others Against You",
+      "tip": "They subtly share your flaws with friends, shaping the narrative so you appear unreasonable."
+    },
+    {
+      "title": "Creating False Urgency",
+      "tip": "They insist something must be decided 'now,' reducing your ability to check in with yourself."
+    },
+    {
+      "title": "Using Breakup Threats",
+      "tip": "They mention leaving whenever you disagree, linking honesty with the risk of abandonment."
+    },
+    {
+      "title": "Over-Sharing Too Soon",
+      "tip": "They reveal extremely intense stories quickly, fast-tracking your empathy to create quick loyalty."
+    },
+    {
+      "title": "Changing Your Words Later",
+      "tip": "They retell what you said with a different tone or meaning, guiding how others view you."
+    },
+    {
+      "title": "Confusing Jokes and Truth",
+      "tip": "They hide hurtful truths in jokes, then claim you 'can’t take a joke' when you react."
+    },
+    {
+      "title": "Praise When You Comply",
+      "tip": "They become especially loving after you give in, training you to link harmony with self-abandonment."
+    },
+    {
+      "title": "Critique Wrapped in Concern",
+      "tip": "They regularly criticize you but frame it as 'just caring,' making you doubt your right to feel hurt."
+    },
+    {
+      "title": "Strategic Vulnerability",
+      "tip": "They share pain mainly when you’re upset with them, shifting you into comforter instead of equal partner."
+    },
+    {
+      "title": "Only Listening to Win",
+      "tip": "They listen just long enough to respond, not to understand, keeping every talk as a debate to win."
+    },
+    {
+      "title": "Rewarding Your Silence",
+      "tip": "Things are peaceful only when you stop bringing up issues, teaching you to stay quiet to keep calm."
+    },
+    {
+      "title": "Acting Confused by Clarity",
+      "tip": "Even when you speak clearly, they act puzzled, stretching talks until you drop the topic."
+    },
         {
-          "title": "Hot and Cold Behavior",
-          "tip": "Alternating between intense interest and distance creates anxiety and keeps you off-balance. Consistency matters."
-        },
+      "title": "Using Praise to Control",
+      "tip": "They praise you for 'not being like other girls' to pressure you into accepting things you find uncomfortable."
+    },
+    {
+      "title": "Strategic Forgetfulness",
+      "tip": "Frequently 'forgetting' plans you made suggests they are avoiding commitments without having a direct conversation."
+    },
+    {
+      "title": "Emotional Pity Plays",
+      "tip": "Sharing a sad story immediately after you raise a concern shifts the focus from their actions to your empathy."
+    },
+    {
+      "title": "Testing Small Lies",
+      "tip": "Lying about minor details can be a way to see how much you notice or how easily you can be misled in the future."
+    },
+    {
+      "title": "The 'Only You' Narrative",
+      "tip": "Claiming you are the only one who can help them creates a heavy burden of responsibility that limits your freedom."
+    },
+    {
+      "title": "Interrupted Explanations",
+      "tip": "Cutting you off when you explain your feelings prevents you from being heard and keeps them in control of the talk."
+    },
+    {
+      "title": "Moving Goalposts",
+      "tip": "Once you meet one expectation, they change it, keeping you in a constant state of trying to prove your worth."
+    },
+    {
+      "title": "Mocking Your Concerns",
+      "tip": "Turning your serious questions into jokes is a pattern used to avoid accountability and make you feel 'dramatic.'"
+    },
+    {
+      "title": "Isolation via Criticism",
+      "tip": "Subtly criticizing your friends or family may be a pattern designed to make you rely only on their perspective."
+    },
+    {
+      "title": "Monitoring Your Activity",
+      "tip": "Asking for constant updates on your location is often framed as 'worry' but functions as a tool for surveillance."
+    },
+    {
+      "title": "Weaponized Incompetence",
+      "tip": "Doing a task poorly on purpose so you’ll never ask them again is a way to avoid shared responsibilities."
+    },
+    {
+      "title": "Forced Reciprocity",
+      "tip": "Giving you an unasked-for gift then immediately asking for a favor creates an unfair sense of social debt."
+    },
+    {
+      "title": "Vague Threats of Leaving",
+      "tip": "Hinting that the relationship is at risk during minor disagreements is a tactic used to ensure your compliance."
+    },
+    {
+      "title": "Reframing Your Memory",
+      "tip": "Telling you that you 'misunderstood' what happened is a pattern that erodes your trust in your own perceptions."
+    },
+    {
+      "title": "Selective Withdrawal",
+      "tip": "Removing affection after you say 'no' is a way to train you to agree just to keep the emotional connection."
+    },
+    {
+      "title": "Comparison with the Ideal",
+      "tip": "Comparing you to an 'ideal' partner keeps you feeling inadequate and more likely to work harder for their approval."
+    },
+    {
+      "title": "Excessive Detail in Lies",
+      "tip": "Providing too much unnecessary info when asked a simple question can be a sign they are trying to cover up the truth."
+    },
+    {
+      "title": "Projecting Their Actions",
+      "tip": "Accusing you of things they are actually doing themselves is a common way to deflect guilt and create confusion."
+    },
+    {
+      "title": "The 'Silent Treatment' Loop",
+      "tip": "Using silence to punish you forces you to be the one who always apologizes first, regardless of who was wrong."
+    },
+    {
+      "title": "Claiming 'It’s All in Your Head'",
+      "tip": "Dismissing your gut feelings as 'paranoia' is a pattern used to stop you from questioning suspicious behavior."
+    },
+    {
+      "title": "Conditional Vulnerability",
+      "tip": "They only share 'secrets' when they need to get back in your good graces, using honesty as a bargaining chip."
+    },
+    {
+      "title": "Exploiting Your Kindness",
+      "tip": "Relying on your 'good heart' to excuse repeated bad behavior is a way to avoid making actual changes."
+    },
+    {
+      "title": "Rushing Shared Assets",
+      "tip": "Pushing to share passwords or finances early can be a way to create dependency before trust is fully built."
+    },
+    {
+      "title": "The 'Testing' Phase",
+      "tip": "Admitting they 'tested' you with a trick or lie shows a lack of respect and a desire for psychological control."
+    },
+    {
+      "title": "Gatekeeping Information",
+      "tip": "Only telling you what they think you 'need to know' prevents you from making informed decisions about the relationship."
+    },
+    {
+      "title": "Overpowering Your Space",
+      "tip": "Showing up uninvited or overstaying is a way to see if you will prioritize their wants over your personal space."
+    },
+    {
+      "title": "Diminishing Your Intuition",
+      "tip": "Telling you that your 'gut feeling' is just 'anxiety' is a way to make you ignore your natural warning signs."
+    },
+    {
+      "title": "Emotional Baiting",
+      "tip": "Saying something hurtful to get a reaction, then calling you 'crazy' for reacting, is a cycle of provocation."
+    },
+    {
+      "title": "Withholding Affirmation",
+      "tip": "Stopping all compliments once you are committed is a pattern used to make you crave and work for their validation."
+    },
+    {
+      "title": "The 'Soulmate' Trap",
+      "tip": "Using 'destiny' or 'soulmate' talk very early can be a way to bypass the normal stages of getting to know someone."
+    },
+    {
+      "title": "Creating Competition",
+      "tip": "Mentioning other people who are interested in them is a tactic used to make you feel lucky and keep you competing."
+    },
+    {
+      "title": "Demanding Immediate Replies",
+      "tip": "Getting angry if you don't text back instantly shows a lack of respect for your life outside the relationship."
+    },
+    {
+      "title": "Labeling You as 'Special'",
+      "tip": "Telling you 'you’re not like the others' is often a way to isolate you from seeking advice from other women."
+    },
+    {
+      "title": "Hiding Behind 'Honesty'",
+      "tip": "Saying hurtful things and calling it 'just being honest' is a way to avoid responsibility for being unkind."
+    },
+    {
+      "title": "Public Displays for Image",
+      "tip": "Being overly affectionate in front of others but cold in private suggests they care more about image than reality."
+    },
+    {
+      "title": "False Future Planning",
+      "tip": "Talking about marriage or kids on the first few dates is often used to create a false sense of security."
+    },
+    {
+      "title": "Undermining Your Career",
+      "tip": "Subtle comments about your job being 'too stressful' can be a way to nudge you toward financial dependence."
+    },
+    {
+      "title": "Using Sarcasm to Wound",
+      "tip": "Constant 'jokes' at your expense that stop when you get upset are a way to lower your self-esteem over time."
+    },
+    {
+      "title": "Ignoring Emotional Fatigue",
+      "tip": "Continuing a difficult conversation when you are clearly exhausted is a way to pressure you into giving in."
+    },
+    {
+      "title": "The 'Debt' Mentality",
+      "tip": "Reminding you of things they did months ago to justify a current mistake is a sign of keeping an emotional ledger."
+    },
+    {
+      "title": "Parenting You",
+      "tip": "Giving you 'advice' you didn't ask for on how to live your life can be a way to establish a superior position."
+    },
+    {
+      "title": "Distorting the Truth",
+      "tip": "Changing minor details of a shared event so it sounds better for them is a sign of chronic dishonesty."
+    },
+    {
+      "title": "Using Guilt as a Compass",
+      "tip": "If they make you feel guilty for spending time with friends, they are likely trying to limit your support system."
+    },
+    {
+      "title": "Sudden Changes in Tone",
+      "tip": "Switching from extreme sweetness to coldness without a clear reason keeps you off-balance and anxious."
+    },
+    {
+      "title": "Taking Credit for Ideas",
+      "tip": "Repeatedly presenting your ideas as their own is a sign they don't value your intellectual contributions."
+    },
+    {
+      "title": "Dismissive Body Language",
+      "tip": "Rolling eyes or sighing when you speak is a non-verbal way to tell you that your thoughts don't matter."
+    },
+    {
+      "title": "The 'Safe' Secret",
+      "tip": "Telling you a secret they 'haven't told anyone' is often a calculated move to build instant, unearned intimacy."
+    },
+    {
+      "title": "Validating Only the Positive",
+      "tip": "Ignoring you when you are sad but being present when you are happy teaches you to hide your 'negative' emotions."
+    },
+    {
+      "title": "Exaggerated Body Pain",
+      "tip": "Suddenly having a 'headache' or 'back pain' whenever a serious talk starts is a way to avoid the conversation."
+    },
+    {
+      "title": "Controlling the Music/Vibe",
+      "tip": "Always being the one to decide the 'mood' or activity shows a lack of interest in your preferences."
+    },
+    {
+      "title": "Subtle Body Shaming",
+      "tip": "Disguising critiques of your appearance as 'health advice' is a way to undermine your body confidence."
+    },
+    {
+      "title": "Using 'We' Too Soon",
+      "tip": "Speaking as a unit ('we think', 'we like') after one date can be a sign of ignoring your individual identity."
+    },
+    {
+      "title": "The 'No One Else' Claim",
+      "tip": "Saying 'no one else would put up with you' is a severe tactic used to make you feel you have no other options."
+    },
+    {
+      "title": "Feigning Injury",
+      "tip": "Acting more hurt than they are after a small disagreement makes you feel like the 'bully' for speaking up."
+    },
+    {
+      "title": "Gatekeeping Your Joy",
+      "tip": "Becoming grumpy when you have good news is a sign they feel threatened by your independent happiness."
+    },
+    {
+      "title": "The 'I’m Just Guarded' Excuse",
+      "tip": "Using a vague 'past trauma' to excuse current bad behavior is a way to make you feel wrong for wanting better."
+    },
+    {
+      "title": "Inconsistent Life Details",
+      "tip": "Small lies about their past suggest a pattern of creating a persona rather than being their true self."
+    },
+    {
+      "title": "Pressure to Reschedule",
+      "tip": "Expecting you to drop your plans for them shows they view your time as less valuable than theirs."
+    },
+    {
+      "title": "Using Your Family's Opinion",
+      "tip": "Bringing up your family's likes/dislikes to influence your choices is a way to use your loved ones against you."
+    },
+    {
+      "title": "The 'One More Thing' Talk",
+      "tip": "Adding a new complaint just as you reach a resolution keeps the conflict going and you on the defensive."
+    },
+    {
+      "title": "Ignoring Digital Boundaries",
+      "tip": "Going through your phone or social media without asking shows a fundamental lack of trust and respect."
+    },
+    {
+      "title": "The 'Test' of Loyalty",
+      "tip": "Creating scenarios to see if you will 'choose them' over others is a manipulative way to ensure isolation."
+    },
+    {
+      "title": "Overtalking You",
+      "tip": "Speaking over you in public settings is a way to signal to others that your voice is secondary to theirs."
+    },
+    {
+      "title": "The 'Broken Child' Persona",
+      "tip": "Acting helpless to trigger your maternal instincts can be a way to avoid acting like an adult partner."
+    },
+    {
+      "title": "Conditional Financial Help",
+      "tip": "Offering money but then using it to control what you do or buy is a form of financial manipulation."
+    },
+    {
+      "title": "Making You the 'Expert'",
+      "tip": "Asking you to fix all their problems makes you their unpaid therapist rather than their romantic partner."
+    },
+    {
+      "title": "The 'It Was a Compliment' Defense",
+      "tip": "When you are offended by a remark, they claim they were actually complimenting you to make you feel 'wrong.'"
+    },
+    {
+      "title": "Mimicking Your Hobbies",
+      "tip": "Suddenly loving everything you love can be a 'mirroring' tactic used to create a false sense of compatibility."
+    },
+    {
+      "title": "Delaying the 'Talk'",
+      "tip": "Avoiding defining the relationship while acting like a partner is a way to keep all the benefits with no commitment."
+    },
+    {
+      "title": "Using Science/Logic to Bully",
+      "tip": "Dismissing your feelings as 'illogical' is a way to claim intellectual superiority over your emotional reality."
+    },
+    {
+      "title": "The 'I’m a Nice Guy' Claim",
+      "tip": "People who have to state they are 'nice' often use that label to excuse moments where they are actually unkind."
+    },
+    {
+      "title": "Withholding Information",
+      "tip": "Leaving out key facts isn't 'forgetting'; it's a way to control how you view a situation or person."
+    },
+    {
+      "title": "Mocking Your Friends",
+      "tip": "Insulting the people you care about is a slow way to make you feel ashamed of your social circle."
+    },
+    {
+      "title": "The 'Busy' Trap",
+      "tip": "Being 'too busy' only when you need support shows that their schedule is a tool for their own convenience."
+    },
+    {
+      "title": "Forced Intimacy",
+      "tip": "Pushing for deep emotional secrets before you are comfortable is a way to 'fast-forward' trust."
+    },
+    {
+      "title": "The 'Let’s Start Over' Reset",
+      "tip": "Asking to 'just forget' a bad night without actually talking about it ensures the same patterns will repeat."
+    },
+    {
+      "title": "Misquoting You to Others",
+      "tip": "Telling friends you said something you didn't is a way to control your reputation outside the relationship."
+    },
+    {
+      "title": "Using Your Values Against You",
+      "tip": "If you value 'kindness,' they may use that to make you feel it's 'unkind' to set a boundary with them."
+    },
+    {
+      "title": "The 'I Don’t Deserve You' Line",
+      "tip": "Saying they aren't good enough for you is often a way to get you to reassure them instead of them improving."
+    },
+    {
+      "title": "Controlling the Narrative",
+      "tip": "Being the first one to tell a story about a fight ensures they get to frame themselves as the reasonable one."
+    },
+    {
+      "title": "The 'Secret' Relationship",
+      "tip": "Wanting to keep things 'private' (secret) for a long time is often a way to avoid the accountability of a public link."
+    },
+    {
+      "title": "Punishing Your Success",
+      "tip": "Starting a fight right before you have a big event or meeting is a way to distract and dampen your success."
+    },
+    {
+      "title": "The 'Just Kidding' Shield",
+      "tip": "Using humor as a shield for insults allows them to say whatever they want while making you the 'problem' for reacting."
+    },
+    {
+      "title": "Information Farming",
+      "tip": "Asking a lot of questions but never answering any themselves is a way to gather leverage while staying hidden."
+    },
+    {
+      "title": "The 'One Rule for You' Pattern",
+      "tip": "Having rules for your behavior that they do not follow themselves is a clear sign of an imbalance of power."
+    },
+    {
+      "title": "Claiming 'Misunderstanding'",
+      "tip": "Frequently claiming you 'misunderstood' their mean comments is a way to avoid owning their words."
+    },
+    {
+      "title": "The 'Change for Me' Request",
+      "tip": "Asking you to change your style or hair early on is a sign they value an image over your actual person."
+    },
+    {
+      "title": "Exaggerating Their Network",
+      "tip": "Claiming to know 'important' people can be a way to make themselves seem more valuable or intimidating."
+    },
+    {
+      "title": "The 'You Promised' Trap",
+      "tip": "Using a general promise of 'always being there' to force you to accept current toxic behavior is manipulation."
+    },
+    {
+      "title": "Subtle Sabotage",
+      "tip": "Accidentally 'forgetting' to wake you up or pass on a message can be a way to keep you dependent on them."
+    },
+    {
+      "title": "The 'I’ll Change' Loop",
+      "tip": "Promising to change only when you are at the door to leave is a tactic to keep you from actually going."
+    },
+    {
+      "title": "Focusing on Your Tone",
+      "tip": "Ignoring what you said to focus on 'how' you said it is a way to avoid the actual topic of the argument."
+    },
+    {
+      "title": "The 'Everyone Else' Lie",
+      "tip": "Saying 'everyone else thinks you’re wrong' is a way to make you feel isolated and doubt your own logic."
+    },
+    {
+      "title": "Using Gifts as Silence",
+      "tip": "Buying you something nice right after a fight is a way to 'buy' your forgiveness without an apology."
+    },
+    {
+      "title": "The 'If You Loved Me' Test",
+      "tip": "Starting sentences with 'If you loved me, you would...' is a direct way to use your feelings as a lever for control."
+    },
+    {
+      "title": "Claiming 'No Memory'",
+      "tip": "Saying they 'don't remember' a hurtful thing they did is a way to make the event disappear without resolution."
+    },
+    {
+      "title": "The 'I Was Only Trying to Help' Defense",
+      "tip": "Using 'good intentions' to excuse overstepping a boundary is a way to make you feel guilty for being upset."
+    },
+    {
+      "title": "Forcing Public Agreements",
+      "tip": "Asking for a commitment in front of others makes it harder for you to say no without looking 'mean.'"
+    },
+    {
+      "title": "The 'Ex-Files' Mystery",
+      "tip": "Refusing to talk about their past at all can be a way to hide a history of similar manipulative patterns."
+    },
+    {
+      "title": "Validating Only When Useful",
+      "tip": "They only agree with your feelings when it serves their goal, showing their support is strategic, not sincere."
+    },
+
         {
-          "title": "Future Faking",
-          "tip": "Making big promises about the future with no follow-through is a way to keep you invested without real commitment."
-        }
-      ]
+      "title": "Using Praise to Control",
+      "tip": "They praise you for 'not being like other girls' to pressure you into accepting things you find uncomfortable."
+    },
+    {
+      "title": "The 'Only You' Narrative",
+      "tip": "Claiming you are the only one who can help them creates a heavy burden of responsibility that limits your freedom."
+    },
+    {
+      "title": "Weaponized Incompetence",
+      "tip": "Doing a task poorly on purpose so you’ll never ask them again is a way to avoid shared responsibilities."
+    },
+    {
+      "title": "Strategic Forgetfulness",
+      "tip": "Frequently 'forgetting' plans you made suggests they are avoiding commitments without having a direct conversation."
+    },
+    {
+      "title": "Moving Goalposts",
+      "tip": "Once you meet one expectation, they change it, keeping you in a constant state of trying to prove your worth."
+    },
+    {
+      "title": "Isolation via Criticism",
+      "tip": "Subtly criticizing your friends or family may be a pattern designed to make you rely only on their perspective."
+    },
+    {
+      "title": "Forced Reciprocity",
+      "tip": "Giving you an unasked-for gift then immediately asking for a favor creates an unfair sense of social debt."
+    },
+    {
+      "title": "Reframing Your Memory",
+      "tip": "Telling you that you 'misunderstood' what happened is a pattern that erodes your trust in your own perceptions."
+    },
+    {
+      "title": "Projecting Their Actions",
+      "tip": "Accusing you of things they are actually doing themselves is a common way to deflect guilt and create confusion."
+    },
+    {
+      "title": "The 'Soulmate' Trap",
+      "tip": "Using 'destiny' or 'soulmate' talk very early can be a way to bypass the normal stages of getting to know someone."
+    },
+    {
+      "title": "Hiding Behind 'Honesty'",
+      "tip": "Saying hurtful things and calling it 'just being honest' is a way to avoid responsibility for being unkind."
+    },
+    {
+      "title": "False Future Planning",
+      "tip": "Talking about marriage or kids on the first few dates is often used to create a false sense of security."
+    },
+    {
+      "title": "The 'Debt' Mentality",
+      "tip": "Reminding you of things they did months ago to justify a current mistake is a sign of keeping an emotional ledger."
+    },
+    {
+      "title": "Exaggerated Body Pain",
+      "tip": "Suddenly having a 'headache' or 'back pain' whenever a serious talk starts is a way to avoid the conversation."
+    },
+    {
+      "title": "Subtle Body Shaming",
+      "tip": "Disguising critiques of your appearance as 'health advice' is a way to undermine your body confidence."
+    },
+    {
+      "title": "Gatekeeping Your Joy",
+      "tip": "Becoming grumpy when you have good news is a sign they feel threatened by your independent happiness."
+    },
+    {
+      "title": "The 'Broken Child' Persona",
+      "tip": "Acting helpless to trigger your maternal instincts can be a way to avoid acting like an adult partner."
+    },
+    {
+      "title": "The 'Just Kidding' Shield",
+      "tip": "Using humor as a shield for insults allows them to say whatever they want while making you the 'problem' for reacting."
+    },
+    {
+      "title": "Focusing on Your Tone",
+      "tip": "Ignoring what you said to focus on 'how' you said it is a way to avoid the actual topic of the argument."
+    },
+    {
+      "title": "The 'Everyone Else' Lie",
+      "tip": "Saying 'everyone else thinks you’re wrong' is a way to make you feel isolated and doubt your own logic."
+    },
+    {
+      "title": "Conditional Financial Help",
+      "tip": "Offering money but then using it to control what you do or buy is a form of financial manipulation."
+    },
+    {
+      "title": "Mimicking Your Hobbies",
+      "tip": "Suddenly loving everything you love can be a 'mirroring' tactic used to create a false sense of compatibility."
+    },
+    {
+      "title": "Using Science/Logic to Bully",
+      "tip": "Dismissing your feelings as 'illogical' is a way to claim intellectual superiority over your emotional reality."
+    },
+    {
+      "title": "The 'I Don’t Deserve You' Line",
+      "tip": "Saying they aren't good enough for you is often a way to get you to reassure them instead of them improving."
+    },
+    {
+      "title": "Punishing Your Success",
+      "tip": "Starting a fight right before you have a big event or meeting is a way to distract and dampen your success."
+    },
+    {
+      "title": "Information Farming",
+      "tip": "Asking a lot of questions but never answering any themselves is a way to gather leverage while staying hidden."
+    },
+    {
+      "title": "The 'One Rule for You' Pattern",
+      "tip": "Having rules for your behavior that they do not follow themselves is a clear sign of an imbalance of power."
+    },
+    {
+      "title": "Exaggerating Their Network",
+      "tip": "Claiming to know 'important' people can be a way to make themselves seem more valuable or intimidating."
+    },
+    {
+      "title": "The 'I’ll Change' Loop",
+      "tip": "Promising to change only when you are at the door to leave is a tactic to keep you from actually going."
+    },
+    {
+      "title": "The 'If You Loved Me' Test",
+      "tip": "Starting sentences with 'If you loved me, you would...' is a direct way to use your feelings as a lever for control."
+    },
+    {
+      "title": "Feigning Injury",
+      "tip": "Acting more hurt than they are after a small disagreement makes you feel like the 'bully' for speaking up."
+    },
+    {
+      "title": "Forcing Public Agreements",
+      "tip": "Asking for a commitment in front of others makes it harder for you to say no without looking 'mean.'"
+    },
+    {
+      "title": "Validating Only When Useful",
+      "tip": "They only agree with your feelings when it serves their goal, showing their support is strategic, not sincere."
+    },
+    {
+      "title": "The 'Private' Label",
+      "tip": "Insisting on total secrecy about the relationship can be a way to avoid the accountability that comes with a public bond."
+    },
+    {
+      "title": "Monitoring Your Reactions",
+      "tip": "Telling a hurtful story and watching your face closely is a way to gauge how much you will tolerate in the future."
+    },
+    {
+      "title": "Using 'We' to Erase You",
+      "tip": "Speaking for both of you without asking can be a subtle way to ignore your individual needs and opinions."
+    },
+    {
+      "title": "The 'Hero' Complex",
+      "tip": "Always trying to 'save' you from small problems creates a dynamic where you feel you cannot survive without them."
+    },
+    {
+      "title": "Constant Self-Correction",
+      "tip": "If you feel you must constantly edit your words to avoid their 'bad mood,' you are likely being manipulated into silence."
+    },
+    {
+      "title": "The 'Busy' Power Play",
+      "tip": "Only being available on their terms teaches you that your schedule is secondary to their convenience."
+    },
+    {
+      "title": "Claiming 'Moral High Ground'",
+      "tip": "Framing their preferences as 'morally right' makes you feel like a bad person for simply having different needs."
+    },
+    {
+      "title": "The 'Gift with Strings'",
+      "tip": "Bringing up a past gift during an argument is a sign that their generosity was actually a tool for leverage."
+    },
+    {
+      "title": "Passive-Aggressive Sighing",
+      "tip": "Using heavy sighs instead of words is a way to make you ask 'what's wrong' so they can control the emotional tone."
+    },
+    {
+      "title": "Rushing Shared Secrets",
+      "tip": "Asking for your deepest traumas too soon is a way to create a 'false intimacy' that feels like trust but isn't."
+    },
+    {
+      "title": "The 'I’m Just Guarded' Card",
+      "tip": "Using a vague past to excuse current coldness is a way to make you feel responsible for 'healing' them."
+    },
+    {
+      "title": "Subtle Sabotage of Sleep",
+      "tip": "Starting intense arguments late at night is a pattern used to wear down your mental defenses and force compliance."
+    },
+    {
+      "title": "Mocking Your Voice",
+      "tip": "Repeating what you said in a high or 'whiny' voice is a way to devalue your message without addressing the content."
+    },
+    {
+      "title": "The 'Testing' Silence",
+      "tip": "Going silent to see how long it takes for you to 'beg' for attention is a test of your emotional dependency."
+    },
+    {
+      "title": "Dismissing Group Consensus",
+      "tip": "Telling you that your friends are 'jealous' or 'hating' is a way to make you ignore valid outside warnings."
+    },
+    {
+      "title": "Claiming 'Misunderstanding'",
+      "tip": "Regularly saying 'you took it the wrong way' is a way to avoid owning the impact of their hurtful words."
+    },
+    {
+      "title": "The 'I’m a Nice Guy' Claim",
+      "tip": "People who frequently state they are 'nice' often use the label to deflect from moments when they are actually unkind."
+    },
+    {
+      "title": "Withholding Affirmation",
+      "tip": "Stopping all compliments once you are committed is a pattern used to make you work harder for their validation."
+    },
+    {
+      "title": "Overpowering Your Space",
+      "tip": "Consistently staying at your place without an invite is a way to see if you will prioritize their comfort over your boundaries."
+    },
+    {
+      "title": "The 'Parenting' Tone",
+      "tip": "Talking to you like a child when you make a mistake is a way to establish an unequal power dynamic in the relationship."
+    },
+    {
+      "title": "Comparing You to a 'Standard'",
+      "tip": "Mentioning how 'well-behaved' another person’s partner is can be a subtle way to pressure you to change."
+    },
+    {
+      "title": "The 'Financial Gatekeeper'",
+      "tip": "Questioning every small purchase you make is a way to establish control over your independent resources."
+    },
+    {
+      "title": "Using 'Vulnerability' to Deflect",
+      "tip": "Crying as soon as you bring up a concern makes it impossible for you to be heard without feeling like the villain."
+    },
+    {
+      "title": "Ignoring Your Expertise",
+      "tip": "Explaining things you already know (mansplaining) is a way to maintain a sense of intellectual dominance."
+    },
+    {
+      "title": "The 'Emergency' Distraction",
+      "tip": "Having a sudden crisis whenever you are focusing on your own goals is a way to pull the spotlight back to them."
+    },
+    {
+      "title": "Testing Small Boundaries",
+      "tip": "Touching you in a way you asked them not to 'as a joke' is a way to see how much they can get away with."
+    },
+    {
+      "title": "The 'You’re So Lucky' Line",
+      "tip": "Telling you that 'no one else would date you' is a severe tactic used to destroy your confidence and keep you stuck."
+    },
+    {
+      "title": "Selective Memory of Fights",
+      "tip": "Only remembering the things you said in anger while 'forgetting' what they did to cause it is a way to skew reality."
+    },
+    {
+      "title": "The 'One More Thing' Tactic",
+      "tip": "Adding a new demand just as you agree to the first one is a way to keep you in a state of constant 'giving.'"
+    },
+    {
+      "title": "Monitoring Your Clothes",
+      "tip": "Giving 'suggestions' on what you wear can slowly turn into a way of controlling how the world sees you."
+    },
+    {
+      "title": "The 'Safe' Secret",
+      "tip": "Telling you something 'top secret' early on is a way to make you feel like you owe them similar loyalty immediately."
+    },
+    {
+      "title": "Feigning Boredom",
+      "tip": "Acting bored when you talk about your passions is a way to make you feel like your interests aren't important."
+    },
+    {
+      "title": "The 'Loyalty' Trap",
+      "tip": "Demanding you cut off a platonic friend to 'prove' your love is a common step toward total social isolation."
+    },
+    {
+      "title": "Using Past Flaws as Leverage",
+      "tip": "Bringing up a mistake you made months ago to win a current, unrelated argument is a sign of unfair fighting."
+    },
+    {
+      "title": "The 'Intellectual' Bully",
+      "tip": "Using complex words or circular logic to confuse you is a way to make you feel 'stupid' for having a different view."
+    },
+    {
+      "title": "Distorting Your Intention",
+      "tip": "Insisting you meant to be mean when you were just being honest is a way to make you fear speaking up."
+    },
+    {
+      "title": "The 'I’m Just Being Real' Shield",
+      "tip": "Using 'authenticity' as an excuse for being rude is a way to avoid the social effort of being kind to you."
+    },
+    {
+      "title": "Ignoring Your Digital No",
+      "tip": "Continuing to text or call after you said you were busy is a sign they prioritize their access to you over your time."
+    },
+    {
+      "title": "The 'Check-In' Surveillance",
+      "tip": "Texting 'just to say hi' multiple times while you’re out with friends can be a disguised way of checking on you."
+    },
+    {
+      "title": "Mirroring Your Values",
+      "tip": "Suddenly adopting all your political or social views can be a way to create a false sense of being 'meant for each other.'"
+    },
+    {
+      "title": "The 'Ex-Files' Mystery",
+      "tip": "Refusing to talk about why past relationships ended may be a way to hide a long history of the same bad patterns."
+    },
+    {
+      "title": "Pressure to Reschedule",
+      "tip": "Expecting you to cancel your plans for their 'surprise' visit shows a lack of respect for your existing commitments."
+    },
+    {
+      "title": "The 'Broken Record' Tactic",
+      "tip": "Repeating the same demand over and over until you give in is a form of emotional wearing-down."
+    },
+    {
+      "title": "Acting Hurt by Boundaries",
+      "tip": "If they act 'offended' because you want a night alone, they are using guilt to stop you from having a private life."
+    },
+    {
+      "title": "The 'Public Image' Focus",
+      "tip": "Caring more about how you look together on Instagram than how you feel together is a sign of shallow investment."
+    },
+    {
+      "title": "Using Sarcasm to Dismiss",
+      "tip": "Answering a serious question with a sarcastic remark is a way to tell you that your concerns aren't worth an answer."
+    },
+    {
+      "title": "The 'I Can’t Live Without You' Line",
+      "tip": "Using their own mental health to keep you from leaving is a heavy form of manipulation and emotional pressure."
+    },
+    {
+      "title": "Monitoring Your Social Media",
+      "tip": "Questioning who 'liked' your photo or who you followed is a way to exert control over your digital social life."
+    },
+    {
+      "title": "The 'Future Faking' Promise",
+      "tip": "Promising a big trip or move to get you through a current bad patch is a way to keep you invested in a lie."
+    },
+    {
+      "title": "Ignoring Your Career Wins",
+      "tip": "Changing the subject when you talk about a promotion shows they may feel threatened by your independent success."
+    },
+    {
+      "title": "The 'I’m the Only One Who Cares' Lie",
+      "tip": "Telling you that your family doesn't really love you is a major step in making you totally dependent on them."
+    },
+    {
+      "title": "Using 'Science' to Judge",
+      "tip": "Claiming that 'biology' or 'psychology' says you should behave a certain way is a way to bully you into roles."
+    },
+    {
+      "title": "The 'Silent' Mood Swing",
+      "tip": "Becoming suddenly cold without saying why is a way to make you scan your own behavior for what you 'did wrong.'"
+    },
+    {
+      "title": "Mocking Your Personal Style",
+      "tip": "Making 'fun' of your hobbies or clothes is a slow way to make you feel you need their approval to be 'cool.'"
+    },
+    {
+      "title": "The 'Wait and See' Commitment",
+      "tip": "Refusing to plan more than a few days ahead keeps you in a state of 'waiting' for them to decide your future."
+    },
+    {
+      "title": "Using Your Secrets for 'Jokes'",
+      "tip": "Revealing something private you told them in front of others as a 'joke' is a major betrayal of trust."
+    },
+    {
+      "title": "The 'Gatekeeper' of Fun",
+      "tip": "Only agreeing to do things they like and acting miserable during things you like is a way to control your joy."
+    },
+    {
+      "title": "Claiming 'Intuition' About You",
+      "tip": "Telling you they 'know you better than you know yourself' is a way to override your own thoughts and feelings."
+    },
+    {
+      "title": "The 'Surprise' Interruption",
+      "tip": "Calling you repeatedly during a busy workday 'just because' is a way to test if you will prioritize them over work."
+    },
+    {
+      "title": "Using Kids/Pets to Guilt",
+      "tip": "Bringing up how much a pet or child 'misses you' to get you to come over is a form of proxy manipulation."
+    },
+    {
+      "title": "The 'Let’s Just Be Happy' Reset",
+      "tip": "Demanding you 'stop being negative' (talking about an issue) is a way to ensure that problems are never solved."
+    },
+    {
+      "title": "Conditional Empathy",
+      "tip": "They are only sorry when they see you are actually about to leave, showing their regret is about loss, not your pain."
+    },
+    {
+      "title": "The 'You’re the Only Exception' Line",
+      "tip": "Claiming they usually 'hate women' or 'hate people' but love you is a sign of a generally toxic worldview."
+    },
+    {
+      "title": "Monitoring Your Driving",
+      "tip": "Critiquing every turn you take while you drive is a way to establish dominance even in small, shared spaces."
+    },
+    {
+      "title": "The 'I Guess I’m the Bad Guy' Defense",
+      "tip": "Using dramatic self-blame is a way to stop the conversation so you end up comforting them instead of getting an apology."
+    },
+    {
+      "title": "Ignoring Physical Fatigue",
+      "tip": "Pressuring you to stay up or go out when you are clearly exhausted shows they value their fun over your well-being."
+    },
+    {
+      "title": "The 'It’s Just My Culture/Past' Shield",
+      "tip": "Using their background to justify being disrespectful is a way to make you feel 'intolerant' for wanting respect."
+    },
+
+        {
+      "title": "Weaponized Gratitude",
+      "tip": "Demanding constant thanks for basic acts of kindness is a pattern used to make you feel perpetually indebted to them."
+    },
+    {
+      "title": "The 'Vulnerability' Loophole",
+      "tip": "They share a deep secret only after they’ve hurt you, using their pain to distract you from addressing their behavior."
+    },
+    {
+      "title": "Strategic Misinterpretation",
+      "tip": "Purposely taking your words out of context allows them to play the victim and avoid the actual point of the discussion."
+    },
+    {
+      "title": "The 'Cool Girl' Pressure",
+      "tip": "Praising you for being 'low maintenance' is often a way to discourage you from ever expressing needs or boundaries."
+    },
+    {
+      "title": "Emotional Time-Boxing",
+      "tip": "Setting a strict time limit on how long you can 'complain' about an issue prevents a thorough and healthy resolution."
+    },
+    {
+      "title": "The 'Testing' Withdrawal",
+      "tip": "They suddenly stop texting to see if you will 'chase' them, which gauges how much of your self-esteem is tied to them."
+    },
+    {
+      "title": "Over-Correction via Gifts",
+      "tip": "Giving an expensive gift immediately after an argument is a way to bypass an apology and 'reset' the relationship dynamic."
+    },
+    {
+      "title": "Claiming 'Psychic' Insight",
+      "tip": "Telling you that they know what you’re 'really' thinking is a way to invalidate your actual words and lived experience."
+    },
+    {
+      "title": "The 'Safe' Criticism",
+      "tip": "They only criticize you when you are already feeling down, ensuring you are too emotionally weak to defend yourself."
+    },
+    {
+      "title": "Selective Validation",
+      "tip": "Only agreeing with you when you criticize others is a way to build a 'us against the world' mentality that isolates you."
+    },
+    {
+      "title": "The 'Label' Trap",
+      "tip": "Calling you 'sensitive' or 'emotional' during a debate is a tactic to shift the focus from their actions to your character."
+    },
+    {
+      "title": "Forced Shared Experiences",
+      "tip": "Insisting you try something you’ve already said 'no' to is a way to test your ability to maintain a boundary under pressure."
+    },
+    {
+      "title": "The 'Debt' Recall",
+      "tip": "Bringing up money they spent on you months ago during a current fight is a sign they view the relationship as a transaction."
+    },
+    {
+      "title": "Parental Comparison",
+      "tip": "Comparing your behavior to their 'problematic' parent is a way to make you feel guilty for simply having a different opinion."
+    },
+    {
+      "title": "The 'Just Checking' Login",
+      "tip": "Asking for your social media passwords 'for safety' is a way to establish surveillance under the guise of protection."
+    },
+    {
+      "title": "Mocking Your Career Goals",
+      "tip": "Labeling your ambitions as 'cute' or 'unrealistic' is a subtle way to lower your confidence and keep you dependent."
+    },
+    {
+      "title": "The 'Everyone Else' Consensus",
+      "tip": "Claiming their friends think you’re 'too much' is a way to make you feel like the odd one out in a group setting."
+    },
+    {
+      "title": "Selective Public Affection",
+      "tip": "Being overly romantic only when others are watching suggests they value the image of the relationship over the reality."
+    },
+    {
+      "title": "The 'Emergency' Exit",
+      "tip": "Having a sudden 'work crisis' whenever you start a serious talk is a way to avoid accountability for their actions."
+    },
+    {
+      "title": "Using Sarcasm as a Shield",
+      "tip": "Answering every serious question with a joke prevents you from ever having a deep or meaningful conversation."
+    },
+    {
+      "title": "The 'I’m Just Being Real' Card",
+      "tip": "Using 'honesty' as a reason to be rude is a way to avoid the emotional labor of being kind and respectful to you."
+    },
+    {
+      "title": "Monitoring Your Sleep",
+      "tip": "Getting upset if you go to bed before them is a way to control your personal time and physical recovery."
+    },
+    {
+      "title": "The 'Future Faking' Move",
+      "tip": "Making big promises about next year’s vacation to stop you from breaking up today is a tactic to delay the inevitable."
+    },
+    {
+      "title": "Minimizing Your Pain",
+      "tip": "Saying 'it wasn't that bad' when you describe a hurt is a way to control how much you are 'allowed' to feel."
+    },
+    {
+      "title": "The 'Gatekeeper' of Logic",
+      "tip": "Dismissing your feelings because they aren't 'logical' is a way to claim intellectual superiority over your emotions."
+    },
+    {
+      "title": "Using Pity to Stay Close",
+      "tip": "Exaggerating a sickness to get you to cancel your plans for them is a way to prioritize their wants over your life."
+    },
+    {
+      "title": "The 'No One Else' Narrative",
+      "tip": "Telling you that only they truly understand you is a way to make you distrust the advice of friends and family."
+    },
+    {
+      "title": "Punishing Your Silence",
+      "tip": "Becoming aggressive because you 'didn't say enough' when they were talking is a way to demand total emotional focus."
+    },
+    {
+      "title": "The 'I Guess I’ll Go' Threat",
+      "tip": "Standing up to leave as soon as you bring up a problem is a way to train you to stay quiet to keep them there."
+    },
+    {
+      "title": "Subtle Financial Shaming",
+      "tip": "Making small comments about how you spend your own money is a way to slowly gain control over your finances."
+    },
+    {
+      "title": "The 'Broken Child' Defense",
+      "tip": "Always bringing up their childhood when they make a mistake is a way to make you feel like their therapist, not partner."
+    },
+    {
+      "title": "Questioning Your Memory",
+      "tip": "Insisting you 'heard it wrong' when you confront them with their own words is a pattern designed to make you doubt reality."
+    },
+    {
+      "title": "The 'Loyalty' Ultimatums",
+      "tip": "Demanding you choose between them and a long-term friend is a major step in establishing total social control."
+    },
+    {
+      "title": "Feigning Confusion",
+      "tip": "Acting like they don’t understand a simple boundary is a way to keep crossing it without appearing 'mean.'"
+    },
+    {
+      "title": "The 'Hero' Narrative",
+      "tip": "Reminding you of the one time they 'saved' you to excuse a current mistake is a way of keeping an emotional ledger."
+    },
+    {
+      "title": "Dismissive Body Language",
+      "tip": "Looking at their phone while you’re sharing something vulnerable is a non-verbal way to say your feelings don’t matter."
+    },
+    {
+      "title": "The 'Special' Isolation",
+      "tip": "Saying 'you’re too good for those friends' is a way to cut you off from people who might point out red flags."
+    },
+    {
+      "title": "Sudden Interest in Hobbies",
+      "tip": "Adopting all your interests overnight (mirroring) is a way to create a false sense of being 'soulmates' very quickly."
+    },
+    {
+      "title": "The 'Tone' Policing",
+      "tip": "Stopping a conversation because you sound 'angry' is a way to avoid the topic and put the blame on your reaction."
+    },
+    {
+      "title": "Using Gifts to Buy Silence",
+      "tip": "Buying you something you’ve wanted right after they’ve been cold is a way to distract you from the emotional distance."
+    },
+    {
+      "title": "The 'It Was Just a Prank' Lie",
+      "tip": "Calling a mean comment a 'prank' after you get upset is a way to avoid taking responsibility for being hurtful."
+    },
+    {
+      "title": "Withholding Affirmation",
+      "tip": "Refusing to compliment you for long periods makes you crave their approval and work harder to 'earn' it back."
+    },
+    {
+      "title": "The 'I’m the Victim' Switch",
+      "tip": "They start crying as soon as you tell them they hurt you, forcing you to comfort them instead of being heard."
+    },
+    {
+      "title": "Monitoring Your Driving",
+      "tip": "Critiquing your every move behind the wheel is a way to establish dominance in a space where you should be in control."
+    },
+    {
+      "title": "The 'Check-In' Pressure",
+      "tip": "Getting angry if you don't reply within minutes is a way to ensure they are the most important thing in your world."
+    },
+    {
+      "title": "Using Your Values as a Trap",
+      "tip": "If you value 'forgiveness,' they will use that to pressure you into accepting repeated bad behavior without change."
+    },
+    {
+      "title": "The 'Moral' High Ground",
+      "tip": "Framing their personal preferences as 'tradition' or 'moral' makes you feel like a bad person for disagreeing."
+    },
+    {
+      "title": "Selective Transparency",
+      "tip": "They tell you everything about their day but nothing about their feelings, keeping you at a safe, controlled distance."
+    },
+    {
+      "title": "The 'I Don't Remember' Defense",
+      "tip": "Claiming they 'forgot' a hurtful conversation is a way to avoid the emotional work of making amends."
+    },
+    {
+      "title": "Public Humiliation as 'Fun'",
+      "tip": "Telling an embarrassing story about you to a group of people is a way to lower your status and increase theirs."
+    },
+    {
+      "title": "The 'Fast-Track' Relationship",
+      "tip": "Pushing for a 'serious' label or moving in within weeks is a way to lock you in before you see their true character."
+    },
+    {
+      "title": "Using 'Science' to Bully",
+      "tip": "Claiming that 'biology' makes them act a certain way is an excuse to avoid changing their problematic behavior."
+    },
+    {
+      "title": "The 'Gatekeeper' of Fun",
+      "tip": "If they only enjoy things they choose, they are training you to always prioritize their preferences to keep the peace."
+    },
+    {
+      "title": "Conditional Empathy",
+      "tip": "They only care about your pain when they are the ones who caused it, showing their empathy is actually guilt-management."
+    },
+    {
+      "title": "The 'I Guess I’m a Monster' Line",
+      "tip": "Using extreme self-insults is a way to make you feel bad for bringing up a small, valid concern."
+    },
+    {
+      "title": "Ignoring Physical Boundaries",
+      "tip": "Tickling you or holding you after you said 'stop' is a way to test if your physical autonomy is negotiable."
+    },
+    {
+      "title": "The 'Secret' Partner",
+      "tip": "Insisting the relationship stays 'private' for a long time is often a way to avoid the accountability of a public link."
+    },
+    {
+      "title": "Sabotaging Important Days",
+      "tip": "Starting a fight right before your birthday or a job interview is a way to ensure the focus stays on them."
+    },
+    {
+      "title": "The 'You Promised' Guilt",
+      "tip": "Using a general promise of 'being there' to force you to accept current toxic behavior is a form of manipulation."
+    },
+    {
+      "title": "Hiding Behind 'Past Trauma'",
+      "tip": "Using a bad ex-partner as a reason for their current bad behavior is a way to make you feel wrong for wanting more."
+    },
+    {
+      "title": "The 'Broken Record' Demand",
+      "tip": "Asking for the same thing until you finally say 'yes' is a way to wear down your willpower through repetition."
+    },
+    {
+      "title": "Mocking Your Intellectual Interests",
+      "tip": "Calling your favorite books or podcasts 'boring' is a way to make you feel small for having independent thoughts."
+    },
+    {
+      "title": "The 'Wait and See' Commitment",
+      "tip": "Refusing to plan more than a few days ahead keeps you in a state of 'waiting' for them to decide your future."
+    },
+    {
+      "title": "Using Your Secrets for 'Jokes'",
+      "tip": "Revealing something private you told them in confidence is a way to show you that they hold the power over your image."
+    },
+    {
+      "title": "The 'Financial Surveillance' Pattern",
+      "tip": "Asking to see your receipts or bank statements is a clear sign they want to control your independence."
+    },
+    {
+      "title": "Claiming 'Intuition' Over You",
+      "tip": "Telling you they 'know you better than you know yourself' is a way to override your own self-perception."
+    },
+    {
+      "title": "The 'Surprise' Interruption",
+      "tip": "Calling you repeatedly during a busy workday 'just because' is a way to test if you will put them above your career."
+    },
+    {
+      "title": "Using Others to Guilt-Trip",
+      "tip": "Saying 'even my mom thinks you’re being unfair' uses external pressure to make you feel isolated in your opinion."
+    },
+    {
+      "title": "The 'Let’s Just Be Happy' Reset",
+      "tip": "Demanding you 'stop being negative' is a way to ensure that problems are swept under the rug instead of solved."
+    },
+    {
+      "title": "Acting Hurt by Boundaries",
+      "tip": "Becoming 'sad' when you want a night alone is a way to use your empathy to stop you from having a life of your own."
+    },
+    {
+      "title": "The 'One Rule for You' Pattern",
+      "tip": "Having rules for your behavior that they do not follow themselves is a sign of an inherent imbalance of power."
+    },
+    {
+      "title": "Exaggerating Their Success",
+      "tip": "Lying about their job or income is a way to create a false persona that makes you feel lucky to be with them."
+    },
+    {
+      "title": "The 'I’m Not Like Other Guys' Lie",
+      "tip": "People who have to state they are 'different' usually use that label to hide very common, toxic patterns."
+    },
+    {
+      "title": "Information Farming",
+      "tip": "Asking you lots of questions but never answering any themselves is a way to gather leverage while staying hidden."
+    },
+    {
+      "title": "The 'Change for Me' Request",
+      "tip": "Asking you to change your style or hair early on is a sign they value an image over your actual person."
+    },
+    {
+      "title": "Subtle Sabotage of Friendships",
+      "tip": "Always being 'too tired' to go to your friend’s party is a way to slowly pull you away from your social circle."
+    },
+    {
+      "title": "The 'I’ll Change' False Promise",
+      "tip": "Promising to change only when you are at the door to leave is a tactic to keep you from actually going."
+    },
+    {
+      "title": "Focusing on Your Tone of Voice",
+      "tip": "Ignoring what you said to focus on 'how' you said it is a way to avoid the actual topic of the argument."
+    },
+    {
+      "title": "The 'Everyone Else' Lie",
+      "tip": "Saying 'everyone else thinks you’re wrong' is a way to make you feel isolated and doubt your own logic."
+    },
+    {
+      "title": "Using Gifts to Silence Fights",
+      "tip": "Buying you something nice right after a fight is a way to 'buy' your forgiveness without a real conversation."
+    },
+    {
+      "title": "The 'If You Loved Me' Test",
+      "tip": "Starting sentences with 'If you loved me, you would...' is a way to use your feelings as a lever for control."
+    },
+    {
+      "title": "Claiming 'No Memory' of Events",
+      "tip": "Saying they 'don't remember' a hurtful thing they did is a way to make the event disappear without resolution."
+    },
+    {
+      "title": "The 'I Was Only Helping' Defense",
+      "tip": "Using 'good intentions' to excuse overstepping a boundary is a way to make you feel guilty for being upset."
+    },
+    {
+      "title": "Forcing Public Agreements",
+      "tip": "Asking for a commitment in front of others makes it harder for you to say 'no' without looking like the 'bad guy.'"
+    },
+    {
+      "title": "The 'Ex-Files' Mystery",
+      "tip": "Refusing to talk about their past at all can be a way to hide a history of similar manipulative patterns."
+    },
+    {
+      "title": "Validating Only When Useful",
+      "tip": "They only agree with your feelings when it serves their goal, showing their support is strategic, not sincere."
+    },
+    {
+      "title": "The 'Check-In' Surveillance",
+      "tip": "Texting 'just to say hi' multiple times while you’re out is a disguised way of checking who you are with."
+    },
+    {
+      "title": "Mirroring Your Dreams",
+      "tip": "Suddenly wanting the exact same future as you is a way to create a false sense of being 'perfect' for each other."
+    },
+    {
+      "title": "The 'Broken Record' Tactic",
+      "tip": "Repeating the same demand over and over until you give in is a form of emotional wearing-down."
+    },
+    {
+      "title": "Using Sarcasm to Dismiss Pain",
+      "tip": "Answering a serious question with a sarcastic remark tells you that your concerns aren't worth an answer."
+    },
+    {
+      "title": "The 'I Can’t Live Without You' Lie",
+      "tip": "Using their own mental health to keep you from leaving is a heavy form of manipulation and emotional pressure."
+    },
+    {
+      "title": "Monitoring Your Followers",
+      "tip": "Questioning who you followed on social media is a way to exert control over your digital social life."
+    },
+    {
+      "title": "The 'Future Faking' Trap",
+      "tip": "Promising a big trip to get you through a current bad patch is a way to keep you invested in a false hope."
+    },
+    {
+      "title": "Ignoring Your Wins",
+      "tip": "Changing the subject when you talk about a promotion shows they may feel threatened by your independent success."
+    },
+    {
+      "title": "The 'Only One Who Cares' Lie",
+      "tip": "Telling you that your family doesn't really love you is a major step in making you totally dependent on them."
+    },
+    {
+      "title": "Using 'Science' to Judge You",
+      "tip": "Claiming that 'biology' says you should behave a certain way is a way to bully you into restrictive roles."
+    },
+    {
+      "title": "The 'Silent' Mood Swing",
+      "tip": "Becoming suddenly cold without saying why is a way to make you scan your behavior for what you 'did wrong.'"
+    },
+    {
+      "title": "Mocking Your Hobbies",
+      "tip": "Making 'fun' of your hobbies is a slow way to make you feel you need their approval to be 'cool' or 'interesting.'"
+    },
+    {
+      "title": "The 'Gatekeeper' of Joy",
+      "tip": "Only agreeing to do things they like and acting miserable during things you like is a way to control your happiness."
+    },
+    {
+      "title": "The 'Surprise' Visit Pressure",
+      "tip": "Showing up unannounced and getting mad if you are busy is a way to test if you will drop everything for them."
     }
+  ]
+},
+
+"Boundary": {
+  "tips": [
+    {
+      "title": "Ignoring Physical Cues",
+      "tip": "Continuing to lean in or touch after you pull away shows a lack of respect for your non-verbal physical signals."
+    },
+    {
+      "title": "Pushing for 'Just One More'",
+      "tip": "Pressuring you to stay for 'just one more drink' after you said you need to go home is a test of your verbal limits."
+    },
+    {
+      "title": "Reading Your Texts",
+      "tip": "Looking over your shoulder at your phone without asking is a sign they do not respect your digital privacy."
+    },
+    {
+      "title": "Assuming Constant Access",
+      "tip": "Getting upset when you don't answer a call immediately shows they feel entitled to your time 24/7."
+    },
+    {
+      "title": "Financial Overstepping",
+      "tip": "Asking for detailed info about your salary or savings early on is an intrusion into your private financial life."
+    },
+    {
+      "title": "The 'Uninvited' Visit",
+      "tip": "Showing up at your home or work unannounced is a way to bypass the boundary of scheduled, agreed-upon time."
+    },
+    {
+      "title": "Rushing Physical Intimacy",
+      "tip": "Trying to move faster than you’ve expressed comfort with is a pattern of prioritizing their desires over your safety."
+    },
+    {
+      "title": "Borrowing Without Asking",
+      "tip": "Taking your items (like a charger or sweater) without permission shows they view your property as their own."
+    },
+    {
+      "title": "Invasive Family Questions",
+      "tip": "Probing into deep family trauma before you are ready to share is a way of forcing emotional intimacy too soon."
+    },
+    {
+      "title": "Dismissing 'No' as a Joke",
+      "tip": "Laughing when you set a limit is a pattern used to make your boundaries feel unimportant or 'cute' rather than firm."
+    },
+    {
+      "title": "The 'Just a Hug' Pressure",
+      "tip": "Insisting on physical contact when you’ve clearly communicated a need for space is a violation of your autonomy."
+    },
+    {
+      "title": "Commenting on Your Diet",
+      "tip": "Critiquing what or how much you eat is an overstep into your personal health and bodily decisions."
+    },
+    {
+      "title": "Checking Your Location",
+      "tip": "Demanding that you share your live location at all times is a form of surveillance, not a sign of 'safety.'"
+    },
+    {
+      "title": "Critiquing Your Friends",
+      "tip": "Trying to dictate who you should or shouldn't spend time with is an attempt to control your social boundaries."
+    },
+    {
+      "title": "Overstaying the Date",
+      "tip": "Ignoring your clear hints that the date is over is a sign they prioritize their own fun over your comfort."
+    },
+    {
+      "title": "Touching Your Hair/Body",
+      "tip": "Touching you without asking—even in a 'friendly' way—early on is a test to see if you will defend your personal space."
+    },
+    {
+      "title": "Answering For You",
+      "tip": "Speaking on your behalf in public (like at a restaurant) is a subtle way of erasing your individual voice."
+    },
+    {
+      "title": "Pressure to Drink/Use",
+      "tip": "Encouraging you to consume more than you want is a sign they do not respect your choices for your own body."
+    },
+    {
+      "title": "Entering Your Room",
+      "tip": "Going into your bedroom or looking through your cabinets without an invite is a major breach of domestic privacy."
+    },
+    {
+      "title": "Mocking Your Limits",
+      "tip": "Calling you 'stiff' or 'boring' for having boundaries is a way to shame you into lowering your standards."
+    },
+    {
+      "title": "The 'Guilt' Trip for Space",
+      "tip": "Acting 'hurt' or 'abandoned' when you want a night to yourself is a way to make you feel responsible for their mood."
+    },
+    {
+      "title": "Forcing Social Situations",
+      "tip": "Surprising you with a group of their friends when you agreed to a 1-on-1 date bypasses your social comfort zone."
+    },
+    {
+      "title": "Demanding Your Passwords",
+      "tip": "Claiming that 'transparency' means sharing phone codes is a way to eliminate your right to private thoughts."
+    },
+    {
+      "title": "Questioning Your 'No'",
+      "tip": "Asking 'why not?' repeatedly after you say no to an activity is a way to wear down your resolve until you give in."
+    },
+    {
+      "title": "Touching Your Belongings",
+      "tip": "Moving or organizing your purse or car without asking is a sign they feel they have authority over your space."
+    },
+    {
+      "title": "The 'Interrogation' Tone",
+      "tip": "Asking for a minute-by-minute breakdown of your day is a pattern of monitoring rather than genuine interest."
+    },
+    {
+      "title": "Ignoring 'Slow Down'",
+      "tip": "If you ask to take the relationship slow and they keep pushing for 'more,' they are not respecting your pace."
+    },
+    {
+      "title": "Emotional Dumping",
+      "tip": "Sharing heavy emotional baggage immediately without checking if you have the capacity to hear it is a boundary cross."
+    },
+    {
+      "title": "Using Your Bathroom/Stuff",
+      "tip": "Using your toothbrush or personal items without asking shows a fundamental lack of understanding of hygiene boundaries."
+    },
+    {
+      "title": "Refusal to Leave",
+      "tip": "Making it difficult or awkward for you to leave their house is a way to control your physical movement."
+    },
+
+    {
+      "title": "Taking Your Keys",
+      "tip": "Holding onto your keys 'for safekeeping' without your request is a way to limit your ability to leave a situation freely."
+    },
+    {
+      "title": "Over-Sharing Online",
+      "tip": "Posting photos of you or details about your date without asking first is a sign they do not respect your digital privacy."
+    },
+    {
+      "title": "Mocking Your Sleep Schedule",
+      "tip": "Teasing you for needing rest or having a 'bedtime' is a pattern used to make you feel guilty for prioritizing your health."
+    },
+    {
+      "title": "Ignoring Your Work Hours",
+      "tip": "Repeatedly calling during your shift after you said you're busy shows they value their access to you over your career."
+    },
+    {
+      "title": "Unwanted Advice on Style",
+      "tip": "Giving unsolicited 'tips' on how to dress is a subtle way of trying to reshape your identity to fit their preference."
+    },
+    {
+      "title": "Opening Your Mail/Packages",
+      "tip": "Checking your mail without permission is a serious breach of privacy and a sign of a desire for total information control."
+    },
+    {
+      "title": "Pressure to Meet Family",
+      "tip": "Pushing for a family introduction before you feel ready is a way to force a level of commitment you haven't agreed to."
+    },
+    {
+      "title": "Invading Your Workout",
+      "tip": "Showing up at your gym or trying to 'coach' your exercise uninvited is an overstep into your personal wellness time."
+    },
+    {
+      "title": "Using Your Phone for Photos",
+      "tip": "Grabbing your phone to take selfies without asking is a test to see how you react to them handled your private property."
+    },
+    {
+      "title": "Questioning Your Purchases",
+      "tip": "Asking 'do you really need that?' about items you buy with your own money is an early sign of financial overstepping."
+    },
+    {
+      "title": "The 'Wait in the Car' Rule",
+      "tip": "Directing where you should sit or wait without a valid reason is a way to practice small-scale physical control."
+    },
+    {
+      "title": "Ignoring Food Allergies",
+      "tip": "Purposely suggesting restaurants you can't eat at after being told your needs shows a lack of regard for your physical safety."
+    },
+    {
+      "title": "Touching Your Face",
+      "tip": "Wiping your face or 'fixing' your makeup without asking is an invasive gesture that tests your comfort with being handled."
+    },
+    {
+      "title": "Demanding Immediate 'I Love You'",
+      "tip": "Expecting you to say 'I love you' back before you are ready is a way to force emotional compliance."
+    },
+    {
+      "title": "Reading Over Your Shoulder",
+      "tip": "Consistently watching what you are typing or reading is a pattern that denies you the right to a private mental space."
+    },
+    {
+      "title": "Bringing Others to Your Home",
+      "tip": "Inviting their friends to your house without checking with you first treats your sanctuary as their personal venue."
+    },
+    {
+      "title": "Mocking Your Religious Views",
+      "tip": "Dismissing your spiritual practices as 'silly' is a pattern used to undermine your personal values and core identity."
+    },
+    {
+      "title": "The 'One Bite' Pressure",
+      "tip": "Insisting you eat something after you’ve said 'no thank you' is a sign they prioritize their ego over your autonomy."
+    },
+    {
+      "title": "Checking Your Pockets",
+      "tip": "Touching your clothes or looking in your pockets while you are wearing them is an aggressive breach of personal space."
+    },
+    {
+      "title": "Interrupted Phone Calls",
+      "tip": "Talking to you while you are on the phone with someone else is a way to distract you and dominate your attention."
+    },
+    {
+      "title": "The 'Surprise' Pet",
+      "tip": "Bringing an animal to your home without asking is an overstep that ignores your domestic rules and potential allergies."
+    },
+    {
+      "title": "Monitoring Your Alcohol Intake",
+      "tip": "Counting your drinks or telling you when you've 'had enough' (if you are safe) is a way to exert parental-style control."
+    },
+    {
+      "title": "Ignoring 'Not Tonight'",
+      "tip": "Pouting or getting angry when you decline an invite for the evening is a way to use guilt to bypass your boundaries."
+    },
+    {
+      "title": "Critiquing Your Parenting",
+      "tip": "Giving unsolicited 'corrections' on how you handle your children early on is a major overstep into your family role."
+    },
+    {
+      "title": "Entering Your Car Uninvited",
+      "tip": "Getting into your vehicle before being asked is a sign they feel entitled to your private property and space."
+    },
+    {
+      "title": "Using Your Laptop",
+      "tip": "Opening your computer without permission is a breach of your digital workspace and personal information."
+    },
+    {
+      "title": "The 'Just a Peek' Phone Check",
+      "tip": "Asking to see your photos or messages 'just to see' is a way to normalize surveillance under the guise of curiosity."
+    },
+    {
+      "title": "Mocking Your Boundaries",
+      "tip": "Calling you 'uptight' for having rules about your home is a pattern used to make you feel ashamed of having limits."
+    },
+    {
+      "title": "Pressure to Quit a Hobby",
+      "tip": "Subtly suggesting you spend 'too much time' on your passions is a way to make you more available for their needs."
+    },
+    {
+      "title": "Touching You in Your Sleep",
+      "tip": "Initiating physical contact while you are asleep and unable to consent is a significant violation of bodily autonomy."
+    },
+    {
+      "title": "Ignoring Your 'Closed Door'",
+      "tip": "Walking into a room where the door is shut without knocking shows a lack of respect for your need for privacy."
+    },
+    {
+      "title": "Comparing Your Boundaries",
+      "tip": "Saying 'my ex let me do this' is a tactic used to pressure you into dropping your personal limits to stay competitive."
+    },
+    {
+      "title": "The 'Checking the Receipt' Habit",
+      "tip": "Looking at your store receipts or bank notifications is a way to track your movements and financial choices."
+    },
+    {
+      "title": "Assuming You’ll Pay",
+      "tip": "Ordering expensive items and assuming you will cover the bill without a prior talk is a breach of financial boundaries."
+    },
+    {
+      "title": "Critiquing Your Hygiene",
+      "tip": "Making unsolicited comments on how you wash or groom is an overstep into your private self-care routines."
+    },
+    {
+      "title": "Blocking Your Path",
+      "tip": "Standing in a doorway or in front of you during a talk is a physical tactic used to intimidate and limit your movement."
+    },
+    {
+      "title": "Refusing to Use Protection",
+      "tip": "Arguing against safety measures you’ve requested for physical intimacy is a direct violation of your health and safety."
+    },
+    {
+      "title": "The 'Interrogation' of Friends",
+      "tip": "Asking your friends for details about your past is a way to bypass your privacy and gather info without your consent."
+    },
+    {
+      "title": "Changing the Radio/AC",
+      "tip": "Consistently changing the settings in your car or home without asking is a sign they prioritize their comfort over yours."
+    },
+    {
+      "title": "Ignoring 'I Need to Sleep'",
+      "tip": "Continuing to talk or play music after you've said you need to rest is a lack of regard for your physical needs."
+    },
+    {
+      "title": "The 'Let Me Help' Intrusion",
+      "tip": "Insisting on doing a task for you after you’ve said 'I’ve got it' is a way to undermine your sense of competence."
+    },
+    {
+      "title": "Monitoring Your Followers",
+      "tip": "Noticing and questioning every new person you follow online is a pattern of digital stalking and control."
+    },
+    {
+      "title": "Touching Your Tattoos/Scars",
+      "tip": "Touching personal marks on your skin without permission is an invasive overstep into your physical history."
+    },
+    {
+      "title": "The 'Secret' Recording",
+      "tip": "Recording your voice or taking photos of you without your knowledge is a major violation of trust and privacy."
+    },
+    {
+      "title": "Ignoring Your Social Social Burnout",
+      "tip": "Pressuring you to stay at a party when you’ve expressed you’re tired is a way to ignore your emotional limits."
+    },
+    {
+      "title": "Critiquing Your Driving",
+      "tip": "Constantly telling you how to drive when you are behind the wheel is a way to establish dominance in a shared space."
+    },
+    {
+      "title": "The 'Open Fridge' Policy",
+      "tip": "Helping themselves to your food or drinks before being invited to do so shows a lack of respect for your home rules."
+    },
+    {
+      "title": "Ignoring Your 'Safe Word'",
+      "tip": "Failing to stop a behavior (even a playful one) after a pre-agreed signal is a dangerous breach of trust."
+    },
+    {
+      "title": "The 'Just Joking' Insult",
+      "tip": "Using sarcasm to cross a boundary, then claiming you 'can’t take a joke,' is a way to avoid taking responsibility."
+    },
+    {
+      "title": "Pressure for Nude Photos",
+      "tip": "Asking for intimate images after you’ve said you aren't comfortable is a sign they prioritize their wants over your safety."
+    },
+    {
+      "title": "Rearranging Your Space",
+      "tip": "Moving furniture or items in your home to 'better' places without asking is a sign they want to control your environment."
+    },
+    {
+      "title": "Ignoring Your Political Stance",
+      "tip": "Starting intense debates to 'change your mind' after you've asked to drop the topic is a lack of respect for your views."
+    },
+    {
+      "title": "The 'Check My Phone' Demand",
+      "tip": "Demanding you look through their phone to prove their 'loyalty' is a way to pressure you into letting them do the same."
+    },
+    {
+      "title": "Taking Your Phone Away",
+      "tip": "Physically grabbing your phone or hiding it during a fight is a tactic used to isolate you and limit your help."
+    },
+    {
+      "title": "Ignoring 'I’m Not Ready'",
+      "tip": "Pushing for a key milestone (like living together) after you’ve said you aren't ready is a sign of an imbalanced pace."
+    },
+    {
+      "title": "The 'Public Kiss' Pressure",
+      "tip": "Insisting on PDA when you have expressed you prefer to be private is a way to prioritize their ego over your comfort."
+    },
+    {
+      "title": "Reading Your Journal",
+      "tip": "Looking through your private diary is a ultimate breach of trust and an invasion of your inner-most thoughts."
+    },
+    {
+      "title": "Ignoring Your Choice of Movie",
+      "tip": "Always being the one to choose the entertainment shows a lack of interest in your tastes and a desire for control."
+    },
+    {
+      "title": "Touching Your Glasses",
+      "tip": "Grabbing your glasses off your face or touching them is an invasive overstep into your personal sensory space."
+    },
+    {
+      "title": "The 'Checking Your Trash' Habit",
+      "tip": "Looking through your waste bin or recycling is a pattern of obsessive monitoring and a major privacy violation."
+    },
+    {
+      "title": "Ignoring Your Career Path",
+      "tip": "Suggesting you take a 'simpler' job so you can focus more on them is a way to limit your independent growth."
+    },
+    {
+      "title": "The 'Just a Minute' Delay",
+      "tip": "Intentionally making you late for an appointment by delaying their exit is a way to exert power over your time."
+    },
+    {
+      "title": "Touching Your Plate",
+      "tip": "Eating off your plate without asking is a small but telling sign that they view your boundaries as optional."
+    },
+    {
+      "title": "Ignoring Your 'Me Time'",
+      "tip": "Calling you repeatedly when they know you are having a self-care night is a way to disrupt your peace."
+    },
+    {
+      "title": "The 'Surprise' Stayover",
+      "tip": "Assuming they are staying the night without asking first treats your home as their own without your consent."
+    },
+    {
+      "title": "Ignoring Your Pet’s Rules",
+      "tip": "Feeding your pet table scraps after you’ve asked them not to is a sign they do not respect your authority in your home."
+    },
+    {
+      "title": "The 'Phone Call' Interrogation",
+      "tip": "Asking 'who was that?' every time your phone rings is a pattern of suspicion that erodes trust."
+    },
+    {
+      "title": "Ignoring Your Style Changes",
+      "tip": "Getting angry if you cut your hair or get a piercing is a way to claim ownership over your physical appearance."
+    },
+    {
+      "title": "The 'Let’s Go Now' Command",
+      "tip": "Demanding you leave a social event immediately without considering your feelings is a sign of emotional control."
+    },
+    {
+      "title": "Ignoring Your Healthy Habits",
+      "tip": "Bringing junk food or alcohol when they know you are trying to be healthy is a way to sabotage your personal goals."
+    },
+    {
+      "title": "The 'Checking the Mileage' Habit",
+      "tip": "Noticing how many miles you’ve driven is a pattern used to track your movements throughout the day."
+    },
+    {
+      "title": "Ignoring Your Choice of Music",
+      "tip": "Changing the music you are listening to in your own headphones or space is an overstep into your personal mood."
+    },
+    {
+      "title": "The 'Double Text' Flood",
+      "tip": "Sending dozens of messages when you don't reply is an aggressive way to demand your immediate attention."
+    },
+    {
+      "title": "Ignoring Your Study/Work Time",
+      "tip": "Talking to you or trying to distract you when you are clearly focused on a task is a lack of respect for your goals."
+    },
+    {
+      "title": "The 'Unasked' Clean-Up",
+      "tip": "Cleaning your house or organizing your files without asking can be a way to judge and control your private space."
+    },
+    {
+      "title": "Ignoring Your 'No' to a Gift",
+      "tip": "Forcing you to keep a gift after you’ve said you don't want it is a way to create an unearned sense of obligation."
+    },
+    {
+      "title": "The 'Mirroring' Boundary",
+      "tip": "Assuming they can do anything you do (like use your toothbrush) ignores the fact that boundaries are individual."
+    },
+    {
+      "title": "Ignoring Your Dress Code",
+      "tip": "Showing up in inappropriate attire for a place you asked to dress up for shows a lack of regard for your social comfort."
+    },
+    {
+      "title": "The 'Phone Snatching' Habit",
+      "tip": "Reaching for your phone when it lights up is a sign of impulsive suspicion and a total lack of digital respect."
+    },
+    {
+      "title": "Ignoring Your Social Social Anxiety",
+      "tip": "Pushing you into the spotlight in public when they know you are uncomfortable is a way to ignore your emotional safety."
+    },
+    {
+      "title": "The 'Just a Peek' into Bags",
+      "tip": "Looking inside your purse or backpack without permission is an invasive overstep into your personal belongings."
+    },
+    {
+      "title": "Ignoring Your Request for Space",
+      "tip": "Following you from room to room when you've asked to be alone is a physical way to deny you peace."
+    },
+    {
+      "title": "The 'Public Announcement' Trap",
+      "tip": "Sharing your private news with others before you are ready is a way to steal your narrative and control your image."
+    },
+    {
+      "title": "Ignoring Your 'I’m Full' Signal",
+      "tip": "Continuing to put food on your plate after you’ve said you are done is a sign they don't listen to your bodily needs."
+    },
+    {
+      "title": "The 'Gatekeeper' of Information",
+      "tip": "Deleting messages or call logs from your phone is a severe form of digital manipulation and information control."
+    },
+    {
+      "title": "Ignoring Your Career Boundaries",
+      "tip": "Asking you to call out of work 'just to hang out' shows a lack of respect for your professional responsibilities."
+    },
+    {
+      "title": "The 'Uninvited' Key Copy",
+      "tip": "Making a copy of your house key without your explicit permission is a dangerous breach of home security and trust."
+    },
+    {
+      "title": "Ignoring Your 'I’m Sick' Needs",
+      "tip": "Expecting you to cook or clean when you are unwell is a pattern of prioritizing their comfort over your health."
+    },
+    {
+      "title": "The 'Surprise' Travel Plan",
+      "tip": "Booking a trip for you without checking your schedule is a way to force you into a major commitment without consent."
+    },
+    {
+      "title": "Ignoring Your 'No' to Photos",
+      "tip": "Taking your picture after you’ve asked them not to is a sign they value their 'memory' over your current comfort."
+    },
+    {
+      "title": "The 'Check Your Pockets' Tactic",
+      "tip": "Touching your clothes to 'find something' is an invasive way to check your person without asking."
+    },
+    {
+      "title": "Ignoring Your 'I’m Busy' Text",
+      "tip": "Continuing to call after you’ve texted that you can't talk is a way to force their way into your current moment."
+    },
+    {
+      "title": "The 'Let Me Carry That' Force",
+      "tip": "Grabbing your bag or items after you’ve said 'no thanks' is a way to override your physical independence."
+    },
+    {
+      "title": "Ignoring Your 'Safe' People",
+      "tip": "Criticizing the friends you go to for advice is a way to make you doubt your own support system."
+    },
+    {
+      "title": "The 'Checking Your History' Habit",
+      "tip": "Looking at your browser history on your shared computer is a way to monitor your thoughts and interests."
+    },
+    {
+      "title": "Ignoring Your Request for Privacy",
+      "tip": "Telling your private secrets to their family is a major betrayal of the 'inner circle' trust."
+    },
+    {
+      "title": "The 'I’ll Decide' Tone",
+      "tip": "Ordering for you at a restaurant without asking is a small but clear sign of a desire to dominate your choices."
+    },
+    {
+      "title": "Ignoring Your Need for Quiet",
+      "tip": "Turning up the TV or music when they know you have a headache is a lack of regard for your physical pain."
+    },
+    {
+      "title": "The 'Surprise' Intimacy",
+      "tip": "Waking you up for physical closeness without checking your interest is a sign they prioritize their drive over your rest."
+    },
+    {
+      "title": "Ignoring Your 'Stop' Signal",
+      "tip": "If you ask them to stop a certain topic and they keep pushing, they are valuing their point over your peace."
+    },
+
+        {
+      "title": "Assuming Digital Ownership",
+      "tip": "Deleting photos from your phone without asking is a severe sign they feel entitled to control your memories and digital space."
+    },
+    {
+      "title": "Ignoring Your 'Do Not Disturb'",
+      "tip": "Calling multiple times through your phone's focus mode shows a lack of respect for your designated quiet or work time."
+    },
+    {
+      "title": "Pressure to Share Accounts",
+      "tip": "Pushing for shared streaming or shopping logins early on is a way to monitor your personal habits and preferences."
+    },
+    {
+      "title": "Unsolicited Health Advice",
+      "tip": "Giving 'tips' on your vitamins or exercise without being asked is an overstep into your private physical autonomy."
+    },
+    {
+      "title": "The 'Open Door' Bathroom Rule",
+      "tip": "Insisting on keeping the door open while either of you is in the bathroom is a way to test your tolerance for lost privacy."
+    },
+    {
+      "title": "Assuming Financial Access",
+      "tip": "Asking for 'small loans' early in the relationship is a pattern that ignores your financial security and boundaries."
+    },
+    {
+      "title": "The 'Surprise' Roommate",
+      "tip": "Allowing a friend to crash at your place without asking first treats your home as their own communal property."
+    },
+    {
+      "title": "Touching Your Workspace",
+      "tip": "Moving items on your desk without permission is an intrusion into your professional environment and organization."
+    },
+    {
+      "title": "Ignoring Your Sleep Hygiene",
+      "tip": "Using bright lights or loud audio while you are trying to sleep shows a lack of regard for your physical recovery."
+    },
+    {
+      "title": "The 'Check Your Pulse' Habit",
+      "tip": "Constantly questioning why you look 'tired' can be a subtle way of judging and monitoring your energy and appearance."
+    },
+    {
+      "title": "Ignoring Your Choice of App",
+      "tip": "Telling you which social apps to delete is a sign they want to control how you interact with your digital community."
+    },
+    {
+      "title": "The 'Just a Peek' into Purses",
+      "tip": "Reaching into your bag for anything without asking is an invasive breach of your private personal belongings."
+    },
+    {
+      "title": "Ignoring Your Study Time",
+      "tip": "Demanding your attention while you are clearly focused on a task is a way to prioritize their boredom over your goals."
+    },
+    {
+      "title": "Touching Your Laptop Screen",
+      "tip": "Pointing at or touching your screen while you work is a small but telling sign of a lack of professional respect."
+    },
+    {
+      "title": "The 'Surprise' Gym Visit",
+      "tip": "Showing up at your yoga or fitness class uninvited is a way to bypass the boundary of your independent social circles."
+    },
+    {
+      "title": "Ignoring Your Social Battery",
+      "tip": "Acting 'offended' when you say you’re too tired for a party is a way to use guilt to bypass your emotional limits."
+    },
+    {
+      "title": "The 'Interrogation' of Exes",
+      "tip": "Demanding a detailed list of past partners before trust is built is an overstep into your romantic history."
+    },
+    {
+      "title": "Ignoring Your Choice of Car",
+      "tip": "Insisting on driving your vehicle every time you go out is a way to establish dominance over your personal property."
+    },
+    {
+      "title": "Touching Your Groceries",
+      "tip": "Critiquing what you buy at the store is an overstep into your personal health and financial decisions."
+    },
+    {
+      "title": "The 'Just a Peek' into Closets",
+      "tip": "Looking through your wardrobe when you aren't looking is an invasive way to judge and monitor your lifestyle."
+    },
+    {
+      "title": "Ignoring Your 'Slow' Request",
+      "tip": "Pushing for 'just one night' after you asked for space shows they prioritize their drive over your verbalized needs."
+    },
+    {
+      "title": "Touching Your Car Keys",
+      "tip": "Moving your car 'to a better spot' without asking is a way to control your primary means of transportation."
+    },
+    {
+      "title": "The 'Surprise' Sibling Visit",
+      "tip": "Bringing family members over uninvited treats your home as a communal space without your explicit consent."
+    },
+    {
+      "title": "Ignoring Your Choice of News",
+      "tip": "Mocking the articles you read or news you follow is a way to undermine your intellectual and mental independence."
+    },
+    {
+      "title": "Pressure for a Shared Calendar",
+      "tip": "Demanding a shared digital calendar is a way to monitor every hour of your day under the guise of 'easy planning.'"
+    },
+    {
+      "title": "Ignoring Your Choice of Shoes",
+      "tip": "Telling you your shoes are 'too high' or 'don't match' is a subtle way to control your physical presentation."
+    },
+    {
+      "title": "The 'Checking the Ring' Habit",
+      "tip": "Questioning why you aren't wearing a certain piece of jewelry is a sign of obsessive monitoring of your appearance."
+    },
+    {
+      "title": "Ignoring Your Need for Light",
+      "tip": "Turning off lights while you are still reading or working is a sign they prioritize their vibe over your current task."
+    },
+    {
+      "title": "Touching Your Makeup Tools",
+      "tip": "Using your personal beauty items without asking shows a lack of respect for your hygiene and property boundaries."
+    },
+    {
+      "title": "The 'Surprise' Investment Tip",
+      "tip": "Telling you how to spend your savings after one talk is an overstep into your long-term financial autonomy."
+    },
+    {
+      "title": "Ignoring Your Choice of Movie",
+      "tip": "Talking through the entire film you chose is a way to devalue your interests and dominate the shared time."
+    },
+    {
+      "title": "Pressure to Drink Caffeine",
+      "tip": "Mocking you for wanting decaf or no coffee is a way to judge and influence your personal physical choices."
+    },
+    {
+      "title": "Ignoring Your Choice of Filter",
+      "tip": "Telling you how to edit your photos before you post them is a sign they want to control your public-facing image."
+    },
+    {
+      "title": "The 'Just a Peek' Nightstand",
+      "tip": "Opening your bedside drawers is a severe breach of your most private domestic and personal space."
+    },
+    {
+      "title": "Ignoring Your 'I’m Full' Text",
+      "tip": "Bringing food over after you said you’ve eaten is a way to ignore your verbalized bodily and domestic needs."
+    },
+    {
+      "title": "Touching Your Headphones",
+      "tip": "Pulling an earbud out to talk to you is an invasive way to force your attention and break your mental focus."
+    },
+    {
+      "title": "The 'Surprise' Laundry Load",
+      "tip": "Washing your clothes without asking can be an invasive way to look through your items and judge your habits."
+    },
+    {
+      "title": "Ignoring Your Choice of Podcast",
+      "tip": "Turning off your podcast to play their music shows a lack of interest in your independent thoughts and environment."
+    },
+    {
+      "title": "Pressure for Shared Location",
+      "tip": "Asking for your 'Find My' location 'for safety' is often the first step in digital surveillance and tracking."
+    },
+    {
+      "title": "Ignoring Your Choice of Plants",
+      "tip": "Telling you your plants are 'too much' is a way to critique how you choose to care for your personal home."
+    },
+    {
+      "title": "The 'Checking the Miles' Habit",
+      "tip": "Noticing how many miles you’ve driven since yesterday is a pattern used to track your physical movements."
+    },
+    {
+      "title": "Ignoring Your Need for Heat",
+      "tip": "Changing your thermostat without asking is a sign they prioritize their comfort over your home and expenses."
+    },
+    {
+      "title": "Touching Your Eyeglasses",
+      "tip": "Reaching for the glasses on your face is an invasive overstep into your personal sensory and physical space."
+    },
+    {
+      "title": "The 'Surprise' Furniture Move",
+      "tip": "Moving a chair or table in your house to 'better' the room is an overstep into your domestic design and agency."
+    },
+    {
+      "title": "Ignoring Your Choice of Wine",
+      "tip": "Ordering for you after you’ve already picked something is a way to override your specific personal preferences."
+    },
+    {
+      "title": "Pressure for an Early Key",
+      "tip": "Offering you a key to their place very early is often a way to pressure you into giving them a key to yours."
+    },
+    {
+      "title": "Ignoring Your Choice of Perfume",
+      "tip": "Telling you your scent is 'too strong' is a way to critique your personal grooming and physical presence."
+    },
+    {
+      "title": "The 'Just a Peek' Medicine Cabinet",
+      "tip": "Looking through your bathroom cabinets is a major breach of your health and domestic privacy."
+    },
+    {
+      "title": "Ignoring Your 'I’m Tired' Call",
+      "tip": "Talking for an hour after you said you need to sleep shows they value their voice over your physical rest."
+    },
+    {
+      "title": "Touching Your Laptop Keyboard",
+      "tip": "Typing something for you without asking is an invasive overstep into your digital and professional workspace."
+    },
+    {
+      "title": "The 'Surprise' Package",
+      "tip": "Sending items to your home after you asked for no gifts is a way to bypass your verbalized boundaries."
+    },
+    {
+      "title": "Ignoring Your Choice of Snack",
+      "tip": "Mocking what you eat when you are stressed is a way to judge your emotional and physical coping habits."
+    },
+    {
+      "title": "Pressure for a Shared Hobby",
+      "tip": "Demanding you join their hobby (like gaming) when you aren't interested is a way to dominate your free time."
+    },
+    {
+      "title": "Ignoring Your Choice of Apps",
+      "tip": "Telling you your games or apps are 'childish' is a way to undermine your independent forms of relaxation."
+    },
+    {
+      "title": "The 'Just a Peek' into Emails",
+      "tip": "Looking at your open inbox when you walk away shows they do not respect your professional or personal privacy."
+    },
+    {
+      "title": "Ignoring Your 'Safe' Subject",
+      "tip": "If you ask to change a topic and they bring it up again, they are prioritizing their point over your peace."
+    },
+    {
+      "title": "Touching Your Wallet",
+      "tip": "Grabbing your wallet to 'get the tip' or 'see your ID' is an invasive breach of your private financial property."
+    },
+    {
+      "title": "The 'Surprise' Meeting",
+      "tip": "Introducing you to their boss without warning is a way to force a professional role you didn't agree to."
+    },
+    {
+      "title": "Ignoring Your Choice of Radio",
+      "tip": "Skip-counting through your playlist in your own car is a sign they feel entitled to control your shared space."
+    },
+    {
+      "title": "Pressure for Early Marriage Talk",
+      "tip": "Bringing up kids on date two is a way to 'fast-forward' intimacy and see how much you will agree to early on."
+    },
+    {
+      "title": "Ignoring Your Choice of Tea",
+      "tip": "Making you a drink with sugar after you said you don't take it shows a lack of regard for your health choices."
+    },
+    {
+      "title": "The 'Gatekeeper' of Information",
+      "tip": "Deleting call logs or messages from your phone is a severe form of digital manipulation and information control."
+    },
+    {
+      "title": "Ignoring Career Boundaries",
+      "tip": "Asking you to call out of work 'just to hang out' shows a lack of respect for your professional responsibilities."
+    },
+    {
+      "title": "The 'Uninvited' Key Copy",
+      "tip": "Making a copy of your house key without permission is a dangerous breach of home security and personal trust."
+    },
+    {
+      "title": "Ignoring 'I’m Sick' Needs",
+      "tip": "Expecting you to cook or clean when you are unwell is a pattern of prioritizing their comfort over your health."
+    },
+    {
+      "title": "The 'Surprise' Travel Booking",
+      "tip": "Booking a trip without checking your schedule is a way to force you into a major commitment without consent."
+    },
+    {
+      "title": "Ignoring 'No' to Photos",
+      "tip": "Taking your picture after you’ve asked them not to shows they value their desires over your current comfort."
+    },
+    {
+      "title": "The 'Checking Your Pockets' Move",
+      "tip": "Touching your clothes to 'find something' is an invasive way to check your person without asking first."
+    },
+    {
+      "title": "Ignoring 'I’m Busy' Texts",
+      "tip": "Continuing to call after you’ve texted that you can't talk is a way to force their way into your current moment."
+    },
+    {
+      "title": "The 'Let Me Carry That' Force",
+      "tip": "Grabbing your bag after you’ve said 'no thanks' is a way to override your physical autonomy and independence."
+    },
+    {
+      "title": "Ignoring Your 'Safe' Circle",
+      "tip": "Criticizing the friends you go to for advice is a way to make you doubt your own support system and isolate you."
+    },
+    {
+      "title": "The 'Checking Browser' Habit",
+      "tip": "Looking at your history on a shared computer is a way to monitor your private thoughts and intellectual interests."
+    },
+    {
+      "title": "Ignoring Request for Privacy",
+      "tip": "Telling your private secrets to their family is a major betrayal of the trust you placed in the 'inner circle.'"
+    },
+    {
+      "title": "The 'I’ll Decide' Tone",
+      "tip": "Ordering for you at a restaurant without asking is a small but clear sign of a desire to dominate your choices."
+    },
+    {
+      "title": "Ignoring Need for Quiet",
+      "tip": "Turning up the TV when they know you have a headache is a lack of regard for your physical pain and recovery."
+    },
+    {
+      "title": "The 'Surprise' Intimacy",
+      "tip": "Waking you up for closeness without checking your interest is a sign they prioritize their drive over your rest."
+    },
+    {
+      "title": "Ignoring Your 'Stop' Signal",
+      "tip": "If you ask them to stop a topic and they keep pushing, they are valuing their point over your mental peace."
+    },
+    {
+      "title": "The 'Checking Your Apps' Tactic",
+      "tip": "Questioning why you have dating apps or social media is a sign of jealousy and digital monitoring."
+    },
+    {
+      "title": "Ignoring Choice of Workout",
+      "tip": "Telling you that your workout is 'not hard enough' is a way to judge and control your physical fitness journey."
+    },
+    {
+      "title": "Pressure for Financial Access",
+      "tip": "Asking how much you have in your 401k early on is an overstep into your long-term financial security."
+    },
+    {
+      "title": "Ignoring Choice of Pillow",
+      "tip": "Changing how you sleep or your bedding without asking is a sign they prioritize their comfort in your space."
+    },
+    {
+      "title": "The 'Just a Peek' into Trash",
+      "tip": "Looking through your waste bin is a pattern of obsessive monitoring and a major breach of domestic privacy."
+    },
+    {
+      "title": "Ignoring Choice of Haircut",
+      "tip": "Getting angry if you change your hair is a way to claim ownership over your physical appearance and identity."
+    },
+    {
+      "title": "The 'Surprise' Meeting Trap",
+      "tip": "Introducing you as their 'wife/husband' before you've agreed is a way to force a role you haven't accepted."
+    },
+    {
+      "title": "Ignoring Choice of Laundry",
+      "tip": "Using your expensive detergent or washing your 'dry clean only' items shows a lack of respect for your property."
+    },
+    {
+      "title": "Pressure for a Shared Car",
+      "tip": "Asking to use your car for their errands regularly is a way to use your resources for their personal gain."
+    },
+    {
+      "title": "Ignoring Choice of Cleaning",
+      "tip": "Telling you that your house is 'messy' is a way to judge and exert control over your private domestic space."
+    },
+    {
+      "title": "The 'Checking Your Call' Habit",
+      "tip": "Asking 'who was that?' every time your phone rings is a pattern of suspicion that erodes trust over time."
+    },
+    {
+      "title": "Ignoring Choice of Holiday",
+      "tip": "Assuming you will spend every holiday with their family without asking is a sign they prioritize their traditions."
+    },
+    {
+      "title": "Pressure for a Shared Pet",
+      "tip": "Pushing to get a dog together early on is a way to legally and emotionally bind you before trust is built."
+    },
+    {
+      "title": "Ignoring Choice of Bedtime",
+      "tip": "Getting mad if you want to go to sleep earlier than them is a way to control your physical rest and schedule."
+    },
+    {
+      "title": "The 'Just a Peek' into Notes",
+      "tip": "Reading the 'Notes' app on your phone is a severe breach of your private thoughts and daily organization."
+    },
+    {
+      "title": "Ignoring Choice of Friends",
+      "tip": "Telling you that your best friend is 'bad for you' is a common tactic used to isolate you from your support."
+    },
+    {
+      "title": "Pressure for Shared Passwords",
+      "tip": "Claiming that 'loyalty' means sharing social media logins is a way to eliminate your right to digital privacy."
+    },
+    {
+      "title": "Ignoring Choice of Meal",
+      "tip": "Finishing your food without asking is a small but clear sign that they view your boundaries as optional."
+    },
+    {
+      "title": "The 'Checking Your Heart' Habit",
+      "tip": "Asking 'are you still in love with me?' every day can be a sign of extreme insecurity that leads to control."
+    },
+    {
+      "title": "Ignoring Choice of Rest",
+      "tip": "Waking you up because they are 'bored' shows a fundamental lack of respect for your physical needs and health."
+    },
+    {
+      "title": "The 'Surprise' Moving In",
+      "tip": "Slowly bringing over more items until they've essentially moved in without a talk is a bypass of domestic consent."
+    },
+    {
+      "title": "Ignoring Choice of Safety",
+      "tip": "Dismissing your need to walk to your car in a well-lit area as 'paranoia' ignores your valid physical safety."
+    }
+
+
+
+  ]
+}
+
   }
 }
