@@ -1,64 +1,4621 @@
 {
   "RedFlagCards_DataBase": {
-    "General": {
-      "tips": [
-        {
-          "title": "Trust Your Gut Feelings",
-          "tip": "If something feels off about a person or situation, listen to that inner voice. Your intuition is your best protector in dating."
-        },
-        {
-          "title": "Inconsistent Stories",
-          "tip": "Pay attention when details don't match up or stories change. This could indicate dishonesty or hiding something important."
-        }
-      ]
+    
+  "General": {
+    "tips": [
+      {
+        "title": "You Feel At Ease",
+        "tip": "Spending time with him feels calm and comfortable, not stressful or emotionally draining."
+      },
+      {
+        "title": "Kind to Everyone",
+        "tip": "He's polite to staff, friends, and strangers; respect isn't reserved only for impressing you."
+      },
+      {
+        "title": "Good Listener",
+        "tip": "He asks questions and remembers details, instead of turning every topic back to himself."
+      },
+      {
+        "title": "Respects Your Pace",
+        "tip": "He's happy to move at your pace-texts, dates, intimacy-without rushing or sulking."
+      },
+      {
+        "title": "Plans Thoughtfully",
+        "tip": "He suggests clear plans, confirms timing, and considers your safety and comfort."
+      },
+      {
+        "title": "You Can Be Yourself",
+        "tip": "You don't feel you must perform; you can be honest, goofy, or quiet and still feel accepted."
+      },
+      {
+        "title": "Healthy Humor",
+        "tip": "Jokes don't target your looks, past, or boundaries; humor feels warm, not cutting."
+      },
+      {
+        "title": "Independent Life",
+        "tip": "He has friends, hobbies, and routines, and supports your independence too."
+      },
+      {
+        "title": "Respectful About Exes",
+        "tip": "He takes responsibility for past issues and avoids insulting or blaming all his exes."
+      },
+      {
+        "title": "Comfortable Silence",
+        "tip": "Quiet moments aren't awkward; you feel relaxed even without constant talking."
+      },
+      {
+        "title": "Keeps Small Promises",
+        "tip": "He keeps small commitments, showing reliability before big promises come up."
+      },
+      {
+        "title": "Consistent Respectful Tone",
+        "tip": "His tone stays respectful in person and over text, even when stressed."
+      },
+      {
+        "title": "Lets You Finish Speaking",
+        "tip": "He lets you finish your point, showing patience and real listening."
+      },
+      {
+        "title": "Curious About Your World",
+        "tip": "He asks follow-up questions that show interest in your thoughts and life."
+      },
+      {
+        "title": "Listens to Understand",
+        "tip": "He listens to understand your view, not to win or rush to fix you."
+      },
+      {
+        "title": "Comfort With Emotions",
+        "tip": "He can stay present with feelings instead of changing the subject."
+      },
+      {
+        "title": "Names Needs Kindly",
+        "tip": "He expresses needs clearly and respectfully, reducing guessing games."
+      },
+      {
+        "title": "Checks Consent Ongoing",
+        "tip": "He checks comfort levels as things progress, making consent a habit."
+      },
+      {
+        "title": "Respects Your Routine",
+        "tip": "He honors your work and routines instead of competing for your time."
+      },
+      {
+        "title": "Protects Your Dignity",
+        "tip": "He speaks respectfully about you to others, even during disagreements."
+      },
+      {
+        "title": "Compliments Beyond Looks",
+        "tip": "Compliments include your character and mind, not only appearance."
+      },
+      {
+        "title": "No Scorekeeping",
+        "tip": "Support and kindness feel steady, not tracked like a debt."
+      },
+      {
+        "title": "Follows Up After Dates",
+        "tip": "He checks you got home safe and communicates care afterward."
+      },
+      {
+        "title": "Plans With Your Input",
+        "tip": "He offers options and asks your preference instead of deciding alone."
+      },
+      {
+        "title": "Respects Public Comfort",
+        "tip": "Public affection and jokes stay within what you say feels okay."
+      },
+      {
+        "title": "Matches Your Effort",
+        "tip": "Effort feels mutual, so you’re not chasing consistency alone."
+      },
+      {
+        "title": "Specific Appreciation",
+        "tip": "He notices specific things you do, showing attention over time."
+      },
+      {
+        "title": "Communicates When Stressed",
+        "tip": "Stress leads to clearer communication, not shutdowns or blowups."
+      },
+      {
+        "title": "No Relationship Games",
+        "tip": "He avoids jealousy tests or silence meant to provoke reactions."
+      },
+      {
+        "title": "Invites Feedback",
+        "tip": "He welcomes feedback because he cares about impact, not ego."
+      },
+      {
+        "title": "Transparent Choices",
+        "tip": "He explains decisions calmly, building trust through transparency."
+      },
+      {
+        "title": "Includes You in Groups",
+        "tip": "In social settings, he makes space for you to feel included."
+      },
+      {
+        "title": "Owns His Triggers",
+        "tip": "He notices triggers and manages them instead of blaming you."
+      },
+      {
+        "title": "Can Change His Mind",
+        "tip": "He updates opinions with new info, showing flexibility and humility."
+      },
+      {
+        "title": "Steady Week to Week",
+        "tip": "Interest stays steady over time, not intense highs and sudden drops."
+      },
+      {
+        "title": "Models Healthy Boundaries",
+        "tip": "He sets respectful boundaries too, showing self-respect and clarity."
+      },
+      {
+        "title": "Kind to Your Friends",
+        "tip": "He respects your friendships and doesn’t compete for your support."
+      },
+      {
+        "title": "Supports Alone Time",
+        "tip": "He supports alone time, showing trust and emotional security."
+      },
+      {
+        "title": "Honors Your 'Maybe'",
+        "tip": "He accepts uncertainty without pressuring you into quick decisions."
+      },
+      {
+        "title": "Keeps Concerns Private",
+        "tip": "He discusses problems privately instead of shaming you publicly."
+      },
+      {
+        "title": "Enjoys Simple Dates",
+        "tip": "He enjoys simple plans too, showing connection matters more than optics."
+      },
+      {
+        "title": "Online Matches Offline",
+        "tip": "Social media behavior matches real life; affection isn’t performative."
+      },
+      {
+        "title": "Shares Details Early",
+        "tip": "He shares time and place early, supporting your safety planning."
+      },
+      {
+        "title": "Welcomes Questions",
+        "tip": "He answers reasonable questions without acting offended or evasive."
+      },
+      {
+        "title": "Expresses Gratitude",
+        "tip": "He says thank you and notices your effort consistently."
+      },
+      {
+        "title": "Remembers Preferences",
+        "tip": "He remembers likes and dislikes, showing steady attention."
+      },
+      {
+        "title": "Respects Your Budget",
+        "tip": "Plans don’t pressure spending beyond your comfort level."
+      },
+      {
+        "title": "Clear About Schedule",
+        "tip": "He communicates busy periods, so silence doesn’t create anxiety."
+      },
+      {
+        "title": "Slow Build Feels Safe",
+        "tip": "He values gradual closeness, which supports emotional safety."
+      },
+      {
+        "title": "Keeps Conflict Gentle",
+        "tip": "Tension stays respectful; he avoids contempt, sarcasm, and insults."
+      },
+      {
+        "title": "Makes Repair Attempts",
+        "tip": "After tension, he reaches for reconnection instead of distancing."
+      },
+      {
+        "title": "Remembers Boundaries",
+        "tip": "A boundary doesn’t need repeating; he adjusts and remembers."
+      },
+      {
+        "title": "Frames as Team Problem",
+        "tip": "He frames issues as 'us vs the issue,' not 'me vs you.'"
+      },
+      {
+        "title": "Comfortable Saying Unsure",
+        "tip": "He can say he’s unsure, preventing misleading promises."
+      },
+      {
+        "title": "Checks Assumptions",
+        "tip": "He asks before concluding, which prevents misunderstandings."
+      },
+      {
+        "title": "Respects Your Identity",
+        "tip": "He respects your culture, faith, and values without trying to reshape you."
+      },
+      {
+        "title": "Warm Curiosity",
+        "tip": "Questions feel caring and curious, not suspicious or interrogating."
+      },
+      {
+        "title": "Consistent Availability",
+        "tip": "Availability is clear and steady, not confusing or chaotic."
+      },
+      {
+        "title": "Protects Your Privacy",
+        "tip": "He doesn’t share your personal details without your permission."
+      },
+      {
+        "title": "Supports Your Ambition",
+        "tip": "He supports career goals and doesn’t treat success like a threat."
+      },
+      {
+        "title": "Respects Wellness Choices",
+        "tip": "He respects sleep, health, and self-care choices without criticism."
+      },
+      {
+        "title": "Fair Partnership Mindset",
+        "tip": "He talks about roles and effort with fairness, not entitlement."
+      },
+      {
+        "title": "Kind About Family Topics",
+        "tip": "He can discuss family complexity without cruelty or constant blame."
+      },
+      {
+        "title": "Affection Feels Steady",
+        "tip": "Affection is consistent and safe, not used to control closeness."
+      },
+      {
+        "title": "Consent Is Reversible",
+        "tip": "He treats consent as enthusiastic and changeable at any time."
+      },
+      {
+        "title": "Respects Intimacy Timing",
+        "tip": "He aligns intimacy with trust, reducing pressure and fear."
+      },
+      {
+        "title": "Checks In After Intimacy",
+        "tip": "He checks you feel good emotionally and physically afterward."
+      },
+      {
+        "title": "Notices Discomfort Cues",
+        "tip": "He notices discomfort and adjusts without making it about him."
+      },
+      {
+        "title": "Respectful With Alcohol",
+        "tip": "If drinking happens, behavior stays respectful and self-controlled."
+      },
+      {
+        "title": "Phone Use Feels Normal",
+        "tip": "Phone habits feel open and ordinary, not secretive or anxious."
+      },
+      {
+        "title": "Stories Stay Consistent",
+        "tip": "Details stay consistent over time, reducing confusion and doubt."
+      },
+      {
+        "title": "Money Talks Are Calm",
+        "tip": "He can discuss money calmly, supporting long-term stability."
+      },
+      {
+        "title": "Shares Planning Load",
+        "tip": "He shares planning and effort so the relationship doesn’t rest on you."
+      },
+      {
+        "title": "Respects Digital Limits",
+        "tip": "He doesn’t pressure for photos or constant replies to prove interest."
+      },
+      {
+        "title": "Supports Safety Choices",
+        "tip": "He supports meeting public or sharing location without taking it personally."
+      },
+      {
+        "title": "Accepts 'Not Yet'",
+        "tip": "He accepts 'not yet' with patience, not sulking or persuasion."
+      },
+      {
+        "title": "Trust Without Policing",
+        "tip": "Trust shows as freedom, not monitoring or constant check-ins."
+      },
+      {
+        "title": "Asks Before Visiting",
+        "tip": "He checks before coming over, showing respect for your space."
+      },
+      {
+        "title": "Compliments Feel Grounded",
+        "tip": "Compliments feel realistic and sincere, not exaggerated to win you."
+      },
+      {
+        "title": "Talks About Learning",
+        "tip": "He talks about growth and learning, signaling a change-ready mindset."
+      },
+      {
+        "title": "Receives Concerns Well",
+        "tip": "He hears concerns and responds thoughtfully rather than defensively."
+      },
+      {
+        "title": "Shares Core Values",
+        "tip": "He can name values and priorities, helping you assess alignment."
+      },
+      {
+        "title": "Same Respect in Public",
+        "tip": "He treats you well around others, not only when alone."
+      },
+      {
+        "title": "Boundaries Feel Normal",
+        "tip": "He treats boundaries as healthy, not as rejection or punishment."
+      },
+      {
+        "title": "Empathy Before Advice",
+        "tip": "He seeks to understand your feelings before offering solutions."
+      },
+      {
+        "title": "Clarity Grows Over Time",
+        "tip": "Intentions stay clear as time passes, reducing confusion."
+      },
+      {
+        "title": "Respects Your Space Requests",
+        "tip": "If you need space, he respects it and doesn’t escalate contact."
+      },
+      {
+        "title": "Comfort Comes First",
+        "tip": "He chooses options that support your comfort, especially early on."
+      },
+      {
+        "title": "No Comparisons to Others",
+        "tip": "He avoids comparing you to other women, supporting confidence and trust."
+      },
+      {
+        "title": "Gives Credit Easily",
+        "tip": "He gives credit to others, reflecting humility and secure confidence."
+      },
+      {
+        "title": "Adapts to Disappointment",
+        "tip": "When plans change, he adapts calmly without taking it out on you."
+      },
+      {
+        "title": "Everyday Courtesy",
+        "tip": "Basic manners show up daily, not only during the chase."
+      },
+      {
+        "title": "Specific Apologies",
+        "tip": "Apologies name what happened and what will change next time."
+      },
+      {
+        "title": "Realistic Commitments",
+        "tip": "He makes realistic promises and keeps them, building trust steadily."
+      },
+      {
+        "title": "Enjoys Co-Creating Plans",
+        "tip": "He enjoys planning together, showing partnership mindset."
+      },
+      {
+        "title": "Adjusts After One Ask",
+        "tip": "After you share a limit, he adapts quickly without repeated testing."
+      },
+      {
+        "title": "Checks Your Preferences",
+        "tip": "He checks what you want before choosing, showing attunement."
+      },
+      {
+        "title": "Warm, Clear Goodbyes",
+        "tip": "Goodbyes feel warm and clear, not confusing or emotionally messy."
+      },
+      {
+        "title": "Invites Your Opinions",
+        "tip": "He asks for your opinion and makes room for it in decisions."
+      },
+      {
+        "title": "Respects Different Views",
+        "tip": "Different views are handled with respect, not ridicule or pressure."
+      },
+      {
+        "title": "Keeps Pace With You",
+        "tip": "He matches the pace you set, making safety and trust easier to build."
+      },
+      {
+        "title": "Consistent Courtesy to Others",
+        "tip": "Kindness shows up with everyone, suggesting character beyond romance."
+      },
+      {
+        "title": "Handles Waiting Calmly",
+        "tip": "Delays and small frustrations are handled calmly, not with anger."
+      },
+      {
+        "title": "Talks Through Confusion",
+        "tip": "When something feels unclear, he talks it through instead of withdrawing."
+      },
+      {
+        "title": "Shares Vulnerable Stories",
+        "tip": "He shares real life experiences, helping connection grow with honesty."
+      },
+      {
+        "title": "Keeps Attention Present",
+        "tip": "During dates, attention feels present rather than distracted or checked out."
+      },
+      {
+        "title": "Respects Your Boundaries Fast",
+        "tip": "Boundaries are honored quickly, which builds trust and relaxation."
+      },
+      {
+        "title": "Balances Initiation",
+        "tip": "Both people initiate plans and contact, creating mutual momentum."
+      },
+      {
+        "title": "Makes Space for Silence",
+        "tip": "Silence is allowed without pressure to perform or entertain."
+      },
+
+            {
+        "title": "Checks Emotional Impact",
+        "tip": "He occasionally asks how his behavior feels for you, showing care for your experience."
+      },
+      {
+        "title": "Keeps You Informed",
+        "tip": "He lets you know when plans or timing shift, so you’re not left wondering."
+      },
+      {
+        "title": "Balances Talk and Listen",
+        "tip": "Conversations feel like a two-way exchange, not a monologue."
+      },
+      {
+        "title": "Open About Hobbies",
+        "tip": "He shares his interests and invites you in without pressuring you to match them."
+      },
+      {
+        "title": "Explains Boundaries Calmly",
+        "tip": "He shares his own limits in a steady, matter-of-fact way."
+      },
+      {
+        "title": "Admits Nerves Honestly",
+        "tip": "He can admit feeling shy or nervous instead of hiding behind bravado."
+      },
+      {
+        "title": "Shares Credit in Stories",
+        "tip": "He acknowledges others’ help instead of taking all the credit."
+      },
+      {
+        "title": "Treats Service Staff Well",
+        "tip": "He consistently treats servers, drivers, and staff with courtesy."
+      },
+      {
+        "title": "Uses Calming Language",
+        "tip": "His word choices de-escalate tension rather than inflame it."
+      },
+      {
+        "title": "Adapts to Your Comfort",
+        "tip": "He adjusts plans when you say something feels too much or too fast."
+      },
+      {
+        "title": "Shares Daily Life Bits",
+        "tip": "He offers small updates about his day, building natural closeness."
+      },
+      {
+        "title": "Encourages Your Opinions",
+        "tip": "He invites your take on topics and responds with genuine interest."
+      },
+      {
+        "title": "Respects Your Schedule",
+        "tip": "He suggests plans that fit realistically around your commitments."
+      },
+      {
+        "title": "Explains Absences Briefly",
+        "tip": "If he goes quiet, he later explains in a simple, respectful way."
+      },
+      {
+        "title": "Values Emotional Honesty",
+        "tip": "He appreciates when you share honestly, even if it’s vulnerable."
+      },
+      {
+        "title": "Checks Comfort With Pace",
+        "tip": "He occasionally asks if the pace of dating still feels right for you."
+      },
+      {
+        "title": "Shares Responsibility",
+        "tip": "He naturally helps carry small responsibilities around plans and logistics."
+      },
+      {
+        "title": "Gentle Teasing Only",
+        "tip": "Jokes stay light and kind, never targeting sensitive topics you’ve named."
+      },
+      {
+        "title": "Shows Up Prepared",
+        "tip": "He arrives reasonably prepared for plans, showing respect for shared time."
+      },
+      {
+        "title": "Keeps Conversations Safe",
+        "tip": "He steers away from topics that you’ve said feel overwhelming right now."
+      },
+      {
+        "title": "Honors Your Comfort Zone",
+        "tip": "He doesn’t push you into social scenes or environments you dislike."
+      },
+      {
+        "title": "Admits When Unsure",
+        "tip": "He can say he doesn’t know what he feels yet without misleading you."
+      },
+      {
+        "title": "Checks For Overload",
+        "tip": "He notices when you’re tired and offers to pause heavy topics."
+      },
+      {
+        "title": "Respects Your Boundaries Time",
+        "tip": "He honors any timing you set, such as needing early nights or breaks."
+      },
+      {
+        "title": "Shows Gentle Patience",
+        "tip": "He gives you time to answer and decide without rushing or hovering."
+      },
+      {
+        "title": "Shares Learning Moments",
+        "tip": "He talks about what he learned from past mistakes, not just the mistake."
+      },
+      {
+        "title": "Keeps Phone Respectful",
+        "tip": "Phone use around you feels considerate, not dismissive or secretive."
+      },
+      {
+        "title": "Explains Humor If Needed",
+        "tip": "If a joke lands wrong, he clarifies and softens rather than doubling down."
+      },
+      {
+        "title": "Open About Limitations",
+        "tip": "He’s willing to name his limits, like time or energy, honestly."
+      },
+      {
+        "title": "Acknowledges Your Effort",
+        "tip": "He notices when you put care into planning, appearance, or listening."
+      },
+      {
+        "title": "Shows Gentle Curiosity",
+        "tip": "Questions about your past come with respect, not judgment."
+      },
+      {
+        "title": "Keeps Anger Contained",
+        "tip": "Frustration stays directed at the situation, not at you personally."
+      },
+      {
+        "title": "Gives Emotional Space",
+        "tip": "He allows you quiet time when you’re processing, without punishment."
+      },
+      {
+        "title": "Checks Emotional Safety",
+        "tip": "He sometimes asks if you feel emotionally safe in the connection."
+      },
+      {
+        "title": "Shares His Standards",
+        "tip": "He can name what healthy partnership means to him in behavior terms."
+      },
+      {
+        "title": "Uses Names Kindly",
+        "tip": "He uses your name or nickname in a warm, respectful way."
+      },
+      {
+        "title": "Keeps Boundaries in Conflict",
+        "tip": "He avoids bringing in threats or breakups during ordinary disagreements."
+      },
+      {
+        "title": "Shows Steady Interest",
+        "tip": "Interest shows up in small, regular ways rather than rare big gestures."
+      },
+      {
+        "title": "Validates Your Perspective",
+        "tip": "Even when he differs, he can see why you might feel the way you do."
+      },
+      {
+        "title": "Calm When Plans Shift",
+        "tip": "Change of plans brings flexibility instead of blame or sulking."
+      },
+      {
+        "title": "Keeps Social Media Respectful",
+        "tip": "His online presence is aligned with respect and his stated values."
+      },
+      {
+        "title": "Comfortable With Your Success",
+        "tip": "He can celebrate your wins even when his season feels slower."
+      },
+      {
+        "title": "Names Emotional Needs",
+        "tip": "He can say when he needs reassurance or space without drama."
+      },
+      {
+        "title": "Gives Context for Delays",
+        "tip": "When replies are delayed, he later offers simple, respectful context."
+      },
+      {
+        "title": "Gentle With Past Wounds",
+        "tip": "He treats your past hurts with care and doesn’t weaponize them."
+      },
+      {
+        "title": "Respects Your Social Style",
+        "tip": "He adjusts to your introversion or extroversion with understanding."
+      },
+      {
+        "title": "Talks About Boundaries Early",
+        "tip": "He’s comfortable naming emotional and physical boundaries from the start."
+      },
+      {
+        "title": "Shows Healthy Independence",
+        "tip": "He enjoys time apart as well as together, which reduces clinginess."
+      },
+      {
+        "title": "Calm Around Disagreement",
+        "tip": "Different views don’t automatically become personal conflicts."
+      },
+      {
+        "title": "Revisits Big Topics Slowly",
+        "tip": "He’s willing to return to important topics in small, safe doses."
+      },
+      {
+        "title": "Values Your Intuition",
+        "tip": "He takes your gut feelings seriously, even when they differ from his."
+      },
+      {
+        "title": "Open About Relationship Skills",
+        "tip": "He can name what he’s learned about communication and repair."
+      },
+      {
+        "title": "Uses Soft Startups",
+        "tip": "He tends to raise concerns gently instead of with sudden criticism."
+      },
+      {
+        "title": "Not Threatened by Help",
+        "tip": "He’s comfortable if you suggest tools like books, courses, or therapy."
+      },
+      {
+        "title": "Keeps Humor Respectful",
+        "tip": "His humor doesn’t rely on put-downs, stereotypes, or cruelty."
+      },
+      {
+        "title": "Shows Predictable Warmth",
+        "tip": "Warmth feels stable; you’re not guessing what version of him appears."
+      },
+      {
+        "title": "Shares Relationship Hopes",
+        "tip": "He can describe the kind of partnership he’s hoping to build."
+      },
+      {
+        "title": "Names Dealbreakers Calmly",
+        "tip": "He can talk about his non-negotiables without shaming yours."
+      },
+      {
+        "title": "Checks Physical Comfort",
+        "tip": "He asks about temperature, seating, and basic comfort on dates."
+      },
+      {
+        "title": "Considers Your Commute",
+        "tip": "He factors your travel time and safety into planning locations."
+      },
+      {
+        "title": "Keeps Language Non-Defensive",
+        "tip": "He leans toward 'I feel' and 'I notice' rather than accusations."
+      },
+      {
+        "title": "Invites Your Boundaries",
+        "tip": "He actively asks what helps you feel safe and respected."
+      },
+      {
+        "title": "Shares Emotional Responsibility",
+        "tip": "He sees emotional health as shared, not your job alone."
+      },
+      {
+        "title": "Acknowledges Power Dynamics",
+        "tip": "He’s aware of age, money, or status gaps and acts carefully around them."
+      },
+      {
+        "title": "Keeps Promises About Time",
+        "tip": "If he says he only has an hour, he respects that limit too."
+      },
+      {
+        "title": "Names His Intent Clearly",
+        "tip": "He describes what he’s exploring with you in simple, direct words."
+      },
+      {
+        "title": "Willing to Slow Down",
+        "tip": "If you ask to slow things, his behavior adjusts without complaint."
+      },
+      {
+        "title": "Stays Curious Over Time",
+        "tip": "His interest in learning about you continues past the early phase."
+      },
+      {
+        "title": "Checks Emotional Aftercare",
+        "tip": "After hard talks, he checks in on how you’re feeling now."
+      },
+      {
+        "title": "Respects Holidays and Culture",
+        "tip": "He shows interest and respect for days and rituals important to you."
+      },
+      {
+        "title": "Keeps Conversations Two-Sided",
+        "tip": "You both share; he doesn’t leave you doing all emotional labor."
+      },
+      {
+        "title": "Values Your Safety Plans",
+        "tip": "He’s supportive when you share location or tell friends your plans."
+      },
+      {
+        "title": "Explains Time Gaps",
+        "tip": "Long gaps in talking are rare and reasonably explained."
+      },
+      {
+        "title": "Uses Encouraging Words",
+        "tip": "His language often uplifts and supports your confidence."
+      },
+      {
+        "title": "Accepts Different Coping",
+        "tip": "He respects that you might process stress differently from him."
+      },
+      {
+        "title": "Shares Emotional Vocabulary",
+        "tip": "He uses feeling words, which makes emotional clarity easier."
+      },
+      {
+        "title": "Checks Mental Load",
+        "tip": "He notices when you’re juggling many tasks and offers support."
+      },
+      {
+        "title": "Keeps Seasons in Mind",
+        "tip": "He considers your busy seasons and adjusts expectations kindly."
+      },
+      {
+        "title": "Gentle With Past Partners",
+        "tip": "He speaks about exes with nuance rather than blanket insults."
+      },
+      {
+        "title": "Holds His Own Boundaries",
+        "tip": "He protects his limits respectfully, modeling healthy self-care."
+      },
+      {
+        "title": "Names When He’s Off",
+        "tip": "If he’s distant or tired, he names it instead of making you guess."
+      },
+      {
+        "title": "Respects Your Energy Level",
+        "tip": "He notices and honors when you’re low-energy without pressure."
+      },
+      {
+        "title": "Comfortable With Pauses",
+        "tip": "Pauses in conversation don’t trigger irritation or criticism from him."
+      },
+      {
+        "title": "Invites Joint Reflection",
+        "tip": "He occasionally asks how the connection is feeling for both of you."
+      },
+      {
+        "title": "Keeps Flirting Respectful",
+        "tip": "Flirting aligns with your comfort level and stated boundaries."
+      },
+      {
+        "title": "Balances Physical and Emotional",
+        "tip": "He invests in emotional closeness, not only physical chemistry."
+      },
+      {
+        "title": "Adapts Language to You",
+        "tip": "He adjusts jokes or terms when you say something doesn’t land well."
+      },
+      {
+        "title": "Uses Check-In Questions",
+        "tip": "Questions like 'How does this feel for you?' show steady care."
+      },
+      {
+        "title": "Keeps Hope Realistic",
+        "tip": "He talks hopefully about you two without making grand promises."
+      },
+      {
+        "title": "Accepts Feedback on Timing",
+        "tip": "If timing feels off for you, he’s open to adjusting patterns."
+      },
+      {
+        "title": "Protects Shared Time",
+        "tip": "He generally avoids constant distractions during your time together."
+      },
+      {
+        "title": "Talks About Emotional Safety",
+        "tip": "He can discuss what helps each of you feel emotionally safe."
+      },
+      {
+        "title": "Checks Physical Safety Too",
+        "tip": "He notices lighting, exits, and surroundings and asks if you feel safe."
+      },
+      {
+        "title": "Uses Gentle Honesty",
+        "tip": "He’s honest but delivers truth in a considerate way."
+      },
+      {
+        "title": "Holds Space for Tears",
+        "tip": "If you cry, he stays calm and present instead of shutting down."
+      },
+      {
+        "title": "Names Appreciation Often",
+        "tip": "He regularly mentions what he appreciates about knowing you."
+      },
+      {
+        "title": "Keeps Story Details Clear",
+        "tip": "His life stories stay aligned, supporting a sense of trust."
+      },
+      {
+        "title": "Respects Your Healing Pace",
+        "tip": "He understands if you’re healing from past hurt and stays patient."
+      },
+      {
+        "title": "Gently Reality-Checks",
+        "tip": "He offers perspective kindly when you’re hard on yourself."
+      },
+      {
+        "title": "Honors Your Boundaries Alone",
+        "tip": "He respects limits even when no one else is watching."
+      },
+      {
+        "title": "Keeps Choices Collaborative",
+        "tip": "Shared decisions usually involve both your preferences."
+      },
+      {
+        "title": "Values Mutual Effort",
+        "tip": "He sees healthy dating as something you both build together."
+      },
+      {
+        "title": "Stays Predictable in Conflict",
+        "tip": "His reactions in conflict follow a steady, respectful pattern."
+      },
+      {
+        "title": "Shows Gentle Protectiveness",
+        "tip": "He’s mindful of your wellbeing without controlling your choices."
+      },
+      {
+        "title": "Admits When Overwhelmed",
+        "tip": "He can say when he’s overwhelmed, preventing abrupt withdrawal."
+      },
+      {
+        "title": "Keeps Space for Fun",
+        "tip": "He makes room for lightness and play, not only serious talks."
+      },
+      {
+        "title": "Encourages Your Boundaries",
+        "tip": "He affirms you when you protect your limits with others too."
+      },
+      {
+        "title": "Respects Different Timelines",
+        "tip": "He accepts that your emotional or life timeline may differ from his."
+      },
+
+            {
+        "title": "Values Your Intuition",
+        "tip": "He respects your gut feelings and doesn't dismiss your instincts as irrational."
+      },
+      {
+        "title": "Respects Your Hobbies",
+        "tip": "He encourages your interests, even if they aren't things he personally enjoys."
+      },
+      {
+        "title": "Communicates Delays",
+        "tip": "He lets you know if he's running late, showing respect for your schedule."
+      },
+      {
+        "title": "Asks for Clarification",
+        "tip": "Instead of assuming, he asks what you meant to avoid unnecessary conflict."
+      },
+      {
+        "title": "Stable Emotional Baseline",
+        "tip": "His mood is generally steady, which helps you feel secure and relaxed."
+      },
+      {
+        "title": "Respects Career Goals",
+        "tip": "He views your professional success as a win for both of you, not a threat."
+      },
+      {
+        "title": "Safe Physical Presence",
+        "tip": "His body language is open and non-threatening, even during disagreements."
+      },
+      {
+        "title": "Follows Through on Tasks",
+        "tip": "If he offers to help with something, he does it without needing reminders."
+      },
+      {
+        "title": "Gives Sincere Thanks",
+        "tip": "He notices the small things you do and expresses genuine gratitude often."
+      },
+      {
+        "title": "Respects Different Paces",
+        "tip": "He understands that people process emotions at different speeds."
+      },
+      {
+        "title": "Handles 'No' with Grace",
+        "tip": "When you decline a plan, he accepts it without sulking or guilt-tripping."
+      },
+      {
+        "title": "Balanced Disclosure",
+        "tip": "He shares personal details at a pace that matches your level of trust."
+      },
+      {
+        "title": "No Hidden Agendas",
+        "tip": "His actions match his stated intentions, creating a clear sense of honesty."
+      },
+      {
+        "title": "Respects Digital Space",
+        "tip": "He doesn't demand instant replies, acknowledging you have a life online."
+      },
+      {
+        "title": "Admits Fear or Doubt",
+        "tip": "He can say 'I'm scared' or 'I'm not sure,' which shows high self-awareness."
+      },
+      {
+        "title": "Protects Your Privacy",
+        "tip": "He asks before sharing your personal stories or photos with others."
+      },
+      {
+        "title": "Consistent Value System",
+        "tip": "His behavior aligns with his stated morals, even when it's inconvenient."
+      },
+      {
+        "title": "Respects Sleep Hygiene",
+        "tip": "He doesn't call late if he knows you need rest, valuing your health."
+      },
+      {
+        "title": "Welcomes Constructive Talk",
+        "tip": "He treats 'the talk' as a way to improve the bond, not as a chore."
+      },
+      {
+        "title": "No Unsolicited Fixes",
+        "tip": "He asks if you want to vent or want advice before jumping into solutions."
+      },
+      {
+        "title": "Shares Planning Burdens",
+        "tip": "He takes the lead on dates sometimes so you don't do all the labor."
+      },
+      {
+        "title": "Acknowledges His Impact",
+        "tip": "He realizes how his words affect you and adjusts to be kinder."
+      },
+      {
+        "title": "Respects Family Ties",
+        "tip": "He honors your commitment to family without feeling competitive for time."
+      },
+      {
+        "title": "Calm in Traffic/Lines",
+        "tip": "How he handles small daily stresses shows his general emotional control."
+      },
+      {
+        "title": "Gives You the Floor",
+        "tip": "In group settings, he makes sure you get a chance to speak and be heard."
+      },
+      {
+        "title": "Remembers Food Allergies",
+        "tip": "He double-checks menus for your safety, showing protective attention."
+      },
+      {
+        "title": "Consistent Tone of Voice",
+        "tip": "He doesn't use a harsh or condescending tone, even when he's frustrated."
+      },
+      {
+        "title": "Honors Solo Time",
+        "tip": "He is happy when you spend time with your friends without him."
+      },
+      {
+        "title": "Does Not Love Bomb",
+        "tip": "His affection builds gradually, which is a sign of emotional stability."
+      },
+      {
+        "title": "Apologizes for Lateness",
+        "tip": "A simple 'sorry I'm late' shows he values your time as much as his own."
+      },
+      {
+        "title": "Respects Your Identity",
+        "tip": "He doesn't try to change your style, beliefs, or core personality."
+      },
+      {
+        "title": "Shares Financial Values",
+        "tip": "He is open about his approach to money, preventing future stress."
+      },
+      {
+        "title": "Supports Your Wellness",
+        "tip": "He cheers on your gym, therapy, or meditation goals with enthusiasm."
+      },
+      {
+        "title": "No Public Criticism",
+        "tip": "If he has a concern, he waits until you are alone to discuss it kindly."
+      },
+      {
+        "title": "Curious About Your Past",
+        "tip": "He asks about your childhood to understand the person you are today."
+      },
+      {
+        "title": "Admits to Mistakes Early",
+        "tip": "He doesn't hide errors; he owns them immediately to maintain trust."
+      },
+      {
+        "title": "Respects Religious Views",
+        "tip": "He honors your faith or lack thereof without trying to convert you."
+      },
+      {
+        "title": "Gives Genuine Praise",
+        "tip": "His compliments are specific to your skills, not just your looks."
+      },
+      {
+        "title": "Handles Stress with Logic",
+        "tip": "When things go wrong, he focuses on the next step rather than blaming."
+      },
+      {
+        "title": "Stable Friendships",
+        "tip": "His long-term friendships suggest he is capable of healthy commitment."
+      },
+      {
+        "title": "No Petty Sarcasm",
+        "tip": "He avoids using 'jokes' to put you down or mask passive aggression."
+      },
+      {
+        "title": "Values Your Safety",
+        "tip": "He checks that you're home safe, showing a protective, caring pattern."
+      },
+      {
+        "title": "Consistent Effort Levels",
+        "tip": "He doesn't pull back once he feels he's 'won' you over; effort stays."
+      },
+      {
+        "title": "Respects Personal Space",
+        "tip": "He doesn't crowd you physically if you seem to need a bit of room."
+      },
+      {
+        "title": "Admits to 'Not Knowing'",
+        "tip": "Being okay with uncertainty shows he doesn't feel a need to perform."
+      },
+      {
+        "title": "No Interruption Policy",
+        "tip": "He waits for you to finish your sentence before he starts his own."
+      },
+      {
+        "title": "Values Your Feedback",
+        "tip": "He asks 'How can I be a better partner?' and actually listens."
+      },
+      {
+        "title": "Healthy Conflict Style",
+        "tip": "He views arguments as a way to solve problems, not a way to win."
+      },
+      {
+        "title": "Acknowledges Your Worth",
+        "tip": "He treats you as an equal partner in every major decision."
+      },
+      {
+        "title": "Respects Your Mentors",
+        "tip": "He values the people you look up to, showing respect for your growth."
+      },
+      {
+        "title": "Keeps His Cool",
+        "tip": "He doesn't yell or use aggressive gestures when he is angry."
+      },
+      {
+        "title": "No Testing of Limits",
+        "tip": "Once a boundary is set, he follows it without 'testing' to see if it's firm."
+      },
+      {
+        "title": "Open Phone Policy",
+        "tip": "He isn't overly secretive with his devices, fostering a sense of trust."
+      },
+      {
+        "title": "Shares Domestic Labor",
+        "tip": "He naturally picks up slack in shared spaces without being asked."
+      },
+      {
+        "title": "Supports Career Risks",
+        "tip": "He is a safety net when you want to try something new or difficult."
+      },
+      {
+        "title": "Respects Your 'Me Time'",
+        "tip": "He understands that being alone is necessary for your mental health."
+      },
+      {
+        "title": "No Comparison Games",
+        "tip": "He doesn't compare you to exes or other women to make you insecure."
+      },
+      {
+        "title": "Balanced Initiation",
+        "tip": "He starts conversations and plans just as much as you do."
+      },
+      {
+        "title": "Admits Vulnerability",
+        "tip": "He is comfortable crying or being soft, which deepens intimacy."
+      },
+      {
+        "title": "Respects Your Timeframes",
+        "tip": "If you say you need a year to move in, he honors that timeline."
+      },
+      {
+        "title": "Not Afraid of Labels",
+        "tip": "He is happy to call you his partner once the relationship is solid."
+      },
+      {
+        "title": "Respects Introversion",
+        "tip": "He doesn't force you into loud parties if you're feeling drained."
+      },
+      {
+        "title": "Values Intellectual Talk",
+        "tip": "He enjoys debating ideas with you, showing respect for your mind."
+      },
+      {
+        "title": "No Silent Treatment",
+        "tip": "If he needs space, he says 'I need an hour' instead of vanishing."
+      },
+      {
+        "title": "Admits When He's Grumpy",
+        "tip": "He takes responsibility for his mood instead of taking it out on you."
+      },
+      {
+        "title": "Respects Your Autonomy",
+        "tip": "He trusts you to make your own choices without his constant input."
+      },
+      {
+        "title": "Consistent Texts",
+        "tip": "His communication rhythm is predictable, which prevents anxiety."
+      },
+      {
+        "title": "Supports Friendships",
+        "tip": "He wants you to have a strong support system outside of him."
+      },
+      {
+        "title": "No Jealous Projections",
+        "tip": "He trusts your loyalty because he is secure in himself."
+      },
+      {
+        "title": "Gives You Grace",
+        "tip": "He is patient when you make mistakes, just as you are with him."
+      },
+      {
+        "title": "Values Your Style",
+        "tip": "He likes you for who you are, not for how well you fit a mold."
+      },
+      {
+        "title": "No Financial Policing",
+        "tip": "He respects how you spend your own money without judgment."
+      },
+      {
+        "title": "Admits to Social Burnout",
+        "tip": "He can say he's tired and wants to go home, showing honesty."
+      },
+      {
+        "title": "Respects Your Body",
+        "tip": "He never pressures you for physical acts you aren't ready for."
+      },
+      {
+        "title": "Encourages Your Voice",
+        "tip": "He wants to hear your opinion, even if it's different from his own."
+      },
+      {
+        "title": "No Gaslighting",
+        "tip": "He validates your reality, even if he remembers a situation differently."
+      },
+      {
+        "title": "Stable Life Direction",
+        "tip": "He has goals and a plan, which provides a sense of future safety."
+      },
+      {
+        "title": "Values Deep Connection",
+        "tip": "He prioritizes conversation and bonding over just physical intimacy."
+      },
+      {
+        "title": "Respects Your 'No' Always",
+        "tip": "A 'no' in any context is met with immediate, quiet acceptance."
+      },
+      {
+        "title": "Checks In Regularly",
+        "tip": "A quick 'thinking of you' text shows you are a priority in his day."
+      },
+      {
+        "title": "Supports Skill Building",
+        "tip": "Whether it's a class or a hobby, he wants you to keep growing."
+      },
+      {
+        "title": "No Performative Love",
+        "tip": "He is just as kind to you in private as he is when others are watching."
+      },
+      {
+        "title": "Values Your Comfort",
+        "tip": "He makes sure you're warm, fed, and happy, showing true care."
+      },
+      {
+        "title": "Open to New Ideas",
+        "tip": "He listens when you suggest a new way of doing things or communicating."
+      },
+      {
+        "title": "No Grudges Held",
+        "tip": "Once a conflict is resolved, he lets it go and doesn't bring it up again."
+      },
+      {
+        "title": "Respects Your Health",
+        "tip": "If you're sick, he's the first one to offer help without being asked."
+      },
+      {
+        "title": "Values Shared Silence",
+        "tip": "You can sit together without talking and still feel totally connected."
+      },
+      {
+        "title": "No Controlling Vibe",
+        "tip": "He makes suggestions but never demands that you do things his way."
+      },
+      {
+        "title": "Admits Personal Bias",
+        "tip": "He can say 'I'm being biased here,' which shows great mental maturity."
+      },
+      {
+        "title": "Respects Your Privacy",
+        "tip": "He doesn't look through your things or demand to see your messages."
+      },
+      {
+        "title": "Consistent Manners",
+        "tip": "He says please and thank you to everyone, showing deep-rooted respect."
+      },
+      {
+        "title": "Values Long-Term Growth",
+        "tip": "He is interested in building a life with you, not just a temporary fun."
+      },
+      {
+        "title": "No Ego in Apologies",
+        "tip": "He cares more about the relationship than being 'right' in an argument."
+      },
+      {
+        "title": "Supports Self-Care",
+        "tip": "He understands when you need to cancel a plan to take care of yourself."
+      },
+      {
+        "title": "Honors Your Heritage",
+        "tip": "He respects your culture and wants to learn about your traditions."
+      },
+      {
+        "title": "No Emotional Blackmail",
+        "tip": "He never uses your feelings or vulnerabilities to get what he wants."
+      },
+      {
+        "title": "Stable Routine",
+        "tip": "His habits are predictable, which helps you build a life together easily."
+      },
+      {
+        "title": "Values Your Strength",
+        "tip": "He is proud of your independence and doesn't try to dampen it."
+      },
+      {
+        "title": "No Passive Aggression",
+        "tip": "If he's upset, he tells you directly and kindly so you can fix it."
+      },
+      {
+        "title": "Respects Your Pace",
+        "tip": "He doesn't rush physical or emotional milestones before you're ready."
+      }
+    ]
+  },
+
+  "Relationship Balance": {
+    "tips": [
+      {
+        "title": "Reciprocal Effort",
+        "tip": "Initiating plans and check-ins feels like a two-way street, preventing one person from carrying the load."
+      },
+      {
+        "title": "Collaborative Decisions",
+        "tip": "Choices about dates, meals, or travel include both perspectives, reflecting a partnership of equals."
+      },
+      {
+        "title": "Balanced Vulnerability",
+        "tip": "Both people feel safe sharing fears and joys, creating a stable emotional exchange over time."
+      },
+      {
+        "title": "Mutual Respect for Time",
+        "tip": "Both partners value each other's schedules, showing that neither person's time is more 'important' than the other's."
+      },
+      {
+        "title": "Shared Social Effort",
+        "tip": "There is a pattern of showing interest in each other’s friends and family, integrating both lives equally."
+      },
+      {
+        "title": "Equitable Support",
+        "tip": "Support flows both ways during stressful seasons; neither partner is the 'permanent' emotional caretaker."
+      },
+      {
+        "title": "Validating Differences",
+        "tip": "Differing opinions are met with curiosity rather than pressure to conform, maintaining individual autonomy."
+      },
+      {
+        "title": "Co-Created Pace",
+        "tip": "The speed of the relationship is decided together, ensuring both people feel comfortable and secure."
+      },
+      {
+        "title": "Respecting Personal Space",
+        "tip": "Time spent apart is seen as a way to recharge the relationship, not as a sign of distance or rejection."
+      },
+      {
+        "title": "Shared Responsibilities",
+        "tip": "Logistics and mental labor are divided fairly, preventing resentment from building on one side."
+      },
+      {
+        "title": "Emotional Reciprocity",
+        "tip": "Kindness and affection are given freely by both, creating a warm and predictable environment."
+      },
+      {
+        "title": "No Power Plays",
+        "tip": "Decisions are made based on what works for the team, rather than one person trying to 'win' or control the outcome."
+      },
+      {
+        "title": "Balanced Initiation",
+        "tip": "Both people take turns starting conversations, which reinforces mutual interest and desire."
+      },
+      {
+        "title": "Celebrating Each Other",
+        "tip": "Success for one is viewed as a win for the team, eliminating competition within the bond."
+      },
+      {
+        "title": "Mutual Accountability",
+        "tip": "Both partners take ownership of their mistakes, allowing the relationship to grow through honest repair."
+      },
+      {
+        "title": "Respecting Boundaries",
+        "tip": "Limits set by one person are accepted by the other without guilt-tripping or repeated questioning."
+      },
+      {
+        "title": "Fluid Roles",
+        "tip": "The couple can adapt who leads or follows based on the situation, showing flexibility and trust."
+      },
+      {
+        "title": "Consistent Warmth",
+        "tip": "The baseline of the relationship is kindness, ensuring that conflict remains the exception, not the rule."
+      },
+      {
+        "title": "Shared Values",
+        "tip": "Core life priorities are aligned, making it easier to balance daily choices and long-term goals."
+      },
+      {
+        "title": "Active Listening",
+        "tip": "Both people feel heard and understood, which is the foundation of a balanced emotional connection."
+      },
+      {
+        "title": "Financial Transparency",
+        "tip": "Money talk is handled with honesty and fairness, reflecting a shared approach to security."
+      },
+      {
+        "title": "Grace for Growth",
+        "tip": "There is room for both people to change and evolve without the fear of losing the connection."
+      },
+      {
+        "title": "No Scorekeeping",
+        "tip": "Generosity is practiced without tracking 'who owes who,' fostering a spirit of true partnership."
+      },
+      {
+        "title": "Honoring Autonomy",
+        "tip": "Individual goals are encouraged, showing that the relationship supports the growth of two whole people."
+      },
+      {
+        "title": "Consistent Presence",
+        "tip": "Reliability from both sides creates a sense of safety, knowing the partner is emotionally available."
+      },
+      {
+        "title": "Repairing Quickly",
+        "tip": "A pattern of resolving tension fast shows that the health of the bond is prioritized over being right."
+      },
+      {
+        "title": "Mutual Comfort",
+        "tip": "The relationship feels like a safe haven where both people can truly be themselves without judgment."
+      },
+      {
+        "title": "Respecting Energy Levels",
+        "tip": "Both partners adjust to each other’s need for rest or activity, showing deep attunement."
+      },
+      {
+        "title": "Balanced Hobbies",
+        "tip": "There is a mix of shared activities and individual pursuits, keeping the relationship dynamic."
+      },
+      {
+        "title": "Unified Front",
+        "tip": "In external challenges, the couple acts as a team, reinforcing their loyalty to one another."
+      },
+
+            {
+        "title": "Equality in Leisure",
+        "tip": "Rest time is shared; neither person is stuck doing chores while the other relaxes."
+      },
+      {
+        "title": "Mutual Decision Weight",
+        "tip": "Final choices on big issues carry equal weight, regardless of who earns more."
+      },
+      {
+        "title": "Respects Career Peaks",
+        "tip": "He adjusts the household load when your job gets demanding, showing true teamwork."
+      },
+      {
+        "title": "Shared Social Battery",
+        "tip": "If one person is drained at a party, the other is willing to leave early without resentment."
+      },
+      {
+        "title": "Balanced Digital Presence",
+        "tip": "Decisions to post or tag photos are mutual, respecting both people's privacy levels."
+      },
+      {
+        "title": "Reciprocal Venting",
+        "tip": "Both have space to complain about their day without the other making it about themselves."
+      },
+      {
+        "title": "No Financial Secrecy",
+        "tip": "Transparency about debts and savings creates a balanced and honest financial future."
+      },
+      {
+        "title": "Shared Parenting Duties",
+        "tip": "If applicable, childcare and discipline are a joint front, preventing 'good cop/bad cop' gaps."
+      },
+      {
+        "title": "Balanced Home Comfort",
+        "tip": "Temperature, decor, and noise levels are negotiated so both feel truly at home."
+      },
+      {
+        "title": "Respects Your Pace",
+        "tip": "He doesn't rush you through physical or emotional milestones before you're ready."
+      },
+      {
+        "title": "Mutual Advice Consent",
+        "tip": "He asks 'do you want a solution or just to be heard?' before offering his perspective."
+      },
+      {
+        "title": "Shared Event Planning",
+        "tip": "Organizing holidays or birthdays is a joint effort, not a burden for one person."
+      },
+      {
+        "title": "Balanced Phone Habits",
+        "tip": "Both prioritize present-moment connection over screens during shared quality time."
+      },
+      {
+        "title": "Equitable Gift Effort",
+        "tip": "Thoughtfulness in gifting is balanced, showing that both are paying attention."
+      },
+      {
+        "title": "Respects Personal Growth",
+        "tip": "He supports your need to evolve, even if it means shifts in the relationship dynamic."
+      },
+      {
+        "title": "Shared Burden Bearing",
+        "tip": "When a family crisis hits, the partner steps in to handle life’s logistics for you."
+      },
+      {
+        "title": "Balanced Initiation",
+        "tip": "Both people take turns starting physical intimacy and emotional check-ins."
+      },
+      {
+        "title": "No Unilateral Travel",
+        "tip": "Trips are planned together, ensuring both people’s interests and budgets are met."
+      },
+      {
+        "title": "Shared Emotional Lab Work",
+        "tip": "He initiates 'state of the union' talks sometimes, showing he's invested in the bond."
+      },
+      {
+        "title": "Respects Friend Privacy",
+        "tip": "He doesn't pry into your private chats with friends, honoring your outside support."
+      },
+      {
+        "title": "Balanced Kitchen Duties",
+        "tip": "Cooking and cleaning rotate or are shared, making mealtime a collaborative effort."
+      },
+      {
+        "title": "Mutual Privacy Trust",
+        "tip": "Devices are left out openly because trust is high and surveillance is unnecessary."
+      },
+      {
+        "title": "Equitable Conflict Care",
+        "tip": "Both are careful with their words during a fight to avoid lasting emotional damage."
+      },
+      {
+        "title": "Shared Goal Tracking",
+        "tip": "Whether saving or fitness, both track progress together toward a mutual vision."
+      },
+      {
+        "title": "Respects Sleep Cycles",
+        "tip": "Early birds and night owls find a middle ground that honors both people's health."
+      },
+      {
+        "title": "No Competitive Pain",
+        "tip": "If you're hurting, he doesn't try to 'top' your story with his own struggles."
+      },
+      {
+        "title": "Balanced Social Integration",
+        "tip": "You spend time with both friend groups equally, integrating your worlds fairly."
+      },
+      {
+        "title": "Mutual Safety Checks",
+        "tip": "Both partners look out for each other’s physical security in public or travel."
+      },
+      {
+        "title": "Shared Tech Responsibility",
+        "tip": "Managing household bills or tech issues is a split task, preventing one-sided stress."
+      },
+      {
+        "title": "Respects Career Identity",
+        "tip": "He understands your job is part of your purpose, not just a paycheck."
+      },
+      {
+        "title": "Balanced Compliments",
+        "tip": "Both give as much praise as they receive, keeping the 'appreciation tank' full."
+      },
+      {
+        "title": "No Emotional Blackmail",
+        "tip": "Neither person uses guilt or the threat of leaving to get their way in a talk."
+      },
+      {
+        "title": "Shared Routine Flexibility",
+        "tip": "Both are willing to change their daily habits to make life easier for the other."
+      },
+      {
+        "title": "Respects Different Styles",
+        "tip": "He accepts your way of doing things without insisting his way is the 'right' way."
+      },
+      {
+        "title": "Mutual Holiday Grace",
+        "tip": "Both are flexible about family traditions to ensure the couple stays prioritized."
+      },
+      {
+        "title": "Balanced Energy Reading",
+        "tip": "He notices when you’re 'done' for the day and offers to take over the chores."
+      },
+      {
+        "title": "Shared Problem Solving",
+        "tip": "Issues are framed as 'us vs. the problem' rather than 'me vs. you'."
+      },
+      {
+        "title": "Respects Spiritual Space",
+        "tip": "He honors your practice or meditation time, seeing it as vital for your balance."
+      },
+      {
+        "title": "No Hidden Grudges",
+        "tip": "Grievances are aired and cleared quickly so the power balance stays clean."
+      },
+      {
+        "title": "Shared Success Pride",
+        "tip": "He brags about your achievements to others, acting as your biggest advocate."
+      },
+      {
+        "title": "Balanced Vulnerability",
+        "tip": "Both take turns being the 'strong one,' allowing the other to be soft when needed."
+      },
+      {
+        "title": "Respects Food Autonomy",
+        "tip": "He supports your dietary choices without making his own preferences a burden."
+      },
+      {
+        "title": "No Habit Nagging",
+        "tip": "Small quirks are handled with humor and acceptance rather than constant correction."
+      },
+      {
+        "title": "Shared Future Planning",
+        "tip": "The 'next five years' is a collaborative dream, not a set of solo demands."
+      },
+      {
+        "title": "Balanced Conflict Repair",
+        "tip": "Both reach out to reconnect after a disagreement, showing shared investment."
+      },
+      {
+        "title": "Respects Identity Shifts",
+        "tip": "He supports your new interests or style changes with curiosity and warmth."
+      },
+      {
+        "title": "Mutual Financial Agency",
+        "tip": "Both have access to information and a say in how the team’s money is used."
+      },
+      {
+        "title": "No Social Performance",
+        "tip": "He doesn't pressure you to act 'perfect' for his family or boss; you are enough."
+      },
+      {
+        "title": "Shared Routine Design",
+        "tip": "Mornings and evenings are structured to respect both people's needs for peace."
+      },
+      {
+        "title": "Respects Your Mentors",
+        "tip": "He values the people who help you grow, showing he supports your evolution."
+      },
+      {
+        "title": "Balanced Driving Roles",
+        "tip": "The labor of travel—driving, navigating, packing—is shared across trips."
+      },
+      {
+        "title": "Mutual Trust Baseline",
+        "tip": "Neither person feels the need to check the other’s location or verify stories."
+      },
+      {
+        "title": "Shared Pet Parenting",
+        "tip": "Training and cleaning for pets is a joint duty, reflecting a team mindset."
+      },
+      {
+        "title": "Respects Creative Time",
+        "tip": "He guards your time for art, writing, or building, seeing it as essential."
+      },
+      {
+        "title": "No Unfair Comparisons",
+        "tip": "The relationship isn't compared to exes or movies; it is valued as it is."
+      },
+      {
+        "title": "Balanced Talk Ratios",
+        "tip": "He listens as much as he speaks, ensuring you don't feel like an audience member."
+      },
+      {
+        "title": "Mutual Value Acts",
+        "tip": "Both make small sacrifices to make the other's life easier on a regular basis."
+      },
+      {
+        "title": "Respects Health Boundaries",
+        "tip": "He supports your need for doctor visits or mental health days without question."
+      },
+      {
+        "title": "No Dominating Hobbies",
+        "tip": "His passions don't eat up the entire household budget or all shared weekends."
+      },
+      {
+        "title": "Shared Life Maintenance",
+        "tip": "Both contribute to the 'un-fun' parts of life like bills and dry cleaning."
+      },
+      {
+        "title": "Balanced Intimacy Pace",
+        "tip": "Physical closeness moves at the speed of the most cautious partner."
+      },
+      {
+        "title": "Mutual Career Sacrifice",
+        "tip": "If a move is needed, both careers are considered in the final decision."
+      },
+      {
+        "title": "Respects Solo Vacations",
+        "tip": "He is happy for you to go on a girls' trip or solo retreat, showing secure trust."
+      },
+      {
+        "title": "No Informational Hoarding",
+        "tip": "He shares his passwords and schedules freely to make the team function better."
+      },
+      {
+        "title": "Shared Conflict Ground",
+        "tip": "Both agree on 'fair fighting' rules, like no name-calling or yelling."
+      },
+      {
+        "title": "Balanced Chore Cycles",
+        "tip": "Neither person has to 'ask' for help; both see what needs doing and do it."
+      },
+      {
+        "title": "Respects Your Workspace",
+        "tip": "He doesn't interrupt when you're working, showing respect for your focus."
+      },
+      {
+        "title": "Mutual Reconnection Bids",
+        "tip": "Both try to make the other laugh or smile throughout the day."
+      },
+      {
+        "title": "No Power Imbalance",
+        "tip": "Influence is shared; the person with the loudest voice doesn't always win."
+      },
+      {
+        "title": "Shared Learning Goals",
+        "tip": "Both are willing to learn a new skill together to strengthen their bond."
+      },
+      {
+        "title": "Respects Body Changes",
+        "tip": "He remains affectionate and supportive through all phases of health and age."
+      },
+      {
+        "title": "Balanced Listening Ears",
+        "tip": "He remembers details of your work drama, showing he’s truly paying attention."
+      },
+      {
+        "title": "Mutual Life Advocacy",
+        "tip": "Both defend each other when others are critical, showing a solid team front."
+      },
+      {
+        "title": "Respects Your Timeline",
+        "tip": "He is patient with your life goals, even if they don't match his exactly."
+      },
+      {
+        "title": "No Silent Punishment",
+        "tip": "Communication stays open even during tension, avoiding cold shoulders."
+      },
+      {
+        "title": "Shared Emotional Repair",
+        "tip": "Both reach out to apologize, acknowledging their part in the friction."
+      },
+      {
+        "title": "Balanced Support Flows",
+        "tip": "He asks 'what do you need from me right now?' when you are struggling."
+      },
+      {
+        "title": "Respects Cultural Rhythms",
+        "tip": "He honors your family traditions and holidays with equal enthusiasm."
+      },
+      {
+        "title": "No Jealous Policing",
+        "tip": "He trusts your friendships with others, showing secure attachment."
+      },
+      {
+        "title": "Shared Household Vision",
+        "tip": "Both have a say in where you live and how the home is maintained."
+      },
+      {
+        "title": "Balanced Energy Levels",
+        "tip": "He doesn't pressure you to match his energy when you are feeling low."
+      },
+      {
+        "title": "Respects Your Expertise",
+        "tip": "He defers to your knowledge in your areas of strength, showing respect."
+      },
+      {
+        "title": "Mutual Pride in Growth",
+        "tip": "Both celebrate how much they've learned as individuals and as a couple."
+      },
+      {
+        "title": "No Scorekeeping Love",
+        "tip": "Kindness is given because it's valued, not because an equal return is expected."
+      },
+      {
+        "title": "Shared Financial Liberty",
+        "tip": "Both have 'no-questions-asked' money for personal joy or hobbies."
+      },
+      {
+        "title": "Respects Social Battery",
+        "tip": "He checks in with you before committing the couple to a weekend plan."
+      },
+      {
+        "title": "Mutual Decision Agency",
+        "tip": "Both feel empowered to say 'no' to a plan without fear of a blowup."
+      },
+      {
+        "title": "Balanced Gift Reciprocity",
+        "tip": "The effort put into anniversaries and holidays is consistent from both."
+      },
+      {
+        "title": "Respects Privacy Pockets",
+        "tip": "He understands that having a private inner world is healthy for both of you."
+      },
+      {
+        "title": "Shared Accountability",
+        "tip": "He admits when he's being difficult, taking the pressure off you to fix it."
+      },
+      {
+        "title": "No Passive Demands",
+        "tip": "Needs are expressed clearly and kindly, rather than through heavy hints."
+      },
+      {
+        "title": "Balanced Travel Stress",
+        "tip": "Both work to stay calm during travel hiccups, supporting the other."
+      },
+      {
+        "title": "Respects Educational Goals",
+        "tip": "He supports your need to study or take classes, valuing your mind."
+      },
+      {
+        "title": "Mutual Respect for Pace",
+        "tip": "Walking, eating, and living happen at a speed that works for both."
+      },
+      {
+        "title": "Shared Domestic Magic",
+        "tip": "Both work to make the mundane parts of home life feel special and fair."
+      },
+      {
+        "title": "No Performative Kindness",
+        "tip": "He is the same respectful person in your living room as he is at a party."
+      },
+      {
+        "title": "Balanced Conflict Ends",
+        "tip": "Both focus on the 'lesson learned' rather than who 'won' the argument."
+      },
+      {
+        "title": "Respects Personal Safety",
+        "tip": "He supports your choices to stay safe without acting like he owns you."
+      },
+      {
+        "title": "Mutual Support Habit",
+        "tip": "Asking 'how can I help?' is a daily part of your shared vocabulary."
+      },
+      {
+        "title": "Shared Growth Mindset",
+        "tip": "Both believe that a relationship is a project that needs mutual work."
+      },
+
+            {
+        "title": "Equality in Household Rest",
+        "tip": "Rest is viewed as a shared right; neither person is expected to work while the other relaxes."
+      },
+      {
+        "title": "Balanced Decision Power",
+        "tip": "Final choices on major issues carry equal weight, regardless of who earns a higher income."
+      },
+      {
+        "title": "Respects Your Career Peaks",
+        "tip": "He adjusts the household load when your job gets demanding, showing true teamwork."
+      },
+      {
+        "title": "Shared Social Awareness",
+        "tip": "If one partner is drained at an event, the other is willing to leave early without resentment."
+      },
+      {
+        "title": "Joint Digital Boundaries",
+        "tip": "Decisions to post or tag photos are mutual, respecting both people's comfort with privacy."
+      },
+      {
+        "title": "Reciprocal Emotional Space",
+        "tip": "Both have space to vent about their day without the other making the conversation about themselves."
+      },
+      {
+        "title": "Transparent Financials",
+        "tip": "Openness about debts and savings creates a balanced and honest path toward a shared future."
+      },
+      {
+        "title": "Shared Domestic Planning",
+        "tip": "Organizing holidays or birthdays is a joint effort, not a burden assigned to one person."
+      },
+      {
+        "title": "Balanced Home Environment",
+        "tip": "Noise levels and temperature are negotiated so both feel truly comfortable in the space."
+      },
+      {
+        "title": "Respects Developmental Pace",
+        "tip": "He doesn't rush you through life milestones, valuing your readiness and emotional safety."
+      },
+      {
+        "title": "Consensual Advice Giving",
+        "tip": "He asks 'do you want a solution or just to be heard?' before offering his perspective."
+      },
+      {
+        "title": "Shared Responsibility Habits",
+        "tip": "Both notice when chores need doing and act, preventing the need for one person to 'nag.'"
+      },
+      {
+        "title": "Balanced Quality Time",
+        "tip": "Both prioritize present-moment connection over screens when spending time together."
+      },
+      {
+        "title": "Equitable Gift Thought",
+        "tip": "The effort put into gifts and surprises is balanced, showing mutual observation."
+      },
+      {
+        "title": "Supports Personal Evolution",
+        "tip": "He encourages your need to grow, even if it means shifts in your shared dynamic."
+      },
+      {
+        "title": "Shared Crisis Logistics",
+        "tip": "When a family emergency hits, he steps in to handle life’s details so you can focus."
+      },
+      {
+        "title": "Balanced Initiation Style",
+        "tip": "Both partners take turns starting physical intimacy and deeper emotional check-ins."
+      },
+      {
+        "title": "Cooperative Travel Plans",
+        "tip": "Trips are planned together, ensuring both people’s interests and budgets are considered."
+      },
+      {
+        "title": "Proactive Relationship Care",
+        "tip": "He initiates 'pulse check' talks sometimes, showing he's invested in the bond's health."
+      },
+      {
+        "title": "Honors Friendship Privacy",
+        "tip": "He doesn't pry into your private vents with friends, honoring your outside support."
+      },
+      {
+        "title": "Shared Culinary Effort",
+        "tip": "Cooking and cleaning rotate or are shared, making mealtime a collaborative process."
+      },
+      {
+        "title": "Open Device Trust",
+        "tip": "Devices are used openly because trust is high and surveillance is never requested."
+      },
+      {
+        "title": "Gentle Conflict Language",
+        "tip": "Both are careful with their words during tension to protect the long-term bond."
+      },
+      {
+        "title": "Mutual Milestone Tracking",
+        "tip": "Whether saving or fitness, both track progress together toward a shared vision."
+      },
+      {
+        "title": "Respects Sleep Health",
+        "tip": "Morning and night routines are adjusted to honor both people's natural sleep cycles."
+      },
+      {
+        "title": "No Competitive Suffering",
+        "tip": "If you are hurting, he doesn't try to 'top' your story with his own struggles."
+      },
+      {
+        "title": "Balanced World Merging",
+        "tip": "You spend time with both friend groups equally, integrating your social lives fairly."
+      },
+      {
+        "title": "Shared Physical Security",
+        "tip": "Both look out for each other’s safety when traveling or in unfamiliar environments."
+      },
+      {
+        "title": "Shared Admin Duties",
+        "tip": "Managing household bills or tech is a split task, preventing one-sided mental load."
+      },
+      {
+        "title": "Respects Career Identity",
+        "tip": "He understands your work is part of your purpose and respects your professional time."
+      },
+      {
+        "title": "Reciprocal Appreciation",
+        "tip": "Both give as much praise as they receive, keeping the 'appreciation tank' full."
+      },
+      {
+        "title": "No Guilt-Based Requests",
+        "tip": "Neither person uses guilt to get their way, maintaining an honest power balance."
+      },
+      {
+        "title": "Flexible Daily Habits",
+        "tip": "Both are willing to adjust their routines to make life smoother for the partner."
+      },
+      {
+        "title": "Respects Methodology",
+        "tip": "He accepts your way of solving problems without insisting his way is superior."
+      },
+      {
+        "title": "Mutual Holiday Grace",
+        "tip": "Both are flexible with family traditions to ensure the couple's peace is prioritized."
+      },
+      {
+        "title": "Attuned Energy Checks",
+        "tip": "He notices when you are low on energy and proactively offers to handle the chores."
+      },
+      {
+        "title": "Team-Based Problem Solving",
+        "tip": "Issues are framed as 'us vs. the situation' rather than 'me vs. you.'"
+      },
+      {
+        "title": "Guards Spiritual Time",
+        "tip": "He honors your time for meditation or practice, seeing it as vital for your balance."
+      },
+      {
+        "title": "No Information Gaps",
+        "tip": "Important life updates are shared quickly, keeping the partnership transparent."
+      },
+      {
+        "title": "Advocates for Your Success",
+        "tip": "He brags about your wins to others, acting as a genuine support system."
+      },
+      {
+        "title": "Balanced Strength Sharing",
+        "tip": "Both take turns being the 'stable one,' allowing the other to be vulnerable."
+      },
+      {
+        "title": "Respects Dietary Choices",
+        "tip": "He supports your health and food choices without making them a shared burden."
+      },
+      {
+        "title": "Accepts Minor Quirks",
+        "tip": "Small habits are handled with humor and acceptance rather than constant nagging."
+      },
+      {
+        "title": "Collaborative Future Vision",
+        "tip": "The 'next five years' is a co-created dream, not a set of demands from one person."
+      },
+      {
+        "title": "Active Conflict Repair",
+        "tip": "Both reach out to reconnect after a fight, showing shared emotional investment."
+      },
+      {
+        "title": "Supports New Interests",
+        "tip": "He meets your shifting hobbies or style changes with curiosity and warmth."
+      },
+      {
+        "title": "Equal Financial Agency",
+        "tip": "Both have access to information and a say in how collective money is utilized."
+      },
+      {
+        "title": "No Social Performance",
+        "tip": "He doesn't pressure you to act 'perfect' for others; you are valued as you are."
+      },
+      {
+        "title": "Co-Designed Mornings",
+        "tip": "Start-of-day routines are structured to respect both people's needs for quiet."
+      },
+      {
+        "title": "Respects Personal Mentors",
+        "tip": "He values the people who helped you grow, showing respect for your history."
+      },
+      {
+        "title": "Shared Travel Labor",
+        "tip": "The tasks of driving, navigating, and packing are shared fairly across trips."
+      },
+      {
+        "title": "Trust-Based Freedom",
+        "tip": "Neither person feels the need to verify the other’s location or social stories."
+      },
+      {
+        "title": "Joint Pet Care",
+        "tip": "Training and maintenance for pets is a shared duty, reflecting a team mindset."
+      },
+      {
+        "title": "Guards Your Creative Time",
+        "tip": "He protects your hours for art or writing, seeing it as essential to your joy."
+      },
+      {
+        "title": "No Comparison Baseline",
+        "tip": "The relationship is valued as its own unique world, not measured against exes."
+      },
+      {
+        "title": "Balanced Airtime",
+        "tip": "He listens as much as he speaks, ensuring you don't feel like an audience member."
+      },
+      {
+        "title": "Small Acts of Reciprocity",
+        "tip": "Both make small daily sacrifices to make the other's life easier and smoother."
+      },
+      {
+        "title": "Respects Wellness Days",
+        "tip": "He supports your need for doctor visits or mental health breaks without question."
+      },
+      {
+        "title": "Hobby-Budget Balance",
+        "tip": "Personal passions don't consume the entire household budget or all shared time."
+      },
+      {
+        "title": "Joint Life Maintenance",
+        "tip": "Both contribute to the mundane parts of life like bills and dry cleaning."
+      },
+      {
+        "title": "Consensual Intimacy Pace",
+        "tip": "Physical closeness moves at the speed of the partner who needs more time."
+      },
+      {
+        "title": "Career-Move Cooperation",
+        "tip": "If a move is needed, both careers and goals are considered in the final choice."
+      },
+      {
+        "title": "Supports Solo Retreats",
+        "tip": "He is happy for you to travel alone or with friends, showing secure trust."
+      },
+      {
+        "title": "Shares Logic Systems",
+        "tip": "He shares schedules and passwords freely to help the household function better."
+      },
+      {
+        "title": "Shared Conflict Protocols",
+        "tip": "Both agree on 'fair fighting' rules, such as no name-calling or yelling."
+      },
+      {
+        "title": "Observation-Based Chores",
+        "tip": "Neither person has to 'ask' for help; both see what needs doing and do it."
+      },
+      {
+        "title": "Respects Deep Focus",
+        "tip": "He doesn't interrupt your work hours, showing respect for your professional focus."
+      },
+      {
+        "title": "Mutual Connection Bids",
+        "tip": "Both try to make the other laugh or smile frequently throughout the week."
+      },
+      {
+        "title": "Power-Neutral Influence",
+        "tip": "Influence is shared; the person with the loudest voice doesn't always decide."
+      },
+      {
+        "title": "Shared Skill-Building",
+        "tip": "Both are willing to learn something new together to strengthen their bond."
+      },
+      {
+        "title": "Respects Physical Shifts",
+        "tip": "He remains affectionate and supportive through all phases of health and age."
+      },
+      {
+        "title": "Attentive Listening Habit",
+        "tip": "He remembers details of your life stories, showing he is paying attention."
+      },
+      {
+        "title": "Mutual Social Advocacy",
+        "tip": "Both defend each other when others are critical, showing a solid team front."
+      },
+      {
+        "title": "Respects Life Timelines",
+        "tip": "He is patient with your personal goals, even if they don't match his exactly."
+      },
+      {
+        "title": "Open Conflict Channels",
+        "tip": "Communication stays open even during tension, avoiding cold-shoulder tactics."
+      },
+      {
+        "title": "Shared Repair Initiative",
+        "tip": "Both reach out to apologize, acknowledging their part in any friction."
+      },
+      {
+        "title": "Balanced Support Seeking",
+        "tip": "He asks 'what do you need from me right now?' when you are struggling."
+      },
+      {
+        "title": "Respects Heritage Rhythms",
+        "tip": "He honors your family traditions and holidays with genuine enthusiasm."
+      },
+      {
+        "title": "Trust-Based Socializing",
+        "tip": "He trusts your friendships with others, reflecting a secure attachment style."
+      },
+      {
+        "title": "Joint Domestic Vision",
+        "tip": "Both have a say in where you live and how your shared home is decorated."
+      },
+      {
+        "title": "Energy-Neutral Requests",
+        "tip": "He doesn't pressure you to match his energy when you are feeling low."
+      },
+      {
+        "title": "Respects Area Expertise",
+        "tip": "He defers to your knowledge in your strengths, showing professional respect."
+      },
+      {
+        "title": "Pride in Mutual Growth",
+        "tip": "Both celebrate how much they've learned as individuals and as a partnership."
+      },
+      {
+        "title": "Love Without Ledger",
+        "tip": "Kindness is given because it's valued, not because an equal return is tracked."
+      },
+      {
+        "title": "Personal Joy Budgets",
+        "tip": "Both have 'no-questions-asked' money for personal hobbies or interests."
+      },
+      {
+        "title": "Social Battery Awareness",
+        "tip": "He checks in with you before committing the couple to a full weekend plan."
+      },
+      {
+        "title": "Respects Decision Agency",
+        "tip": "Both feel empowered to say 'no' to a suggestion without fear of a blowup."
+      },
+      {
+        "title": "Consistent Holiday Effort",
+        "tip": "The effort put into milestones and holidays is consistent from both sides."
+      },
+      {
+        "title": "Respects Inner Worlds",
+        "tip": "He understands that having private thoughts is healthy for both individuals."
+      },
+      {
+        "title": "Admitted Accountability",
+        "tip": "He admits when he's being difficult, taking the pressure off you to fix it."
+      },
+      {
+        "title": "Direct Need Expression",
+        "tip": "Needs are stated clearly and kindly, rather than through passive hints."
+      },
+      {
+        "title": "Travel-Stress Teamwork",
+        "tip": "Both work to stay calm during travel delays, supporting the other partner."
+      },
+      {
+        "title": "Respects Learning Paths",
+        "tip": "He supports your need to study or take classes, valuing your intellectual life."
+      },
+      {
+        "title": "Physical Synchrony",
+        "tip": "Walking and living happen at a speed that feels comfortable for both people."
+      },
+      {
+        "title": "Shared Domestic Magic",
+        "tip": "Both work to make the mundane parts of home life feel special and equitable."
+      },
+      {
+        "title": "Character Consistency",
+        "tip": "He is the same respectful person in private as he is in a social setting."
+      },
+      {
+        "title": "Learning-Based Conflict",
+        "tip": "Both focus on the 'lesson' after an argument rather than who 'won.'"
+      },
+      {
+        "title": "Respects Autonomy Rules",
+        "tip": "He supports your choices to stay safe without acting like he owns you."
+      },
+      {
+        "title": "Mutual Help Language",
+        "tip": "Asking 'how can I help?' is a daily part of your shared interaction."
+      },
+      {
+        "title": "Joint Partnership Lab",
+        "tip": "Both believe that a relationship is a project that needs ongoing mutual care."
+     }
+  ]
+},
+
+
+  "Emotional Safety": {
+    "tips": [
+      {
+        "title": "Validates Without Judging",
+        "tip": "He acknowledges your feelings as real and important, even if he doesn't personally share them."
+      },
+      {
+        "title": "Safe to Express Sadness",
+        "tip": "You can be vulnerable or cry without him becoming awkward, angry, or trying to rush you."
+      },
+      {
+        "title": "Predictable Reactions",
+        "tip": "His responses are stable, so you don't feel like you are 'walking on eggshells' around him."
+      },
+      {
+        "title": "Respects Your Silence",
+        "tip": "He understands when you need quiet time to process emotions and doesn't take it personally."
+      },
+      {
+        "title": "No Weaponized Secrets",
+        "tip": "Information you share in confidence is never used against you later during a disagreement."
+      },
+      {
+        "title": "Admits His Own Fears",
+        "tip": "His ability to be vulnerable with you creates a mutual bridge of trust and emotional safety."
+      },
+      {
+        "title": "Calm During Your Stress",
+        "tip": "When you are overwhelmed, he remains a steady presence rather than matching your anxiety."
+      },
+      {
+        "title": "Asks Before Giving Advice",
+        "tip": "He checks if you need a listening ear or a solution, respecting your emotional needs first."
+      },
+      {
+        "title": "Celebrates Your Growth",
+        "tip": "He is genuinely happy when you overcome a personal hurdle or achieve a mental health goal."
+      },
+      {
+        "title": "Believes Your Reality",
+        "tip": "He doesn't question your memory of events or make you doubt your own perceptions."
+      },
+      {
+        "title": "Handles Anger Quietly",
+        "tip": "When he is upset, he communicates with words rather than slamming doors or raising his voice."
+      },
+      {
+        "title": "Consistent Reassurance",
+        "tip": "He offers verbal or physical comfort regularly, preventing feelings of emotional neglect."
+      },
+      {
+        "title": "Respects Your Past",
+        "tip": "He treats your history with care and doesn't make jokes about things that were hard for you."
+      },
+      {
+        "title": "No Sarcastic Put-Downs",
+        "tip": "Humor is used to build connection, never to mock your insecurities or 'keep you in your place.'"
+      },
+      {
+        "title": "Protects Your Peace",
+        "tip": "He notices when external situations are draining you and helps you set boundaries with others."
+      },
+      {
+        "title": "Owns His Triggers",
+        "tip": "He can say, 'I'm feeling reactive because of my own stuff,' which keeps the focus off blaming you."
+      },
+      {
+        "title": "Soft Eyes and Body",
+        "tip": "His physical presence feels warm and inviting, signaling to your nervous system that you are safe."
+      },
+      {
+        "title": "Values Emotional Labor",
+        "tip": "He recognizes the effort it takes to maintain a relationship and contributes his fair share."
+      },
+      {
+        "title": "Accepts Your Mistakes",
+        "tip": "He offers grace when you mess up, showing that his love isn't conditional on you being perfect."
+      },
+      {
+        "title": "No Emotional Ghosting",
+        "tip": "If he needs space, he tells you when he'll be back rather than disappearing without a word."
+      },
+      {
+        "title": "Validates Physical Needs",
+        "tip": "He respects your need for sleep, food, or rest without making you feel 'needy' for having them."
+      },
+      {
+        "title": "Remembers Your Joys",
+        "tip": "He brings up things that make you happy, showing he pays attention to your emotional map."
+      },
+      {
+        "title": "Safe to Say No",
+        "tip": "Declining an invitation or a request is met with understanding instead of a guilt trip."
+      },
+      {
+        "title": "Observes Your Cues",
+        "tip": "He can tell when you're 'off' and asks gently how he can support you in that moment."
+      },
+      {
+        "title": "Respects Family Bounds",
+        "tip": "He understands the complexity of your family ties and supports your choices in handling them."
+      },
+      {
+        "title": "No Petty Comparisons",
+        "tip": "He doesn't compare your emotional journey to others, valuing your unique process."
+      },
+      {
+        "title": "Repairing After Tension",
+        "tip": "He initiates a 'cool down' talk to make sure things are truly okay after a disagreement."
+      },
+      {
+        "title": "Honors Your Intuition",
+        "tip": "He takes your 'gut feelings' seriously and doesn't dismiss them as just being 'emotional.'"
+      },
+      {
+        "title": "Consistent Eye Contact",
+        "tip": "When you speak, he looks at you with presence, signaling that you have his full attention."
+      },
+      {
+        "title": "No Public Embarrassment",
+        "tip": "He would never make you the butt of a joke in front of others to make himself look better."
+      },
+      {
+        "title": "Admits When He's Wrong",
+        "tip": "His ego doesn't prevent him from saying 'I'm sorry, I hurt you,' which builds deep safety."
+      },
+      {
+        "title": "Safe Physical Touch",
+        "tip": "Touch is used to comfort and connect, and it always stops immediately if you express a limit."
+      },
+      {
+        "title": "Supports Your Autonomy",
+        "tip": "He is your biggest fan when you do things without him, showing secure attachment."
+      },
+      {
+        "title": "No Gaslighting Habits",
+        "tip": "He listens to your concerns even if he sees the situation differently, validating your view."
+      },
+      {
+        "title": "Predictable Availability",
+        "tip": "You know you can reach him if you're in distress; he is emotionally reliable."
+      },
+      {
+        "title": "Safe Around Alcohol",
+        "tip": "His personality stays kind and respectful even if he’s had a drink or is under stress."
+      },
+      {
+        "title": "Encourages Your Dreams",
+        "tip": "He makes you feel that your goals are possible, acting as a safety net for your ambition."
+      },
+      {
+        "title": "Respects Financial Limits",
+        "tip": "He is sensitive to your budget and doesn't pressure you to spend in ways that cause stress."
+      },
+      {
+        "title": "Validates Nervousness",
+        "tip": "If you are anxious about something new, he offers a hand to hold rather than telling you to 'just relax.'"
+      },
+      {
+        "title": "No Hidden Grudges",
+        "tip": "He airs his feelings as they come up, so you don't have to fear a 'stored up' explosion."
+      },
+      {
+        "title": "Respects Your Pace",
+        "tip": "He doesn't rush you into emotional depth before the trust has been naturally built."
+      },
+      {
+        "title": "Not Threatened by Growth",
+        "tip": "As you evolve, he remains curious and supportive rather than trying to keep you the same."
+      },
+      {
+        "title": "Safe Social Circle",
+        "tip": "He introduces you to kind people, showing he values a healthy social environment."
+      },
+      {
+        "title": "No Ultimatums used",
+        "tip": "Disagreements focus on the problem at hand, not threats to leave the relationship."
+      },
+      {
+        "title": "Checks In After Fights",
+        "tip": "He makes sure the 'emotional air' is clear after a conflict so you can sleep peacefully."
+      },
+      {
+        "title": "Validates Social Anxiety",
+        "tip": "If a setting is too much for you, he supports leaving early without making it a big deal."
+      },
+      {
+        "title": "Protective, Not Possessive",
+        "tip": "He cares about your safety but trusts your judgment to move through the world on your own."
+      },
+      {
+        "title": "Honors Your 'Maybe'",
+        "tip": "He gives you space to be undecided about things without forcing a quick 'yes' or 'no.'"
+      },
+      {
+        "title": "No Mocking of Tears",
+        "tip": "Crying is seen as a healthy release of emotion, never as a sign of weakness or manipulation."
+      },
+      {
+        "title": "Sincere Appreciation",
+        "tip": "He says 'thank you' for the emotional support you give him, recognizing its value."
+      },
+      {
+        "title": "Consistent Tone",
+        "tip": "He maintains a level, respectful voice even when talking about difficult or tense topics."
+      },
+      {
+        "title": "Shares His Daily Bits",
+        "tip": "By sharing small details of his day, he invites you into his world and builds a safe bond."
+      },
+      {
+        "title": "Respects Body Image",
+        "tip": "He is consistently affectionate and affirming, regardless of how you feel about your looks."
+      },
+      {
+        "title": "No Testing of Loyalty",
+        "tip": "He doesn't create 'traps' or scenarios to see if you'll be jealous or protective."
+      },
+      {
+        "title": "Acknowledges Your Pain",
+        "tip": "If he accidentally hurts you, his first instinct is to comfort you rather than defend himself."
+      },
+      {
+        "title": "Values Deep Talk",
+        "tip": "He is willing to stay in a hard conversation until both of you feel resolved and safe."
+      },
+      {
+        "title": "No Scorekeeping Love",
+        "tip": "Kindness is given because he wants to see you happy, not because he's tracking a debt."
+      },
+      {
+        "title": "Supports Mental Health",
+        "tip": "He views therapy or self-care as strengths and encourages your commitment to them."
+      },
+      {
+        "title": "Respects Private Space",
+        "tip": "He doesn't barge in on your time alone, showing he respects your internal world."
+      },
+      {
+        "title": "Consistent Eye Level",
+        "tip": "During serious talks, he sits with you at the same level, removing power imbalances."
+      },
+      {
+        "title": "Safe Around Family",
+        "tip": "You feel confident bringing him around your people because he is consistently kind."
+      },
+      {
+        "title": "No Hidden Resentment",
+        "tip": "He tells you what he needs directly so you don't have to guess why he's quiet."
+      },
+      {
+        "title": "Values Your Expertise",
+        "tip": "He asks for your advice on things you know well, showing he respects your mind."
+      },
+      {
+        "title": "Protective of Your Focus",
+        "tip": "When you are working or in 'the zone,' he helps manage the house so you aren't distracted."
+      },
+      {
+        "title": "No Dismissive Gestures",
+        "tip": "He avoids eye-rolling or heavy sighing when you are expressing a concern."
+      },
+      {
+        "title": "Admits Uncertainty",
+        "tip": "He can say 'I don't know the answer yet,' which shows he isn't trying to perform a role."
+      },
+      {
+        "title": "Consistent Affection",
+        "tip": "Affection doesn't just happen when he wants something; it is a steady part of the day."
+      },
+      {
+        "title": "Respects Different Styles",
+        "tip": "He understands you might communicate differently and works to meet you in the middle."
+      },
+      {
+        "title": "No Public Contradiction",
+        "tip": "He supports you in front of others and saves any differing views for a private chat."
+      },
+      {
+        "title": "Validates Grief",
+        "tip": "He understands that loss takes time and doesn't ask you when you'll 'get over it.'"
+      },
+      {
+        "title": "Safe Conflict Resolution",
+        "tip": "The goal of an argument is always to reconnect, not to score points or 'win.'"
+      },
+      {
+        "title": "Honors Your Energy",
+        "tip": "If you are socially 'done,' he is the first person to suggest heading home for rest."
+      },
+      {
+        "title": "No Surveillance Habits",
+        "tip": "He doesn't check your phone or ask who you're texting; trust is the default."
+      },
+      {
+        "title": "Admits to Jealousy",
+        "tip": "If he feels insecure, he owns it as his feeling rather than blaming you for his reaction."
+      },
+      {
+        "title": "Shares Success Credit",
+        "tip": "He mentions how your support helped him, making you feel like a valued partner."
+      },
+      {
+        "title": "Respects Spiritual Flow",
+        "tip": "Your beliefs and practices are given space and respect, even if they differ from his."
+      },
+      {
+        "title": "No Silent Punishment",
+        "tip": "Silence is used only for cooling down, and he always tells you when he'll be ready to talk."
+      },
+      {
+        "title": "Validates Disappointment",
+        "tip": "When things don't go your way, he is a soft place to land rather than a critic."
+      },
+      {
+        "title": "Consistent Manners",
+        "tip": "He is polite to everyone, suggesting that his kindness to you is a true character trait."
+      },
+      {
+        "title": "No Emotional Blackmail",
+        "tip": "He never uses your vulnerabilities or past mistakes to control your current actions."
+      },
+      {
+        "title": "Respects Your Friends",
+        "tip": "He welcomes the people who are important to you, showing he values your community."
+      },
+      {
+        "title": "Safe to Disagree",
+        "tip": "You can have different opinions on major topics and still feel loved and respected."
+      },
+      {
+        "title": "Consistent Logic",
+        "tip": "His stories and reasons make sense over time, reducing confusion and anxiety."
+      },
+      {
+        "title": "Honors Private Vents",
+        "tip": "He allows you to complain about a bad day without making it a bigger issue than it is."
+      },
+      {
+        "title": "No Performative Kindness",
+        "tip": "He is just as respectful when no one else is around to see his behavior."
+      },
+      {
+        "title": "Validates Burnout",
+        "tip": "He understands when you can't 'do it all' and steps in to help without being asked."
+      },
+      {
+        "title": "Consistent Eye Level",
+        "tip": "He gets on your level to talk, removing any feeling of intimidation or power."
+      },
+      {
+        "title": "No Habit Nagging",
+        "tip": "He accepts your minor quirks without trying to 'fix' you or change your ways."
+      },
+      {
+        "title": "Safe to Be Goofy",
+        "tip": "You can be silly or weird around him without fear of judgment or 'cringe.'"
+      },
+      {
+        "title": "Honors Your Healing",
+        "tip": "If you are working through trauma, he is patient with the steps you need to take."
+      },
+      {
+        "title": "No Secretive Phone Use",
+        "tip": "He uses his phone openly, removing any 'detective' feelings from the relationship."
+      },
+      {
+        "title": "Validates Your Choice",
+        "tip": "He trusts you to know what is best for your own life, career, and body."
+      },
+      {
+        "title": "Consistent Helpfulness",
+        "tip": "He looks for ways to make your life easier every day, showing steady care."
+      },
+      {
+        "title": "No Grudges Held",
+        "tip": "Once a problem is fixed, it is gone; he doesn't keep a list of past 'crimes.'"
+      },
+      {
+        "title": "Safe to Be Tired",
+        "tip": "You don't have to 'perform' or be high-energy for him to value your company."
+      },
+      {
+        "title": "Respects Your Pace",
+        "tip": "Whether it's walking or life stages, he matches his rhythm to yours when needed."
+      },
+      {
+        "title": "Consistent Warmth",
+        "tip": "Even during hard times, his baseline toward you is one of kindness and care."
+      },
+      {
+        "title": "Values Emotional Depth",
+        "tip": "He enjoys getting to know the 'real' you, not just the surface-level version."
+      },
+      {
+        "title": "No Identity Erasure",
+        "tip": "He wants you to keep being yourself, even as the two of you become a couple."
+      },
+      {
+        "title": "Safety as Priority",
+        "tip": "He makes it clear that your emotional and physical safety is his top concern."
+      },
+
+            {
+        "title": "Invites Difficult Talks",
+        "tip": "He initiates hard conversations to prevent tension from building up, showing commitment to peace."
+      },
+      {
+        "title": "Respects Your Outlets",
+        "tip": "He encourages your time with mentors or therapists, seeing it as a strength in your character."
+      },
+      {
+        "title": "Gentle During Sickness",
+        "tip": "When you are unwell, he focuses on your comfort rather than how your illness affects his plans."
+      },
+      {
+        "title": "No 'Crazy' Labeling",
+        "tip": "He avoids using terms like 'crazy' or 'dramatic' to describe your reactions or emotions."
+      },
+      {
+        "title": "Validates Intuition",
+        "tip": "If you feel uneasy about a person or situation, he takes your gut feeling seriously."
+      },
+      {
+        "title": "Steady in Conflict",
+        "tip": "He stays present during arguments instead of shutting down or walking away without a word."
+      },
+      {
+        "title": "No Silent Punishment",
+        "tip": "If he needs time to think, he explains it kindly instead of using silence to punish you."
+      },
+      {
+        "title": "Values Your Privacy",
+        "tip": "He doesn't share your private vulnerabilities with his friends or family without permission."
+      },
+      {
+        "title": "Soft Startup Habits",
+        "tip": "He raises concerns gently rather than with sudden criticism, protecting your nervous system."
+      },
+      {
+        "title": "Honors Physical Limits",
+        "tip": "He notices when you are socially or physically drained and suggests a way to rest."
+      },
+      {
+        "title": "Safe to Grow",
+        "tip": "He celebrates when you change for the better, even if it shifts the relationship dynamic."
+      },
+      {
+        "title": "Acknowledges His Part",
+        "tip": "In any friction, he looks for what he contributed to the problem before blaming you."
+      },
+      {
+        "title": "No Testing Games",
+        "tip": "He doesn't intentionally try to make you jealous to 'test' how much you care about him."
+      },
+      {
+        "title": "Checks In After Stress",
+        "tip": "He circles back after a hard day to ask how you're feeling now that things have calmed."
+      },
+      {
+        "title": "Transparent Intentions",
+        "tip": "He is clear about what he wants, which removes the anxiety of 'guessing' where you stand."
+      },
+      {
+        "title": "Gives You the Floor",
+        "tip": "He ensures you get to finish your thoughts without being talked over or rushed."
+      },
+      {
+        "title": "Protects Your Reputation",
+        "tip": "He speaks highly of you to others, especially when you aren't there to hear it."
+      },
+      {
+        "title": "No Emotional Blackmail",
+        "tip": "He doesn't use gifts or past favors as a way to guilt you into doing what he wants."
+      },
+      {
+        "title": "Respects Your Mentors",
+        "tip": "He values the people who help you grow, showing he supports your evolution."
+      },
+      {
+        "title": "Consistent Eye Level",
+        "tip": "He sits down to talk with you so he isn't 'looming' over you during serious topics."
+      },
+      {
+        "title": "Admits Misunderstandings",
+        "tip": "He can say 'I misunderstood you' without making it your fault for not being clearer."
+      },
+      {
+        "title": "Supports Your Hobbies",
+        "tip": "He makes space for your interests even if he doesn't participate in them personally."
+      },
+      {
+        "title": "No Comparing exes",
+        "tip": "He doesn't talk about past partners in a way that makes you feel you are in a competition."
+      },
+      {
+        "title": "Shares His Triggers",
+        "tip": "He explains what makes him feel unsafe so you both can navigate the relationship better."
+      },
+      {
+        "title": "Validates Social Needs",
+        "tip": "He respects your need to see your friends and doesn't act needy when you have plans."
+      },
+      {
+        "title": "No Passive-Aggression",
+        "tip": "If something is bothering him, he says it directly and kindly instead of using hints."
+      },
+      {
+        "title": "Consistent Warmth",
+        "tip": "His baseline behavior is kind; you don't have to 'earn' his affection every day."
+      },
+      {
+        "title": "Safe to Disagree",
+        "tip": "Having a different opinion doesn't lead to him becoming cold or dismissive."
+      },
+      {
+        "title": "Honors Your 'Maybe'",
+        "tip": "He allows you time to be undecided about big steps without pressuring for a 'yes.'"
+      },
+      {
+        "title": "No Body Shaming",
+        "tip": "He is consistently affirming of your body, even when you feel insecure yourself."
+      },
+      {
+        "title": "Checks Your Comfort",
+        "tip": "He notices small cues like you being cold or tired and offers to help immediately."
+      },
+      {
+        "title": "Repairing Quickly",
+        "tip": "He prioritizes making things right over being the 'winner' of an argument."
+      },
+      {
+        "title": "No Surveillance",
+        "tip": "He doesn't ask for your passwords or check your phone; trust is his default setting."
+      },
+      {
+        "title": "Values Your Work",
+        "tip": "He respects your career goals and doesn't treat your professional life as a distraction."
+      },
+      {
+        "title": "Gentle Humor",
+        "tip": "Inside jokes are used to build connection, never as a way to poke at your flaws."
+      },
+      {
+        "title": "Admits to Stress",
+        "tip": "He can say 'I'm just stressed from work' instead of taking his frustration out on you."
+      },
+      {
+        "title": "Validates Burnout",
+        "tip": "He understands when you have 'nothing left to give' and steps in to carry the load."
+      },
+      {
+        "title": "Consistent Stories",
+        "tip": "The details of his life stay the same over time, which builds a foundation of trust."
+      },
+      {
+        "title": "No Financial Policing",
+        "tip": "He respects your ability to manage your own money without judgment or control."
+      },
+      {
+        "title": "Safe Physical Touch",
+        "tip": "Touch is always used for comfort and stops immediately if you express a boundary."
+      },
+      {
+        "title": "Celebrates Your Voice",
+        "tip": "He asks for your opinion on his life decisions, showing he values your perspective."
+      },
+      {
+        "title": "No Emotional Ghosting",
+        "tip": "He doesn't 'vanish' when things get hard; he stays and works through it with you."
+      },
+      {
+        "title": "Honors Your Sleep",
+        "tip": "He doesn't wake you up or stay on the phone when he knows you need to rest."
+      },
+      {
+        "title": "Admits Uncertainty",
+        "tip": "He is comfortable saying 'I don't know,' which shows he isn't performing a role."
+      },
+      {
+        "title": "No Gaslighting",
+        "tip": "He accepts your version of events as your truth, even if he remembers it differently."
+      },
+      {
+        "title": "Consistent Presence",
+        "tip": "When you are together, he is focused on you rather than being distracted by his phone."
+      },
+      {
+        "title": "Supports Career Risks",
+        "tip": "He is your biggest cheerleader when you want to try something new or difficult."
+      },
+      {
+        "title": "No Ego in Apologies",
+        "tip": "He says 'I am sorry' sincerely without adding an 'if' or a 'but' at the end."
+      },
+      {
+        "title": "Values Your Strength",
+        "tip": "He isn't threatened by your independence; he sees it as a quality to admire."
+      },
+      {
+        "title": "Safe Social Circle",
+        "tip": "His friends treat you with respect, which is a reflection of how he talks about you."
+      },
+      {
+        "title": "No Ultimatums",
+        "tip": "He doesn't threaten the relationship as a way to get you to change your behavior."
+      },
+      {
+        "title": "Handles Rejection Well",
+        "tip": "If you aren't in the mood for a certain activity, he accepts it without sulking."
+      },
+      {
+        "title": "Respects Family Ties",
+        "tip": "He understands the importance of your family, even if he doesn't always agree with them."
+      },
+      {
+        "title": "Consistent Mannerisms",
+        "tip": "He is polite to strangers and staff, which shows his kindness is a character trait."
+      },
+      {
+        "title": "No Hidden Grudges",
+        "tip": "Problems are cleared as they happen so you don't have to fear a 'stored up' explosion."
+      },
+      {
+        "title": "Validates Grief",
+        "tip": "He understands that healing from loss isn't linear and gives you space to feel sad."
+      },
+      {
+        "title": "Not Afraid of Labels",
+        "tip": "He is happy to call you his partner once the relationship has reached that stage."
+      },
+      {
+        "title": "Safe Around Family",
+        "tip": "You feel comfortable bringing him to events because his behavior is predictable."
+      },
+      {
+        "title": "No Public Contradiction",
+        "tip": "He supports your side in public and saves any differing views for a private chat."
+      },
+      {
+        "title": "Values Deep Talk",
+        "tip": "He enjoys getting to know your inner world, not just the surface-level details."
+      },
+      {
+        "title": "Consistent Affection",
+        "tip": "Physical touch is a steady part of your day, not just something used to get intimacy."
+      },
+      {
+        "title": "Shares Success Credit",
+        "tip": "He acknowledges how you have helped him, making you feel like an equal partner."
+      },
+      {
+        "title": "No Informational Gaps",
+        "tip": "He shares his schedule and plans freely, which removes the need for you to wonder."
+      },
+      {
+        "title": "Respects Spiritual Flow",
+        "tip": "Your beliefs are given space and respect, even if they aren't his own."
+      },
+      {
+        "title": "No Silent Punishment",
+        "tip": "Silence is used for cooling down, and he tells you exactly when he will be back."
+      },
+      {
+        "title": "Validates Disappointment",
+        "tip": "When things go wrong for you, he is a listener rather than a critic or a fixer."
+      },
+      {
+        "title": "Consistent Logic",
+        "tip": "His actions make sense given what he says, which makes you feel grounded."
+      },
+      {
+        "title": "Safe to Be Goofy",
+        "tip": "You can be silly around him without worrying that he will find you 'cringe' or weird."
+      },
+      {
+        "title": "No Habit Nagging",
+        "tip": "He accepts your minor quirks as part of who you are instead of trying to fix them."
+      },
+      {
+        "title": "Supports Self-Care",
+        "tip": "He encourages you to do what you need for your own mental health and wellness."
+      },
+      {
+        "title": "Admits to 'Not Knowing'",
+        "tip": "He doesn't feel the need to have every answer, which makes his advice more honest."
+      },
+      {
+        "title": "No Private/Public Gap",
+        "tip": "He is the same kind person when you are alone as he is when you are at a party."
+      },
+      {
+        "title": "Validates Choice",
+        "tip": "He trusts you to make decisions for your own life without his constant oversight."
+      },
+      {
+        "title": "Consistent Helpfulness",
+        "tip": "He looks for small ways to make your life easier, showing he is always paying attention."
+      },
+      {
+        "title": "No Grudges Held",
+        "tip": "Once a conflict is resolved, he lets it go and doesn't bring it up again later."
+      },
+      {
+        "title": "Safe to Be Tired",
+        "tip": "You don't have to 'perform' or be entertaining for him to enjoy your company."
+      },
+      {
+        "title": "Respects Your Pace",
+        "tip": "Whether walking or moving through life stages, he matches his rhythm to yours."
+      },
+      {
+        "title": "Honors Your Energy",
+        "tip": "He notices when you are socially 'done' and is the first to suggest heading home."
+      },
+      {
+        "title": "Consistent Warmth",
+        "tip": "Even on bad days, his baseline toward you is one of kindness and emotional safety."
+      },
+      {
+        "title": "No Identity Erasure",
+        "tip": "He wants you to keep being yourself even as the two of you become a couple."
+      },
+      {
+        "title": "Safety as Priority",
+        "tip": "He makes it clear that your emotional and physical safety is his top concern."
+      },
+      {
+        "title": "Validates Sensory Needs",
+        "tip": "He respects your need for low light or quiet when you are overstimulated."
+      },
+      {
+        "title": "Safe Around Stress",
+        "tip": "When life gets chaotic, he remains a stable anchor rather than adding to the mess."
+      },
+      {
+        "title": "No Mocking of Tears",
+        "tip": "He views crying as a healthy release, never as a sign of being 'weak' or 'too much.'"
+      },
+      {
+        "title": "Honors Private Space",
+        "tip": "He doesn't barge into your room or interrupt your 'me time' without asking."
+      },
+      {
+        "title": "Consistent Eye Level",
+        "tip": "He gets on your level to talk, which removes any feeling of being intimidated."
+      },
+      {
+        "title": "Shares Household Labor",
+        "tip": "He takes on his fair share of chores, showing he values your time and energy."
+      },
+      {
+        "title": "No Surveillance Habits",
+        "tip": "He doesn't check your location or ask for proof of where you are; he trusts you."
+      },
+      {
+        "title": "Admits to Insecurity",
+        "tip": "He can say 'I'm feeling a bit insecure' without making it your job to fix it."
+      },
+      {
+        "title": "Values Your Community",
+        "tip": "He makes an effort with the people you love because he knows they matter to you."
+      },
+      {
+        "title": "No Scorekeeping Love",
+        "tip": "He gives because he cares, not because he is waiting for you to 'repay' him."
+      },
+      {
+        "title": "Respects Healing Pace",
+        "tip": "He understands that trauma healing takes time and is patient with your journey."
+      },
+      {
+        "title": "Direct Need Expression",
+        "tip": "He tells you what he needs kindly, which removes the stress of guessing his mood."
+      },
+      {
+        "title": "Balanced Support Flows",
+        "tip": "He asks 'how can I help?' instead of just jumping in and taking over your tasks."
+      },
+      {
+        "title": "Respects Body Autonomy",
+        "tip": "He understands that your body is yours alone and respects all your physical choices."
+      },
+      {
+        "title": "Consistent Holiday Effort",
+        "tip": "He puts thought into the days that matter to you, showing you are a priority."
+      },
+      {
+        "title": "Mutual Decision Agency",
+        "tip": "You feel empowered to say 'no' to a suggestion without fearing a bad reaction."
+      },
+      {
+        "title": "No Passive Demands",
+        "tip": "He avoids using heavy hints or 'tests' to get you to do things for him."
+      },
+      {
+        "title": "Joint Partnership Work",
+        "tip": "Both partners agree that the relationship is a project that needs mutual care."
+      },
+      {
+        "title": "Safe to Be Human",
+        "tip": "You can have a 'bad' day where you aren't perfect and still feel fully loved."
+      },
+
+            {
+        "title": "Validates Sensory Needs",
+        "tip": "He respects your need for low light, quiet, or space when you feel overstimulated."
+      },
+      {
+        "title": "Safe Around Stress",
+        "tip": "When life gets chaotic, he remains a stable anchor rather than adding to the tension."
+      },
+      {
+        "title": "Respects Healing Pace",
+        "tip": "He understands that trauma healing takes time and is patient with your personal journey."
+      },
+      {
+        "title": "No Mocking of Tears",
+        "tip": "He views crying as a natural release, never as a sign of being weak or manipulative."
+      },
+      {
+        "title": "Honors Private Pockets",
+        "tip": "He understands that having a private inner world is healthy for both individuals."
+      },
+      {
+        "title": "Admits to Insecurity",
+        "tip": "He can say 'I'm feeling a bit insecure' without making it your job to fix his mood."
+      },
+      {
+        "title": "Balanced Support Seeking",
+        "tip": "He asks 'how can I help?' instead of just jumping in and taking over your tasks."
+      },
+      {
+        "title": "No Scorekeeping Love",
+        "tip": "He gives because he cares, not because he is waiting for you to repay a favor."
+      },
+      {
+        "title": "Direct Need Expression",
+        "tip": "He tells you what he needs kindly, which removes the stress of guessing his mood."
+      },
+      {
+        "title": "Consistent Holiday Effort",
+        "tip": "He puts thought into the days that matter to you, showing you are a high priority."
+      },
+      {
+        "title": "Mutual Decision Agency",
+        "tip": "You feel empowered to say 'no' to a suggestion without fearing a negative reaction."
+      },
+      {
+        "title": "No Passive Demands",
+        "tip": "He avoids using heavy hints or tests to get you to do things for him."
+      },
+      {
+        "title": "Safe to Be Imperfect",
+        "tip": "You can have a bad day where you aren't your best and still feel fully accepted."
+      },
+      {
+        "title": "Values Emotional Depth",
+        "tip": "He enjoys getting to know the real you, not just the surface-level version."
+      },
+      {
+        "title": "No Identity Erasure",
+        "tip": "He wants you to keep being yourself, even as the two of you grow closer."
+      },
+      {
+        "title": "Respects Body Autonomy",
+        "tip": "He understands your body is yours alone and respects all your physical choices."
+      },
+      {
+        "title": "Shared Domestic Magic",
+        "tip": "Both work to make the mundane parts of home life feel special and equitable."
+      },
+      {
+        "title": "Character Consistency",
+        "tip": "He is the same respectful person in private as he is in a public social setting."
+      },
+      {
+        "title": "Learning-Based Conflict",
+        "tip": "Both focus on the lesson after an argument rather than who won or lost."
+      },
+      {
+        "title": "Respects Autonomy Rules",
+        "tip": "He supports your choices to stay safe without acting like he owns your time."
+      },
+      {
+        "title": "Mutual Help Language",
+        "tip": "Asking 'how can I help?' is a daily part of your shared interaction."
+      },
+      {
+        "title": "Joint Partnership Lab",
+        "tip": "Both believe that a relationship is a project that needs ongoing mutual care."
+      },
+      {
+        "title": "Validates Social Limits",
+        "tip": "He supports your need to leave events early when your social battery is empty."
+      },
+      {
+        "title": "No Competitive Pain",
+        "tip": "If you are hurting, he doesn't try to top your story with his own struggles."
+      },
+      {
+        "title": "Consistent Eye Level",
+        "tip": "He sits down to talk so he isn't looming over you during serious topics."
+      },
+      {
+        "title": "Protects Your Reputation",
+        "tip": "He speaks highly of you to others, especially when you aren't there to hear."
+      },
+      {
+        "title": "Supports Career Risks",
+        "tip": "He is your biggest cheerleader when you want to try something new or difficult."
+      },
+      {
+        "title": "No Emotional Ghosting",
+        "tip": "He doesn't vanish when things get hard; he stays and works through it with you."
+      },
+      {
+        "title": "Values Your Strength",
+        "tip": "He isn't threatened by your independence; he sees it as a quality to admire."
+      },
+      {
+        "title": "No Ego in Apologies",
+        "tip": "He says 'I am sorry' sincerely without adding an 'if' or a 'but' at the end."
+      },
+      {
+        "title": "Safe Social Circle",
+        "tip": "His friends treat you with respect, reflecting how he speaks about you."
+      },
+      {
+        "title": "Handles Rejection Well",
+        "tip": "If you aren't in the mood for an activity, he accepts it without sulking."
+      },
+      {
+        "title": "Respects Family Ties",
+        "tip": "He understands the importance of your family, even if he doesn't always agree."
+      },
+      {
+        "title": "Consistent Mannerisms",
+        "tip": "He is polite to strangers, which shows his kindness is a true character trait."
+      },
+      {
+        "title": "No Hidden Grudges",
+        "tip": "Problems are cleared as they happen so you don't fear a stored-up explosion."
+      },
+      {
+        "title": "Validates Grief",
+        "tip": "He understands that healing isn't linear and gives you space to feel sad."
+      },
+      {
+        "title": "Not Afraid of Labels",
+        "tip": "He is happy to call you his partner once the relationship has reached that stage."
+      },
+      {
+        "title": "No Public Contradiction",
+        "tip": "He supports you in public and saves any differing views for private talk."
+      },
+      {
+        "title": "Values Deep Talk",
+        "tip": "He enjoys getting to know your inner world, not just surface-level details."
+      },
+      {
+        "title": "Consistent Affection",
+        "tip": "Physical touch is steady, not just something used to get intimacy."
+      },
+      {
+        "title": "Shares Success Credit",
+        "tip": "He acknowledges how you have helped him, making you feel like an equal."
+      },
+      {
+        "title": "No Informational Gaps",
+        "tip": "He shares his schedule freely, which removes the need for you to wonder."
+      },
+      {
+        "title": "Respects Spiritual Flow",
+        "tip": "Your beliefs are given space and respect, even if they aren't his own."
+      },
+      {
+        "title": "No Silent Punishment",
+        "tip": "Silence is for cooling down, and he tells you exactly when he will be back."
+      },
+      {
+        "title": "Validates Disappointment",
+        "tip": "When things go wrong, he is a listener rather than a critic or a fixer."
+      },
+      {
+        "title": "Consistent Logic",
+        "tip": "His actions make sense given what he says, making you feel grounded."
+      },
+      {
+        "title": "Safe to Be Goofy",
+        "tip": "You can be silly around him without worrying that he will judge you."
+      },
+      {
+        "title": "No Habit Nagging",
+        "tip": "He accepts your minor quirks as part of you instead of trying to fix them."
+      },
+      {
+        "title": "Supports Self-Care",
+        "tip": "He encourages you to do what you need for your own mental health."
+      },
+      {
+        "title": "Admits Uncertainty",
+        "tip": "He can say 'I don't know,' which shows he isn't performing a role."
+      },
+      {
+        "title": "No Private/Public Gap",
+        "tip": "He is the same kind person when alone as he is at a social party."
+      },
+      {
+        "title": "Validates Choice",
+        "tip": "He trusts you to know what is best for your own life and career."
+      },
+      {
+        "title": "Consistent Helpfulness",
+        "tip": "He looks for small ways to make your life easier, showing steady care."
+      },
+      {
+        "title": "No Grudges Held",
+        "tip": "Once a conflict is resolved, he lets it go and doesn't bring it up again."
+      },
+      {
+        "title": "Safe to Be Tired",
+        "tip": "You don't have to be high-energy for him to value your company."
+      },
+      {
+        "title": "Consistent Warmth",
+        "tip": "Even on bad days, his baseline toward you is kindness and safety."
+      },
+      {
+        "title": "Safety as Priority",
+        "tip": "He makes it clear that your emotional safety is his top concern."
+      },
+      {
+        "title": "Honors Private Space",
+        "tip": "He doesn't barge into your room or interrupt me-time without asking."
+      },
+      {
+        "title": "Shares Household Labor",
+        "tip": "He takes on his fair share, showing he values your time and energy."
+      },
+      {
+        "title": "No Surveillance Habits",
+        "tip": "He doesn't check your location or ask for proof; he trusts you."
+      },
+      {
+        "title": "Values Your Community",
+        "tip": "He makes an effort with your loved ones because they matter to you."
+      },
+      {
+        "title": "Direct Need Expression",
+        "tip": "He tells you what he needs kindly, removing the stress of guessing."
+      },
+      {
+        "title": "Respects Body Autonomy",
+        "tip": "He understands your body is yours and respects all physical choices."
+      },
+      {
+        "title": "Joint Partnership Work",
+        "tip": "Both partners agree that the bond needs ongoing mutual care."
+      },
+      {
+        "title": "Safe to Be Human",
+        "tip": "You can have a bad day and still feel fully loved and accepted."
+      },
+      {
+        "title": "Respects Quiet Needs",
+        "tip": "He honors when you need silence to process thoughts after a long day."
+      },
+      {
+        "title": "No Guilt Over Rest",
+        "tip": "He encourages you to nap or relax without making you feel lazy."
+      },
+      {
+        "title": "Validates Mood Shifts",
+        "tip": "He understands that moods change and doesn't demand a constant smile."
+      },
+      {
+        "title": "Admits Social Burnout",
+        "tip": "He can say he's tired of people without making it about you."
+      },
+      {
+        "title": "No Emotional Traps",
+        "tip": "He doesn't ask leading questions meant to make you feel guilty."
+      },
+      {
+        "title": "Safe to Change Mind",
+        "tip": "He respects when you update your opinion on a topic or plan."
+      },
+      {
+        "title": "Honors Soft Boundaries",
+        "tip": "He listens to 'maybe' and 'not now' with the same respect as a 'no.'"
+      },
+      {
+        "title": "Consistent Praise",
+        "tip": "He mentions your strengths often, helping you see yourself kindly."
+      },
+      {
+        "title": "No Public Contempt",
+        "tip": "He never uses an eye-roll or sigh to dismiss you in front of others."
+      },
+      {
+        "title": "Safe for Vulnerability",
+        "tip": "Sharing a fear is met with a hug rather than a lecture or a fix."
+      },
+      {
+        "title": "Admits Personal Bias",
+        "tip": "He can say 'I'm just being defensive,' which ends conflict quickly."
+      },
+      {
+        "title": "No Ghosting Fears",
+        "tip": "His consistency removes the fear that he will suddenly disappear."
+      },
+      {
+        "title": "Respects Growth Pains",
+        "tip": "He is patient when you are learning a new, difficult skill or habit."
+      },
+      {
+        "title": "Validates Fear of Loss",
+        "tip": "If you feel insecure, he offers a steady hand rather than frustration."
+      },
+      {
+        "title": "No Weaponized Past",
+        "tip": "Your history is kept safe and never used to win an argument."
+      },
+      {
+        "title": "Honors Work Focus",
+        "tip": "He respects your deep work hours and doesn't interrupt for trifles."
+      },
+      {
+        "title": "Safe to Be Loud",
+        "tip": "Your excitement and big laughs are welcomed, never shushed."
+      },
+      {
+        "title": "Consistent Eye Level",
+        "tip": "He sits with you to discuss hard things, removing power gaps."
+      },
+      {
+        "title": "No Secretive Devices",
+        "tip": "His phone use is open and casual, fostering a sense of total trust."
+      },
+      {
+        "title": "Validates Career Stress",
+        "tip": "He understands work pressure and offers support instead of advice."
+      },
+      {
+        "title": "Safe for Difference",
+        "tip": "You can like different things and still feel like a perfect match."
+      },
+      {
+        "title": "No Forced Intimacy",
+        "tip": "Closeness is a choice made together, never a duty or expectation."
+      },
+      {
+        "title": "Admits When Grumpy",
+        "tip": "He takes ownership of a bad mood so you don't think it's your fault."
+      },
+      {
+        "title": "Safe to Be Alone",
+        "tip": "He is happy for you to have a solo night, showing secure love."
+      },
+      {
+        "title": "No Petty Sarcasm",
+        "tip": "He avoids cutting remarks that are meant to hurt under a 'joke.'"
+      },
+      {
+        "title": "Consistent Presence",
+        "tip": "When you talk, he is present, not checking his phone or the TV."
+      },
+      {
+        "title": "Validates Social Anxiety",
+        "tip": "He is your teammate in loud rooms, checking that you feel okay."
+      },
+      {
+        "title": "Safe for New Ideas",
+        "tip": "He listens to your 'wild' dreams with curiosity and warmth."
+      },
+      {
+        "title": "No Identity Erasure",
+        "tip": "He encourages you to keep being the person he first fell for."
+      },
+      {
+        "title": "Consistent Warmth",
+        "tip": "Kindness is his default setting, even when the day is hard."
+      },
+      {
+        "title": "Safe to Disagree",
+        "tip": "You can have a different view without him becoming cold."
+      },
+      {
+        "title": "No Scorekeeping",
+        "tip": "He gives effort because he loves you, not to get something back."
+      },
+      {
+        "title": "Honors Your Energy",
+        "tip": "He notices when you are done for the day and helps you rest."
+      },
+      {
+        "title": "Consistent Help",
+        "tip": "He looks for ways to make your life easier every single day."
+      },
+      {
+        "title": "Safe to Be You",
+        "tip": "You feel completely seen and accepted for exactly who you are."
+      },
+
+            {
+        "title": "Validates Personal Space",
+        "tip": "He respects your need for a 'bubble' and doesn't take your desire for physical space personally."
+      },
+      {
+        "title": "Consistent Tone in Conflict",
+        "tip": "His voice stays level even when he is upset, preventing the conversation from feeling unsafe."
+      },
+      {
+        "title": "No Weaponized Weakness",
+        "tip": "Vulnerabilities you’ve shared are kept private and never used to 'win' a future argument."
+      },
+      {
+        "title": "Supports Your Friendships",
+        "tip": "He encourages your outside bonds, recognizing that a healthy social life makes you stronger."
+      },
+      {
+        "title": "Admits to Overreacting",
+        "tip": "He can circle back and say, 'I was too harsh earlier,' taking ownership of his emotional spikes."
+      },
+      {
+        "title": "Respects Your Hobbies",
+        "tip": "He values the things that bring you joy, even if he doesn't personally understand the appeal."
+      },
+      {
+        "title": "Safe to Express Doubt",
+        "tip": "You can share uncertainty about life or career without him becoming panicked or controlling."
+      },
+      {
+        "title": "No Public Contempt",
+        "tip": "He would never roll his eyes or sigh dismissively at you in front of friends or family."
+      },
+      {
+        "title": "Validates Intuitive Hits",
+        "tip": "If you have a 'bad feeling' about something, he pauses to listen instead of calling you paranoid."
+      },
+      {
+        "title": "Soft Eyes and Smile",
+        "tip": "His non-verbal cues signal warmth, which helps your nervous system feel relaxed in his presence."
+      },
+      {
+        "title": "No Love-Bombing Pattern",
+        "tip": "His affection grows at a steady, sustainable pace rather than an overwhelming early rush."
+      },
+      {
+        "title": "Honors Work Boundaries",
+        "tip": "He doesn't guilt you for having to work late or being focused on a professional deadline."
+      },
+      {
+        "title": "Safe to Be Quiet",
+        "tip": "He doesn't interpret your silence as a problem that needs to be 'fixed' or interrogated."
+      },
+      {
+        "title": "Admits Misunderstanding",
+        "tip": "He can say, 'I didn't hear you correctly,' rather than blaming you for not being clear enough."
+      },
+      {
+        "title": "No Emotional Blackmail",
+        "tip": "He doesn't use the threat of leaving or becoming cold to get you to change your mind."
+      },
+      {
+        "title": "Checks In After Movies",
+        "tip": "He is mindful of your triggers and checks if a heavy show or film was okay for you to watch."
+      },
+      {
+        "title": "Consistent Mannerisms",
+        "tip": "He treats waitstaff and strangers with the same kindness he shows you, showing true character."
+      },
+      {
+        "title": "No Surveillance Habits",
+        "tip": "He trusts you to be where you say you are without asking for photos or location proof."
+      },
+      {
+        "title": "Values Your Parenting View",
+        "tip": "If applicable, he treats your insights on family as equally vital to his own perspectives."
+      },
+      {
+        "title": "Safe to Be Sick",
+        "tip": "When you are unwell, he focuses on your recovery rather than how it inconveniences his day."
+      },
+      {
+        "title": "Consistent Eye Level",
+        "tip": "He sits down to discuss hard things so there is no physical power imbalance during the talk."
+      },
+      {
+        "title": "No Ego in Apologies",
+        "tip": "He says 'I am sorry' without adding an 'if' or a 'but' that shifts the blame back to you."
+      },
+      {
+        "title": "Supports Career Growth",
+        "tip": "He celebrates your promotions and successes without feeling threatened by your progress."
+      },
+      {
+        "title": "Safe to Share Trauma",
+        "tip": "If you open up about the past, he listens with empathy rather than trying to 'fix' you."
+      },
+      {
+        "title": "No Hidden Agendas",
+        "tip": "His requests are direct and kind, leaving no room for you to wonder if there's a trap."
+      },
+      {
+        "title": "Validates Burnout",
+        "tip": "He understands when you 'can't do it all' and proactively takes over chores to help."
+      },
+      {
+        "title": "Consistent Logic",
+        "tip": "His stories and explanations stay the same over time, building a foundation of truth."
+      },
+      {
+        "title": "Safe for Difference",
+        "tip": "You can have different political or social views and still feel fully respected as a person."
+      },
+      {
+        "title": "No Habit Nagging",
+        "tip": "He accepts your minor daily quirks as part of the person he loves instead of flaws."
+      },
+      {
+        "title": "Supports Self-Reflection",
+        "tip": "He encourages your journaling, therapy, or meditation, seeing them as healthy tools."
+      },
+      {
+        "title": "Admits Financial Fear",
+        "tip": "His ability to talk about money stress honestly prevents it from becoming a secret burden."
+      },
+      {
+        "title": "No Sarcastic Bites",
+        "tip": "Humor is used to make you laugh, never to poke at an insecurity or put you in your place."
+      },
+      {
+        "title": "Validates Social Anxiety",
+        "tip": "If a room feels too 'loud' for you, he is the first to suggest finding a quieter corner."
+      },
+      {
+        "title": "Consistent Presence",
+        "tip": "When you are talking, he is not checking his phone; he is mentally and emotionally there."
+      },
+      {
+        "title": "Safe for New Interests",
+        "tip": "He is curious when you want to try a new style or hobby, supporting your evolution."
+      },
+      {
+        "title": "No Ghosting Pattern",
+        "tip": "He is reliable in his communication, removing the fear of him suddenly disappearing."
+      },
+      {
+        "title": "Validates Choice",
+        "tip": "He trusts your judgment on everything from your career path to what you wear."
+      },
+      {
+        "title": "Consistent Helpfulness",
+        "tip": "He looks for small, daily ways to make your life smoother, showing he is always aware."
+      },
+      {
+        "title": "No Grudges Held",
+        "tip": "Once a conflict is resolved, it is buried; he doesn't keep a mental list of your mistakes."
+      },
+      {
+        "title": "Safe to Be Low Energy",
+        "tip": "You don't have to 'perform' or be high-vibe for him to value and enjoy your company."
+      },
+      {
+        "title": "Respects Your Ancestry",
+        "tip": "He treats your cultural background and family history with genuine interest and respect."
+      },
+      {
+        "title": "Consistent Warmth",
+        "tip": "Even on a stressful day, his baseline toward you remains kind and psychologically safe."
+      },
+      {
+        "title": "No Identity Erasure",
+        "tip": "He wants you to remain the whole, independent person you were before the relationship."
+      },
+      {
+        "title": "Values Emotional Depth",
+        "tip": "He is interested in your 'inner landscape,' not just the surface-level version of you."
+      },
+      {
+        "title": "Safety as Priority",
+        "tip": "He makes it clear that your physical and emotional safety is his primary commitment."
+      },
+      {
+        "title": "Validates Sleep Needs",
+        "tip": "He doesn't guilt you for needing more rest or going to bed early when you are tired."
+      },
+      {
+        "title": "Safe Around Alcohol",
+        "tip": "His personality stays respectful and stable regardless of the social setting or stress."
+      },
+      {
+        "title": "No Emotional Traps",
+        "tip": "He doesn't ask 'test' questions designed to see if you'll give the 'wrong' answer."
+      },
+      {
+        "title": "Admits Personal Bias",
+        "tip": "He can recognize when his perspective is colored by his own past, preventing blame."
+      },
+      {
+        "title": "No Secretive Tech",
+        "tip": "His phone and devices are used openly, fostering a sense of total transparency."
+      },
+      {
+        "title": "Validates Career Stress",
+        "tip": "He understands that a bad day at work is real and offers a listening ear without judgment."
+      },
+      {
+        "title": "Safe to Change Mind",
+        "tip": "He allows you the freedom to update your opinions or plans without calling you flighty."
+      },
+      {
+        "title": "Consistent Praise",
+        "tip": "He mentions your strengths often, helping you maintain a healthy sense of self-worth."
+      },
+      {
+        "title": "No Forced Intimacy",
+        "tip": "Closeness is a mutual choice, and he respects when you aren't in the mood for touch."
+      },
+      {
+        "title": "Admits to Jealousy",
+        "tip": "If he feels insecure, he owns it as his feeling rather than blaming you for his reaction."
+      },
+      {
+        "title": "Safe to Be Alone",
+        "tip": "He is comfortable when you want a solo night, showing his love is secure and not clingy."
+      },
+      {
+        "title": "No Petty Sarcasm",
+        "tip": "He avoids cutting remarks that are meant to wound under the guise of being a 'joke.'"
+      },
+      {
+        "title": "Consistent Help",
+        "tip": "He looks for ways to assist you before you even have to ask, showing active care."
+      },
+      {
+        "title": "Safe to Be You",
+        "tip": "You feel completely seen and accepted for exactly who you are, flaws and all."
+      },
+      {
+        "title": "Validates Grief Cycles",
+        "tip": "He understands that healing from loss isn't linear and doesn't tell you to 'get over it.'"
+      },
+      {
+        "title": "No Social Policing",
+        "tip": "He trusts your interactions with others and doesn't monitor who you talk to or follow."
+      },
+      {
+        "title": "Supports Creative Outlets",
+        "tip": "He encourages your art, writing, or building, seeing them as essential to your spirit."
+      },
+      {
+        "title": "Safe to Be Goofy",
+        "tip": "You can be silly or weird around him without fear of judgment or 'cringe' reactions."
+      },
+      {
+        "title": "Admits When Grumpy",
+        "tip": "He can say, 'I'm just in a bad mood,' which prevents you from thinking you caused it."
+      },
+      {
+        "title": "No Scorekeeping Love",
+        "tip": "He gives effort because he loves you, not because he's waiting for an equal return."
+      },
+      {
+        "title": "Validates Body Changes",
+        "tip": "He remains affectionate through all phases of health, age, and physical shifts."
+      },
+      {
+        "title": "Consistent Eye Contact",
+        "tip": "When you are speaking about important things, he looks at you with full presence."
+      },
+      {
+        "title": "No Hidden Resentment",
+        "tip": "If something is wrong, he brings it up kindly so it doesn't fester into coldness."
+      },
+      {
+        "title": "Safe for New Dreams",
+        "tip": "He listens to your 'wild' aspirations with curiosity instead of shooting them down."
+      },
+      {
+        "title": "Supports Solitude",
+        "tip": "He honors when you need a 'social detox' and helps you protect that quiet time."
+      },
+      {
+        "title": "No Public Comparison",
+        "tip": "He never compares you to other women to make you feel like you're in a competition."
+      },
+      {
+        "title": "Consistent Values",
+        "tip": "His behavior aligns with the person he claims to be, creating a sense of integrity."
+      },
+      {
+        "title": "Safe to Be Vulnerable",
+        "tip": "A shared fear is met with a hug rather than a lecture on how to 'fix' the problem."
+      },
+      {
+        "title": "Admits Social Burnout",
+        "tip": "He can admit he's tired of people without making his desire for home about you."
+      },
+      {
+        "title": "No Emotional Ghosting",
+        "tip": "He stays present even when the conversation is difficult, showing true commitment."
+      },
+      {
+        "title": "Validates Mood Shifts",
+        "tip": "He understands that moods vary and doesn't demand you be 'on' for him at all times."
+      },
+      {
+        "title": "Consistent Warmth",
+        "tip": "Kindness is his default state, even when the external world is being difficult."
+      },
+      {
+        "title": "Safe to Disagree",
+        "tip": "You can hold a different view without him becoming cold, petty, or dismissive."
+      },
+      {
+        "title": "No Petty Revenge",
+        "tip": "If you hurt his feelings, he talks about it rather than trying to hurt you back."
+      },
+      {
+        "title": "Honors Your Energy",
+        "tip": "He notices when you've reached your limit for the day and helps you find rest."
+      },
+      {
+        "title": "Consistent Support",
+        "tip": "He is your 'safe harbor' in a storm, offering a steady and predictable comfort."
+      },
+      {
+        "title": "Safe to Be Loud",
+        "tip": "Your excitement and big laughs are celebrated by him, never shushed or shamed."
+      },
+      {
+        "title": "No Surveillance",
+        "tip": "Trust is his baseline; he doesn't need to check up on your stories or location."
+      },
+      {
+        "title": "Validates Career Ambition",
+        "tip": "He sees your drive as a strength and supports the time you invest in your goals."
+      },
+      {
+        "title": "Safe for Quiet Connection",
+        "tip": "You can spend hours together without talking and still feel totally safe and seen."
+      },
+      {
+        "title": "Admits Personal Fear",
+        "tip": "His willingness to share his own worries makes it safe for you to do the same."
+      },
+      {
+        "title": "No Ego in Growth",
+        "tip": "He is willing to learn new relationship skills alongside you without defensiveness."
+      },
+      {
+        "title": "Validates Financial Worth",
+        "tip": "He respects your contribution to the household, regardless of the dollar amount."
+      },
+      {
+        "title": "Consistent Honesty",
+        "tip": "He tells the truth even about small things, which builds a massive bank of trust."
+      },
+      {
+        "title": "Safe to Be Imperfect",
+        "tip": "You can have a 'human' day where you aren't perfect and still feel fully loved."
+      },
+      {
+        "title": "No Passive Demands",
+        "tip": "He asks for what he needs clearly and kindly, removing the stress of guessing."
+      },
+      {
+        "title": "Supports Boundary Setting",
+        "tip": "He cheers you on when you set healthy limits with others, even with his own family."
+      },
+      {
+        "title": "Safe for Change",
+        "tip": "He remains your biggest fan as you move through different seasons of your life."
+      },
+      {
+        "title": "Admits to Stress",
+        "tip": "He can say, 'I'm just stressed,' so you don't feel responsible for his quietness."
+      },
+      {
+        "title": "No Identity Erasure",
+        "tip": "He wants you to keep being the person he first fell for, in all your uniqueness."
+      },
+      {
+        "title": "Consistent Respect",
+        "tip": "The way he talks to you in private is exactly how he speaks about you in public."
+      },
+      {
+        "title": "Safe to Be Human",
+        "tip": "You are allowed to make mistakes without fear of losing his love or respect."
+      },
+      {
+        "title": "Values Emotional Labor",
+        "tip": "He notices the work you put into the bond and says 'thank you' for your heart."
+      },
+      {
+        "title": "Consistent Help",
+        "tip": "He looks for ways to assist you every day, showing that you are always on his mind."
+      },
+      {
+        "title": "Safe for Life",
+        "tip": "You feel a deep, soul-level security knowing he is your partner in this world."
+      },
+
+          {
+      "title": "Taking Your Keys",
+      "tip": "Holding your keys 'for safekeeping' without your request is a way to limit your ability to leave a situation freely."
     },
-    "Manipulation": {
-      "tips": [
-        {
-          "title": "Love Bombing",
-          "tip": "Excessive affection and attention early on can be a manipulation tactic to quickly create emotional dependency."
-        },
-        {
-          "title": "Gaslighting",
-          "tip": "If they make you question your own reality or memory, that's gaslighting. Trust your perception of events."
-        }
-      ]
+    {
+      "title": "Over-Sharing Online",
+      "tip": "Posting photos of you or details about your date without asking first shows a lack of respect for your digital privacy."
     },
-    "Boundary": {
-      "tips": [
-        {
-          "title": "Ignoring Your 'No'",
-          "tip": "Someone who can't respect small boundaries won't respect bigger ones. 'No' should always be enough."
-        },
-        {
-          "title": "Pushing for Intimacy Too Fast",
-          "tip": "Rushing physical or emotional intimacy before you're ready is a major red flag. Healthy relationships progress at a comfortable pace."
-        }
-      ]
+    {
+      "title": "Mocking Your Sleep Schedule",
+      "tip": "Teasing you for needing rest is a pattern used to make you feel guilty for prioritizing your physical well-being."
     },
-    "Communication": {
-      "tips": [
-        {
-          "title": "Silent Treatment",
-          "tip": "Using silence as punishment is emotional manipulation. Healthy partners communicate even during disagreements."
-        },
-        {
-          "title": "Dismissing Your Feelings",
-          "tip": "If they regularly tell you you're 'too sensitive' or 'overreacting,' they're invalidating your emotions."
-        }
-      ]
+    {
+      "title": "Ignoring Your Work Hours",
+      "tip": "Repeatedly calling during your shift after you said you're busy shows they value their access over your career goals."
     },
-    "Commitment": {
-      "tips": [
-        {
-          "title": "Hot and Cold Behavior",
-          "tip": "Alternating between intense interest and distance creates anxiety and keeps you off-balance. Consistency matters."
-        },
-        {
-          "title": "Future Faking",
-          "tip": "Making big promises about the future with no follow-through is a way to keep you invested without real commitment."
-        }
-      ]
-    }
+    {
+      "title": "Unwanted Advice on Style",
+      "tip": "Giving unsolicited tips on how to dress is a subtle way of trying to reshape your identity to fit their preference."
+    },
+    {
+      "title": "Opening Your Mail",
+      "tip": "Checking your mail without permission is a sign of a desire for information control and a breach of legal privacy."
+    },
+    {
+      "title": "Pressure to Meet Family",
+      "tip": "Pushing for family introductions before you feel ready is a way to force a level of commitment you haven't agreed to."
+    },
+    {
+      "title": "Invading Your Workout",
+      "tip": "Showing up at your gym or trying to 'coach' you uninvited is an overstep into your personal health and wellness time."
+    },
+    {
+      "title": "Using Your Phone for Photos",
+      "tip": "Grabbing your phone to take selfies without asking is a test to see how you react to them handling your private property."
+    },
+    {
+      "title": "Questioning Your Purchases",
+      "tip": "Asking 'do you really need that?' about items you buy with your own money is an early sign of financial overstepping."
+    },
+    {
+      "title": "The 'Wait in the Car' Rule",
+      "tip": "Directing where you should sit or wait without a valid reason is a way to practice small-scale physical control."
+    },
+    {
+      "title": "Ignoring Food Allergies",
+      "tip": "Suggesting restaurants you can't eat at after being told your needs shows a lack of regard for your physical safety."
+    },
+    {
+      "title": "Touching Your Face",
+      "tip": "Wiping your face or 'fixing' your makeup without asking is an invasive gesture that tests your comfort with being handled."
+    },
+    {
+      "title": "Demanding 'I Love You'",
+      "tip": "Expecting you to say it back before you are ready is a way to force emotional compliance and speed up intimacy."
+    },
+    {
+      "title": "Reading Over Your Shoulder",
+      "tip": "Consistently watching what you are typing is a pattern that denies you the right to a private mental space."
+    },
+    {
+      "title": "Bringing Others to Your Home",
+      "tip": "Inviting their friends to your house without checking with you treats your sanctuary as their personal venue."
+    },
+    {
+      "title": "Mocking Your Values",
+      "tip": "Dismissing your core beliefs as 'silly' is a pattern used to undermine your identity and personal autonomy."
+    },
+    {
+      "title": "The 'One Bite' Pressure",
+      "tip": "Insisting you eat something after you’ve said 'no thank you' is a sign they prioritize their ego over your autonomy."
+    },
+    {
+      "title": "Checking Your Pockets",
+      "tip": "Touching your clothes to 'find something' is an invasive way to check your person without asking for permission."
+    },
+    {
+      "title": "Interrupted Phone Calls",
+      "tip": "Talking to you while you are on the phone with someone else is a way to distract you and dominate your attention."
+    },
+    {
+      "title": "The 'Surprise' Pet",
+      "tip": "Bringing an animal to your home without asking is an overstep that ignores your domestic rules and personal space."
+    },
+    {
+      "title": "Monitoring Your Drinks",
+      "tip": "Counting your drinks or telling you when you've 'had enough' is a way to exert parental-style control over your choices."
+    },
+    {
+      "title": "Ignoring 'Not Tonight'",
+      "tip": "Getting angry when you decline an invite for the evening is a way to use guilt to bypass your personal boundaries."
+    },
+    {
+      "title": "Critiquing Your Parenting",
+      "tip": "Giving unsolicited corrections on how you handle your children early on is a major overstep into your family role."
+    },
+    {
+      "title": "Entering Your Car Uninvited",
+      "tip": "Getting into your vehicle before being asked is a sign they feel entitled to your private property and space."
+    },
+    {
+      "title": "Using Your Laptop",
+      "tip": "Opening your computer without permission is a breach of your digital workspace and personal information."
+    },
+    {
+      "title": "The 'Just a Peek' Phone Check",
+      "tip": "Asking to see your photos 'just to see' is a way to normalize surveillance under the guise of curiosity."
+    },
+    {
+      "title": "Mocking Your Home Rules",
+      "tip": "Calling you 'uptight' for having rules about your home is a pattern used to make you feel ashamed of having limits."
+    },
+    {
+      "title": "Pressure to Quit a Hobby",
+      "tip": "Suggesting you spend 'too much time' on your passions is a way to make you more available for their needs."
+    },
+    {
+      "title": "Touching You While Asleep",
+      "tip": "Initiating contact while you are asleep and unable to consent is a significant violation of bodily autonomy."
+    },
+    {
+      "title": "Ignoring Your 'Closed Door'",
+      "tip": "Walking into a room where the door is shut without knocking shows a lack of respect for your need for privacy."
+    },
+    {
+      "title": "Comparing Your Boundaries",
+      "tip": "Saying 'my ex let me do this' is a tactic used to pressure you into dropping your limits to stay competitive."
+    },
+    {
+      "title": "Checking the Receipt",
+      "tip": "Looking at your store receipts or bank notifications is a way to track your movements and financial choices."
+    },
+    {
+      "title": "Assuming You’ll Pay",
+      "tip": "Ordering expensive items and assuming you will cover the bill without a talk is a breach of financial boundaries."
+    },
+    {
+      "title": "Critiquing Your Hygiene",
+      "tip": "Making unsolicited comments on your self-care is an overstep into your private and personal grooming routines."
+    },
+    {
+      "title": "Blocking Your Path",
+      "tip": "Standing in a doorway or in front of you during a talk is a physical tactic used to intimidate and limit your movement."
+    },
+    {
+      "title": "Refusing Protection",
+      "tip": "Arguing against safety measures you’ve requested for intimacy is a direct violation of your health and autonomy."
+    },
+    {
+      "title": "The 'Interrogation' of Friends",
+      "tip": "Asking your friends for details about your past is a way to bypass your privacy and gather info without consent."
+    },
+    {
+      "title": "Changing the Radio/AC",
+      "tip": "Consistently changing settings in your car or home without asking is a sign they prioritize their comfort over yours."
+    },
+    {
+      "title": "Ignoring 'I Need to Sleep'",
+      "tip": "Continuing to talk after you've said you need to rest is a lack of regard for your physical needs and well-being."
+    },
+    {
+      "title": "The 'Let Me Help' Intrusion",
+      "tip": "Insisting on doing a task for you after you’ve said 'I’ve got it' is a way to undermine your sense of competence."
+    },
+    {
+      "title": "Monitoring Your Followers",
+      "tip": "Questioning every new person you follow online is a pattern of digital stalking and a desire for control."
+    },
+    {
+      "title": "Touching Personal Marks",
+      "tip": "Touching tattoos or scars on your skin without permission is an invasive overstep into your physical history."
+    },
+    {
+      "title": "The 'Secret' Recording",
+      "tip": "Recording your voice or taking photos without your knowledge is a major violation of trust and privacy."
+    },
+    {
+      "title": "Ignoring Social Burnout",
+      "tip": "Pressuring you to stay at a party when you’ve expressed you’re tired is a way to ignore your emotional limits."
+    },
+    {
+      "title": "Critiquing Your Driving",
+      "tip": "Constantly telling you how to drive when you are behind the wheel is a way to establish dominance in a shared space."
+    },
+    {
+      "title": "The 'Open Fridge' Policy",
+      "tip": "Helping themselves to your food before being invited shows a lack of respect for your home and personal rules."
+    },
+    {
+      "title": "Ignoring Your 'Stop' Signal",
+      "tip": "Failing to stop a behavior—even a playful one—after a pre-agreed signal is a dangerous breach of trust."
+    },
+    {
+      "title": "The 'Just Joking' Overstep",
+      "tip": "Using sarcasm to cross a boundary, then claiming you 'can’t take a joke,' is a way to avoid taking responsibility."
+    },
+    {
+      "title": "Pressure for Private Photos",
+      "tip": "Asking for intimate images after you’ve said 'no' is a sign they prioritize their wants over your safety."
+    },
+    {
+      "title": "Rearranging Your Space",
+      "tip": "Moving items in your home to 'better' places without asking is a sign they want to control your environment."
+    },
+    {
+      "title": "Ignoring Your Political Views",
+      "tip": "Starting intense debates to 'change your mind' after you've asked to drop the topic is a lack of respect for your views."
+    },
+    {
+      "title": "The 'Check My Phone' Demand",
+      "tip": "Demanding you look through their phone is a way to pressure you into letting them do the same to yours."
+    },
+    {
+      "title": "Taking Your Phone Away",
+      "tip": "Physically grabbing your phone during a fight is a tactic used to isolate you and limit your access to help."
+    },
+    {
+      "title": "Ignoring 'I’m Not Ready'",
+      "tip": "Pushing for major milestones after you’ve said 'no' is a sign of an imbalanced and forced relationship pace."
+    },
+    {
+      "title": "Public Kiss Pressure",
+      "tip": "Insisting on PDA when you have expressed you prefer privacy is a way to prioritize their ego over your comfort."
+    },
+    {
+      "title": "Reading Your Journal",
+      "tip": "Looking through your private diary is a ultimate breach of trust and an invasion of your inner-most thoughts."
+    },
+    {
+      "title": "Ignoring Your Choice of Movie",
+      "tip": "Always being the one to choose entertainment shows a lack of interest in your tastes and a desire for control."
+    },
+    {
+      "title": "Touching Your Glasses",
+      "tip": "Grabbing glasses off your face or touching them is an invasive overstep into your personal sensory space."
+    },
+    {
+      "title": "Checking Your Trash",
+      "tip": "Looking through your waste bin or recycling is a pattern of obsessive monitoring and a major privacy violation."
+    },
+    {
+      "title": "Ignoring Your Career Path",
+      "tip": "Suggesting you take a 'simpler' job so you can focus more on them is a way to limit your independent growth."
+    },
+    {
+      "title": "The 'Just a Minute' Delay",
+      "tip": "Intentionally making you late for an appointment by delaying their exit is a way to exert power over your time."
+    },
+    {
+      "title": "Touching Your Plate",
+      "tip": "Eating off your plate without asking is a small but telling sign that they view your boundaries as optional."
+    },
+    {
+      "title": "Ignoring Your 'Me Time'",
+      "tip": "Calling you repeatedly when they know you are having a self-care night is a way to disrupt your personal peace."
+    },
+    {
+      "title": "The 'Surprise' Stayover",
+      "tip": "Assuming they are staying the night without asking first treats your home as their own without your consent."
+    },
+    {
+      "title": "Ignoring Your Pet’s Rules",
+      "tip": "Feeding your pet table scraps after you’ve asked them not to is a sign they do not respect your authority in your home."
+    },
+    {
+      "title": "The 'Phone Call' Interrogation",
+      "tip": "Asking 'who was that?' every time your phone rings is a pattern of suspicion that erodes trust over time."
+    },
+    {
+      "title": "Ignoring Your Style Changes",
+      "tip": "Getting angry if you change your hair or look is a way to claim ownership over your physical appearance."
+    },
+    {
+      "title": "The 'Let’s Go Now' Command",
+      "tip": "Demanding you leave a social event immediately without considering your feelings is a sign of emotional control."
+    },
+    {
+      "title": "Ignoring Healthy Habits",
+      "tip": "Bringing junk food or alcohol when you are trying to be healthy is a way to sabotage your personal goals."
+    },
+    {
+      "title": "Checking the Mileage",
+      "tip": "Noticing how many miles you’ve driven is a pattern used to track your movements throughout the day."
+    },
+    {
+      "title": "Ignoring Choice of Music",
+      "tip": "Changing the music you are listening to in your own space is an overstep into your personal environment."
+    },
+    {
+      "title": "The 'Double Text' Flood",
+      "tip": "Sending dozens of messages when you don't reply is an aggressive way to demand your immediate attention."
+    },
+    {
+      "title": "Ignoring Your Study Time",
+      "tip": "Talking to you or trying to distract you when you are clearly focused on work is a lack of respect for your goals."
+    },
+    {
+      "title": "The 'Unasked' Clean-Up",
+      "tip": "Cleaning your house or files without asking can be a way to judge and control your private space."
+    },
+    {
+      "title": "Ignoring 'No' to a Gift",
+      "tip": "Forcing you to keep a gift after you’ve said you don't want it is a way to create an unearned sense of obligation."
+    },
+    {
+      "title": "The Mirroring Boundary",
+      "tip": "Assuming they can do anything you do (like use your toothbrush) ignores the fact that boundaries are individual."
+    },
+    {
+      "title": "Ignoring Your Dress Code",
+      "tip": "Showing up in inappropriate attire for a place you asked to dress up for shows a lack of regard for your comfort."
+    },
+    {
+      "title": "The Phone Snatching Habit",
+      "tip": "Reaching for your phone when it lights up is a sign of impulsive suspicion and a lack of digital respect."
+    },
+    {
+      "title": "Ignoring Social Anxiety",
+      "tip": "Pushing you into the spotlight in public when they know you are uncomfortable is a way to ignore your emotional safety."
+    },
+    {
+      "title": "The 'Just a Peek' into Bags",
+      "tip": "Looking inside your purse or backpack without permission is an invasive overstep into your personal belongings."
+    },
+    {
+      "title": "Ignoring Request for Space",
+      "tip": "Following you from room to room when you've asked to be alone is a physical way to deny you peace and privacy."
+    },
+    {
+      "title": "Public Announcement Trap",
+      "tip": "Sharing your private news with others before you are ready is a way to steal your narrative and control your image."
+    },
+    {
+      "title": "Ignoring 'I’m Full' Signal",
+      "tip": "Continuing to put food on your plate after you’ve said you are done is a sign they don't listen to your bodily needs."
+    },
+    {
+      "title": "Information Gatekeeping",
+      "tip": "Deleting messages or call logs from your phone is a severe form of digital manipulation and control."
+    },
+    {
+      "title": "Ignoring Career Boundaries",
+      "tip": "Asking you to call out of work 'just to hang out' shows a lack of respect for your professional responsibilities."
+    },
+    {
+      "title": "Uninvited Key Copy",
+      "tip": "Making a copy of your house key without permission is a dangerous breach of home security and trust."
+    },
+    {
+      "title": "Ignoring 'I’m Sick' Needs",
+      "tip": "Expecting you to cook or clean when you are unwell is a pattern of prioritizing their comfort over your health."
+    },
+    {
+      "title": "Surprise Travel Plan",
+      "tip": "Booking a trip for you without checking your schedule is a way to force you into a major commitment without consent."
+    },
+    {
+      "title": "Ignoring 'No' to Photos",
+      "tip": "Taking your picture after you’ve asked them not to is a sign they value their desires over your current comfort."
+    },
+    {
+      "title": "Checking Your Clothes",
+      "tip": "Touching your clothes to 'find something' is an invasive way to check your person without asking for permission."
+    },
+    {
+      "title": "Ignoring 'I’m Busy' Text",
+      "tip": "Continuing to call after you’ve texted that you can't talk is a way to force their way into your current moment."
+    },
+    {
+      "title": "The 'Let Me Carry That' Force",
+      "tip": "Grabbing your bag after you’ve said 'no thanks' is a way to override your physical independence."
+    },
+    {
+      "title": "Ignoring Your 'Safe' People",
+      "tip": "Criticizing friends you go to for advice is a way to make you doubt your own support system and isolate you."
+    },
+    {
+      "title": "Checking Browser History",
+      "tip": "Looking at your browser history on a shared computer is a way to monitor your private thoughts and interests."
+    },
+    {
+      "title": "Ignoring Request for Privacy",
+      "tip": "Telling your private secrets to their family is a major betrayal of the trust you placed in them."
+    },
+    {
+      "title": "The 'I’ll Decide' Tone",
+      "tip": "Ordering for you at a restaurant without asking is a small but clear sign of a desire to dominate your choices."
+    },
+    {
+      "title": "Ignoring Need for Quiet",
+      "tip": "Turning up the TV when they know you have a headache is a lack of regard for your physical pain and recovery."
+    },
+    {
+      "title": "Surprise Intimacy",
+      "tip": "Waking you up for closeness without checking your interest is a sign they prioritize their drive over your rest."
+    },
+    {
+      "title": "Ignoring Your 'Stop' Signal",
+      "tip": "If you ask them to stop a topic and they keep pushing, they are valuing their point over your peace of mind."
+    },
+
+          {
+        "title": "Validates Emotional Space",
+        "tip": "He respects your need for a 'bubble' and doesn't take your desire for physical space personally."
+      },
+      {
+        "title": "Consistent Tone in Conflict",
+        "tip": "His voice stays level even when he is upset, preventing the conversation from feeling unsafe."
+      },
+      {
+        "title": "No Weaponized Weakness",
+        "tip": "Vulnerabilities you’ve shared are kept private and never used to 'win' a future argument."
+      },
+      {
+        "title": "Supports Your Friendships",
+        "tip": "He encourages your outside bonds, recognizing that a healthy social life makes you stronger."
+      },
+      {
+        "title": "Admits to Overreacting",
+        "tip": "He can circle back and say, 'I was too harsh earlier,' taking ownership of his emotional spikes."
+      },
+      {
+        "title": "Respects Your Hobbies",
+        "tip": "He values the things that bring you joy, even if he doesn't personally understand the appeal."
+      },
+      {
+        "title": "Safe to Express Doubt",
+        "tip": "You can share uncertainty about life or career without him becoming panicked or controlling."
+      },
+      {
+        "title": "No Public Contempt",
+        "tip": "He would never roll his eyes or sigh dismissively at you in front of friends or family."
+      },
+      {
+        "title": "Validates Intuitive Hits",
+        "tip": "If you have a 'bad feeling' about something, he pauses to listen instead of calling you paranoid."
+      },
+      {
+        "title": "Soft Eyes and Smile",
+        "tip": "His non-verbal cues signal warmth, which helps your nervous system feel relaxed in his presence."
+      },
+      {
+        "title": "No Love-Bombing Pattern",
+        "tip": "His affection grows at a steady, sustainable pace rather than an overwhelming early rush."
+      },
+      {
+        "title": "Honors Work Boundaries",
+        "tip": "He doesn't guilt you for having to work late or being focused on a professional deadline."
+      },
+      {
+        "title": "Safe to Be Quiet",
+        "tip": "He doesn't interpret your silence as a problem that needs to be 'fixed' or interrogated."
+      },
+      {
+        "title": "Admits Misunderstanding",
+        "tip": "He can say, 'I didn't hear you correctly,' rather than blaming you for not being clear enough."
+      },
+      {
+        "title": "No Emotional Blackmail",
+        "tip": "He doesn't use the threat of leaving or becoming cold to get you to change your mind."
+      },
+      {
+        "title": "Checks In After Movies",
+        "tip": "He is mindful of your triggers and checks if a heavy show or film was okay for you to watch."
+      },
+      {
+        "title": "Consistent Mannerisms",
+        "tip": "He treats waitstaff and strangers with the same kindness he shows you, showing true character."
+      },
+      {
+        "title": "No Surveillance Habits",
+        "tip": "He trusts you to be where you say you are without asking for photos or location proof."
+      },
+      {
+        "title": "Values Your Parenting View",
+        "tip": "If applicable, he treats your insights on family as equally vital to his own perspectives."
+      },
+      {
+        "title": "Safe to Be Sick",
+        "tip": "When you are unwell, he focuses on your recovery rather than how it inconveniences his day."
+      },
+      {
+        "title": "Consistent Eye Level",
+        "tip": "He sits down to discuss hard things so there is no physical power imbalance during the talk."
+      },
+      {
+        "title": "No Ego in Apologies",
+        "tip": "He says 'I am sorry' without adding an 'if' or a 'but' that shifts the blame back to you."
+      },
+      {
+        "title": "Supports Career Growth",
+        "tip": "He celebrates your promotions and successes without feeling threatened by your progress."
+      },
+      {
+        "title": "Safe to Share Trauma",
+        "tip": "If you open up about the past, he listens with empathy rather than trying to 'fix' you."
+      },
+      {
+        "title": "No Hidden Agendas",
+        "tip": "His requests are direct and kind, leaving no room for you to wonder if there's a trap."
+      },
+      {
+        "title": "Validates Burnout",
+        "tip": "He understands when you 'can't do it all' and proactively takes over chores to help."
+      },
+      {
+        "title": "Consistent Logic",
+        "tip": "His stories and explanations stay the same over time, building a foundation of truth."
+      },
+      {
+        "title": "Safe for Difference",
+        "tip": "You can have different political or social views and still feel fully respected as a person."
+      },
+      {
+        "title": "No Habit Nagging",
+        "tip": "He accepts your minor daily quirks as part of the person he loves instead of flaws."
+      },
+      {
+        "title": "Supports Self-Reflection",
+        "tip": "He encourages your journaling, therapy, or meditation, seeing them as healthy tools."
+      },
+      {
+        "title": "Admits Financial Fear",
+        "tip": "His ability to talk about money stress honestly prevents it from becoming a secret burden."
+      },
+      {
+        "title": "No Sarcastic Bites",
+        "tip": "Humor is used to make you laugh, never to poke at an insecurity or put you in your place."
+      },
+      {
+        "title": "Validates Social Anxiety",
+        "tip": "If a room feels too 'loud' for you, he is the first to suggest finding a quieter corner."
+      },
+      {
+        "title": "Consistent Presence",
+        "tip": "When you are talking, he is not checking his phone; he is mentally and emotionally there."
+      },
+      {
+        "title": "Safe for New Interests",
+        "tip": "He is curious when you want to try a new style or hobby, supporting your evolution."
+      },
+      {
+        "title": "No Ghosting Pattern",
+        "tip": "He is reliable in his communication, removing the fear of him suddenly disappearing."
+      },
+      {
+        "title": "Validates Choice",
+        "tip": "He trusts your judgment on everything from your career path to what you wear."
+      },
+      {
+        "title": "Consistent Helpfulness",
+        "tip": "He looks for small, daily ways to make your life smoother, showing he is always aware."
+      },
+      {
+        "title": "No Grudges Held",
+        "tip": "Once a conflict is resolved, it is buried; he doesn't keep a mental list of your mistakes."
+      },
+      {
+        "title": "Safe to Be Low Energy",
+        "tip": "You don't have to 'perform' or be high-vibe for him to value and enjoy your company."
+      },
+      {
+        "title": "Respects Your Ancestry",
+        "tip": "He treats your cultural background and family history with genuine interest and respect."
+      },
+      {
+        "title": "Consistent Warmth",
+        "tip": "Even on a stressful day, his baseline toward you remains kind and psychologically safe."
+      },
+      {
+        "title": "No Identity Erasure",
+        "tip": "He wants you to remain the whole, independent person you were before the relationship."
+      },
+      {
+        "title": "Values Emotional Depth",
+        "tip": "He is interested in your 'inner landscape,' not just the surface-level version of you."
+      },
+      {
+        "title": "Safety as Priority",
+        "tip": "He makes it clear that your physical and emotional safety is his primary commitment."
+      },
+      {
+        "title": "Validates Sleep Needs",
+        "tip": "He doesn't guilt you for needing more rest or going to bed early when you are tired."
+      },
+      {
+        "title": "Safe Around Alcohol",
+        "tip": "His personality stays respectful and stable regardless of the social setting or stress."
+      },
+      {
+        "title": "No Emotional Traps",
+        "tip": "He doesn't ask 'test' questions designed to see if you'll give the 'wrong' answer."
+      },
+      {
+        "title": "Admits Personal Bias",
+        "tip": "He can recognize when his perspective is colored by his own past, preventing blame."
+      },
+      {
+        "title": "No Secretive Tech",
+        "tip": "His phone and devices are used openly, fostering a sense of total transparency."
+      },
+      {
+        "title": "Validates Career Stress",
+        "tip": "He understands that a bad day at work is real and offers a listening ear without judgment."
+      },
+      {
+        "title": "Safe to Change Mind",
+        "tip": "He allows you the freedom to update your opinions or plans without calling you flighty."
+      },
+      {
+        "title": "Consistent Praise",
+        "tip": "He mentions your strengths often, helping you maintain a healthy sense of self-worth."
+      },
+      {
+        "title": "No Forced Intimacy",
+        "tip": "Closeness is a mutual choice, and he respects when you aren't in the mood for touch."
+      },
+      {
+        "title": "Admits to Jealousy",
+        "tip": "If he feels insecure, he owns it as his feeling rather than blaming you for his reaction."
+      },
+      {
+        "title": "Safe to Be Alone",
+        "tip": "He is comfortable when you want a solo night, showing his love is secure and not clingy."
+      },
+      {
+        "title": "No Petty Sarcasm",
+        "tip": "He avoids cutting remarks that are meant to wound under the guise of being a 'joke.'"
+      },
+      {
+        "title": "Consistent Help",
+        "tip": "He looks for ways to assist you before you even have to ask, showing active care."
+      },
+      {
+        "title": "Safe to Be You",
+        "tip": "You feel completely seen and accepted for exactly who you are, flaws and all."
+      },
+      {
+        "title": "Validates Grief Cycles",
+        "tip": "He understands that healing from loss isn't linear and doesn't tell you to 'get over it.'"
+      },
+      {
+        "title": "No Social Policing",
+        "tip": "He trusts your interactions with others and doesn't monitor who you talk to or follow."
+      },
+      {
+        "title": "Supports Creative Outlets",
+        "tip": "He encourages your art, writing, or building, seeing them as essential to your spirit."
+      },
+      {
+        "title": "Safe to Be Goofy",
+        "tip": "You can be silly or weird around him without fear of judgment or 'cringe' reactions."
+      },
+      {
+        "title": "Admits When Grumpy",
+        "tip": "He can say, 'I'm just in a bad mood,' which prevents you from thinking you caused it."
+      },
+      {
+        "title": "No Scorekeeping Love",
+        "tip": "He gives effort because he loves you, not because he's waiting for an equal return."
+      },
+      {
+        "title": "Validates Body Changes",
+        "tip": "He remains affectionate through all phases of health, age, and physical shifts."
+      },
+      {
+        "title": "Consistent Eye Contact",
+        "tip": "When you are speaking about important things, he looks at you with full presence."
+      },
+      {
+        "title": "No Hidden Resentment",
+        "tip": "If something is wrong, he brings it up kindly so it doesn't fester into coldness."
+      },
+      {
+        "title": "Safe for New Dreams",
+        "tip": "He listens to your 'wild' aspirations with curiosity instead of shooting them down."
+      },
+      {
+        "title": "Supports Solitude",
+        "tip": "He honors when you need a 'social detox' and helps you protect that quiet time."
+      },
+      {
+        "title": "No Public Comparison",
+        "tip": "He never compares you to other women to make you feel like you're in a competition."
+      },
+      {
+        "title": "Consistent Values",
+        "tip": "His behavior aligns with the person he claims to be, creating a sense of integrity."
+      },
+      {
+        "title": "Safe to Be Vulnerable",
+        "tip": "A shared fear is met with a hug rather than a lecture on how to 'fix' the problem."
+      },
+      {
+        "title": "Admits Social Burnout",
+        "tip": "He can admit he's tired of people without making his desire for home about you."
+      },
+      {
+        "title": "No Emotional Ghosting",
+        "tip": "He stays present even when the conversation is difficult, showing true commitment."
+      },
+      {
+        "title": "Validates Mood Shifts",
+        "tip": "He understands that moods vary and doesn't demand you be 'on' for him at all times."
+      },
+      {
+        "title": "Consistent Warmth",
+        "tip": "Kindness is his default state, even when the external world is being difficult."
+      },
+      {
+        "title": "Safe to Disagree",
+        "tip": "You can hold a different view without him becoming cold, petty, or dismissive."
+      },
+      {
+        "title": "No Petty Revenge",
+        "tip": "If you hurt his feelings, he talks about it rather than trying to hurt you back."
+      },
+      {
+        "title": "Honors Your Energy",
+        "tip": "He notices when you've reached your limit for the day and helps you find rest."
+      },
+      {
+        "title": "Consistent Support",
+        "tip": "He is your 'safe harbor' in a storm, offering a steady and predictable comfort."
+      },
+      {
+        "title": "Safe to Be Loud",
+        "tip": "Your excitement and big laughs are celebrated by him, never shushed or shamed."
+      },
+      {
+        "title": "No Surveillance",
+        "tip": "Trust is his baseline; he doesn't need to check up on your stories or location."
+      },
+      {
+        "title": "Validates Career Ambition",
+        "tip": "He sees your drive as a strength and supports the time you invest in your goals."
+      },
+      {
+        "title": "Safe for Quiet Connection",
+        "tip": "You can spend hours together without talking and still feel totally safe and seen."
+      },
+      {
+        "title": "Admits Personal Fear",
+        "tip": "His willingness to share his own worries makes it safe for you to do the same."
+      },
+      {
+        "title": "No Ego in Growth",
+        "tip": "He is willing to learn new relationship skills alongside you without defensiveness."
+      },
+      {
+        "title": "Validates Financial Worth",
+        "tip": "He respects your contribution to the household, regardless of the dollar amount."
+      },
+      {
+        "title": "Consistent Honesty",
+        "tip": "He tells the truth even about small things, which builds a massive bank of trust."
+      },
+      {
+        "title": "Safe to Be Imperfect",
+        "tip": "You can have a 'human' day where you aren't perfect and still feel fully loved."
+      },
+      {
+        "title": "No Passive Demands",
+        "tip": "He asks for what he needs clearly and kindly, removing the stress of guessing."
+      },
+      {
+        "title": "Supports Boundary Setting",
+        "tip": "He cheers you on when you set healthy limits with others, even with his own family."
+      },
+      {
+        "title": "Safe for Change",
+        "tip": "He remains your biggest fan as you move through different seasons of your life."
+      },
+      {
+        "title": "Admits to Stress",
+        "tip": "He can say, 'I'm just stressed,' so you don't feel responsible for his quietness."
+      },
+      {
+        "title": "No Identity Erasure",
+        "tip": "He wants you to keep being the person he first fell for, in all your uniqueness."
+      },
+      {
+        "title": "Consistent Respect",
+        "tip": "The way he talks to you in private is exactly how he speaks about you in public."
+      },
+      {
+        "title": "Safe to Be Human",
+        "tip": "You are allowed to make mistakes without fear of losing his love or respect."
+      },
+      {
+        "title": "Values Emotional Labor",
+        "tip": "He notices the work you put into the bond and says 'thank you' for your heart."
+      },
+      {
+        "title": "Consistent Help",
+        "tip": "He looks for ways to assist you every day, showing that you are always on his mind."
+      },
+      {
+        "title": "Safe for Life",
+        "tip": "You feel a deep, soul-level security knowing he is your partner in this world."
+      }
+    ]
+  }
+
   }
 }
+
+
+
