@@ -3641,7 +3641,771 @@
 
 
  ]
+},
+
+"Support": {
+  "tips": [
+    {
+      "title": "Supports Your Goals",
+      "tip": "When he supports your goals without competition or control, your growth feels encouraged and emotionally safe."
+    },
+    {
+      "title": "Shows Up During Stress",
+      "tip": "When he shows up during stressful moments, emotional reliability and care are clearly demonstrated."
+    },
+    {
+      "title": "Offers Help Without Pressure",
+      "tip": "When help is offered without pressure or expectation, support feels genuine rather than transactional."
+    },
+    {
+      "title": "Encourages Your Independence",
+      "tip": "When he encourages your independence, support feels empowering rather than controlling."
+    },
+    {
+      "title": "Respects Your Challenges",
+      "tip": "When your challenges are respected, emotional understanding and care increase."
+    },
+    {
+      "title": "Stands By You Publicly",
+      "tip": "When he stands by you publicly and privately, loyalty and emotional safety are reinforced."
+    },
+    {
+      "title": "Provides Emotional Backup",
+      "tip": "When he provides emotional backup, difficult moments feel less overwhelming."
+    },
+    {
+      "title": "Supports Without Fixing",
+      "tip": "When he supports without rushing to fix you, emotional validation is present."
+    },
+    {
+      "title": "Encourages Your Voice",
+      "tip": "When he encourages your voice and opinions, emotional support feels respectful."
+    },
+    {
+      "title": "Remains Supportive in Disagreeing",
+      "tip": "When he remains supportive even when disagreeing, emotional safety stays intact."
+    },
+    {
+      "title": "Checks In During Hard Times",
+      "tip": "When he checks in during hard times, care and attentiveness are clearly shown."
+    },
+    {
+      "title": "Supports Your Decisions",
+      "tip": "When your decisions are supported without judgment, trust and confidence grow."
+    },
+    {
+      "title": "Believes in Your Potential",
+      "tip": "When he believes in your potential, encouragement feels motivating rather than conditional."
+    },
+    {
+      "title": "Offers Comfort Consistently",
+      "tip": "When comfort is offered consistently, emotional security strengthens."
+    },
+    {
+      "title": "Respects Your Emotional Needs",
+      "tip": "When emotional needs are respected, support feels safe and validating."
+    },
+    {
+      "title": "Supports Growth Over Control",
+      "tip": "When growth is supported over control, emotional health is prioritized."
+    },
+    {
+      "title": "Listens When You Struggle",
+      "tip": "When he listens without minimizing struggles, emotional support feels genuine."
+    },
+    {
+      "title": "Encourages Self-Care",
+      "tip": "When self-care is encouraged, support extends beyond words into actions."
+    },
+    {
+      "title": "Shows Up Without Being Asked",
+      "tip": "When he shows up without being asked, reliability and care are evident."
+    },
+    {
+      "title": "Supports Your Boundaries",
+      "tip": "When your boundaries are supported, emotional safety is reinforced."
+    },
+    {
+      "title": "Stays Present During Hard Talks",
+      "tip": "When he stays present during hard conversations, support feels steady and mature."
+    },
+    {
+      "title": "Encourages Your Confidence",
+      "tip": "When confidence is encouraged, emotional support feels empowering."
+    },
+    {
+      "title": "Respects Your Pace",
+      "tip": "When your pace is respected, support feels patient and caring."
+    },
+    {
+      "title": "Provides Calm Reassurance",
+      "tip": "When reassurance is calm and steady, anxiety is reduced."
+    },
+    {
+      "title": "Supports Without Judging",
+      "tip": "When support is given without judgment, emotional trust grows."
+    },
+    {
+      "title": "Stands With You in Conflict",
+      "tip": "When he stands with you during conflict, partnership feels secure."
+    },
+    {
+      "title": "Encourages Honest Expression",
+      "tip": "When honest expression is encouraged, emotional support deepens connection."
+    },
+    {
+      "title": "Offers Help Thoughtfully",
+      "tip": "When help is offered thoughtfully, care feels intentional."
+    },
+    {
+      "title": "Supports You Through Change",
+      "tip": "When he supports you through change, emotional stability increases."
+    },
+    {
+      "title": "Remains Steady Under Pressure",
+      "tip": "When support remains steady under pressure, emotional maturity is shown."
+    },
+    {
+      "title": "Protects Emotional Safety",
+      "tip": "When emotional safety is protected, support feels trustworthy."
+    },
+    {
+      "title": "Encourages Healthy Choices",
+      "tip": "When healthy choices are encouraged, support feels aligned with care."
+    },
+    {
+      "title": "Supports Without Guilt",
+      "tip": "When support is offered without guilt or obligation, trust strengthens."
+    },
+    {
+      "title": "Respects Your Emotional Space",
+      "tip": "When emotional space is respected, support feels balanced."
+    },
+    {
+      "title": "Shows Compassion in Stress",
+      "tip": "When compassion shows during stress, emotional care is evident."
+    },
+    {
+      "title": "Supports Your Healing",
+      "tip": "When healing is supported patiently, emotional trust grows."
+    },
+    {
+      "title": "Encourages You During Doubt",
+      "tip": "When encouragement is given during doubt, emotional reassurance increases."
+    },
+    {
+      "title": "Stays Supportive After Mistakes",
+      "tip": "When support remains after mistakes, emotional safety is reinforced."
+    },
+    {
+      "title": "Offers Presence Over Advice",
+      "tip": "When presence is offered instead of advice, support feels validating."
+    },
+    {
+      "title": "Supports Your Emotional Growth",
+      "tip": "When emotional growth is supported, long-term connection improves."
+    },
+    {
+      "title": "Remains Kind Under Pressure",
+      "tip": "When kindness remains under pressure, emotional support feels secure."
+    },
+    {
+      "title": "Encourages You Without Control",
+      "tip": "When encouragement is given without control, independence is respected."
+    },
+    {
+      "title": "Supports Your Wins",
+      "tip": "When your wins are celebrated genuinely, emotional partnership deepens."
+    },
+    {
+      "title": "Shows Care Through Actions",
+      "tip": "When care is shown through actions, support feels authentic."
+    },
+    {
+      "title": "Supports Without Conditions",
+      "tip": "When support is unconditional, emotional trust strengthens."
+    },
+    {
+      "title": "Remains Supportive Long-Term",
+      "tip": "When support remains long-term, commitment and care are proven."
+    },
+    {
+      "title": "Encourages Emotional Strength",
+      "tip": "When emotional strength is encouraged, resilience grows."
+    },
+
+    {
+  "title": "Supports You During Uncertainty",
+  "tip": "When he supports you during uncertain times without pressure, emotional safety and trust are strengthened."
+},
+{
+  "title": "Offers Steady Reassurance",
+  "tip": "When reassurance is steady and calm, anxiety decreases and emotional grounding increases."
+},
+{
+  "title": "Stays Supportive in Silence",
+  "tip": "When he stays supportive even in quiet moments, presence feels comforting rather than distant."
+},
+{
+  "title": "Believes You Can Handle It",
+  "tip": "When he believes in your ability to handle challenges, confidence grows without dependency."
+},
+{
+  "title": "Supports Without Taking Control",
+  "tip": "When support does not turn into control, independence and respect are preserved."
+},
+{
+  "title": "Encourages You After Failure",
+  "tip": "When he encourages you after failure, emotional safety and motivation are restored."
+},
+{
+  "title": "Stays Kind Under Pressure",
+  "tip": "When kindness remains under pressure, support feels reliable and emotionally safe."
+},
+{
+  "title": "Provides Comfort Without Fixing",
+  "tip": "When comfort is offered without fixing you, emotional validation is present."
+},
+{
+  "title": "Supports Your Emotional Process",
+  "tip": "When he supports your emotional process, healing feels respected and unhurried."
+},
+{
+  "title": "Remains Present During Anxiety",
+  "tip": "When he remains present during anxiety, emotional stability increases."
+},
+{
+  "title": "Encourages Healthy Coping",
+  "tip": "When healthy coping is encouraged, support feels aligned with long-term care."
+},
+{
+  "title": "Respects Your Emotional Limits",
+  "tip": "When emotional limits are respected, support feels safe and non-invasive."
+},
+{
+  "title": "Shows Empathy Before Advice",
+  "tip": "When empathy comes before advice, emotional understanding deepens."
+},
+{
+  "title": "Supports You Through Doubt",
+  "tip": "When he supports you through self-doubt, confidence rebuilds naturally."
+},
+{
+  "title": "Stays Grounded When You’re Overwhelmed",
+  "tip": "When he stays grounded while you’re overwhelmed, emotional regulation improves."
+},
+{
+  "title": "Encourages Self-Trust",
+  "tip": "When self-trust is encouraged, empowerment replaces reliance."
+},
+{
+  "title": "Supports Emotional Honesty",
+  "tip": "When emotional honesty is supported, vulnerability feels safe."
+},
+{
+  "title": "Offers Stability in Chaos",
+  "tip": "When stability is offered during chaos, emotional security increases."
+},
+{
+  "title": "Remains Supportive After Disagreement",
+  "tip": "When support remains after disagreement, partnership feels secure."
+},
+{
+  "title": "Supports Without Minimizing",
+  "tip": "When he supports without minimizing feelings, emotional validation is clear."
+},
+{
+  "title": "Encourages Rest When Needed",
+  "tip": "When rest is encouraged without guilt, care feels genuine."
+},
+{
+  "title": "Stays Patient With Healing",
+  "tip": "When patience is shown during healing, trust grows."
+},
+{
+  "title": "Supports You Through Change",
+  "tip": "When he supports you through personal change, emotional stability strengthens."
+},
+{
+  "title": "Protects Your Emotional Space",
+  "tip": "When emotional space is protected, support feels balanced and respectful."
+},
+{
+  "title": "Affirms Your Feelings",
+  "tip": "When your feelings are affirmed, emotional reassurance increases."
+},
+{
+  "title": "Supports Growth Without Pressure",
+  "tip": "When growth is supported without pressure, motivation feels healthy."
+},
+{
+  "title": "Shows Care in Small Moments",
+  "tip": "When care is shown in small moments, emotional support feels consistent."
+},
+{
+  "title": "Encourages Emotional Balance",
+  "tip": "When emotional balance is encouraged, stress becomes manageable."
+},
+{
+  "title": "Remains Gentle During Stress",
+  "tip": "When gentleness remains during stress, emotional safety deepens."
+},
+{
+  "title": "Supports You Without Comparison",
+  "tip": "When he supports without comparison, confidence remains intact."
+},
+{
+  "title": "Stays Emotionally Available",
+  "tip": "When emotional availability is consistent, support feels dependable."
+},
+{
+  "title": "Encourages Honest Vulnerability",
+  "tip": "When vulnerability is encouraged, connection strengthens."
+},
+{
+  "title": "Supports You After Setbacks",
+  "tip": "When support remains after setbacks, resilience grows."
+},
+{
+  "title": "Offers Calm During Emotional Waves",
+  "tip": "When calm is offered during emotional waves, grounding increases."
+},
+{
+  "title": "Supports Without Conditions",
+  "tip": "When support is unconditional, emotional trust deepens."
+},
+{
+  "title": "Remains Attentive to Your Needs",
+  "tip": "When he stays attentive to your needs, emotional care is evident."
+},
+{
+  "title": "Encourages Healthy Independence",
+  "tip": "When independence is encouraged, support feels empowering."
+},
+{
+  "title": "Stays Compassionate When You Struggle",
+  "tip": "When compassion shows during struggle, emotional safety strengthens."
+},
+{
+  "title": "Supports Your Emotional Boundaries",
+  "tip": "When emotional boundaries are supported, trust increases."
+},
+{
+  "title": "Shows Support Through Actions",
+  "tip": "When support is shown through actions, sincerity is proven."
+},
+{
+  "title": "Encourages You to Feel Safely",
+  "tip": "When feeling is encouraged safely, emotional release is healthy."
+},
+{
+  "title": "Remains Supportive Over Time",
+  "tip": "When support remains over time, reliability is proven."
+},
+{
+  "title": "Supports You Without Judgment",
+  "tip": "When judgment is absent, emotional openness grows."
+},
+{
+  "title": "Encourages Inner Strength",
+  "tip": "When inner strength is encouraged, resilience and confidence build."
+},
+{
+  "title": "Stays Supportive During Healing",
+  "tip": "When he stays supportive during healing, trust deepens."
+},
+{
+  "title": "Offers Presence Over Solutions",
+  "tip": "When presence is offered over solutions, emotional care feels genuine."
+},
+{
+  "title": "Supports You as You Are",
+  "tip": "When he supports you as you are, acceptance and safety grow."
+},
+
+{
+  "title": "Supports You Without Changing",
+  "tip": "When he supports you without trying to change who you are, emotional safety and self-worth are reinforced."
+},
+{
+  "title": "Encourages You on Hard Days",
+  "tip": "When he encourages you on hard days, emotional resilience grows and you feel less alone."
+},
+{
+  "title": "Stays Supportive When You Grow",
+  "tip": "When he stays supportive as you grow and evolve, partnership feels secure rather than threatened."
+},
+{
+  "title": "Supports Your Emotional Truth",
+  "tip": "When he supports your emotional truth without denial or dismissal, trust deepens."
+},
+{
+  "title": "Stands With You in Difficulty",
+  "tip": "When he stands with you during difficult moments, emotional reliability is proven."
+},
+{
+  "title": "Supports Without Making It About Him",
+  "tip": "When support is given without centering himself, care feels genuine and selfless."
+},
+{
+  "title": "Encourages You to Rest",
+  "tip": "When he encourages rest without guilt, support feels nurturing and respectful."
+},
+{
+  "title": "Stays Patient With Your Process",
+  "tip": "When patience is shown with your emotional process, healing feels safe and unpressured."
+},
+{
+  "title": "Supports You Through Fear",
+  "tip": "When he supports you through fear without minimizing it, emotional safety increases."
+},
+{
+  "title": "Respects Your Emotional Pace",
+  "tip": "When your emotional pace is respected, support feels calm and considerate."
+},
+{
+  "title": "Shows Care Without Expectation",
+  "tip": "When care is shown without expecting something back, trust and comfort grow."
+},
+{
+  "title": "Supports Your Confidence",
+  "tip": "When he supports your confidence rather than undermining it, empowerment grows."
+},
+{
+  "title": "Remains Supportive When You’re Vulnerable",
+  "tip": "When he remains supportive during vulnerability, emotional intimacy strengthens."
+},
+{
+  "title": "Encourages You Without Comparison",
+  "tip": "When encouragement comes without comparison, self-esteem remains protected."
+},
+{
+  "title": "Supports You Through Setbacks",
+  "tip": "When he supports you through setbacks, resilience and trust are reinforced."
+},
+{
+  "title": "Stays Emotionally Available",
+  "tip": "When emotional availability remains steady, support feels dependable."
+},
+{
+  "title": "Validates Your Experiences",
+  "tip": "When your experiences are validated, emotional reassurance increases."
+},
+{
+  "title": "Supports You Without Pressure",
+  "tip": "When support comes without pressure to perform or change, safety grows."
+},
+{
+  "title": "Encourages Healing at Your Pace",
+  "tip": "When healing is encouraged at your pace, trust and comfort deepen."
+},
+{
+  "title": "Supports You During Transitions",
+  "tip": "When he supports you through life transitions, emotional stability improves."
+},
+{
+  "title": "Shows Up When You Need It",
+  "tip": "When he shows up when you truly need support, reliability is clear."
+},
+{
+  "title": "Supports You Without Judgment",
+  "tip": "When judgment is absent in support, emotional openness grows."
+},
+{
+  "title": "Remains Gentle When You’re Struggling",
+  "tip": "When gentleness is shown during struggle, emotional safety strengthens."
+},
+{
+  "title": "Encourages Emotional Honesty",
+  "tip": "When emotional honesty is encouraged, trust and closeness increase."
+},
+{
+  "title": "Supports You Even When It’s Hard",
+  "tip": "When support remains even when it’s hard, commitment is evident."
+},
+{
+  "title": "Respects Your Emotional Needs",
+  "tip": "When emotional needs are respected, support feels safe and validating."
+},
+{
+  "title": "Offers Reassurance Without Control",
+  "tip": "When reassurance is given without control, comfort feels genuine."
+},
+{
+  "title": "Supports Your Independence",
+  "tip": "When independence is supported, partnership feels empowering."
+},
+{
+  "title": "Stays Supportive After Mistakes",
+  "tip": "When support remains after mistakes, emotional safety is reinforced."
+},
+{
+  "title": "Encourages Self-Compassion",
+  "tip": "When self-compassion is encouraged, emotional healing deepens."
+},
+{
+  "title": "Supports You Through Anxiety",
+  "tip": "When he supports you through anxiety calmly, emotional grounding increases."
+},
+{
+  "title": "Remains Kind Under Emotional Stress",
+  "tip": "When kindness remains during emotional stress, support feels secure."
+},
+{
+  "title": "Protects Your Emotional Safety",
+  "tip": "When emotional safety is protected consistently, trust grows."
+},
+{
+  "title": "Supports Your Emotional Growth",
+  "tip": "When emotional growth is supported, long-term connection strengthens."
+},
+{
+  "title": "Encourages You Without Rushing",
+  "tip": "When encouragement comes without rushing outcomes, support feels patient."
+},
+{
+  "title": "Stays Present When You’re Overwhelmed",
+  "tip": "When he stays present during overwhelm, emotional regulation improves."
+},
+{
+  "title": "Supports You Through Self-Doubt",
+  "tip": "When self-doubt is met with support, confidence rebuilds."
+},
+{
+  "title": "Offers Calm Support",
+  "tip": "When support is calm rather than reactive, emotional safety increases."
+},
+{
+  "title": "Supports You Without Minimizing",
+  "tip": "When feelings are not minimized, emotional validation is clear."
+},
+{
+  "title": "Encourages Inner Stability",
+  "tip": "When inner stability is encouraged, resilience strengthens."
+},
+{
+  "title": "Remains Supportive Over Time",
+  "tip": "When support remains consistent over time, reliability is proven."
+},
+{
+  "title": "Supports You Through Healing",
+  "tip": "When he supports healing patiently, emotional trust deepens."
+},
+{
+  "title": "Shows Support Through Actions",
+  "tip": "When support is shown through actions, sincerity is evident."
+},
+{
+  "title": "Encourages Emotional Balance",
+  "tip": "When emotional balance is encouraged, stress feels more manageable."
+},
+{
+  "title": "Supports You Without Conditions",
+  "tip": "When support is unconditional, emotional security grows."
+},
+{
+  "title": "Stays Supportive During Change",
+  "tip": "When he stays supportive during change, emotional stability strengthens."
+},
+{
+  "title": "Supports You With Compassion",
+  "tip": "When compassion guides his support, emotional safety and trust deepen."
+},
+
+{
+  "title": "Remains Gentle When Upset",
+  "tip": "When he remains gentle even when upset, support feels emotionally safe and free from fear or tension."
+},
+{
+  "title": "Supports You Without Fixing",
+  "tip": "When he supports you without trying to fix or correct you, emotional validation and trust increase."
+},
+{
+  "title": "Encourages You Through Fear",
+  "tip": "When he encourages you through fear without pressure, confidence and emotional safety grow together."
+},
+{
+  "title": "Stays Kind During Stress",
+  "tip": "When kindness remains present during stressful moments, support feels reliable and emotionally grounding."
+},
+{
+  "title": "Supports Emotional Expression",
+  "tip": "When he supports emotional expression without judgment, vulnerability feels safe and respected."
+},
+{
+  "title": "Protects Your Emotional Space",
+  "tip": "When he protects your emotional space, support feels balanced, respectful, and non-intrusive."
+},
+{
+  "title": "Shows Patience With Healing",
+  "tip": "When he shows patience with healing timelines, trust and emotional safety are reinforced."
+},
+{
+  "title": "Supports You Through Change",
+  "tip": "When he supports you through personal change, stability and emotional reassurance increase."
+},
+{
+  "title": "Encourages Self-Trust",
+  "tip": "When he encourages self-trust rather than dependence, empowerment and confidence grow."
+},
+{
+  "title": "Stays Present When You Cry",
+  "tip": "When he stays present during emotional release, support feels genuine and comforting."
+},
+{
+  "title": "Supports You Without Judgment",
+  "tip": "When judgment is absent from his support, emotional openness and trust deepen."
+},
+{
+  "title": "Affirms Your Emotional Reality",
+  "tip": "When he affirms your emotional reality, validation replaces doubt or self-questioning."
+},
+{
+  "title": "Remains Calm in Your Storm",
+  "tip": "When he remains calm during emotional storms, support feels stabilizing and safe."
+},
+{
+  "title": "Encourages Rest and Recovery",
+  "tip": "When rest and recovery are encouraged, support feels nurturing rather than demanding."
+},
+{
+  "title": "Supports You After Mistakes",
+  "tip": "When support remains after mistakes, emotional safety and trust are reinforced."
+},
+{
+  "title": "Offers Comfort Without Agenda",
+  "tip": "When comfort is offered without an agenda, care feels sincere and unconditional."
+},
+{
+  "title": "Stays Supportive in Silence",
+  "tip": "When he stays supportive even in silence, presence feels reassuring rather than distant."
+},
+{
+  "title": "Supports You Through Anxiety",
+  "tip": "When he supports you through anxiety calmly, emotional grounding and trust increase."
+},
+{
+  "title": "Encourages You Gently",
+  "tip": "When encouragement is gentle rather than forceful, support feels respectful and safe."
+},
+{
+  "title": "Respects Emotional Boundaries",
+  "tip": "When emotional boundaries are respected, support feels secure and balanced."
+},
+{
+  "title": "Supports You Without Comparison",
+  "tip": "When support comes without comparison to others, confidence and self-worth are protected."
+},
+{
+  "title": "Remains Supportive Over Time",
+  "tip": "When support remains consistent over time, reliability and emotional trust are proven."
+},
+{
+  "title": "Encourages Healthy Coping",
+  "tip": "When healthy coping is encouraged, support aligns with long-term emotional care."
+},
+{
+  "title": "Supports Your Emotional Pace",
+  "tip": "When your emotional pace is respected, support feels patient and considerate."
+},
+{
+  "title": "Stays With You in Discomfort",
+  "tip": "When he stays with you through discomfort, emotional safety and loyalty increase."
+},
+{
+  "title": "Supports Growth Without Pressure",
+  "tip": "When growth is supported without pressure, motivation and trust develop naturally."
+},
+{
+  "title": "Offers Reassurance Calmly",
+  "tip": "When reassurance is calm and steady, anxiety decreases and safety grows."
+},
+{
+  "title": "Encourages You After Doubt",
+  "tip": "When encouragement follows self-doubt, emotional confidence rebuilds."
+},
+{
+  "title": "Supports Without Minimizing Feelings",
+  "tip": "When feelings are not minimized, emotional validation and trust deepen."
+},
+{
+  "title": "Stays Compassionate During Conflict",
+  "tip": "When compassion remains during conflict, support feels emotionally mature and safe."
+},
+{
+  "title": "Encourages Emotional Honesty",
+  "tip": "When emotional honesty is encouraged, closeness and trust increase."
+},
+{
+  "title": "Supports You Through Grief",
+  "tip": "When he supports you through grief patiently, emotional safety strengthens."
+},
+{
+  "title": "Offers Presence Over Advice",
+  "tip": "When presence is offered instead of advice, support feels validating and caring."
+},
+{
+  "title": "Remains Gentle With Vulnerability",
+  "tip": "When he remains gentle with vulnerability, emotional intimacy deepens safely."
+},
+{
+  "title": "Supports You During Burnout",
+  "tip": "When burnout is met with understanding and care, emotional recovery improves."
+},
+{
+  "title": "Encourages Emotional Balance",
+  "tip": "When emotional balance is encouraged, stress becomes more manageable."
+},
+{
+  "title": "Supports You Without Control",
+  "tip": "When support never turns into control, independence and trust are preserved."
+},
+{
+  "title": "Stays Supportive When You Change",
+  "tip": "When support remains as you change, acceptance and safety grow."
+},
+{
+  "title": "Affirms You During Uncertainty",
+  "tip": "When he affirms you during uncertainty, confidence and trust increase."
+},
+{
+  "title": "Supports You Through Healing",
+  "tip": "When healing is supported patiently, emotional trust deepens over time."
+},
+{
+  "title": "Encourages Emotional Strength",
+  "tip": "When emotional strength is encouraged consistently, resilience and confidence grow."
+},
+{
+  "title": "Remains Kind When You Struggle",
+  "tip": "When kindness stays present during struggle, support feels safe and reliable."
+},
+{
+  "title": "Supports You Without Conditions",
+  "tip": "When support is unconditional, emotional security strengthens."
+},
+{
+  "title": "Stays Attuned to Your Needs",
+  "tip": "When he stays attuned to your needs, support feels thoughtful and genuine."
+},
+{
+  "title": "Encourages You to Be Yourself",
+  "tip": "When he encourages authenticity, support feels accepting and safe."
+},
+{
+  "title": "Supports You With Consistency",
+  "tip": "When support is consistent rather than occasional, trust is reinforced."
+},
+{
+  "title": "Offers Emotional Shelter",
+  "tip": "When he offers emotional shelter during hard moments, safety and comfort grow."
 }
+
+
+
+  ]
+}
+
 
 
 
