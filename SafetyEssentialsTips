@@ -2,155 +2,3461 @@
   "RedFlagCards_DataBase": {
     "General": {
       "tips": [
-        {
-          "tip": "Trust your gut feelings. If something feels off about a person or situation, listen to that inner voice. Your intuition is your best protector in dating."
-        },
-        {
-          "tip": "Always meet in public places for the first few dates. Choose busy, well-lit locations where other people are around."
-        },
-        {
-          "tip": "Tell a friend or family member where you're going and who you're meeting. Share your location and check in with them during or after the date."
-        },
-        {
-          "tip": "Keep your personal information private initially. Don't share your home address, workplace details, or financial information early on."
-        },
-        {
-          "tip": "Pay attention when details don't match up or stories change. Inconsistent stories could indicate dishonesty or hiding something important."
-        }
-      ]
-    },
-    "Manipulation": {
+          {
+  "tip": "Trust how a situation makes you feel, not how it looks on paper. Discomfort, confusion, or pressure are signals worth listening to early."
+},
+{
+  "tip": "Share your live location with someone you trust before dates so someone always knows where you are and can check in if needed."
+},
+{
+  "tip": "Keep your phone unlocked, charged, and accessible during dates so you can leave, call for help, or message someone instantly."
+},
+{
+  "tip": "Avoid revealing daily routines too early. Knowing your schedule, gym time, or habits can reduce your personal safety."
+},
+{
+  "tip": "Take your time getting to know someone offline before assuming intentions. Consistency over time matters more than charm."
+},
+{
+  "tip": "If he pressures you to rush trust, intimacy, or commitment, slow things down. Healthy connections respect your pacing."
+},
+{
+  "tip": "Have a simple exit plan ready for dates, like a call excuse or personal reason, so leaving never feels awkward or unsafe."
+},
+{
+  "tip": "Notice how he reacts to small boundaries. Respect for minor limits often predicts respect for bigger ones later."
+},
+{
+  "tip": "Avoid sharing identifying details like your last name, exact address, or workplace until trust is clearly established."
+},
+{
+  "tip": "Pay attention to how he handles disagreement. Anger, mocking, or dismissal early can escalate into unsafe dynamics."
+},
+{
+  "tip": "Choose date locations where staff and people are nearby. Visible environments reduce risk and increase comfort."
+},
+{
+  "tip": "Don’t feel obligated to stay polite if something feels wrong. Your safety always outweighs social expectations."
+},
+{
+  "tip": "If plans change suddenly to isolated places, decline. Last-minute location shifts can increase risk unnecessarily."
+},
+{
+  "tip": "Limit sharing personal struggles early. Oversharing can make emotional manipulation easier before trust is built."
+},
+{
+  "tip": "Notice if he respects your time and availability. Ignoring limits early can signal future boundary issues."
+},
+{
+  "tip": "Avoid dating when feeling emotionally vulnerable or desperate. Clear judgment supports safer decisions."
+},
+{
+  "tip": "Keep first dates short and simple. Time limits help you assess behavior without prolonged exposure."
+},
+{
+  "tip": "Don’t rely on him for transportation early on. Independent arrival and departure protect your autonomy."
+},
+{
+  "tip": "Be cautious with men who push secrecy or privacy early. Healthy dating doesn’t require hiding from others."
+},
+{
+  "tip": "Watch for subtle control, like deciding plans without asking. Small control behaviors can grow over time."
+},
+{
+  "tip": "If something feels confusing, pause instead of explaining it away. Clarity builds safety; confusion erodes it."
+},
+{
+  "tip": "Avoid sharing financial details, income, or assets early. Financial information can be misused."
+},
+{
+  "tip": "Keep emergency contacts easily reachable on your phone so help is one tap away if needed."
+},
+{
+  "tip": "Observe how he handles rejection. Respectful responses show emotional maturity and safety awareness."
+},
+{
+  "tip": "Don’t let guilt pressure you into continuing dates or conversations you no longer feel comfortable with."
+},
+{
+  "tip": "Trust actions over words. Promises without follow-through can mask unsafe or unstable behavior."
+},
+{
+  "tip": "Avoid disclosing travel plans or being home alone details early. Oversharing can compromise safety."
+},
+{
+  "tip": "If you feel the need to justify his behavior to yourself, pause. Safety rarely requires self-persuasion."
+},
+{
+  "tip": "Choose daytime dates initially. Visibility and energy levels often create safer, calmer environments."
+},
+{
+  "tip": "Don’t ignore early discomfort just because nothing bad happened yet. Prevention matters more than proof."
+},
+{
+  "tip": "Be mindful of men who test reactions with jokes that cross lines. Humor can hide boundary violations."
+},
+{
+  "tip": "Keep personal items close during dates. Awareness of your belongings supports overall situational safety."
+},
+{
+  "tip": "If he minimizes your concerns, take it seriously. Dismissal can signal future emotional or safety risks."
+},
+{
+  "tip": "Avoid sharing passwords, codes, or device access. Digital boundaries are part of personal safety."
+},
+{
+  "tip": "Notice patterns, not excuses. Repeated discomfort deserves attention even if reasons sound convincing."
+},
+{
+  "tip": "Give yourself permission to change your mind at any point. Consent and comfort can be withdrawn anytime."
+},
+{
+  "tip": "Avoid late-night first meetings when possible. Fatigue and isolation can reduce safety awareness."
+},
+{
+  "tip": "If you feel watched, rushed, or evaluated intensely, trust that instinct and create distance."
+},
+{
+  "tip": "Don’t downplay concerns to seem easygoing. Safety grows when you take yourself seriously."
+},
+{
+  "tip": "Choose dating platforms with safety features like reporting and blocking, and use them when needed."
+},
+{
+  "tip": "Keep screenshots or records if interactions feel off. Documentation can help if boundaries are crossed."
+},
+{
+  "tip": "Be cautious with men who dislike your independence. Respect for autonomy supports long-term safety."
+},
+{
+  "tip": "If you wouldn’t want a friend in the same situation, reconsider staying in it yourself."
+},
+{
+  "tip": "Remember that safety doesn’t require confrontation. Quietly stepping away is always an option."
+},
+{
+  "tip": "Your comfort is a valid reason to slow down, leave, or stop seeing someone—no explanation required."
+},
+
+{
+  "tip": "Tell someone you trust the name and profile of who you’re meeting so there’s accountability beyond the app if anything feels off."
+},
+{
+  "tip": "Pay attention to how relaxed your body feels around him. Physical tension can signal discomfort your mind hasn’t processed yet."
+},
+{
+  "tip": "Avoid sharing personal vulnerabilities early. Safety grows with trust, not emotional exposure before someone earns access."
+},
+{
+  "tip": "Choose places you already know well for early dates so you feel oriented, confident, and in control of your surroundings."
+},
+{
+  "tip": "If he pushes against small preferences, note it. Respect for little choices often predicts respect for bigger boundaries."
+},
+{
+  "tip": "Keep conversations balanced early on. Extreme intensity or pressure can blur judgment and reduce emotional safety."
+},
+{
+  "tip": "Trust patterns more than apologies. Repeated discomfort matters even when explanations sound reasonable."
+},
+{
+  "tip": "Notice whether he listens without interrupting. Feeling heard is a baseline requirement for emotional safety."
+},
+{
+  "tip": "Avoid explaining your standards repeatedly. Safe connections don’t require you to convince someone to respect you."
+},
+{
+  "tip": "If something feels rushed, slow it down. Healthy interest remains steady even when pacing is reduced."
+},
+{
+  "tip": "Be cautious with men who criticize your caution. Safety awareness should never be mocked or minimized."
+},
+{
+  "tip": "Notice how he reacts to your independence. Supportive responses often reflect respect and emotional maturity."
+},
+{
+  "tip": "Avoid sharing private photos early. Once shared, control is lost, which can compromise emotional safety."
+},
+{
+  "tip": "Check in with yourself after dates. Feeling drained, uneasy, or confused can be useful safety information."
+},
+{
+  "tip": "Keep first conversations focused on values and behavior, not future promises that haven’t been earned."
+},
+{
+  "tip": "If he pressures you to keep things secret, pause. Transparency supports safety, secrecy often undermines it."
+},
+{
+  "tip": "Choose clarity over chemistry. Strong attraction should never override your sense of personal safety."
+},
+{
+  "tip": "Notice whether he respects your response time. Entitlement to instant replies can signal control issues."
+},
+{
+  "tip": "Avoid sharing details about where you live alone. Personal safety comes before openness in early dating."
+},
+{
+  "tip": "Pay attention to how he handles uncertainty. Calm patience often reflects emotional safety and stability."
+},
+{
+  "tip": "If you feel obligated to manage his emotions, reassess. Safety includes emotional responsibility staying mutual."
+},
+{
+  "tip": "Trust consistency more than intensity. Stable behavior over time builds real safety, not fast attachment."
+},
+{
+  "tip": "Avoid dates when you feel pressured or exhausted. Clear energy helps you notice warning signs sooner."
+},
+{
+  "tip": "Notice if he respects your offline time. Safe partners don’t demand constant access to you."
+},
+{
+  "tip": "If his words don’t match his actions, prioritize what he does. Actions are clearer safety indicators."
+},
+{
+  "tip": "Choose environments where you can easily leave. Physical freedom supports emotional and personal safety."
+},
+{
+  "tip": "Be mindful of men who test limits playfully. Boundary testing often starts subtly before escalating."
+},
+{
+  "tip": "Avoid justifying discomfort because he seems nice. Safety isn’t about intentions, it’s about impact."
+},
+{
+  "tip": "Notice how he responds when you disagree. Respectful disagreement supports emotional safety."
+},
+{
+  "tip": "Trust your pace, even if it’s slower than his. Safety grows when you move at your own speed."
+},
+{
+  "tip": "Avoid overcommitting early. Leaving space protects your independence and decision-making clarity."
+},
+{
+  "tip": "If you feel watched or evaluated, create distance. Comfort should grow, not shrink, over time."
+},
+{
+  "tip": "Notice whether he honors plans without pressuring changes. Reliability supports a sense of safety."
+},
+{
+  "tip": "Avoid sharing insecurities early. Vulnerability is safest when mutual trust has been established."
+},
+{
+  "tip": "If something feels confusing, don’t rush clarity. Safety improves when confusion is addressed, not ignored."
+},
+{
+  "tip": "Notice whether he accepts no without argument. Respectful acceptance is a key safety signal."
+},
+{
+  "tip": "Avoid romanticizing red flags as passion. Safety is steady, not chaotic or overwhelming."
+},
+{
+  "tip": "Check whether you feel free to express opinions. Emotional safety allows honest self-expression."
+},
+{
+  "tip": "If you feel smaller around him, step back. Safe connections should never diminish your presence."
+},
+{
+  "tip": "Notice how he treats boundaries when emotions rise. Stress reveals true safety behavior."
+},
+{
+  "tip": "Avoid dismissing concerns because you can’t explain them yet. Intuition often notices patterns first."
+},
+{
+  "tip": "Choose dates that allow conversation. Communication clarity supports both emotional and physical safety."
+},
+{
+  "tip": "If you feel relief when plans cancel, reflect. Safety includes genuinely wanting to be there."
+},
+{
+  "tip": "Trust yourself even without proof. Safety decisions don’t require evidence, only self-trust."
+},
+{
+  "tip": "Remember that walking away early is safer than fixing things later. Prevention is a form of self-care."
+},
+{
+  "tip": "Your comfort is not negotiable. The right connection will never require sacrificing your sense of safety."
+},
+
+{
+  "tip": "Pay attention to how often you feel the need to explain yourself. Safety grows when understanding comes naturally, not through constant justification."
+},
+{
+  "tip": "Notice whether he respects pauses and silence. Comfort with quiet moments often reflects emotional maturity and a safe communication style."
+},
+{
+  "tip": "Avoid dating from loneliness or fear of missing out. Clear emotional grounding helps you notice unsafe dynamics early."
+},
+{
+  "tip": "If you feel pressure to impress him, slow down. Safety increases when you can show up without performing."
+},
+{
+  "tip": "Observe how he responds to your success or confidence. Supportive reactions often signal emotional safety."
+},
+{
+  "tip": "Be cautious if you feel responsible for keeping things pleasant. Safety includes shared emotional effort."
+},
+{
+  "tip": "Notice whether your opinions change to keep peace. Losing your voice can be an early safety warning sign."
+},
+{
+  "tip": "Choose dates that allow you to remain fully present. Distractions can make it harder to read safety cues."
+},
+{
+  "tip": "If you feel uneasy afterward but can’t explain why, trust that feeling. Safety doesn’t require logic to be valid."
+},
+{
+  "tip": "Watch how he handles small disappointments. Emotional regulation is a key indicator of safety."
+},
+{
+  "tip": "Avoid minimizing concerns because he hasn’t done anything wrong yet. Safety is about prevention, not reaction."
+},
+{
+  "tip": "Notice whether he respects your need for rest and space. Safe partners don’t take boundaries personally."
+},
+{
+  "tip": "If conversations leave you doubting yourself, step back. Emotional clarity is essential for safety."
+},
+{
+  "tip": "Pay attention to whether you feel free to change plans. Flexibility without guilt supports personal safety."
+},
+{
+  "tip": "Avoid bonding over chaos or trauma early. Safety grows through stability, not intensity."
+},
+{
+  "tip": "Notice if he listens to understand rather than respond. Feeling understood supports emotional safety."
+},
+{
+  "tip": "If your intuition keeps flagging concerns, pause dating him. Safety signals often repeat until acknowledged."
+},
+{
+  "tip": "Be mindful of men who rush emotional closeness. Trust develops through time, not accelerated intimacy."
+},
+{
+  "tip": "Notice whether he respects your offline life. Safety includes autonomy beyond constant connection."
+},
+{
+  "tip": "Avoid staying in conversations that feel draining. Emotional safety includes feeling energized, not depleted."
+},
+{
+  "tip": "If you feel watched instead of appreciated, create distance. Safety thrives in ease, not evaluation."
+},
+{
+  "tip": "Pay attention to how he talks about women in general. Respectful language often reflects safer attitudes."
+},
+{
+  "tip": "Notice whether he accepts feedback calmly. Defensive reactions can signal emotional instability."
+},
+{
+  "tip": "Avoid ignoring discomfort just because he’s attractive. Safety should never be overridden by chemistry."
+},
+{
+  "tip": "If you feel rushed to decide, slow the pace. Safe connections allow thoughtful decision-making."
+},
+{
+  "tip": "Notice whether you feel grounded or anxious after interactions. Your nervous system offers safety cues."
+},
+{
+  "tip": "Be cautious of men who frame boundaries as walls. Healthy safety respects limits without resentment."
+},
+{
+  "tip": "If you hesitate to say no, reflect on why. Safety includes freedom to decline without fear."
+},
+{
+  "tip": "Notice whether he respects your priorities. Safe partners don’t compete with your responsibilities."
+},
+{
+  "tip": "Avoid rationalizing behavior that makes you uncomfortable. Safety improves when concerns are taken seriously."
+},
+{
+  "tip": "Pay attention to whether you feel equal in conversations. Safety includes mutual presence and respect."
+},
+{
+  "tip": "If you feel pressure to be agreeable, step back. Safety allows disagreement without consequence."
+},
+{
+  "tip": "Notice whether he honors your energy levels. Respect for limits supports emotional and physical safety."
+},
+{
+  "tip": "Avoid dismissing patterns because moments are good. Safety is measured over time, not highlights."
+},
+{
+  "tip": "If you feel relief when communication pauses, reflect. Safety should feel calming, not overwhelming."
+},
+{
+  "tip": "Notice whether he supports your independence. Safety grows when autonomy is encouraged."
+},
+{
+  "tip": "If you feel smaller around him, take space. Safety should expand your sense of self."
+},
+{
+  "tip": "Pay attention to how he handles your emotions. Validation supports safety; dismissal undermines it."
+},
+{
+  "tip": "Avoid staying to prove something. Safety is about peace, not persistence."
+},
+{
+  "tip": "Notice whether you feel respected even when inconvenient. Safety isn’t conditional on compliance."
+},
+{
+  "tip": "If your body relaxes less over time, reassess. Safety usually brings increasing ease, not tension."
+},
+{
+  "tip": "Trust that leaving early is a strength. Safety-focused decisions protect your future self."
+},
+{
+  "tip": "Notice whether he respects your decisions without questioning them. Autonomy is central to safety."
+},
+{
+  "tip": "Avoid explaining your instincts away. Safety grows when intuition is treated as valid information."
+},
+{
+  "tip": "Remember that consistency, calmness, and clarity are core safety signals in healthy dating."
+},
+{
+  "tip": "Your safety standards don’t need approval. The right connection will meet them without resistance."
+},
+
+
+{
+  "tip": "Notice how often you feel calm versus on edge around him. Emotional safety usually brings steadiness, not constant alertness."
+},
+{
+  "tip": "Be mindful of how much mental energy dating him requires. Safety often feels simple, not draining or confusing."
+},
+{
+  "tip": "If you feel pressure to lower standards to keep his interest, pause. Safety never asks you to shrink your needs."
+},
+{
+  "tip": "Pay attention to whether he respects your time. Consistent disregard can signal deeper boundary issues."
+},
+{
+  "tip": "Notice if you feel free to speak honestly without rehearsing. Emotional safety allows natural self-expression."
+},
+{
+  "tip": "If interactions leave you doubting yourself, step back. Healthy dating supports clarity, not self-questioning."
+},
+{
+  "tip": "Be cautious of men who frame your boundaries as insecurity. Safety respects limits without criticism."
+},
+{
+  "tip": "Notice whether he gives you space to think before responding. Rushing decisions can compromise safety."
+},
+{
+  "tip": "If you feel responsible for managing his reactions, reassess. Emotional safety includes shared regulation."
+},
+{
+  "tip": "Observe how he reacts when plans don’t go his way. Calm responses often reflect safer emotional patterns."
+},
+{
+  "tip": "Avoid staying in conversations that make you feel guarded. Safety grows when defenses slowly drop."
+},
+{
+  "tip": "Notice whether your confidence increases or decreases over time. Safe connections should uplift, not diminish."
+},
+{
+  "tip": "If you feel pressure to constantly reassure him, pause. Emotional security should not rely solely on you."
+},
+{
+  "tip": "Pay attention to how he handles your success. Supportive reactions often signal emotional safety."
+},
+{
+  "tip": "Avoid overlooking discomfort because he seems different. Safety is about consistency, not exceptions."
+},
+{
+  "tip": "Notice whether he respects your need for alone time. Safety includes honoring personal space."
+},
+{
+  "tip": "If you feel watched rather than welcomed, take distance. Safety thrives in acceptance, not evaluation."
+},
+{
+  "tip": "Be cautious of emotional highs followed by confusion. Stability is a key marker of safe dating."
+},
+{
+  "tip": "Notice whether disagreements feel respectful. Emotional safety allows conflict without fear."
+},
+{
+  "tip": "If you feel rushed to trust, slow the pace. Safety develops through time, not urgency."
+},
+{
+  "tip": "Pay attention to how he responds when you say no. Acceptance without pressure reflects safety."
+},
+{
+  "tip": "Avoid ignoring discomfort because you can’t explain it yet. Safety signals don’t always come with words."
+},
+{
+  "tip": "Notice whether you feel free to change your mind. Safety includes flexibility without consequences."
+},
+{
+  "tip": "If you feel smaller around him, step back. Safe connections support growth, not self-erasure."
+},
+{
+  "tip": "Observe whether he respects your values even when they differ. Safety includes mutual respect."
+},
+{
+  "tip": "Be mindful of men who minimize your concerns. Safety requires validation, not dismissal."
+},
+{
+  "tip": "Notice whether communication feels balanced. Safety grows when effort is mutual."
+},
+{
+  "tip": "If you feel anxious waiting for replies, reassess. Safe dating shouldn’t trigger constant worry."
+},
+{
+  "tip": "Avoid staying to prove your worth. Safety begins when you don’t need to earn respect."
+},
+{
+  "tip": "Notice whether he honors commitments. Reliability supports both emotional and personal safety."
+},
+{
+  "tip": "If your intuition keeps signaling caution, listen. Repeated feelings deserve attention."
+},
+{
+  "tip": "Be cautious of men who resist accountability. Safety includes owning actions without deflection."
+},
+{
+  "tip": "Notice whether you feel grounded after dates. Safety often leaves you centered, not unsettled."
+},
+{
+  "tip": "Avoid excusing patterns because moments are good. Safety is revealed through consistency."
+},
+{
+  "tip": "Pay attention to how he treats your opinions. Respectful listening supports emotional safety."
+},
+{
+  "tip": "If you hesitate to express needs, pause. Safety includes freedom to ask without fear."
+},
+{
+  "tip": "Notice whether he supports your independence. Encouragement often reflects secure behavior."
+},
+{
+  "tip": "Be mindful of men who push closeness too fast. Safety builds gradually, not instantly."
+},
+{
+  "tip": "If you feel relief when contact slows, reflect. Safety should feel calming, not overwhelming."
+},
+{
+  "tip": "Notice whether he respects your boundaries consistently, not just once. Safety requires reliability."
+},
+{
+  "tip": "Avoid dismissing red flags as mood swings. Safety patterns repeat when ignored."
+},
+{
+  "tip": "Pay attention to whether you feel equal in the dynamic. Safety includes mutual power balance."
+},
+{
+  "tip": "If you feel pressure to stay agreeable, step back. Safety allows authenticity."
+},
+{
+  "tip": "Notice whether he honors your pace emotionally. Respect for timing supports safety."
+},
+{
+  "tip": "Trust that choosing peace over potential is a valid safety decision."
+},
+{
+  "tip": "Remember that safety is built through calm, clarity, and respect—not intensity or confusion."
+},
+{
+  "tip": "You never need to sacrifice peace to keep a connection. Safety should feel sustainable."
+},
+
+{
+  "tip": "Notice whether you feel emotionally regulated or tense around him. Safety often feels grounding, not like walking on eggshells."
+},
+{
+  "tip": "Be cautious if you feel pressure to overlook discomfort to appear understanding. Safety does not require self-betrayal."
+},
+{
+  "tip": "Pay attention to how easily you can relax in his presence. A safe connection allows your nervous system to settle."
+},
+{
+  "tip": "If you feel compelled to explain your reactions often, pause. Safety usually brings mutual understanding without over-clarifying."
+},
+{
+  "tip": "Notice whether your intuition grows quieter or louder over time. Safety tends to calm instincts, not heighten alarm."
+},
+{
+  "tip": "Be mindful of how often you question your standards around him. Safety reinforces values instead of eroding them."
+},
+{
+  "tip": "Observe whether emotional closeness feels earned or rushed. Safety grows through steady trust, not forced intimacy."
+},
+{
+  "tip": "If you feel the need to stay hyper-aware, reassess. Safety should reduce vigilance, not increase it."
+},
+{
+  "tip": "Notice whether you feel emotionally held during vulnerable moments. Safety includes care, not discomfort."
+},
+{
+  "tip": "Be cautious if you feel responsible for keeping harmony. Safety allows shared emotional responsibility."
+},
+{
+  "tip": "Pay attention to how conflicts end. Resolution with respect is a strong indicator of emotional safety."
+},
+{
+  "tip": "If you feel drained after interactions, reflect. Safety often leaves you feeling stable, not depleted."
+},
+{
+  "tip": "Notice whether your opinions are welcomed or tolerated. Safety includes genuine respect for your perspective."
+},
+{
+  "tip": "Be mindful if affection is inconsistent. Emotional safety is reinforced by reliability, not unpredictability."
+},
+{
+  "tip": "If your confidence declines over time, pause. Safety should support self-worth, not slowly reduce it."
+},
+{
+  "tip": "Observe how he handles your discomfort. Safety includes curiosity and care, not dismissal."
+},
+{
+  "tip": "Notice whether you feel free to pause communication. Safety allows space without fear of consequences."
+},
+{
+  "tip": "Be cautious of dynamics that feel emotionally intense but unstable. Safety is calm, not chaotic."
+},
+{
+  "tip": "If you feel nervous sharing honest feedback, reflect. Safety includes openness without fear of backlash."
+},
+{
+  "tip": "Pay attention to how he handles boundaries over time. Safety requires consistency, not selective respect."
+},
+{
+  "tip": "Notice whether you feel supported during stress. Safety shows up most clearly during difficult moments."
+},
+{
+  "tip": "If you feel pressure to adapt your values, step back. Safety never demands value compromise."
+},
+{
+  "tip": "Observe whether emotional closeness builds naturally. Safety grows gradually, not through urgency."
+},
+{
+  "tip": "Be mindful if reassurance is one-sided. Safety includes emotional balance, not constant self-proving."
+},
+{
+  "tip": "Notice whether you feel emotionally secure without constant communication. Safety doesn’t depend on control."
+},
+{
+  "tip": "If you feel uneasy expressing needs, pause. Safety includes comfort in asking without anxiety."
+},
+{
+  "tip": "Pay attention to whether he respects emotional pacing. Safety honors readiness, not pressure."
+},
+{
+  "tip": "Notice whether interactions feel predictable in a good way. Safety often includes emotional steadiness."
+},
+{
+  "tip": "Be cautious if kindness appears only when convenient. Safety is consistent, not conditional."
+},
+{
+  "tip": "If you feel confused about where you stand, reflect. Safety includes clarity, not emotional guessing."
+},
+{
+  "tip": "Observe whether you feel respected even when disagreeing. Safety allows difference without threat."
+},
+{
+  "tip": "Notice if you’re often justifying his behavior. Safety rarely requires ongoing rationalization."
+},
+{
+  "tip": "Be mindful of how he responds to emotional honesty. Safety welcomes truth without punishment."
+},
+{
+  "tip": "If your instincts urge distance, listen. Safety awareness often begins quietly."
+},
+{
+  "tip": "Pay attention to whether he respects your emotional limits. Safety includes knowing when to pause."
+},
+{
+  "tip": "Notice whether you feel safe being imperfect. Emotional safety allows mistakes without judgment."
+},
+{
+  "tip": "Be cautious if affection is used to smooth over issues. Safety includes accountability, not avoidance."
+},
+{
+  "tip": "Observe whether he supports your emotional growth. Safety encourages evolution, not dependence."
+},
+{
+  "tip": "If you feel relief during breaks from communication, reflect. Safety should feel peaceful, not consuming."
+},
+{
+  "tip": "Notice whether you feel emotionally seen. Safety includes recognition beyond surface interest."
+},
+{
+  "tip": "Be mindful of how disagreements affect closeness. Safety allows repair without lingering fear."
+},
+{
+  "tip": "If your boundaries feel negotiable to him, pause. Safety respects limits without persuasion."
+},
+{
+  "tip": "Pay attention to whether your voice stays strong. Safety supports expression, not silence."
+},
+{
+  "tip": "Notice whether emotional effort feels mutual. Safety grows when care flows both ways."
+},
+{
+  "tip": "Be cautious of emotional highs followed by uncertainty. Safety favors consistency over intensity."
+},
+{
+  "tip": "If peace feels rare, reassess. Safety should be the baseline, not the exception."
+},
+{
+  "tip": "Trust that emotional ease is not boring. Safety often feels calm, stable, and quietly reassuring."
+}
+]
+
+},
+
+
+"Awareness": {
       "tips": [
-        {
-          "tip": "Watch out for love bombing - excessive affection and attention early on can be a manipulation tactic to quickly create emotional dependency."
-        },
-        {
-          "tip": "If they make you question your own reality or memory, that's gaslighting. Trust your perception of events and don't let anyone make you doubt yourself."
-        },
-        {
-          "tip": "Be wary of someone who isolates you from friends and family. Healthy relationships encourage maintaining your support network."
-        },
-        {
-          "tip": "Notice if they're constantly playing the victim or blaming others for their problems. This can be a sign of manipulation and lack of accountability."
-        },
-        {
-          "tip": "Watch for guilt-tripping or emotional blackmail. Statements like 'If you loved me, you would...' are red flags for manipulation."
-        }
-      ]
-    },
-    "Boundaries": {
+
+{
+  "tip": "Stay aware of how situations evolve, not just how they start. Safety can change quickly when environments, moods, or expectations shift."
+},
+{
+  "tip": "Notice sudden changes in tone, energy, or behavior. Abrupt shifts can signal discomfort or intentions that weren’t present initially."
+},
+{
+  "tip": "Pay attention to how your body reacts in real time. Awareness includes noticing tension, unease, or alertness without dismissing it."
+},
+{
+  "tip": "Observe how he responds to boundaries in the moment. Awareness means tracking reactions, not just listening to promises."
+},
+{
+  "tip": "Stay alert to inconsistencies between words and actions. Awareness helps you spot patterns that don’t align over time."
+},
+{
+  "tip": "Be mindful of how alcohol or fatigue affects your perception. Awareness decreases when judgment is compromised."
+},
+{
+  "tip": "Notice if conversations subtly steer toward control or pressure. Awareness catches manipulation before it becomes obvious."
+},
+{
+  "tip": "Keep awareness of exits and surroundings during dates. Physical orientation supports calm and confident decision-making."
+},
+{
+  "tip": "Pay attention to how he reacts when plans don’t go his way. Awareness reveals emotional regulation under stress."
+},
+{
+  "tip": "Notice whether your comfort level changes during interactions. Awareness includes tracking emotional shifts as they happen."
+},
+{
+  "tip": "Be aware of repeated small discomforts. Minor unease can signal larger safety concerns when patterns emerge."
+},
+{
+  "tip": "Observe how he speaks about responsibility. Awareness grows when accountability is present instead of blame."
+},
+{
+  "tip": "Notice whether you feel mentally clear or confused after interactions. Awareness values clarity as a safety signal."
+},
+{
+  "tip": "Pay attention to how much space you’re given to think and respond. Awareness includes noticing rushed decisions."
+},
+{
+  "tip": "Be mindful of situations where you feel monitored or evaluated. Awareness flags dynamics that reduce comfort."
+},
+{
+  "tip": "Notice how he handles your hesitation. Awareness helps identify respect versus pressure in real moments."
+},
+{
+  "tip": "Stay aware of your emotional energy levels. Feeling drained can indicate misalignment or hidden stressors."
+},
+{
+  "tip": "Observe whether your boundaries are remembered or forgotten. Awareness tracks follow-through, not apologies."
+},
+{
+  "tip": "Pay attention to subtle power dynamics. Awareness notices who consistently leads, decides, or overrides."
+},
+{
+  "tip": "Notice if you feel the need to stay alert around him. Awareness includes recognizing when safety feels conditional."
+},
+{
+  "tip": "Be aware of how he reacts to your independence. Supportive responses often signal healthier intentions."
+},
+{
+  "tip": "Notice whether your opinions are met with curiosity or dismissal. Awareness helps you read respect levels."
+},
+{
+  "tip": "Stay attentive to moments where discomfort is minimized. Awareness protects you from second-guessing instincts."
+},
+{
+  "tip": "Observe whether kindness is consistent or situational. Awareness looks for reliability, not moments."
+},
+{
+  "tip": "Notice how he handles waiting. Awareness reveals patience, entitlement, or emotional control."
+},
+{
+  "tip": "Be aware of environments that limit your choices. Awareness includes recognizing when options quietly disappear."
+},
+{
+  "tip": "Pay attention to how conflict feels. Awareness distinguishes healthy tension from unsafe escalation."
+},
+{
+  "tip": "Notice whether you feel freer or more restricted over time. Awareness tracks emotional movement, not chemistry."
+},
+{
+  "tip": "Stay alert to subtle guilt or obligation. Awareness catches emotional pressure before it becomes control."
+},
+{
+  "tip": "Observe how your instincts respond across multiple interactions. Awareness grows through repetition, not single moments."
+},
+{
+  "tip": "Notice whether emotional closeness builds naturally. Awareness helps detect forced or rushed intimacy."
+},
+{
+  "tip": "Be mindful of how silence is handled. Awareness notices whether quiet feels safe or uncomfortable."
+},
+{
+  "tip": "Pay attention to how he responds to uncertainty. Awareness reads emotional stability through ambiguity."
+},
+{
+  "tip": "Notice if you’re often recalibrating yourself to fit. Awareness flags when adaptation replaces authenticity."
+},
+{
+  "tip": "Stay aware of how your confidence changes. Awareness includes tracking whether self-trust increases or erodes."
+},
+{
+  "tip": "Observe whether concern is met with care or defensiveness. Awareness reveals emotional safety in responses."
+},
+{
+  "tip": "Notice how attention is given. Awareness distinguishes genuine interest from performative charm."
+},
+{
+  "tip": "Be aware of how quickly expectations escalate. Awareness helps you slow momentum when needed."
+},
+{
+  "tip": "Pay attention to moments where your needs are sidelined. Awareness catches imbalance early."
+},
+{
+  "tip": "Notice whether reassurance is mutual. Awareness identifies when emotional labor becomes one-sided."
+},
+{
+  "tip": "Stay alert to emotional patterns, not isolated incidents. Awareness prioritizes trends over exceptions."
+},
+{
+  "tip": "Observe how he reacts to your discomfort without explanation. Awareness values instinctive responses."
+},
+{
+  "tip": "Notice whether you feel grounded after seeing him. Awareness recognizes emotional aftereffects."
+},
+{
+  "tip": "Be aware of how your body feels during interactions. Physical signals often reveal safety before thoughts do."
+},
+{
+  "tip": "Pay attention to whether respect stays consistent over time. Awareness confirms safety through reliability."
+},
+{
+  "tip": "Notice if peace depends on compliance. Awareness identifies dynamics where harmony costs autonomy."
+},
+{
+  "tip": "Stay aware that safety is dynamic. Awareness requires ongoing attention, not one-time assessment."
+},
+
+{
+  "tip": "Stay aware of how often you feel alert instead of relaxed. Constant vigilance can signal that a situation may not be emotionally safe."
+},
+{
+  "tip": "Notice when your instincts speak quietly. Awareness means listening even when discomfort feels subtle or easy to dismiss."
+},
+{
+  "tip": "Pay attention to changes in your mood during interactions. Awareness helps you catch emotional shifts as they happen."
+},
+{
+  "tip": "Be aware of moments where you feel rushed to decide. Pressure often reduces awareness and increases risk."
+},
+{
+  "tip": "Notice whether your attention feels scattered around him. Awareness includes recognizing when your focus feels disrupted."
+},
+{
+  "tip": "Stay alert to repeated confusion after conversations. Awareness values clarity as a key safety signal."
+},
+{
+  "tip": "Observe how your body responds before your mind reacts. Awareness often begins with physical sensations."
+},
+{
+  "tip": "Be aware of situations where your needs feel secondary. Awareness helps identify early imbalance."
+},
+{
+  "tip": "Notice when you hesitate to ask questions. Awareness includes recognizing fear of honest curiosity."
+},
+{
+  "tip": "Pay attention to how predictable his behavior feels. Awareness favors consistency over surprise."
+},
+{
+  "tip": "Stay aware of emotional highs followed by unease. Awareness detects instability behind intensity."
+},
+{
+  "tip": "Notice whether you feel more grounded or more anxious afterward. Awareness includes tracking emotional aftermath."
+},
+{
+  "tip": "Be aware of how often you explain your feelings. Awareness flags when understanding isn’t mutual."
+},
+{
+  "tip": "Observe if your intuition keeps returning to the same concern. Awareness grows through repetition."
+},
+{
+  "tip": "Pay attention to how comfortable silence feels. Awareness notices whether quiet brings peace or tension."
+},
+{
+  "tip": "Stay alert to subtle pressure disguised as humor. Awareness helps catch boundary testing early."
+},
+{
+  "tip": "Notice whether your self-trust increases or decreases. Awareness includes tracking confidence shifts."
+},
+{
+  "tip": "Be aware of how he responds to uncertainty. Awareness reveals emotional steadiness in unclear moments."
+},
+{
+  "tip": "Observe whether reassurance feels mutual. Awareness identifies when emotional labor becomes one-sided."
+},
+{
+  "tip": "Notice if you feel monitored instead of appreciated. Awareness protects against controlling dynamics."
+},
+{
+  "tip": "Pay attention to how quickly expectations appear. Awareness helps you slow momentum when needed."
+},
+{
+  "tip": "Stay aware of patterns, not just apologies. Awareness prioritizes behavior over explanations."
+},
+{
+  "tip": "Notice whether you feel free to change your mind. Awareness values flexibility without consequence."
+},
+{
+  "tip": "Be aware of moments when your voice softens to avoid conflict. Awareness flags self-silencing."
+},
+{
+  "tip": "Observe how disagreements affect closeness. Awareness distinguishes repair from emotional withdrawal."
+},
+{
+  "tip": "Notice if your instincts ask for distance. Awareness often signals safety needs before logic does."
+},
+{
+  "tip": "Pay attention to whether calmness grows over time. Awareness favors steady ease, not emotional swings."
+},
+{
+  "tip": "Stay alert to how often you question yourself. Awareness supports self-trust, not self-doubt."
+},
+{
+  "tip": "Notice whether emotional closeness feels earned. Awareness helps detect rushed attachment."
+},
+{
+  "tip": "Be aware of how your energy shifts during contact. Awareness includes noticing depletion or renewal."
+},
+{
+  "tip": "Observe whether your values feel supported. Awareness tracks alignment beyond attraction."
+},
+{
+  "tip": "Notice if peace depends on compliance. Awareness identifies when harmony costs autonomy."
+},
+{
+  "tip": "Pay attention to how safe disagreement feels. Awareness includes emotional freedom to differ."
+},
+{
+  "tip": "Stay aware of moments you ignore discomfort to keep things smooth. Awareness values honesty over ease."
+},
+{
+  "tip": "Notice whether you feel emotionally seen. Awareness recognizes depth beyond surface interest."
+},
+{
+  "tip": "Be aware of how he reacts to your hesitation. Awareness reveals respect versus pressure."
+},
+{
+  "tip": "Observe whether communication leaves you settled. Awareness includes emotional resolution."
+},
+{
+  "tip": "Notice if affection fluctuates with your behavior. Awareness detects conditional care."
+},
+{
+  "tip": "Pay attention to how your nervous system responds. Awareness listens to calm or activation cues."
+},
+{
+  "tip": "Stay alert to repeated small discomforts. Awareness treats minor signals as meaningful."
+},
+{
+  "tip": "Notice whether reassurance feels genuine or obligatory. Awareness distinguishes care from control."
+},
+{
+  "tip": "Be aware of how safe honesty feels. Awareness supports truth without fear of backlash."
+},
+{
+  "tip": "Observe whether emotional effort feels balanced. Awareness tracks mutual investment."
+},
+{
+  "tip": "Notice if confusion outweighs clarity. Awareness prioritizes understanding as safety."
+},
+{
+  "tip": "Pay attention to how your independence is received. Awareness values encouragement over resistance."
+},
+{
+  "tip": "Stay aware that safety evolves. Awareness requires continuous attention, not one-time judgment."
+},
+{
+  "tip": "Notice whether you feel more yourself over time. Awareness recognizes safety through authenticity."
+},
+{
+  "tip": "Be aware that discomfort doesn’t need proof. Awareness respects instinct as valid information."
+},
+
+{
+  "tip": "Stay aware of moments when you override your first reaction. Awareness helps you honor instincts before logic talks you out of them."
+},
+{
+  "tip": "Notice when your body tightens or pulls back. Awareness begins with physical signals that appear before conscious thought."
+},
+{
+  "tip": "Pay attention to how quickly situations escalate. Awareness helps you slow momentum when things move faster than comfort allows."
+},
+{
+  "tip": "Be aware of emotional shifts during conversations. Sudden heaviness or tension can signal misalignment worth noting."
+},
+{
+  "tip": "Notice if your attention feels split or uneasy. Awareness includes recognizing when presence becomes difficult."
+},
+{
+  "tip": "Stay alert to repeated self-doubt after interactions. Awareness values clarity over constant questioning."
+},
+{
+  "tip": "Observe how your mood changes before and after seeing him. Awareness tracks emotional impact, not just intention."
+},
+{
+  "tip": "Be aware when you feel the need to prepare responses carefully. Awareness flags environments that feel unsafe to be natural."
+},
+{
+  "tip": "Notice whether calm increases or decreases over time. Awareness favors steady ease rather than growing tension."
+},
+{
+  "tip": "Pay attention to how silence feels between you. Awareness notices whether quiet brings comfort or pressure."
+},
+{
+  "tip": "Stay aware of moments you ignore discomfort to stay agreeable. Awareness protects you from self-silencing."
+},
+{
+  "tip": "Notice if your instincts repeat the same message. Awareness grows stronger when signals persist."
+},
+{
+  "tip": "Be aware of how predictable behavior feels. Consistency often supports awareness and safety."
+},
+{
+  "tip": "Observe whether your energy feels drained or restored. Awareness includes tracking emotional cost."
+},
+{
+  "tip": "Notice if you feel watched or assessed. Awareness identifies dynamics that reduce emotional ease."
+},
+{
+  "tip": "Pay attention to how much space you’re given to think. Awareness values time over urgency."
+},
+{
+  "tip": "Stay alert to confusion that lingers. Awareness treats ongoing uncertainty as meaningful feedback."
+},
+{
+  "tip": "Notice when reassurance feels necessary. Awareness detects insecurity within interactions."
+},
+{
+  "tip": "Be aware of subtle pressure hidden in jokes or teasing. Awareness catches boundary testing early."
+},
+{
+  "tip": "Observe how your confidence shifts around him. Awareness tracks whether self-trust grows or fades."
+},
+{
+  "tip": "Notice if peace depends on compliance. Awareness identifies when harmony costs authenticity."
+},
+{
+  "tip": "Pay attention to emotional highs followed by unease. Awareness detects instability behind excitement."
+},
+{
+  "tip": "Stay aware of moments when your voice softens to avoid reaction. Awareness flags self-protection."
+},
+{
+  "tip": "Notice how your instincts respond across different settings. Awareness compares patterns, not moments."
+},
+{
+  "tip": "Be aware of how uncertainty is handled. Awareness reveals emotional steadiness through ambiguity."
+},
+{
+  "tip": "Observe whether emotional closeness feels natural or forced. Awareness distinguishes trust from pressure."
+},
+{
+  "tip": "Notice if your thoughts loop after interactions. Awareness values mental clarity as safety."
+},
+{
+  "tip": "Pay attention to whether you feel freer or restricted. Awareness tracks emotional movement."
+},
+{
+  "tip": "Stay alert to moments where your needs feel inconvenient. Awareness identifies imbalance early."
+},
+{
+  "tip": "Notice if your instincts ask for distance. Awareness often signals safety needs quietly."
+},
+{
+  "tip": "Be aware of how quickly expectations form. Awareness helps you pause before commitment."
+},
+{
+  "tip": "Observe whether comfort grows consistently. Awareness favors gradual ease over sudden closeness."
+},
+{
+  "tip": "Notice how your nervous system reacts. Awareness listens to calm or activation cues."
+},
+{
+  "tip": "Pay attention to repeated small discomforts. Awareness treats minor signals as important."
+},
+{
+  "tip": "Stay aware of how safe honesty feels. Awareness includes freedom to speak without fear."
+},
+{
+  "tip": "Notice whether you feel grounded afterward. Awareness values emotional resolution."
+},
+{
+  "tip": "Be aware of emotional imbalance. Awareness recognizes when effort flows one direction."
+},
+{
+  "tip": "Observe whether reassurance is consistent. Awareness distinguishes care from control."
+},
+{
+  "tip": "Notice when confusion outweighs clarity. Awareness prioritizes understanding as safety."
+},
+{
+  "tip": "Pay attention to how independence is received. Awareness values encouragement, not resistance."
+},
+{
+  "tip": "Stay alert to shifts in tone or energy. Awareness catches changes before they escalate."
+},
+{
+  "tip": "Notice if you second-guess instincts repeatedly. Awareness strengthens when trusted."
+},
+{
+  "tip": "Be aware that comfort should increase, not erode. Awareness tracks long-term emotional direction."
+},
+{
+  "tip": "Observe whether your boundaries are remembered. Awareness focuses on follow-through."
+},
+{
+  "tip": "Notice if your sense of self stays intact. Awareness recognizes safety through authenticity."
+},
+{
+  "tip": "Pay attention to whether calm feels sustainable. Awareness values peace over intensity."
+},
+{
+  "tip": "Stay aware that safety is ongoing. Awareness requires consistent attention, not one-time checks."
+},
+
+
+
+{
+  "tip": "Stay aware of moments when you feel the need to scan his mood. Constant emotional monitoring can signal an unsafe dynamic forming."
+},
+{
+  "tip": "Notice if your gut reacts before your thoughts do. Awareness often shows up physically before your mind explains it."
+},
+{
+  "tip": "Pay attention to how your energy shifts around him. Feeling depleted instead of grounded can be an early warning sign."
+},
+{
+  "tip": "Be aware when excitement feels mixed with anxiety. Awareness helps separate genuine connection from nervous anticipation."
+},
+{
+  "tip": "Notice how your body responds when he speaks. Awareness includes tension, shallow breathing, or sudden alertness."
+},
+{
+  "tip": "Stay alert to patterns of confusion after interactions. Awareness values emotional clarity as a core safety signal."
+},
+{
+  "tip": "Observe whether your instincts repeat the same concern. Awareness grows stronger when signals persist over time."
+},
+{
+  "tip": "Be aware if you feel pressure to react quickly. Awareness protects you from urgency that bypasses good judgment."
+},
+{
+  "tip": "Notice when your voice softens to avoid reaction. Awareness flags moments of self-silencing."
+},
+{
+  "tip": "Pay attention to how calm or restless you feel afterward. Awareness tracks emotional impact beyond the date itself."
+},
+{
+  "tip": "Stay aware of subtle discomfort you keep dismissing. Awareness treats small signals as meaningful information."
+},
+{
+  "tip": "Notice whether silence feels peaceful or tense. Awareness reads safety through how quiet moments feel."
+},
+{
+  "tip": "Be aware if you feel watched or evaluated. Awareness helps detect control hidden as attention."
+},
+{
+  "tip": "Observe how your confidence shifts around him. Awareness notices whether self-trust grows or fades."
+},
+{
+  "tip": "Pay attention to how your instincts respond in different settings. Awareness compares patterns, not single moments."
+},
+{
+  "tip": "Stay alert to emotional highs followed by unease. Awareness recognizes instability behind intensity."
+},
+{
+  "tip": "Notice whether your needs feel inconvenient. Awareness identifies imbalance early in dating dynamics."
+},
+{
+  "tip": "Be aware of how easily you can relax. Awareness values nervous system calm as a safety indicator."
+},
+{
+  "tip": "Observe whether reassurance feels necessary. Awareness catches insecurity developing within interactions."
+},
+{
+  "tip": "Pay attention to moments you doubt yourself. Awareness supports self-trust instead of second-guessing."
+},
+{
+  "tip": "Stay aware of repeated justifications in your mind. Awareness flags when behavior needs explaining."
+},
+{
+  "tip": "Notice if your instincts ask for distance. Awareness often signals safety needs quietly, not dramatically."
+},
+{
+  "tip": "Be aware of how unpredictability affects you. Awareness favors consistency as emotional safety."
+},
+{
+  "tip": "Observe whether emotional closeness feels earned. Awareness distinguishes trust from pressure."
+},
+{
+  "tip": "Pay attention to how safe honesty feels. Awareness includes freedom to speak without fear."
+},
+{
+  "tip": "Stay alert to confusion that lingers. Awareness treats unresolved feelings as important feedback."
+},
+{
+  "tip": "Notice whether you feel grounded or unsettled. Awareness values emotional resolution."
+},
+{
+  "tip": "Be aware when peace depends on compliance. Awareness identifies when harmony costs authenticity."
+},
+{
+  "tip": "Observe how your instincts respond over time. Awareness grows through consistency, not chemistry."
+},
+{
+  "tip": "Pay attention to how your body feels during conversations. Awareness listens to physical safety cues."
+},
+{
+  "tip": "Stay aware of moments you override discomfort to be nice. Awareness protects against people-pleasing."
+},
+{
+  "tip": "Notice if clarity fades as attraction grows. Awareness keeps judgment intact alongside emotion."
+},
+{
+  "tip": "Be aware of how easily you feel centered. Awareness values emotional steadiness."
+},
+{
+  "tip": "Observe whether you feel freer or more restricted. Awareness tracks emotional movement."
+},
+{
+  "tip": "Pay attention to how your instincts react to boundaries. Awareness confirms when limits matter."
+},
+{
+  "tip": "Stay alert to repeated emotional unease. Awareness respects patterns over excuses."
+},
+{
+  "tip": "Notice whether comfort increases naturally. Awareness favors gradual ease, not sudden closeness."
+},
+{
+  "tip": "Be aware of how safe disagreement feels. Awareness includes emotional freedom to differ."
+},
+{
+  "tip": "Observe whether your sense of self stays intact. Awareness recognizes safety through authenticity."
+},
+{
+  "tip": "Pay attention to how your nervous system reacts before logic engages. Awareness often leads thought."
+},
+{
+  "tip": "Stay aware of moments you feel on edge. Awareness treats sustained alertness as meaningful."
+},
+{
+  "tip": "Notice whether reassurance feels mutual. Awareness identifies one-sided emotional labor."
+},
+{
+  "tip": "Be aware of emotional signals you minimize. Awareness strengthens when instincts are honored."
+},
+{
+  "tip": "Observe whether peace feels stable. Awareness values calm that lasts, not temporary relief."
+},
+{
+  "tip": "Pay attention to repeated internal hesitation. Awareness listens when your inner voice slows you down."
+},
+{
+  "tip": "Stay aware that awareness itself is protection. Noticing early is safer than explaining later."
+},
+
+{
+  "tip": "Notice whether he respects your boundaries without reminders. Needing repeated enforcement often signals disregard rather than confusion."
+},
+{
+  "tip": "Boundaries are most revealing when they inconvenience him. Pay attention to reactions when limits disrupt his expectations."
+},
+{
+  "tip": "If you feel anxious stating boundaries, pause. Safety includes confidence that your limits won’t trigger backlash."
+},
+{
+  "tip": "Watch how he handles emotional boundaries. Respect includes not demanding reassurance, access, or explanations on demand."
+},
+{
+  "tip": "Boundaries should be met with calm acceptance, not sulking, persuasion, or attempts to change your mind."
+},
+{
+  "tip": "If he frames your boundaries as unfair, consider it information. Respect never argues against self-protection."
+},
+{
+  "tip": "Healthy boundaries don’t require perfect wording. Safety is shown through response, not how gently you speak."
+},
+{
+  "tip": "Notice if your boundaries shrink over time. Safety supports consistency, not gradual erosion of your limits."
+},
+{
+  "tip": "If he tests limits after you set them, take distance. Boundary testing is a serious warning sign."
+},
+{
+  "tip": "Boundaries apply to pace as well as behavior. You control how fast intimacy, trust, and commitment grow."
+},
+{
+  "tip": "Pay attention to whether he remembers your boundaries later. Respect shows through consistency over time."
+},
+{
+  "tip": "You are allowed to restate boundaries without apologizing. Repetition does not make a limit invalid."
+},
+{
+  "tip": "If enforcing boundaries makes you feel unsafe emotionally, reassess the connection. Safety must come first."
+},
+{
+  "tip": "Notice whether he adapts his behavior or just his words. True respect results in visible change."
+},
+{
+  "tip": "Boundaries should not lead to punishment like withdrawal, silence, or anger. These reactions are red flags."
+},
+{
+  "tip": "If he pressures you to relax boundaries early, pause. Safety develops through patience, not urgency."
+},
+{
+  "tip": "Boundaries protect your energy as much as your body. You decide how much emotional access to give."
+},
+{
+  "tip": "Notice whether he asks before assuming closeness. Consent and boundaries extend beyond physical touch."
+},
+{
+  "tip": "If you feel smaller after setting boundaries, that’s important feedback. Safety should feel empowering."
+},
+{
+  "tip": "Boundaries are not challenges to overcome. Anyone who treats them that way lacks respect."
+},
+{
+  "tip": "Pay attention to how he reacts when you say no repeatedly. Persistence after refusal is unsafe."
+},
+{
+  "tip": "You don’t owe explanations for boundaries rooted in comfort. Your feelings are reason enough."
+},
+{
+  "tip": "Healthy partners don’t track favors to bypass boundaries later. Respect is not transactional."
+},
+{
+  "tip": "Notice whether your boundaries are honored privately as well as publicly. Respect should be consistent."
+},
+{
+  "tip": "If you soften boundaries to avoid tension, pause. Safety does not require emotional self-erasure."
+},
+{
+  "tip": "Boundaries don’t block connection. They clarify whether a connection is truly safe."
+},
+{
+  "tip": "Pay attention to how he responds to changed boundaries. Flexibility does not remove the need for respect."
+},
+{
+  "tip": "If he jokes about crossing your limits, take it seriously. Humor can mask boundary violations."
+},
+{
+  "tip": "Boundaries should feel like relief, not conflict. Ongoing tension around limits is a warning sign."
+},
+{
+  "tip": "Notice whether he respects your time boundaries. Expecting constant access shows entitlement."
+},
+{
+  "tip": "If your boundaries are treated as negotiable, reassess. Safety requires clear and firm respect."
+},
+{
+  "tip": "Boundaries apply to digital spaces too. Messaging frequency and access should honor your comfort."
+},
+{
+  "tip": "Pay attention to how he handles disappointment. Respectful responses indicate emotional safety."
+},
+{
+  "tip": "If he pressures you to prove trust by lowering boundaries, pause. Trust grows with safety, not risk."
+},
+{
+  "tip": "Boundaries protect your autonomy. Anyone threatened by them may seek control."
+},
+{
+  "tip": "Notice whether enforcing boundaries increases respect or resistance. The response tells you everything."
+},
+{
+  "tip": "You are allowed to leave situations where boundaries are ignored. Staying is never an obligation."
+},
+{
+  "tip": "Healthy boundaries are steady, not situational. Respect should not depend on mood or convenience."
+},
+{
+  "tip": "If you feel the need to justify boundaries repeatedly, reassess. Safety should feel straightforward."
+},
+{
+  "tip": "Boundaries should not cost you emotional peace. Protection should feel grounding, not draining."
+},
+{
+  "tip": "Pay attention to whether your limits are treated as personal attacks. Respect separates self from boundary."
+},
+{
+  "tip": "Boundaries are acts of self-care, not selfishness. Anyone who disagrees reveals their priorities."
+},
+{
+  "tip": "If he reacts defensively to limits, consider it information about emotional maturity and safety."
+},
+{
+  "tip": "Notice whether boundaries strengthen clarity or create chaos. Safe dynamics become clearer over time."
+},
+{
+  "tip": "You never need to lower boundaries to keep interest. Safety is more important than approval."
+},
+{
+  "tip": "Boundaries help you see who respects you without persuasion. Let behavior guide your decisions."
+},
+{
+  "tip": "If respect for boundaries fades, take it seriously. Safety signals often change before behavior escalates."
+},
+{
+  "tip": "Your boundaries are non-negotiable requirements, not preferences. Anyone who resists them is not safe."
+},
+
+
+{
+  "tip": "Notice whether he respects boundaries without needing reminders. Consistent respect matters more than apologies after crossing lines."
+},
+{
+  "tip": "If you feel tense before setting a boundary, pause. Safety includes confidence that limits won’t trigger anger or withdrawal."
+},
+{
+  "tip": "Boundaries apply to time as well as space. You are not required to be available on demand to maintain interest."
+},
+{
+  "tip": "Pay attention to how he responds when boundaries inconvenience him. Respect shows most clearly under frustration."
+},
+{
+  "tip": "If he treats boundaries as negotiable, take it seriously. Safety requires firm respect, not persuasion."
+},
+{
+  "tip": "Boundaries should be honored immediately. Delayed respect often signals testing rather than misunderstanding."
+},
+{
+  "tip": "Notice if you soften boundaries to avoid conflict. Safety should not depend on emotional self-sacrifice."
+},
+{
+  "tip": "Healthy partners don’t mock, tease, or downplay your limits. Humor should never cross into pressure."
+},
+{
+  "tip": "If he pushes past boundaries during emotional moments, reassess. Stress reveals true respect levels."
+},
+{
+  "tip": "Boundaries protect your emotional energy. You choose how much access someone has to your thoughts and time."
+},
+{
+  "tip": "Pay attention to whether your boundaries are remembered later. Forgetting repeatedly shows disregard."
+},
+{
+  "tip": "If enforcing boundaries makes you feel unsafe emotionally, that connection is not secure."
+},
+{
+  "tip": "Boundaries are not ultimatums. They are clear statements of what you allow to feel safe."
+},
+{
+  "tip": "Notice whether he asks before assuming closeness. Respect includes checking consent in all forms."
+},
+{
+  "tip": "If he reacts defensively to limits, take note. Safety includes emotional maturity around refusal."
+},
+{
+  "tip": "Boundaries should bring relief, not anxiety. Feeling worse afterward is a sign to reassess."
+},
+{
+  "tip": "If he pressures you to explain boundaries, pause. You don’t owe reasoning for self-protection."
+},
+{
+  "tip": "Pay attention to how he handles repeated no’s. Persistence after refusal is a serious warning sign."
+},
+{
+  "tip": "Boundaries apply online too. Messaging access should respect your pace and availability."
+},
+{
+  "tip": "If your boundaries are treated differently in private versus public, that inconsistency matters."
+},
+{
+  "tip": "Notice whether respect remains when attraction increases. Safety requires stability across emotions."
+},
+{
+  "tip": "Boundaries should not be framed as rejection. Anyone who takes them personally lacks respect."
+},
+{
+  "tip": "If you feel guilt after stating limits, check the dynamic. Safety does not rely on guilt."
+},
+{
+  "tip": "Pay attention to whether he adapts behavior, not just words. Change is the real sign of respect."
+},
+{
+  "tip": "Boundaries help you stay connected to yourself. Losing self-trust is a signal to pause."
+},
+{
+  "tip": "If he treats boundaries as challenges, distance yourself. Safe partners don’t seek loopholes."
+},
+{
+  "tip": "Notice whether your limits are respected even when you’re not present. Integrity matters."
+},
+{
+  "tip": "Boundaries should not lead to punishment like silence or withdrawal. These reactions are red flags."
+},
+{
+  "tip": "If you hesitate to restate a boundary, reflect why. Safety includes freedom to repeat limits."
+},
+{
+  "tip": "Pay attention to how often boundaries become topics. Frequent issues suggest incompatibility."
+},
+{
+  "tip": "Boundaries protect your pace. You decide how quickly intimacy, trust, and commitment develop."
+},
+{
+  "tip": "If he pressures you to relax boundaries early, slow down. Safety grows through patience."
+},
+{
+  "tip": "Notice whether boundaries strengthen clarity or create chaos. Safe dynamics become clearer."
+},
+{
+  "tip": "Boundaries are not temporary tests. They are ongoing standards for how you’re treated."
+},
+{
+  "tip": "If he minimizes your limits, pause. Dismissal often precedes control."
+},
+{
+  "tip": "Pay attention to how he handles disappointment after boundaries. Calm responses signal safety."
+},
+{
+  "tip": "Boundaries protect your independence. Anyone threatened by them may seek control."
+},
+{
+  "tip": "If you feel drained defending limits, reassess. Safety should feel steady, not exhausting."
+},
+{
+  "tip": "Notice whether respect for boundaries is consistent across moods. Reliability is key."
+},
+{
+  "tip": "Boundaries don’t reduce connection. They reveal who can engage safely and respectfully."
+},
+{
+  "tip": "If he uses affection to bypass boundaries, take distance. Care should not be conditional."
+},
+{
+  "tip": "Pay attention to how your body feels after setting limits. Relief is a safety signal."
+},
+{
+  "tip": "Boundaries help you filter behavior early. Ignoring crossings delays important information."
+},
+{
+  "tip": "If your boundaries feel negotiable to him, they are not being respected."
+},
+{
+  "tip": "Notice whether you feel empowered or smaller after setting boundaries. Safety empowers."
+},
+{
+  "tip": "Boundaries are acts of self-respect. Anyone who resists them is revealing priorities."
+},
+{
+  "tip": "You never need to compromise boundaries to keep interest. Safety always comes first."
+},
+{
+  "tip": "Respect for boundaries is non-negotiable. Anything less is a clear safety concern."
+},
+
+{
+  "tip": "Notice if he respects your boundaries when emotions rise. Real respect stays consistent even during stress or disappointment."
+},
+{
+  "tip": "If setting boundaries feels like causing conflict, pause. Healthy limits should not create fear or emotional consequences."
+},
+{
+  "tip": "Boundaries apply to your availability. You are not required to reply instantly or adjust your schedule to keep interest."
+},
+{
+  "tip": "Pay attention to whether he honors boundaries without supervision. Respect matters most when no one is watching."
+},
+{
+  "tip": "If you feel pressure to lower boundaries to avoid losing him, reassess. Safety never depends on self-compromise."
+},
+{
+  "tip": "Boundaries should be accepted the first time. Needing to repeat them signals a lack of genuine respect."
+},
+{
+  "tip": "Notice whether your boundaries are treated as reasonable or exaggerated. Dismissal often precedes control."
+},
+{
+  "tip": "Healthy partners don’t push limits during vulnerable moments. Timing pressure is still boundary violation."
+},
+{
+  "tip": "If you feel anxious after enforcing a boundary, reflect. Safety should feel grounding, not destabilizing."
+},
+{
+  "tip": "Boundaries protect your emotional bandwidth. You choose how much reassurance, access, or support you give."
+},
+{
+  "tip": "Pay attention to how he reacts when boundaries delay gratification. Patience signals emotional maturity."
+},
+{
+  "tip": "If he reframes boundaries as mistrust, pause. Limits are about self-care, not accusations."
+},
+{
+  "tip": "Boundaries apply to tone and language. Respect includes how concerns are communicated, not just what is said."
+},
+{
+  "tip": "Notice if your boundaries shrink over time. Gradual erosion is often easier to miss than direct crossing."
+},
+{
+  "tip": "If he treats boundaries as temporary obstacles, distance yourself. Safe partners adapt, not wait them out."
+},
+{
+  "tip": "Boundaries should not trigger punishment like silence, withdrawal, or mood shifts. Those are warning signs."
+},
+{
+  "tip": "Pay attention to whether he remembers your limits without reminders. Consistency shows real respect."
+},
+{
+  "tip": "If stating boundaries makes you feel guilty, examine the dynamic. Safety should not rely on guilt."
+},
+{
+  "tip": "Boundaries include how much personal history you share. You control access to your vulnerability."
+},
+{
+  "tip": "Notice whether he asks before assuming closeness. Consent-based behavior supports safer dating."
+},
+{
+  "tip": "If you soften boundaries to keep peace, pause. Safety does not require emotional shrinking."
+},
+{
+  "tip": "Boundaries help you observe behavior clearly. Resistance reveals more than agreement ever will."
+},
+{
+  "tip": "Pay attention to how he handles repeated limits. Respect does not diminish with repetition."
+},
+{
+  "tip": "If boundaries become ongoing debates, reassess compatibility. Safety requires alignment, not arguments."
+},
+{
+  "tip": "Boundaries are not punishments. They are personal standards that protect your comfort and autonomy."
+},
+{
+  "tip": "Notice whether he respects digital boundaries. Constant access is not a requirement for connection."
+},
+{
+  "tip": "If enforcing boundaries drains you, reflect. Safe connections should feel sustainable over time."
+},
+{
+  "tip": "Boundaries should strengthen clarity, not create confusion. Ongoing uncertainty is a safety concern."
+},
+{
+  "tip": "Pay attention to how he responds when boundaries disappoint him. Calm reactions signal emotional safety."
+},
+{
+  "tip": "If you hesitate to restate limits, ask why. Safety includes freedom to reinforce boundaries."
+},
+{
+  "tip": "Boundaries protect your pace. You decide how quickly trust, intimacy, and commitment develop."
+},
+{
+  "tip": "Notice whether boundaries are respected even during attraction or excitement. Safety must remain stable."
+},
+{
+  "tip": "If he minimizes your boundaries as sensitivity, pause. Respect never invalidates your experience."
+},
+{
+  "tip": "Boundaries should not require perfect delivery. Your safety matters more than phrasing."
+},
+{
+  "tip": "Pay attention to how often you explain boundaries. Repeated explanations suggest resistance."
+},
+{
+  "tip": "If he frames boundaries as obstacles to closeness, reconsider. Safe closeness honors limits."
+},
+{
+  "tip": "Boundaries help maintain self-trust. Losing confidence after enforcing them is important information."
+},
+{
+  "tip": "Notice whether he adapts behavior long-term. Temporary change without consistency is not respect."
+},
+{
+  "tip": "Boundaries apply even when chemistry is strong. Attraction should not override safety standards."
+},
+{
+  "tip": "If boundaries are respected only when convenient, take note. Safety requires reliability."
+},
+{
+  "tip": "Boundaries help reveal intentions early. Resistance often shows up before larger issues do."
+},
+{
+  "tip": "Pay attention to how your body feels after setting limits. Relief often confirms safety alignment."
+},
+{
+  "tip": "Boundaries are not up for negotiation. Anyone seeking loopholes is showing you who they are."
+},
+{
+  "tip": "If your limits are treated as challenges, step back. Safe partners do not seek to win."
+},
+{
+  "tip": "Boundaries protect your peace. Connections that disturb it repeatedly are not safe to continue."
+},
+{
+  "tip": "Respect for boundaries should feel calm and normal. Tension around limits is a warning sign."
+},
+{
+  "tip": "You never need to earn respect for boundaries. They exist because your safety matters."
+},
+{
+  "tip": "Strong boundaries keep dating intentional. Anyone unwilling to respect them is not a safe match."
+}
+
+
+
+
+  ]
+},
+
+"Instinct": {
       "tips": [
-        {
-          "tip": "It's okay to say no at any time, for any reason. You don't owe anyone an explanation for your boundaries."
-        },
-        {
-          "tip": "Notice how they react when you set a boundary. A healthy partner will respect your limits without pressure or guilt."
-        },
-        {
-          "tip": "Don't feel pressured to move faster than you're comfortable with, whether physically, emotionally, or in commitment level."
-        },
-        {
-          "tip": "Your boundaries should be respected the first time you state them. You shouldn't have to repeatedly enforce the same boundary."
-        },
-        {
-          "tip": "Watch out for someone who tests your boundaries repeatedly. This shows a lack of respect for your autonomy and comfort."
-        }
-      ]
-    },
-    "Communication": {
+
+        
+{
+  "tip": "If your instincts feel uneasy even without a clear reason, listen. Intuition often processes information faster than logic."
+},
+{
+  "tip": "Notice when your body reacts before your thoughts do. Instinct often shows up as tension, alertness, or the urge to step back."
+},
+{
+  "tip": "If something feels off despite good behavior on paper, trust that feeling. Instincts notice patterns before explanations exist."
+},
+{
+  "tip": "Instincts don’t need evidence to be valid. Discomfort alone is enough reason to pause or create distance."
+},
+{
+  "tip": "Pay attention to repeated gut signals. Instinct becomes clearer when the same feeling shows up more than once."
+},
+{
+  "tip": "If you feel relief when plans change or cancel, trust that response. Instinct often signals safety through emotional relief."
+},
+{
+  "tip": "Notice when your intuition urges you to slow down. Rushing against instinct can compromise safety."
+},
+{
+  "tip": "If your instincts quiet when you’re away from him, reflect. Safety should feel calming, not activating."
+},
+{
+  "tip": "Instinct often appears as hesitation. Respect pauses instead of pushing through them to be polite."
+},
+{
+  "tip": "If your gut says something doesn’t add up, listen. Instinct detects inconsistencies before they become obvious."
+},
+{
+  "tip": "Notice how your instincts respond over time. Growing unease deserves attention even if nothing concrete happened."
+},
+{
+  "tip": "If you feel drawn yet uneasy, slow down. Instinct warns when attraction and safety are misaligned."
+},
+{
+  "tip": "Instinct speaks softly at first. Ignoring it repeatedly can make future signals harder to hear."
+},
+{
+  "tip": "If your body feels on guard around him, trust that response. Instinct prioritizes protection over politeness."
+},
+{
+  "tip": "Notice when your intuition tells you to leave earlier than planned. Safety includes honoring that inner cue."
+},
+{
+  "tip": "Instinct is information, not fear. Treat it as guidance rather than something to suppress."
+},
+{
+  "tip": "If you feel pressure to override your instincts, pause. Safe connections don’t require self-betrayal."
+},
+{
+  "tip": "Notice whether your intuition relaxes or tightens over time. Safety usually brings increasing ease."
+},
+{
+  "tip": "If your instincts warn you but you keep explaining them away, reflect. Intuition doesn’t argue, it alerts."
+},
+{
+  "tip": "Instinct often appears as a quiet no. Respect it even when there’s no dramatic reason."
+},
+{
+  "tip": "If you feel more alert than comfortable, trust that signal. Instinct responds to subtle environmental cues."
+},
+{
+  "tip": "Notice when your gut urges distance. Creating space can clarify whether instinct was protecting you."
+},
+{
+  "tip": "Instinct strengthens with self-trust. Listening now builds clearer signals later."
+},
+{
+  "tip": "If your intuition feels conflicted, slow interactions. Confusion is often an early safety message."
+},
+{
+  "tip": "Notice when your instincts speak during silence. Quiet moments often reveal how safe you truly feel."
+},
+{
+  "tip": "If you feel watched or evaluated, trust that instinct. Safety includes ease, not constant awareness."
+},
+{
+  "tip": "Instinct notices emotional patterns faster than thought. Pay attention to recurring inner reactions."
+},
+{
+  "tip": "If your body resists closeness, honor that response. Instinct protects boundaries before words do."
+},
+{
+  "tip": "Notice when your intuition urges caution despite charm. Instinct isn’t impressed by surface behavior."
+},
+{
+  "tip": "If you feel grounded when you step back, trust that choice. Instinct often rewards distance with clarity."
+},
+{
+  "tip": "Instinct may show up as fatigue or heaviness. Emotional weight can signal misalignment."
+},
+{
+  "tip": "Notice when your inner voice asks for time. Instinct values pacing as a form of protection."
+},
+{
+  "tip": "If your gut reacts strongly but fades when you rationalize, revisit that first feeling."
+},
+{
+  "tip": "Instinct doesn’t shout; it repeats. Recurrent discomfort deserves respect."
+},
+{
+  "tip": "If you feel compelled to ignore your instincts to keep peace, pause. Safety should not cost intuition."
+},
+{
+  "tip": "Notice whether your intuition feels clearer away from him. Distance can amplify instinctive insight."
+},
+{
+  "tip": "Instinct often warns through emotional discomfort before physical signs appear."
+},
+{
+  "tip": "If your inner voice says wait, listen. Instinct protects timing as well as safety."
+},
+{
+  "tip": "Notice when instinct urges observation instead of action. Watching longer can reveal important truths."
+},
+{
+  "tip": "If you feel calmer trusting your gut, that calm is confirmation."
+},
+{
+  "tip": "Instinct responds to energy, not explanations. Honor what you feel, not just what you hear."
+},
+{
+  "tip": "Notice when your intuition resists commitment. Safety includes readiness, not pressure."
+},
+{
+  "tip": "If instincts signal caution repeatedly, trust them even without outside validation."
+},
+{
+  "tip": "Instinct grows stronger when respected. Each time you listen, self-trust deepens."
+},
+{
+  "tip": "Notice how your body feels before and after seeing him. Instinct measures impact, not intention."
+},
+{
+  "tip": "If your intuition asks for boundaries, follow it. Instinct often leads boundary-setting."
+},
+{
+  "tip": "Instinct is your internal safety system. Treat it as essential, not optional."
+},
+
+{
+  "tip": "If your instincts urge you to pause even when things seem fine, listen. Intuition often detects risk before it becomes visible."
+},
+{
+  "tip": "Notice when your body resists moving forward. Instinct may signal misalignment even if your mind feels curious."
+},
+{
+  "tip": "If your gut feeling changes suddenly, pay attention. Instinct responds quickly to shifts in energy or intention."
+},
+{
+  "tip": "Instinct may appear as hesitation without fear. Respect that pause instead of pushing yourself to proceed."
+},
+{
+  "tip": "If you feel safer when creating distance, trust that response. Instinct often rewards space with clarity."
+},
+{
+  "tip": "Notice when your intuition reacts during calm moments. Safety signals aren’t only triggered by obvious red flags."
+},
+{
+  "tip": "If your instincts feel conflicted, slow the pace. Mixed signals often mean more information is needed."
+},
+{
+  "tip": "Instinct often communicates through discomfort rather than words. Physical unease deserves your attention."
+},
+{
+  "tip": "If you feel alert instead of relaxed, trust that signal. Instinct prioritizes protection over comfort."
+},
+{
+  "tip": "Notice when your inner voice advises waiting. Timing awareness is part of instinctive safety."
+},
+{
+  "tip": "If your gut feeling repeats, stop explaining it away. Instinct strengthens through repetition."
+},
+{
+  "tip": "Instinct may show up as a quiet desire to leave early. Honoring that urge protects your well-being."
+},
+{
+  "tip": "If attraction grows but comfort doesn’t, trust your instincts. Safety and chemistry must coexist."
+},
+{
+  "tip": "Notice when your intuition feels clearer away from him. Distance can amplify instinctive insight."
+},
+{
+  "tip": "Instinct responds to patterns, not promises. Pay attention to how you consistently feel, not what’s said."
+},
+{
+  "tip": "If your body feels heavy or tense, pause. Instinct often communicates through physical sensations."
+},
+{
+  "tip": "Notice when your instincts resist sharing personal details. Safety includes protecting emotional access."
+},
+{
+  "tip": "If your gut says something doesn’t align, listen even without evidence. Instinct doesn’t require proof."
+},
+{
+  "tip": "Instinct may warn through emotional fatigue. Feeling drained can signal a need for distance."
+},
+{
+  "tip": "If you feel calmer after declining plans, trust that reaction. Instinct often confirms safety through relief."
+},
+{
+  "tip": "Notice when your intuition urges observation instead of action. Watching longer can reveal important truths."
+},
+{
+  "tip": "Instinct often reacts before excitement fades. Early signals deserve attention, not dismissal."
+},
+{
+  "tip": "If you feel pressured to override instincts, pause. Safe connections don’t require ignoring inner cues."
+},
+{
+  "tip": "Notice whether your instincts soften or intensify over time. Safety usually brings increasing ease."
+},
+{
+  "tip": "Instinct can appear as doubt without fear. Respect uncertainty as a form of protection."
+},
+{
+  "tip": "If your gut signals caution repeatedly, trust it even if others disagree. Instinct is personal data."
+},
+{
+  "tip": "Notice how your intuition responds during silence. Quiet moments often reveal true comfort levels."
+},
+{
+  "tip": "Instinct may guide you toward boundaries before words form. Follow those signals early."
+},
+{
+  "tip": "If your body feels on edge, don’t rationalize it away. Instinct prioritizes safety over logic."
+},
+{
+  "tip": "Notice when intuition urges slower emotional closeness. Trust develops best when instinct feels settled."
+},
+{
+  "tip": "Instinct can show up as a need for space. Distance is sometimes the clearest safety response."
+},
+{
+  "tip": "If you feel uneasy despite positive traits, listen. Instinct notices what charm can hide."
+},
+{
+  "tip": "Notice when your gut reacts strongly to small moments. Minor details can carry major information."
+},
+{
+  "tip": "Instinct strengthens with self-trust. Each time you listen, your signals become clearer."
+},
+{
+  "tip": "If your intuition asks you to wait before committing, honor it. Readiness is part of safety."
+},
+{
+  "tip": "Notice when your instincts warn during emotional highs. Excitement can mask important cues."
+},
+{
+  "tip": "Instinct may signal misalignment through restlessness. Calm is often a sign of safety."
+},
+{
+  "tip": "If you feel better trusting your gut than doubting it, that feeling matters."
+},
+{
+  "tip": "Notice how your instincts react across different settings. Patterns reveal more than isolated moments."
+},
+{
+  "tip": "Instinct can guide you away from situations before discomfort escalates. Early listening is protective."
+},
+{
+  "tip": "If your inner voice says slow down, respect it. Instinct protects pacing as well as safety."
+},
+{
+  "tip": "Notice when your intuition resists explanations. Instinct doesn’t need convincing to be valid."
+},
+{
+  "tip": "Instinct may appear as a sense of caution without fear. Treat that awareness as guidance."
+},
+{
+  "tip": "If your gut response feels consistent, trust it. Repetition strengthens instinctive accuracy."
+},
+{
+  "tip": "Notice how your body feels after listening to instinct. Relief often confirms alignment."
+},
+{
+  "tip": "Instinct is refined through experience. Honoring it now protects your future self."
+},
+{
+  "tip": "If your intuition asks for boundaries, follow it. Instinct often leads to safer decisions."
+},
+{
+  "tip": "Trusting instinct is a form of self-respect. Your inner signals exist to keep you safe."
+},
+
+{
+  "tip": "If your instinct tells you to take a step back even during good moments, listen. Inner hesitation often signals unseen misalignment."
+},
+{
+  "tip": "Notice when your body relaxes only after creating distance. Instinct sometimes confirms safety by how calm you feel away from him."
+},
+{
+  "tip": "If your gut urges caution without fear, honor it. Instinct can be protective without feeling dramatic or anxious."
+},
+{
+  "tip": "When instinct and attraction disagree, slow down. Safety requires both emotional interest and inner calm."
+},
+{
+  "tip": "Notice if your intuition reacts strongly to small details. Instinct often reads meaning in moments logic overlooks."
+},
+{
+  "tip": "If you feel internal resistance to progressing, pause. Instinct protects your timing, not just your safety."
+},
+{
+  "tip": "Instinct can appear as a quiet sense of doubt. Respect uncertainty as guidance rather than weakness."
+},
+{
+  "tip": "If your gut feels unsettled despite reassurance, trust that signal. Instinct responds to patterns, not promises."
+},
+{
+  "tip": "Notice how your body feels before committing to plans. Instinct often communicates through physical readiness."
+},
+{
+  "tip": "If you feel safer saying no than yes, listen. Instinct often reveals comfort through relief."
+},
+{
+  "tip": "Instinct may show up as delayed excitement. Slow emotional responses can be protective, not disinterest."
+},
+{
+  "tip": "Notice when your intuition advises observation instead of action. Waiting can clarify what instinct already knows."
+},
+{
+  "tip": "If your gut tightens during conversations, pause. Instinct reacts to subtle emotional cues."
+},
+{
+  "tip": "Instinct strengthens when honored consistently. Each time you listen, clarity improves."
+},
+{
+  "tip": "If your inner voice urges boundaries, follow it. Instinct often leads boundary-setting before logic does."
+},
+{
+  "tip": "Notice when your instincts feel clearer after rest. Fatigue can blur intuition, not erase it."
+},
+{
+  "tip": "If something feels rushed internally, slow external pace. Instinct protects you from premature decisions."
+},
+{
+  "tip": "Instinct can signal misalignment through restlessness. Calm often reflects safety."
+},
+{
+  "tip": "Notice when your intuition reacts during silence. Quiet moments often reveal true comfort levels."
+},
+{
+  "tip": "If your gut response repeats across dates, trust it. Consistency strengthens instinctive accuracy."
+},
+{
+  "tip": "Instinct may warn through emotional heaviness. Feeling weighed down deserves attention."
+},
+{
+  "tip": "If you feel pressure to ignore instinct to be polite, pause. Safety matters more than social ease."
+},
+{
+  "tip": "Notice how your body responds when plans change. Instinct often confirms alignment through relief."
+},
+{
+  "tip": "Instinct doesn’t rush. A steady inner pace often reflects safer decision-making."
+},
+{
+  "tip": "If your intuition signals caution during excitement, listen. High emotion can mask important cues."
+},
+{
+  "tip": "Notice whether your instincts settle or escalate over time. Safety usually brings increasing ease."
+},
+{
+  "tip": "Instinct may appear as a desire for space. Distance can be a protective response."
+},
+{
+  "tip": "If your gut reacts but your mind argues, revisit the feeling. Instinct often knows before reasoning."
+},
+{
+  "tip": "Notice when intuition advises slowing emotional sharing. Safety includes protecting vulnerability."
+},
+{
+  "tip": "Instinct responds to how situations feel, not how they’re explained. Honor sensation over justification."
+},
+{
+  "tip": "If you feel calmer after trusting your gut, that calm is confirmation."
+},
+{
+  "tip": "Notice whether your intuition stays consistent across settings. Patterns strengthen instinct."
+},
+{
+  "tip": "Instinct may guide you away from pressure even when interest exists. Safety and attraction must align."
+},
+{
+  "tip": "If your inner voice says wait, listen. Timing awareness is part of instinctive protection."
+},
+{
+  "tip": "Notice how your body reacts before and after seeing him. Instinct tracks emotional impact."
+},
+{
+  "tip": "Instinct can appear as subtle reluctance. Respect small hesitations before they grow."
+},
+{
+  "tip": "If your gut urges caution repeatedly, trust it even without explanation."
+},
+{
+  "tip": "Notice when intuition strengthens after reflection. Space often clarifies instinctive signals."
+},
+{
+  "tip": "Instinct may warn through emotional confusion. Clarity often returns when you listen."
+},
+{
+  "tip": "If your instincts resist commitment, honor that pace. Readiness is a safety factor."
+},
+{
+  "tip": "Notice when your intuition reacts before words form. Instinct communicates faster than language."
+},
+{
+  "tip": "Instinct may guide you toward rest instead of action. Pausing can be protective."
+},
+{
+  "tip": "If your gut feels steady, not excited, trust that calm. Safety often feels quietly reassuring."
+},
+{
+  "tip": "Notice when intuition advises distance from intensity. Stability supports safer connection."
+},
+{
+  "tip": "Instinct grows clearer with self-trust. Listening now strengthens future judgment."
+},
+{
+  "tip": "If your inner signals repeat, believe them. Instinct is refined through consistency."
+},
+{
+  "tip": "Notice how relief follows instinctive decisions. Ease often confirms alignment."
+},
+{
+  "tip": "Instinct protects your well-being before harm appears. Early listening is prevention."
+},
+
+{
+  "tip": "If your instincts signal caution even when everything looks fine, listen closely. Intuition often detects risk before behavior changes."
+},
+{
+  "tip": "Notice when your body relaxes only after stepping away. Instinct may confirm safety through calm felt at a distance."
+},
+{
+  "tip": "If your inner voice urges patience, respect it. Instinct often protects timing, not just physical safety."
+},
+{
+  "tip": "Pay attention when attraction grows but comfort doesn’t. Instinct warns when chemistry and safety are misaligned."
+},
+{
+  "tip": "If your gut response stays consistent across meetings, trust it. Repetition strengthens instinctive accuracy."
+},
+{
+  "tip": "Notice when your intuition reacts to small details. Instinct often reads meaning in moments logic ignores."
+},
+{
+  "tip": "If your body feels guarded during conversation, pause. Instinct responds to emotional cues before words register."
+},
+{
+  "tip": "Instinct may appear as reluctance to move forward. Respect hesitation instead of forcing progress."
+},
+{
+  "tip": "If you feel clearer after saying no, trust that clarity. Instinct often confirms safety through relief."
+},
+{
+  "tip": "Notice when your inner voice asks for space. Distance can sharpen instinct and restore perspective."
+},
+{
+  "tip": "If your gut warns despite reassurance, listen. Instinct responds to patterns, not comforting explanations."
+},
+{
+  "tip": "Instinct may show up as restlessness or fatigue. Emotional weight can signal misalignment."
+},
+{
+  "tip": "If excitement feels mixed with tension, slow down. Instinct flags when intensity masks discomfort."
+},
+{
+  "tip": "Notice when intuition grows louder after reflection. Quiet time often amplifies inner guidance."
+},
+{
+  "tip": "If your instincts resist sharing personal details, honor that boundary. Safety includes emotional pacing."
+},
+{
+  "tip": "Instinct communicates through sensation. Tightness, heaviness, or alertness are signals worth respecting."
+},
+{
+  "tip": "If your gut urges observation instead of action, wait. Watching longer can reveal important truths."
+},
+{
+  "tip": "Notice when your intuition advises slowing commitment. Readiness is part of instinctive protection."
+},
+{
+  "tip": "If your body relaxes when plans are canceled, reflect. Relief can be a powerful safety indicator."
+},
+{
+  "tip": "Instinct doesn’t rush clarity. Steady inner pacing often leads to safer decisions."
+},
+{
+  "tip": "If your intuition reacts during silence, pay attention. Quiet moments often reveal true comfort levels."
+},
+{
+  "tip": "Notice when your inner voice repeats the same caution. Consistency strengthens instinctive guidance."
+},
+{
+  "tip": "If you feel pressured to override instincts, pause. Safe connections don’t require self-betrayal."
+},
+{
+  "tip": "Instinct may warn through emotional confusion. Clarity often returns when you honor that signal."
+},
+{
+  "tip": "If your gut tightens during praise or charm, listen. Instinct can detect manipulation early."
+},
+{
+  "tip": "Notice how your body feels before agreeing to plans. Physical readiness often reflects inner safety."
+},
+{
+  "tip": "Instinct may guide you toward rest rather than action. Pausing can be protective."
+},
+{
+  "tip": "If your intuition calms when you slow down, trust that pace. Safety often feels unhurried."
+},
+{
+  "tip": "Notice when your instincts soften over time. Growing ease can confirm emotional safety."
+},
+{
+  "tip": "If your gut urges distance despite interest, honor it. Safety and attraction must align."
+},
+{
+  "tip": "Instinct can appear as a quiet no. Respect subtle refusals as meaningful guidance."
+},
+{
+  "tip": "If your intuition reacts before words form, listen. Instinct communicates faster than language."
+},
+{
+  "tip": "Notice when your inner signals become clearer away from him. Space can amplify instinctive insight."
+},
+{
+  "tip": "If your gut response intensifies with time, take it seriously. Safety signals often grow when ignored."
+},
+{
+  "tip": "Instinct may alert you through emotional heaviness. Feeling weighed down deserves attention."
+},
+{
+  "tip": "If your intuition asks for boundaries, follow it. Instinct often leads boundary-setting."
+},
+{
+  "tip": "Notice when calm replaces excitement after listening to instinct. Peace often confirms alignment."
+},
+{
+  "tip": "If your inner voice says wait, trust it. Timing awareness is a key safety function."
+},
+{
+  "tip": "Instinct responds to how situations feel, not how they’re framed. Honor sensation over explanation."
+},
+{
+  "tip": "If your gut resists commitment, respect that hesitation. Readiness is essential for safety."
+},
+{
+  "tip": "Notice when your body feels lighter after trusting instinct. Ease can be confirmation."
+},
+{
+  "tip": "Instinct grows clearer with self-trust. Each time you listen, accuracy improves."
+},
+{
+  "tip": "If your intuition warns during emotional highs, slow down. Excitement can mask important cues."
+},
+{
+  "tip": "Notice how instinct responds across different settings. Patterns reveal more than isolated moments."
+},
+{
+  "tip": "If your gut advises caution repeatedly, trust it even without proof. Instinct is personal data."
+},
+{
+  "tip": "Instinct protects long before danger is visible. Listening early keeps you safer later."
+}
+
+
+
+
+
+
+]
+},
+
+"Independence": {
       "tips": [
-        {
-          "tip": "Healthy communication includes listening, not just talking. Notice if they genuinely hear you or just wait for their turn to speak."
-        },
-        {
-          "tip": "Be cautious of someone who gives you the silent treatment as punishment. This is a form of emotional manipulation."
-        },
-        {
-          "tip": "Watch for defensiveness when you bring up concerns. A healthy partner should be able to discuss issues calmly."
-        },
-        {
-          "tip": "Notice if they use 'you always' or 'you never' statements. These absolutes often signal unhealthy communication patterns."
-        },
-        {
-          "tip": "Pay attention to how they talk about their exes. Constant negativity about all past partners might be a warning sign."
-        }
-      ]
-    },
-    "Online Safety": {
+
+ {      
+ "tip": "Maintain your own routines, friendships, and interests. Independence supports safety by keeping your identity strong outside dating."
+},
+{
+  "tip": "If a relationship starts replacing your personal life, pause. Independence protects balance and prevents emotional dependence."
+},
+{
+  "tip": "Keep control over your schedule. You’re not required to rearrange your life constantly to maintain connection."
+},
+{
+  "tip": "Notice how he reacts to your independence. Supportive responses signal respect; resistance is a warning sign."
+},
+{
+  "tip": "Avoid relying on him for emotional regulation early. Independence allows clearer judgment and safer decisions."
+},
+{
+  "tip": "Keep your financial independence intact. Safety increases when money is not used as leverage or control."
+},
+{
+  "tip": "Maintain private space for reflection. Independence helps you process feelings without outside pressure."
+},
+{
+  "tip": "If you feel guilty choosing yourself, pause. Independence should not come with emotional consequences."
+},
+{
+  "tip": "Protect your alone time. Independence includes rest and space without needing to justify it."
+},
+{
+  "tip": "Notice if he encourages your goals. Independence thrives when ambition is supported, not minimized."
+},
+{
+  "tip": "Avoid merging lives too quickly. Independence gives time to assess safety before deeper commitment."
+},
+{
+  "tip": "Keep decision-making power shared. Independence means your voice matters equally in choices."
+},
+{
+  "tip": "If he dislikes your independence, take it seriously. Healthy partners value autonomy, not control."
+},
+{
+  "tip": "Stay connected to trusted people. Independence is reinforced by strong support systems."
+},
+{
+  "tip": "Notice whether you feel free to say no. Independence includes choice without fear of loss."
+},
+{
+  "tip": "Avoid making him your only source of validation. Independence protects emotional stability."
+},
+{
+  "tip": "Keep personal goals active. Independence ensures dating complements your life instead of replacing it."
+},
+{
+  "tip": "If your world starts shrinking, reassess. Independence should expand opportunities, not limit them."
+},
+{
+  "tip": "Maintain your own transportation and mobility. Physical independence supports personal safety."
+},
+{
+  "tip": "Notice if you hesitate to make plans without him. Independence includes freedom of movement."
+},
+{
+  "tip": "Avoid sharing access to personal accounts or devices. Independence includes digital boundaries."
+},
+{
+  "tip": "Keep your living situation separate early on. Independence allows safer pacing in relationships."
+},
+{
+  "tip": "If you feel pressured to rely on him, pause. Safety grows with self-sufficiency."
+},
+{
+  "tip": "Independence allows you to leave when needed. Always preserve your ability to choose yourself."
+},
+{
+  "tip": "Notice if your confidence grows outside the relationship. Independence supports self-trust."
+},
+{
+  "tip": "Avoid sacrificing routines that ground you. Independence protects emotional consistency."
+},
+{
+  "tip": "Keep your personal values non-negotiable. Independence anchors safety in self-respect."
+},
+{
+  "tip": "If you feel monitored, create distance. Independence includes privacy without suspicion."
+},
+{
+  "tip": "Maintain hobbies that don’t involve him. Independence prevents emotional enmeshment."
+},
+{
+  "tip": "Notice whether your independence is celebrated. Respect shows through encouragement."
+},
+{
+  "tip": "Avoid explaining your independence excessively. You don’t need permission to live fully."
+},
+{
+  "tip": "Keep clarity around your needs. Independence helps you recognize when compromises become unsafe."
+},
+{
+  "tip": "If independence triggers conflict, reflect. Safety should not depend on dependence."
+},
+{
+  "tip": "Stay aware of your emotional center. Independence keeps your inner stability intact."
+},
+{
+  "tip": "Maintain personal boundaries around time and energy. Independence protects against burnout."
+},
+{
+  "tip": "Avoid giving up support systems for romance. Independence strengthens long-term safety."
+},
+{
+  "tip": "Notice whether you feel empowered alone. Independence supports confidence beyond dating."
+},
+{
+  "tip": "If you feel pressure to merge identities, slow down. Independence supports healthy pacing."
+},
+{
+  "tip": "Keep your personal growth priorities visible. Independence ensures you don’t lose direction."
+},
+{
+  "tip": "Independence allows clearer evaluation of behavior. Distance often reveals truth."
+},
+{
+  "tip": "Notice whether your choices feel free. Independence includes autonomy without guilt."
+},
+{
+  "tip": "Avoid relying on him for all problem-solving. Independence strengthens resilience."
+},
+{
+  "tip": "Maintain emotional self-soothing skills. Independence reduces vulnerability to manipulation."
+},
+{
+  "tip": "If independence feels threatened, take it seriously. Safety relies on freedom of choice."
+},
+{
+  "tip": "Stay rooted in who you are. Independence is a foundation for safe, healthy dating."
+},
+{
+  "tip": "You deserve connection without losing yourself. Independence keeps love aligned with safety."
+},
+{
+  "tip": "Strong independence makes leaving unsafe dynamics possible. Always protect your autonomy."
+},
+
+{
+  "tip": "Keep your decision-making independent. Safety improves when your choices are guided by your needs, not fear of losing connection."
+},
+{
+  "tip": "Notice if you feel free to make plans without him. Independence includes living fully without seeking permission or reassurance."
+},
+{
+  "tip": "Avoid centering your daily routine around dating. Independence protects your stability and emotional balance."
+},
+{
+  "tip": "Maintain friendships outside dating. Independence grows stronger when your support system stays active."
+},
+{
+  "tip": "If your goals begin to shrink, pause. Independence ensures your future remains bigger than the relationship."
+},
+{
+  "tip": "Keep control of your finances. Financial independence prevents leverage and supports safer exits."
+},
+{
+  "tip": "Notice whether you feel confident alone. Independence means your self-worth isn’t dependent on attention."
+},
+{
+  "tip": "Avoid giving up personal boundaries to keep peace. Independence protects your voice and choices."
+},
+{
+  "tip": "Maintain access to your own transportation. Physical independence increases safety and freedom."
+},
+{
+  "tip": "If your independence causes tension, take note. Healthy connections support autonomy, not control."
+},
+{
+  "tip": "Keep personal interests alive. Independence thrives when your identity remains multi-dimensional."
+},
+{
+  "tip": "Notice if you hesitate to prioritize yourself. Independence includes choosing your needs without guilt."
+},
+{
+  "tip": "Avoid relying on him for emotional validation. Independence strengthens clarity and judgment."
+},
+{
+  "tip": "Keep private space for reflection. Independence helps you process situations without influence."
+},
+{
+  "tip": "If you feel pressured to merge lives early, slow down. Independence allows safer pacing."
+},
+{
+  "tip": "Maintain your own goals alongside dating. Independence ensures progress continues regardless of outcomes."
+},
+{
+  "tip": "Notice whether your confidence increases or decreases. Independence supports growth, not dependency."
+},
+{
+  "tip": "Avoid sharing control over personal resources early. Independence includes safeguarding access."
+},
+{
+  "tip": "If you feel monitored, create distance. Independence includes privacy without explanation."
+},
+{
+  "tip": "Keep your living situation separate initially. Independence provides flexibility and safety."
+},
+{
+  "tip": "Notice if you stop doing things you enjoy. Independence protects joy and self-connection."
+},
+{
+  "tip": "Avoid canceling plans repeatedly for him. Independence includes honoring your commitments."
+},
+{
+  "tip": "If you feel uneasy being alone, reflect. Independence builds resilience and self-trust."
+},
+{
+  "tip": "Keep your values intact. Independence anchors safety in personal principles."
+},
+{
+  "tip": "Notice whether your opinions stay firm. Independence supports expressing yourself freely."
+},
+{
+  "tip": "Avoid making dating your only priority. Independence keeps life balanced and grounded."
+},
+{
+  "tip": "Maintain your personal routines. Independence creates emotional stability and predictability."
+},
+{
+  "tip": "If independence is discouraged, pause. Safety depends on freedom of choice."
+},
+{
+  "tip": "Keep emotional self-soothing skills strong. Independence reduces vulnerability to manipulation."
+},
+{
+  "tip": "Notice whether you feel empowered to leave. Independence includes having real options."
+},
+{
+  "tip": "Avoid sharing passwords or accounts. Independence includes digital autonomy."
+},
+{
+  "tip": "Maintain personal growth habits. Independence ensures continuous self-development."
+},
+{
+  "tip": "If you feel smaller in the relationship, reassess. Independence should expand your sense of self."
+},
+{
+  "tip": "Keep your voice equal in decisions. Independence requires shared power."
+},
+{
+  "tip": "Notice whether your time feels respected. Independence includes control over your schedule."
+},
+{
+  "tip": "Avoid explaining your independence excessively. Autonomy does not need justification."
+},
+{
+  "tip": "Maintain access to your support network. Independence is reinforced through connection."
+},
+{
+  "tip": "If you feel obligated to depend on him, pause. Safety grows with self-sufficiency."
+},
+{
+  "tip": "Keep clarity around personal boundaries. Independence supports safer relationship choices."
+},
+{
+  "tip": "Notice whether you feel free to say no. Independence includes refusal without consequence."
+},
+{
+  "tip": "Avoid merging finances or responsibilities early. Independence protects flexibility."
+},
+{
+  "tip": "Maintain hobbies that don’t involve him. Independence prevents emotional enmeshment."
+},
+{
+  "tip": "If independence feels risky, reflect. Safety should never require dependence."
+},
+{
+  "tip": "Notice whether your life still feels full. Independence supports fulfillment beyond dating."
+},
+{
+  "tip": "Keep your emotional center grounded in yourself. Independence strengthens resilience."
+},
+{
+  "tip": "Avoid losing yourself in connection. Independence keeps love aligned with safety."
+},
+{
+  "tip": "Strong independence ensures you stay by choice, not necessity."
+},
+
+{
+  "tip": "Keep your personal priorities active while dating. Independence helps you make choices based on safety, not fear of losing someone."
+},
+{
+  "tip": "Notice if you still feel free to choose yourself. Independence includes making decisions without anxiety about his reactions."
+},
+{
+  "tip": "Avoid putting your life on hold for a relationship. Independence protects your momentum and emotional stability."
+},
+{
+  "tip": "Maintain friendships and family connections. Independence is strengthened by support systems outside romantic interest."
+},
+{
+  "tip": "If dating starts to isolate you, pause. Independence ensures your world expands, not quietly shrinks."
+},
+{
+  "tip": "Keep financial control over your expenses. Independence reduces vulnerability and increases personal safety."
+},
+{
+  "tip": "Notice whether you still enjoy time alone. Independence includes comfort with yourself, not constant togetherness."
+},
+{
+  "tip": "Avoid relying on him for all emotional support. Independence allows clearer judgment and healthier balance."
+},
+{
+  "tip": "Maintain your routines even when dating feels exciting. Independence keeps your foundation stable."
+},
+{
+  "tip": "If your independence causes tension, reflect. Healthy partners respect autonomy rather than resist it."
+},
+{
+  "tip": "Keep your personal goals visible. Independence ensures dating complements your life instead of redefining it."
+},
+{
+  "tip": "Notice if you feel pressure to change who you are. Independence protects authenticity and self-respect."
+},
+{
+  "tip": "Avoid over-sharing personal resources early. Independence includes safeguarding access to your life."
+},
+{
+  "tip": "Maintain your own transportation and mobility. Independence supports freedom and safer exits."
+},
+{
+  "tip": "If you hesitate to make plans without him, pause. Independence includes freedom of movement."
+},
+{
+  "tip": "Keep decision-making shared, not surrendered. Independence ensures your voice remains equal."
+},
+{
+  "tip": "Notice whether your confidence grows independently. Independence strengthens self-trust beyond dating."
+},
+{
+  "tip": "Avoid centering your emotional world around one person. Independence protects emotional resilience."
+},
+{
+  "tip": "Maintain privacy over personal accounts and devices. Independence includes digital autonomy."
+},
+{
+  "tip": "If your independence feels threatened, take it seriously. Safety relies on freedom of choice."
+},
+{
+  "tip": "Keep your living situation separate early. Independence allows safer pacing and flexibility."
+},
+{
+  "tip": "Notice if you stop doing things you love. Independence protects joy and personal identity."
+},
+{
+  "tip": "Avoid canceling commitments repeatedly for him. Independence includes honoring your own plans."
+},
+{
+  "tip": "If you feel smaller in the relationship, reassess. Independence should expand your sense of self."
+},
+{
+  "tip": "Maintain clarity around your values. Independence anchors safety in personal principles."
+},
+{
+  "tip": "Notice whether your opinions stay strong. Independence supports honest self-expression."
+},
+{
+  "tip": "Avoid making dating your only focus. Independence keeps life balanced and grounded."
+},
+{
+  "tip": "Maintain habits that support your well-being. Independence creates emotional consistency."
+},
+{
+  "tip": "If independence is discouraged, pause. Safety should never require dependence."
+},
+{
+  "tip": "Keep emotional self-soothing skills active. Independence reduces susceptibility to manipulation."
+},
+{
+  "tip": "Notice whether you feel capable of leaving. Independence includes having real options."
+},
+{
+  "tip": "Avoid sharing passwords or access codes. Independence includes protecting personal security."
+},
+{
+  "tip": "Maintain your growth routines. Independence ensures continued self-development."
+},
+{
+  "tip": "If your life feels smaller with him, reflect. Independence should enhance, not limit, you."
+},
+{
+  "tip": "Keep your time boundaries firm. Independence includes control over your availability."
+},
+{
+  "tip": "Notice whether autonomy is respected. Independence thrives when freedom is supported."
+},
+{
+  "tip": "Avoid explaining your independence repeatedly. Autonomy does not need permission."
+},
+{
+  "tip": "Maintain access to people who ground you. Independence is reinforced through trusted connections."
+},
+{
+  "tip": "If you feel obligated to rely on him, pause. Safety grows with self-sufficiency."
+},
+{
+  "tip": "Keep your emotional center within yourself. Independence strengthens resilience."
+},
+{
+  "tip": "Avoid merging responsibilities too early. Independence protects long-term flexibility."
+},
+{
+  "tip": "Notice whether you still feel whole alone. Independence supports secure attachment."
+},
+{
+  "tip": "Maintain interests that don’t include him. Independence prevents emotional enmeshment."
+},
+{
+  "tip": "If independence feels risky, reflect why. Safety should not depend on dependence."
+},
+{
+  "tip": "Keep your identity intact while dating. Independence is essential for long-term safety."
+},
+{
+  "tip": "Notice whether your life feels full on its own. Independence supports healthier choices."
+},
+{
+  "tip": "Strong independence ensures connection is a choice, not a necessity."
+}
+
+]
+},
+
+
+"Readiness": {
       "tips": [
-        {
-          "tip": "Do a reverse image search on their profile photos to verify they're real. Catfishing is more common than you think."
-        },
-        {
-          "tip": "Be suspicious if someone refuses to video chat or always has excuses not to meet in person after several weeks."
-        },
-        {
-          "tip": "Never send money or gift cards to someone you've only met online, no matter how convincing their story is."
-        },
-        {
-          "tip": "Use the dating app's messaging system initially rather than giving out your phone number right away."
-        },
-        {
-          "tip": "Be cautious of profiles that seem too good to be true - professional photos, vague job descriptions, or overly flattering messages early on."
-        }
-      ]
-    },
-    "Physical Safety": {
-      "tips": [
-        {
-          "tip": "Have your own transportation to and from dates. Don't rely on them for rides, especially early on."
-        },
-        {
-          "tip": "Keep your drink with you at all times and watch it being made. Never accept a drink from someone you just met that you didn't see prepared."
-        },
-        {
-          "tip": "Trust your instincts if you feel uncomfortable. It's okay to end a date early or leave a situation that doesn't feel right."
-        },
-        {
-          "tip": "Charge your phone fully before dates and consider having a safety app or emergency contact system set up."
-        },
-        {
-          "tip": "Avoid secluded locations, especially for first dates. Parks at night, empty beaches, or someone's home are risky choices early on."
-        }
-      ]
-    },
-    "Respect": {
-      "tips": [
-        {
-          "tip": "Notice how they treat service workers, their family, and strangers. This reveals their true character more than how they treat you initially."
-        },
-        {
-          "tip": "Watch for signs they're not over their ex - constantly talking about them, comparing you to them, or still in regular contact."
-        },
-        {
-          "tip": "Be wary of someone who puts you on a pedestal early on. Idealization can quickly turn to devaluation."
-        },
-        {
-          "tip": "Pay attention to how they handle disagreements. Name-calling, yelling, or insults are never acceptable."
-        },
-        {
-          "tip": "Notice if they respect your time. Chronic lateness, last-minute cancellations, or breadcrumbing show a lack of respect."
-        }
-      ]
-    },
-    "Self-Worth": {
-      "tips": [
-        {
-          "tip": "Remember that you deserve to be treated with respect and kindness. Don't settle for less because you're afraid of being alone."
-        },
-        {
-          "tip": "Don't ignore red flags hoping they'll change. People show you who they are - believe them the first time."
-        },
-        {
-          "tip": "Your worth isn't determined by whether someone chooses you. The right person will appreciate you without needing convincing."
-        },
-        {
-          "tip": "It's better to be single than in a relationship that makes you feel anxious, sad, or constantly questioning yourself."
-        },
-        {
-          "tip": "Don't lose yourself trying to be what you think someone wants. The right person will love you for who you authentically are."
-        }
-      ]
-    }
-  }
+
+   {
+  "tip": "Check your emotional state before dating. Readiness means choosing connection from clarity, not loneliness or pressure."
+},
+{
+  "tip": "If you’re still healing from a past relationship, slow down. Readiness includes emotional space for something new."
+},
+{
+  "tip": "Notice whether dating feels exciting or overwhelming. Readiness often feels grounded, not rushed or stressful."
+},
+{
+  "tip": "Be honest about your intentions. Readiness means knowing what you want and communicating it without fear."
+},
+{
+  "tip": "If you feel anxious about being chosen, pause. Readiness begins with self-worth, not validation seeking."
+},
+{
+  "tip": "Assess whether you can say no comfortably. Readiness includes confidence in setting limits without guilt."
+},
+{
+  "tip": "If dating feels like a distraction from personal issues, reflect. Readiness supports growth, not avoidance."
+},
+{
+  "tip": "Notice whether you enjoy your life as it is. Readiness means dating adds to fulfillment, not replaces it."
+},
+{
+  "tip": "Be mindful of your capacity for emotional connection. Readiness includes having energy to engage healthily."
+},
+{
+  "tip": "If you feel pressured to commit quickly, slow down. Readiness respects pacing and personal timing."
+},
+{
+  "tip": "Check whether you can walk away if needed. Readiness includes strength to leave unsafe dynamics."
+},
+{
+  "tip": "Notice if you’re dating to prove something. Readiness comes from alignment, not comparison or competition."
+},
+{
+  "tip": "If boundaries feel hard to maintain, pause dating. Readiness includes protecting yourself consistently."
+},
+{
+  "tip": "Assess whether you can trust your judgment. Readiness grows when intuition and logic feel balanced."
+},
+{
+  "tip": "If you’re constantly second-guessing, slow down. Readiness includes inner steadiness."
+},
+{
+  "tip": "Notice whether you feel emotionally available. Readiness requires presence, not emotional withdrawal."
+},
+{
+  "tip": "If dating triggers past fears intensely, reflect. Readiness includes awareness of unresolved patterns."
+},
+{
+  "tip": "Be clear on deal-breakers. Readiness means knowing what you will not compromise for connection."
+},
+{
+  "tip": "If you feel rushed by age, trends, or peers, pause. Readiness is personal, not societal."
+},
+{
+  "tip": "Notice whether you feel safe being honest. Readiness includes comfort with authenticity."
+},
+{
+  "tip": "If you fear being alone more than being unsafe, reassess. Readiness prioritizes well-being."
+},
+{
+  "tip": "Check whether you can enjoy dating without attachment. Readiness includes emotional flexibility."
+},
+{
+  "tip": "If you feel depleted by dating, step back. Readiness supports energy, not exhaustion."
+},
+{
+  "tip": "Notice whether you can maintain routines while dating. Readiness includes balance and stability."
+},
+{
+  "tip": "If you’re seeking rescue or completion, pause. Readiness comes from wholeness."
+},
+{
+  "tip": "Assess whether you can communicate needs calmly. Readiness includes emotional regulation."
+},
+{
+  "tip": "If you ignore red flags to feel ready, stop. Readiness never requires denial."
+},
+{
+  "tip": "Notice whether dating aligns with your current life phase. Readiness matches timing."
+},
+{
+  "tip": "If you feel pressured to settle, reflect. Readiness honors choice, not urgency."
+},
+{
+  "tip": "Check whether you can tolerate uncertainty. Readiness includes patience with the unknown."
+},
+{
+  "tip": "If you feel disconnected from yourself, pause dating. Readiness starts with self-connection."
+},
+{
+  "tip": "Notice whether you can prioritize safety over chemistry. Readiness values protection."
+},
+{
+  "tip": "If you feel compelled to rush intimacy, slow down. Readiness respects emotional pacing."
+},
+{
+  "tip": "Assess whether you can handle rejection healthily. Readiness includes resilience."
+},
+{
+  "tip": "If dating feels like performance, pause. Readiness allows you to show up naturally."
+},
+{
+  "tip": "Notice whether you feel emotionally curious or guarded. Readiness balances openness with care."
+},
+{
+  "tip": "If you’re ignoring intuition to feel ready, stop. Readiness includes listening inward."
+},
+{
+  "tip": "Check whether you can advocate for yourself. Readiness includes confident self-expression."
+},
+{
+  "tip": "If dating feels like pressure instead of choice, reflect. Readiness should feel intentional."
+},
+{
+  "tip": "Notice whether you feel calm making decisions. Readiness supports thoughtful judgment."
+},
+{
+  "tip": "If you’re dating to escape discomfort, pause. Readiness grows from facing reality."
+},
+{
+  "tip": "Assess whether you can keep boundaries under attraction. Readiness includes consistency."
+},
+{
+  "tip": "If you feel unprepared for emotional closeness, honor that. Readiness respects honesty."
+},
+{
+  "tip": "Notice whether dating aligns with your values. Readiness includes ethical clarity."
+},
+{
+  "tip": "If you feel strong alone, dating from readiness becomes safer."
+},
+{
+  "tip": "Readiness means choosing connection when you feel grounded, not when you feel pressured."
+},
+{
+  "tip": "You are ready when dating feels optional, not necessary for your sense of worth."
+},
+
+{
+  "tip": "Check whether you feel emotionally steady before dating. Readiness means you can handle outcomes without losing balance."
+},
+{
+  "tip": "If you feel rushed to date because of outside pressure, pause. Readiness is personal and never dictated by timelines."
+},
+{
+  "tip": "Notice whether you can enjoy dates without expectations. Readiness includes openness without attachment to outcomes."
+},
+{
+  "tip": "If you fear rejection deeply, reflect. Readiness includes resilience to hear no without self-blame."
+},
+{
+  "tip": "Assess whether you can walk away from red flags. Readiness means safety comes before hope."
+},
+{
+  "tip": "If dating feels like a solution to emptiness, pause. Readiness comes from fulfillment, not lack."
+},
+{
+  "tip": "Notice whether you feel calm making dating decisions. Readiness supports thoughtful, not impulsive, choices."
+},
+{
+  "tip": "If you’re still emotionally tied to the past, slow down. Readiness includes closure and emotional space."
+},
+{
+  "tip": "Check whether you can state needs clearly. Readiness includes confident communication without fear."
+},
+{
+  "tip": "If you ignore discomfort to appear ready, pause. Readiness never requires self-denial."
+},
+{
+  "tip": "Notice whether dating aligns with your current life priorities. Readiness respects season and capacity."
+},
+{
+  "tip": "If dating drains your energy, step back. Readiness supports vitality, not exhaustion."
+},
+{
+  "tip": "Assess whether you can maintain boundaries under attraction. Readiness includes consistency."
+},
+{
+  "tip": "If you feel pressure to impress, pause. Readiness allows authenticity over performance."
+},
+{
+  "tip": "Notice whether you trust your judgment. Readiness grows when intuition and reasoning work together."
+},
+{
+  "tip": "If you feel incomplete without a partner, reflect. Readiness starts with self-wholeness."
+},
+{
+  "tip": "Check whether you can tolerate uncertainty. Readiness includes patience during early stages."
+},
+{
+  "tip": "If dating triggers strong anxiety, slow down. Readiness includes emotional regulation."
+},
+{
+  "tip": "Notice whether you feel grounded before dates. Readiness often shows up as calm anticipation."
+},
+{
+  "tip": "If you feel obligated to date, pause. Readiness is a choice, not a requirement."
+},
+{
+  "tip": "Assess whether you can say no comfortably. Readiness includes confidence in refusal."
+},
+{
+  "tip": "If you’re dating to prove worth, stop. Readiness comes from self-acceptance."
+},
+{
+  "tip": "Notice whether you can enjoy solitude. Readiness includes comfort being alone."
+},
+{
+  "tip": "If dating feels chaotic, pause. Readiness brings structure and clarity."
+},
+{
+  "tip": "Check whether you can recognize unhealthy patterns. Readiness includes awareness of past lessons."
+},
+{
+  "tip": "If you feel pressure to commit quickly, slow down. Readiness respects pacing."
+},
+{
+  "tip": "Notice whether you feel emotionally present. Readiness requires availability, not detachment."
+},
+{
+  "tip": "If dating feels like distraction, reflect. Readiness supports growth, not avoidance."
+},
+{
+  "tip": "Assess whether you can accept disappointment gracefully. Readiness includes emotional maturity."
+},
+{
+  "tip": "If you feel responsible for others’ emotions, pause. Readiness includes self-prioritization."
+},
+{
+  "tip": "Notice whether you can maintain routines while dating. Readiness includes balance."
+},
+{
+  "tip": "If you fear being alone more than being unsafe, reflect. Readiness prioritizes well-being."
+},
+{
+  "tip": "Check whether your expectations are realistic. Readiness balances hope with discernment."
+},
+{
+  "tip": "If dating feels like urgency, pause. Readiness often feels intentional and calm."
+},
+{
+  "tip": "Notice whether you feel safe expressing boundaries. Readiness includes self-advocacy."
+},
+{
+  "tip": "If you’re ignoring intuition to feel ready, stop. Readiness honors inner signals."
+},
+{
+  "tip": "Assess whether you can enjoy dating without control. Readiness includes flexibility."
+},
+{
+  "tip": "If you feel emotionally numb, pause. Readiness requires connection to your feelings."
+},
+{
+  "tip": "Notice whether you feel supported by your life outside dating. Readiness is reinforced by stability."
+},
+{
+  "tip": "If dating feels like pressure, reflect. Readiness should feel chosen, not forced."
+},
+{
+  "tip": "Check whether you can handle slow progress. Readiness includes patience."
+},
+{
+  "tip": "If you feel compelled to rush intimacy, slow down. Readiness respects emotional timing."
+},
+{
+  "tip": "Notice whether you feel aligned with your values. Readiness includes ethical clarity."
+},
+{
+  "tip": "If you feel calm walking away, that’s readiness. Safety grows from inner strength."
+},
+{
+  "tip": "Readiness means dating enhances your life, not defines it."
+},
+{
+  "tip": "You’re ready when you choose dating from confidence, not from fear of missing out."
+},
+
+{
+  "tip": "Check whether you feel emotionally stable before dating. Readiness means you can handle outcomes without losing your sense of self."
+},
+{
+  "tip": "If dating feels like pressure rather than choice, pause. Readiness grows from intention, not urgency."
+},
+{
+  "tip": "Notice whether you can enjoy dates without attachment to results. Readiness includes curiosity without expectation."
+},
+{
+  "tip": "If rejection feels devastating, reflect. Readiness includes resilience and self-compassion during disappointment."
+},
+{
+  "tip": "Assess whether you can walk away from red flags calmly. Readiness prioritizes safety over hope."
+},
+{
+  "tip": "If dating feels like a solution to loneliness, pause. Readiness comes from fulfillment, not emptiness."
+},
+{
+  "tip": "Notice whether you feel calm making dating decisions. Readiness supports clarity instead of impulse."
+},
+{
+  "tip": "If past relationships still affect your emotions strongly, slow down. Readiness includes emotional closure."
+},
+{
+  "tip": "Check whether you can express needs clearly. Readiness includes confident communication without fear."
+},
+{
+  "tip": "If you ignore discomfort to feel ready, stop. Readiness never requires self-abandonment."
+},
+{
+  "tip": "Notice whether dating fits your current priorities. Readiness respects capacity and life balance."
+},
+{
+  "tip": "If dating leaves you drained, take a break. Readiness supports energy, not exhaustion."
+},
+{
+  "tip": "Assess whether boundaries stay firm under attraction. Readiness includes consistency."
+},
+{
+  "tip": "If you feel pressure to impress, pause. Readiness allows authenticity without performance."
+},
+{
+  "tip": "Notice whether you trust your judgment. Readiness grows when intuition and logic work together."
+},
+{
+  "tip": "If you feel incomplete without a partner, reflect. Readiness begins with self-wholeness."
+},
+{
+  "tip": "Check whether you can tolerate uncertainty. Readiness includes patience during early dating stages."
+},
+{
+  "tip": "If dating triggers intense anxiety, slow down. Readiness includes emotional regulation."
+},
+{
+  "tip": "Notice whether you feel grounded before dates. Readiness often feels steady, not rushed."
+},
+{
+  "tip": "If you feel obligated to date, pause. Readiness is a choice, not a requirement."
+},
+{
+  "tip": "Assess whether you can say no comfortably. Readiness includes confidence in refusal."
+},
+{
+  "tip": "If you’re dating to prove worth, stop. Readiness comes from self-acceptance."
+},
+{
+  "tip": "Notice whether you enjoy solitude. Readiness includes comfort being alone."
+},
+{
+  "tip": "If dating feels chaotic, pause. Readiness brings structure and emotional clarity."
+},
+{
+  "tip": "Check whether you recognize unhealthy patterns. Readiness includes learning from past experiences."
+},
+{
+  "tip": "If you feel pressure to commit quickly, slow down. Readiness respects pacing."
+},
+{
+  "tip": "Notice whether you feel emotionally present. Readiness requires availability, not detachment."
+},
+{
+  "tip": "If dating feels like avoidance, reflect. Readiness supports growth, not distraction."
+},
+{
+  "tip": "Assess whether you can handle disappointment maturely. Readiness includes emotional strength."
+},
+{
+  "tip": "If you feel responsible for managing emotions, pause. Readiness includes self-prioritization."
+},
+{
+  "tip": "Notice whether routines remain intact. Readiness includes balance beyond dating."
+},
+{
+  "tip": "If fear of being alone outweighs safety, reflect. Readiness prioritizes well-being."
+},
+{
+  "tip": "Check whether expectations are realistic. Readiness balances hope with discernment."
+},
+{
+  "tip": "If dating feels urgent, pause. Readiness often feels calm and intentional."
+},
+{
+  "tip": "Notice whether you feel safe expressing boundaries. Readiness includes self-advocacy."
+},
+{
+  "tip": "If intuition is ignored to feel ready, stop. Readiness honors inner signals."
+},
+{
+  "tip": "Assess whether you can date without control. Readiness includes flexibility."
+},
+{
+  "tip": "If you feel emotionally numb, pause. Readiness requires connection to feelings."
+},
+{
+  "tip": "Notice whether your life feels stable outside dating. Readiness is reinforced by support systems."
+},
+{
+  "tip": "If dating feels forced, reflect. Readiness should feel chosen."
+},
+{
+  "tip": "Check whether you can handle slow progress. Readiness includes patience."
+},
+{
+  "tip": "If intimacy feels rushed, slow down. Readiness respects emotional timing."
+},
+{
+  "tip": "Notice whether dating aligns with your values. Readiness includes ethical clarity."
+},
+{
+  "tip": "If walking away feels possible, that’s readiness. Safety grows from inner strength."
+},
+{
+  "tip": "Readiness means dating adds joy, not pressure, to your life."
+},
+{
+  "tip": "You are ready when connection feels like an option, not a need."
+},
+
+{
+  "tip": "Check whether you can enjoy dating without urgency. Readiness feels calm and intentional, not rushed or driven by fear."
+},
+{
+  "tip": "If you feel emotionally balanced before dating, that’s readiness. Stability helps you notice safety signals clearly."
+},
+{
+  "tip": "Notice whether you can pause dating without distress. Readiness includes comfort stepping back when needed."
+},
+{
+  "tip": "If dating feels like pressure to fill a void, pause. Readiness comes from wholeness, not emotional gaps."
+},
+{
+  "tip": "Assess whether you can accept rejection without self-blame. Readiness includes emotional resilience."
+},
+{
+  "tip": "If you feel grounded making choices, that’s readiness. Calm decisions often lead to safer outcomes."
+},
+{
+  "tip": "Notice whether you can keep boundaries under attraction. Readiness means consistency even when chemistry is strong."
+},
+{
+  "tip": "If dating aligns with your life priorities, you’re likely ready. Readiness respects timing and capacity."
+},
+{
+  "tip": "Check whether you trust your judgment. Readiness grows when intuition and logic feel aligned."
+},
+{
+  "tip": "If dating drains your energy, step back. Readiness supports vitality, not exhaustion."
+},
+{
+  "tip": "Notice whether you can be honest without fear. Readiness includes confidence in self-expression."
+},
+{
+  "tip": "If you’re dating to prove worth, pause. Readiness comes from self-acceptance."
+},
+{
+  "tip": "Assess whether you can walk away from red flags. Readiness prioritizes safety over hope."
+},
+{
+  "tip": "If uncertainty feels tolerable, that’s readiness. Early dating often requires patience."
+},
+{
+  "tip": "Notice whether you feel emotionally available. Readiness requires presence, not guardedness."
+},
+{
+  "tip": "If dating feels like escape, reflect. Readiness supports growth, not avoidance."
+},
+{
+  "tip": "Check whether you can enjoy solitude. Readiness includes comfort being alone."
+},
+{
+  "tip": "If dating feels chaotic, pause. Readiness often brings structure and clarity."
+},
+{
+  "tip": "Notice whether past patterns are recognized. Readiness includes learning from experience."
+},
+{
+  "tip": "If you feel pressure to rush commitment, slow down. Readiness respects pacing."
+},
+{
+  "tip": "Assess whether you can state needs calmly. Readiness includes emotional regulation."
+},
+{
+  "tip": "If discomfort is ignored to feel ready, stop. Readiness never requires self-denial."
+},
+{
+  "tip": "Notice whether dating adds joy. Readiness enhances life rather than complicates it."
+},
+{
+  "tip": "If you feel emotionally steady after dates, that’s readiness. Safety grows from stability."
+},
+{
+  "tip": "Check whether you can say no comfortably. Readiness includes confidence in refusal."
+},
+{
+  "tip": "If dating feels obligatory, pause. Readiness is a choice, not a requirement."
+},
+{
+  "tip": "Notice whether expectations are realistic. Readiness balances hope with discernment."
+},
+{
+  "tip": "If dating triggers strong anxiety, slow down. Readiness includes self-awareness."
+},
+{
+  "tip": "Assess whether routines remain intact. Readiness supports balance beyond dating."
+},
+{
+  "tip": "If fear of being alone outweighs safety, reflect. Readiness prioritizes well-being."
+},
+{
+  "tip": "Notice whether you can enjoy dates without overanalyzing. Readiness allows ease."
+},
+{
+  "tip": "If you feel confident walking away, that’s readiness. Inner strength supports safety."
+},
+{
+  "tip": "Check whether dating fits your emotional capacity. Readiness respects limits."
+},
+{
+  "tip": "If dating feels intentional rather than reactive, you’re likely ready."
+},
+{
+  "tip": "Notice whether you can keep self-respect during disappointment. Readiness includes dignity."
+},
+{
+  "tip": "If you feel pressured by age or peers, pause. Readiness is personal, not external."
+},
+{
+  "tip": "Assess whether you can handle slow progress. Readiness includes patience."
+},
+{
+  "tip": "If intimacy feels rushed, slow down. Readiness respects emotional timing."
+},
+{
+  "tip": "Notice whether dating aligns with your values. Readiness includes ethical clarity."
+},
+{
+  "tip": "If you feel emotionally present, that’s readiness. Connection requires availability."
+},
+{
+  "tip": "Check whether you can advocate for yourself. Readiness includes self-protection."
+},
+{
+  "tip": "If dating feels calm rather than urgent, you’re likely ready."
+},
+{
+  "tip": "Notice whether you can enjoy dating without losing yourself. Readiness preserves identity."
+},
+{
+  "tip": "If walking away feels possible, safety improves. Readiness includes real choice."
+},
+{
+  "tip": "Readiness means dating is something you choose, not something you need to feel whole."
+},
+{
+  "tip": "You’re ready when safety guides decisions more than fear of missing out."
+},
+{
+  "tip": "Gauge your readiness by how steady you feel emotionally. Calm confidence supports safer choices more than urgency or excitement."
+},
+{
+  "tip": "If dating decisions feel thoughtful rather than reactive, that’s readiness. Clarity helps you spot risks early."
+},
+{
+  "tip": "Notice whether you can pause dating without anxiety. Readiness includes comfort stepping back when needed."
+},
+{
+  "tip": "If dating adds pressure instead of joy, pause. Readiness should feel intentional, not stressful or demanding."
+},
+{
+  "tip": "Assess whether you can accept slow progress. Readiness includes patience without forcing outcomes."
+},
+{
+  "tip": "If you can walk away without panic, that’s readiness. Safety improves when choice feels real."
+},
+{
+  "tip": "Notice whether you feel grounded before dates. Readiness often shows as calm anticipation."
+},
+{
+  "tip": "If you’re dating to avoid loneliness, pause. Readiness grows from fulfillment, not fear."
+},
+{
+  "tip": "Check whether you can state boundaries confidently. Readiness includes self-advocacy without guilt."
+},
+{
+  "tip": "If you feel emotionally available yet protected, that’s readiness. Balance supports safer connections."
+},
+{
+  "tip": "Notice whether dating aligns with your current capacity. Readiness respects energy and time limits."
+},
+{
+  "tip": "If attraction doesn’t override judgment, that’s readiness. Safety comes from balanced decision-making."
+},
+{
+  "tip": "Assess whether you can handle rejection kindly toward yourself. Readiness includes resilience."
+},
+{
+  "tip": "If you can enjoy dates without overanalyzing, readiness may be present. Ease supports clarity."
+},
+{
+  "tip": "Notice whether your routines remain stable. Readiness includes balance beyond dating."
+},
+{
+  "tip": "If you feel pressured to rush intimacy, slow down. Readiness honors emotional timing."
+},
+{
+  "tip": "Check whether you can communicate needs calmly. Readiness includes emotional regulation."
+},
+{
+  "tip": "If dating feels optional rather than urgent, that’s readiness. Choice supports safety."
+},
+{
+  "tip": "Notice whether you trust your judgment. Readiness grows when intuition and logic align."
+},
+{
+  "tip": "If dating enhances your life instead of consuming it, readiness is likely present."
+},
+{
+  "tip": "Assess whether you can maintain boundaries under chemistry. Readiness includes consistency."
+},
+{
+  "tip": "If you feel steady walking away from red flags, that’s readiness. Safety comes first."
+},
+{
+  "tip": "Notice whether solitude feels comfortable. Readiness includes contentment alone."
+},
+{
+  "tip": "If dating decisions feel values-led, readiness is present. Alignment supports safer outcomes."
+},
+{
+  "tip": "Check whether you can tolerate uncertainty early on. Readiness includes patience."
+},
+{
+  "tip": "If you feel emotionally present without losing yourself, that’s readiness."
+},
+{
+  "tip": "Notice whether dating feels chosen, not required. Readiness removes pressure."
+},
+{
+  "tip": "If anxiety decreases rather than spikes, readiness may be growing."
+},
+{
+  "tip": "Assess whether you can say no easily. Readiness includes confident refusal."
+},
+{
+  "tip": "If dating feels calm rather than chaotic, readiness supports safety."
+},
+{
+  "tip": "Notice whether expectations are flexible. Readiness balances hope with realism."
+},
+{
+  "tip": "If you can slow down without fear, readiness is present."
+},
+{
+  "tip": "Check whether you feel emotionally regulated. Readiness supports steady reactions."
+},
+{
+  "tip": "If dating aligns with your goals, readiness respects direction."
+},
+{
+  "tip": "Notice whether attraction doesn’t cloud boundaries. Readiness preserves self-respect."
+},
+{
+  "tip": "If you feel comfortable advocating for yourself, readiness is likely."
+},
+{
+  "tip": "Assess whether dating leaves you energized. Readiness supports vitality."
+},
+{
+  "tip": "If you can accept uncertainty without rushing, readiness is present."
+},
+{
+  "tip": "Notice whether safety guides choices more than excitement. Readiness prioritizes well-being."
+},
+{
+  "tip": "If you can pause dating without distress, readiness supports flexibility."
+},
+{
+  "tip": "Check whether you feel emotionally steady after dates. Readiness brings balance."
+},
+{
+  "tip": "If dating feels intentional, not reactive, readiness is present."
+},
+{
+  "tip": "Notice whether you can keep self-trust during attraction. Readiness protects judgment."
+},
+{
+  "tip": "If you feel whole regardless of outcomes, readiness supports safer decisions."
+},
+{
+  "tip": "Assess whether dating feels aligned with your values. Readiness includes clarity."
+},
+{
+  "tip": "If you feel empowered to choose yourself, readiness is present."
+},
+{
+  "tip": "Notice whether dating feels like enrichment, not completion. Readiness reflects strength."
+},
+{
+  "tip": "If connection remains optional, your readiness supports safety and autonomy."
+}
+
+
+
+
+
+
+
+
+]
+}
+
+
+
+
+
+
+
+}
 }
