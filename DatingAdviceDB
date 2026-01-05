@@ -1,256 +1,305 @@
 {
   "posts": [
     {
-      "id": 1,
-      "category": "First Dates",
-      "content": "On a first date, ask yourself 'Do I actually like him?' instead of worrying if he likes you. Pay attention to whether he's genuinely interested in who you are as a person, not just your appearance. You're interviewing him too."
-    },
-    {
-      "id": 2,
-      "category": "Red Flags",
-      "content": "Trust your gut feeling, even if it seems illogical. If something feels off about him early on, listen to that instinct. Your intuition picks up on things your mind hasn't consciously processed yet."
-    },
-    {
-      "id": 3,
-      "category": "Communication",
-      "content": "'I feel...' statements are a game changer. Instead of 'You always...', try 'I feel unheard when...'. It frames the issue from your perspective and avoids blame, leading to a more constructive conversation."
-    },
-    {
-      "id": 4,
-      "category": "Boundaries",
-      "content": "Never drop your plans or priorities at the last minute just because he texts. Make him respect your time by being unavailable sometimes. A quality man will appreciate your independence, not resent it."
-    },
-    {
-      "id": 5,
-      "category": "Self-Love",
-      "content": "Don't settle for less than you deserve just because you're afraid of being alone. Being single is better than being with someone who doesn't value you. Know your worth and don't compromise on your standards."
-    },
-    {
-      "id": 6,
-      "category": "First Dates",
-      "content": "Pay attention to how he talks about his ex-girlfriends. If he's constantly badmouthing them or blaming them for everything, that's a red flag. It reveals how he'll talk about you if things don't work out."
-    },
-    {
-      "id": 7,
-      "category": "Dating Mistakes",
-      "content": "Don't reveal all your insecurities early on. Carry yourself with confidence even if you don't feel it inside. Confidence is attractive and sets the tone for how he'll treat you in the relationship."
-    },
-    {
-      "id": 8,
-      "category": "Long-Term",
-      "content": "Never stop dating your partner, even after years together. Plan regular date nights, leave little notes, and make a conscious effort to show appreciation every single day. The small things matter most in keeping love alive."
-    },
-    {
-      "id": 9,
-      "category": "Trust",
-      "content": "Watch how he treats service workers, waiters, and people he doesn't need anything from. His true character shows in how he treats those he has no obligation to impress."
-    },
-    {
-      "id": 10,
-      "category": "Compatibility",
-      "content": "Discuss your dealbreakers early—kids, career goals, lifestyle preferences, and values. If your visions for the future don't align, no amount of chemistry will fix it. Choose someone whose path matches yours."
-    },
-
-        {
-      "id": 11,
-      "category": "Boundaries",
-      "content": "Don't change yourself to fit what you think he wants. Your quirks, interests, and personality are what make you unique. A man worth keeping will appreciate the real you, not a watered-down version."
-    },
-    {
-      "id": 12,
-      "category": "Red Flags",
-      "content": "If he's overly critical of your appearance, career, or friends, that's a sign of control and disrespect. He should be your biggest cheerleader, not your critic."
-    },
-    {
-      "id": 13,
-      "category": "Communication",
-      "content": "Don't play games with your response times or pretend you're busier than you are. If you like him, show consistency through your actions. Healthy communication builds trust."
-    },
-    {
-      "id": 14,
-      "category": "First Dates",
-      "content": "Meet him in a public place on the first date and let a friend know where you're going. Your safety is non-negotiable. A respectful man will understand and appreciate your caution."
-    },
-    {
-      "id": 15,
-      "category": "Self-Love",
-      "content": "Invest in your own goals, career, and friendships first. A woman with her own fulfilling life is more attractive and less likely to lose herself in a relationship."
-    },
-    {
-      "id": 16,
-      "category": "Dating Mistakes",
-      "content": "Don't rush into physical intimacy to keep him interested. If he's only interested in sex, he's not interested in you. Real connection takes time to develop."
-    },
-    {
-      "id": 17,
-      "category": "Long-Term",
-      "content": "Notice early on if he makes plans with you or if he's always reactive to your efforts. A man who wants to be with you will take initiative and show consistent interest."
-    },
-    {
-      "id": 18,
-      "category": "Boundaries",
-      "content": "It's okay to have standards about how you're treated. Don't accept less than respect, honesty, and effort just to avoid being alone. Your peace of mind is worth more."
-    },
-    {
-      "id": 19,
-      "category": "Trust",
-      "content": "Pay attention to whether his words match his actions. Anyone can say the right things, but consistency is what proves his character. Watch what he does, not just what he says."
-    },
-    {
-      "id": 20,
-      "category": "Red Flags",
-      "content": "If he gets defensive when you bring up concerns or shuts down conversations, that's a sign he's not willing to work through problems with you."
-    },
-    {
-      "id": 21,
-      "category": "Communication",
-      "content": "Express your needs clearly without apologizing for them. You're not difficult for having boundaries; you're healthy. A secure man will respect that."
-    },
-    {
-      "id": 22,
-      "category": "First Dates",
-      "content": "Observe how he handles situations when things don't go his way. His reaction to minor setbacks reveals how he'll handle bigger conflicts in your relationship."
-    },
-    {
-      "id": 23,
-      "category": "Dating Mistakes",
-      "content": "Don't ignore red flags thinking love will fix them. Red flags rarely disappear; they usually get worse over time as he becomes more comfortable."
-    },
-    {
-      "id": 24,
-      "category": "Long-Term",
-      "content": "Make sure he respects your independence and doesn't try to isolate you from friends or family. A controlling partner will slowly cut you off from your support system."
-    },
-    {
-      "id": 25,
-      "category": "Self-Love",
-      "content": "Never lose your identity in a relationship. Maintain your hobbies, friendships, and career ambitions. You're a complete person on your own."
-    },
-    {
-      "id": 26,
-      "category": "Boundaries",
-      "content": "Don't accept excuses for bad behavior. 'I was drunk,' 'I was stressed,' or 'I wasn't thinking' don't excuse disrespect. Hold him accountable."
-    },
-    {
-      "id": 27,
-      "category": "Trust",
-      "content": "If he lies about small things, he'll lie about big things. Honesty in minor moments builds the foundation for trust in major ones."
-    },
-    {
-      "id": 28,
-      "category": "Communication",
-      "content": "When you're upset, take time to cool down before discussing it if you need to. A calm conversation is always more productive than an argument fueled by emotion."
-    },
-    {
-      "id": 29,
-      "category": "Red Flags",
-      "content": "Watch how he handles his finances and responsibilities. A man who can't manage his own life won't suddenly become reliable in a relationship with you."
-    },
-    {
-      "id": 30,
-      "category": "First Dates",
-      "content": "Notice if he asks you questions about yourself or if the conversation is mostly about him. Good partners are genuinely curious about who you are."
-    },
-    {
-      "id": 31,
-      "category": "Dating Mistakes",
-      "content": "Don't move in together or make major commitments too quickly. Give yourself time to see how he behaves in different situations and seasons."
-    },
-    {
-      "id": 32,
-      "category": "Long-Term",
-      "content": "Celebrate each other's wins genuinely. A partner who's threatened by your success or tries to minimize your achievements isn't worth your time."
-    },
-    {
-      "id": 33,
-      "category": "Self-Love",
-      "content": "Know that you deserve a partner who chooses you every day, not someone you have to convince to stay. Don't beg for love; attract it."
-    },
-    {
-      "id": 34,
-      "category": "Boundaries",
-      "content": "You don't owe him explanations for every decision you make. Healthy relationships have trust; you don't need to justify your actions constantly."
-    },
-    {
-      "id": 35,
-      "category": "Trust",
-      "content": "Pay attention to how he speaks about his mother and the women in his life. This often predicts how he'll treat you in the long run."
-    },
-    {
-      "id": 36,
-      "category": "Communication",
-      "content": "Never use his insecurities or vulnerabilities against him in arguments. What he shares with you in confidence should remain sacred."
-    },
-    {
-      "id": 37,
-      "category": "Red Flags",
-      "content": "If he pressures you for sex, money, or commitment before you're ready, that's manipulation. A respectful man will wait for you to be ready."
-    },
-    {
-      "id": 38,
-      "category": "First Dates",
-      "content": "Don't overshare your entire life story on the first few dates. Let him earn the privilege of knowing your deepest thoughts and fears."
-    },
-    {
-      "id": 39,
-      "category": "Dating Mistakes",
-      "content": "Don't stay in a relationship just because you've invested time. The sunk cost fallacy will trap you in unhappiness. Sometimes leaving is the right choice."
-    },
-    {
-      "id": 40,
-      "category": "Long-Term",
-      "content": "Build inside jokes and shared memories that are just between you two. These create intimacy and a bond that outsiders can't penetrate."
-    },
-    {
-      "id": 41,
-      "category": "Self-Love",
-      "content": "If being with him makes you feel bad about yourself more often than good, that's your sign to leave. Your mental health matters more than any relationship."
-    },
-    {
-      "id": 42,
-      "category": "Boundaries",
-      "content": "Set boundaries around your phone, personal space, and time with friends. These aren't unreasonable; they're healthy for your well-being."
-    },
-    {
-      "id": 43,
-      "category": "Trust",
-      "content": "Notice if he keeps his promises to you. Small commitments show whether he respects your time and values what he says to you."
-    },
-    {
-      "id": 44,
-      "category": "Communication",
-      "content": "Don't assume you know what he's thinking. Ask him directly instead of creating narratives in your head that lead to unnecessary conflict."
-    },
-    {
-      "id": 45,
-      "category": "Red Flags",
-      "content": "If he makes you feel guilty for having needs or wanting attention, that's emotional manipulation. Your needs are valid and important."
-    },
-    {
-      "id": 46,
-      "category": "First Dates",
-      "content": "Trust your instincts about his intentions. If something feels like a game or manipulation, it probably is. Your gut is usually right."
-    },
-    {
-      "id": 47,
-      "category": "Dating Mistakes",
-      "content": "Don't settle for breadcrumbing—occasional texts or attention that keep you hoping. You deserve consistent, genuine effort."
-    },
-    {
-      "id": 48,
-      "category": "Long-Term",
-      "content": "Keep the romance alive by surprising him occasionally, but don't let it become one-sided. Effort should flow both directions."
-    },
-    {
-      "id": 49,
-      "category": "Self-Love",
-      "content": "Remember that your worth isn't determined by whether a man wants to date you. You're valuable on your own, with or without him."
-    },
-    {
-      "id": 50,
-      "category": "Boundaries",
-      "content": "It's okay to walk away from someone who isn't treating you right, even if he's a 'good guy' on paper. Chemistry and kindness aren't always enough."
-    },
+    "id": 1,
+    "category": "Red Flags",
+    "title": "Watch for Disrespectful Behavior",
+    "content": "If he belittles your opinions, interrupts you, or dismisses your feelings, these are clear red flags. Disrespect often escalates and undermines your self-worth. Address it early or consider ending the relationship if it persists. Healthy partners treat you with kindness and consideration."
+  },
+  {
+    "id": 2,
+    "category": "Green Flags",
+    "title": "Look for Genuine Support",
+    "content": "A green flag is when he actively supports your goals and celebrates your achievements. Supportive partners help you grow and feel valued, not threatened by your success. These actions build a foundation for a healthy, lasting relationship."
+  },
+  {
+    "id": 3,
+    "category": "First Dates",
+    "title": "Ask About His Passions",
+    "content": "On a first date, ask open-ended questions about his interests and passions. This helps you learn more about his personality and values. It also shows genuine interest, setting the tone for mutual connection and openness."
+  },
+  {
+    "id": 4,
+    "category": "Early Dating",
+    "title": "Observe His Consistency",
+    "content": "Notice if he puts in consistent effort to plan dates, respond to messages, and show up as promised. Consistency reveals his interest and reliability. If he’s only attentive when it’s convenient, it’s a sign he may not be fully invested."
+  },
+  {
+    "id": 5,
+    "category": "Commitment",
+    "title": "Discuss Relationship Expectations",
+    "content": "Talk about what you both want from a relationship early on. If you’re looking for something serious and he’s not, it’s better to know now. Honest communication about expectations prevents misunderstandings and sets the stage for a healthy partnership."
+  },
+  {
+    "id": 6,
+    "category": "Boundaries",
+    "title": "Set Clear Personal Limits",
+    "content": "Define and communicate your boundaries early in any relationship. Let him know what behaviors you find unacceptable and stick to your limits. Healthy relationships respect boundaries, and a partner who honors them values your well-being and autonomy."
+  },
+  {
+    "id": 7,
+    "category": "Communication",
+    "title": "Practice Active Listening",
+    "content": "Listen to understand, not just to respond. Show interest by maintaining eye contact, nodding, and asking follow-up questions. Active listening fosters trust and deeper connection, making your partner feel heard and valued in the relationship."
+  },
+  {
+    "id": 8,
+    "category": "Emotional Safety",
+    "title": "Create a Safe Space for Feelings",
+    "content": "Encourage open conversations about emotions and vulnerabilities. Let your partner know it’s safe to share without fear of judgment. Emotional safety strengthens intimacy and builds a foundation for trust and mutual support."
+  },
+  {
+    "id": 9,
+    "category": "Consistency",
+    "title": "Value Steady Actions Over Words",
+    "content": "Pay attention to whether his actions match his words. Consistent effort, like regular check-ins and following through on promises, demonstrates reliability. Trust grows when you see that he’s dependable over time."
+  },
+  {
+    "id": 10,
+    "category": "Dating Safety",
+    "title": "Prioritize Your Physical Safety",
+    "content": "Always meet new people in public places and let someone know your plans. Trust your instincts and leave if you feel unsafe. Your physical safety is non-negotiable, and a respectful partner will understand and support your precautions."
+  },
+  {
+    "id": 11,
+    "category": "Personal Boundaries",
+    "title": "Respect Your Own Needs",
+    "content": "Don’t sacrifice your well-being to please someone else. Make time for your hobbies, friends, and self-care. Setting personal boundaries helps maintain your identity and prevents resentment in relationships."
+  },
+  {
+    "id": 12,
+    "category": "Trust Your Gut",
+    "title": "Listen to Your Intuition",
+    "content": "If something feels off, don’t ignore it. Your intuition picks up on subtle cues that your conscious mind might miss. Trusting your gut can help you avoid potentially harmful situations or relationships."
+  },
+  {
+    "id": 13,
+    "category": "Exit Strategies",
+    "title": "Plan for Healthy Breakups",
+    "content": "Have a plan for ending relationships that aren’t working. Communicate your reasons clearly and kindly, and set boundaries for future contact. Knowing how to exit gracefully helps protect your emotional well-being."
+  },
+  {
+    "id": 14,
+    "category": "Online Dating Safety",
+    "title": "Verify Profiles Before Meeting",
+    "content": "Take steps to verify someone’s identity before meeting in person. Use video calls or social media to confirm their profile matches reality. This helps reduce the risk of catfishing or unsafe encounters."
+  },
+  {
+    "id": 15,
+    "category": "Situational Awareness",
+    "title": "Stay Aware of Your Surroundings",
+    "content": "Be mindful of your environment when on dates. Notice how you feel and whether your partner respects your comfort. Staying aware helps you respond quickly to any red flags or unsafe situations."
+  },
+  {
+    "id": 16,
+    "category": "Redirection Skills",
+    "title": "Redirect Uncomfortable Topics",
+    "content": "If a conversation turns uncomfortable or invasive, politely steer it in another direction. Redirecting helps you maintain control and keeps the interaction positive and respectful."
+  },
+  {
+    "id": 17,
+    "category": "Texting Etiquette",
+    "title": "Be Clear and Kind in Messages",
+    "content": "Communicate your thoughts honestly and respectfully in texts. Avoid sarcasm or ambiguous language that can be misinterpreted. Clear, kind messages build trust and prevent misunderstandings."
+  },
+  {
+    "id": 18,
+    "category": "Mixed Signals",
+    "title": "Address Confusing Behavior",
+    "content": "If he sends mixed signals, ask for clarity. Express how his behavior makes you feel and seek honest answers. Addressing mixed signals helps prevent confusion and sets the stage for open communication."
+  },
+  {
+    "id": 19,
+    "category": "Ghosting",
+    "title": "Don’t Chase After Ghosting",
+    "content": "If someone ghosts you, don’t repeatedly reach out. Respect your own worth and move on. Ghosting is a reflection of their issues, not your value as a person."
+  },
+  {
+    "id": 20,
+    "category": "Breadcrumbing",
+    "title": "Recognize and Respond to Breadcrumbing",
+    "content": "Breadcrumbing is when someone gives just enough attention to keep you interested without real commitment. Recognize the pattern and address it directly or choose to walk away if it doesn’t meet your needs."
+  },
+  {
+    "id": 21,
+    "category": "Love Bombing",
+    "title": "Watch for Excessive Flattery",
+    "content": "Love bombing involves overwhelming affection or compliments early on. While it feels good, it can be a manipulation tactic. Stay grounded and observe if his actions match his words over time."
+  },
+  {
+    "id": 22,
+    "category": "Situationships",
+    "title": "Define Your Relationship Status",
+    "content": "If you’re in a situationship, clarify what you both want. Ask for honesty about intentions and set boundaries. Defining the relationship helps prevent confusion and emotional harm."
+  },
+  {
+    "id": 23,
+    "category": "Casual Dating",
+    "title": "Communicate Your Expectations",
+    "content": "Be clear about what you want from casual dating. If you seek something light, say so. Honest communication ensures both parties are on the same page and prevents misunderstandings."
+  },
+  {
+    "id": 24,
+    "category": "Emotional Availability",
+    "title": "Assess Emotional Openness",
+    "content": "Notice if he shares his feelings and listens to yours. Emotional availability is key for deep connection. If he avoids vulnerability, it may indicate he’s not ready for a serious relationship."
+  },
+  {
+    "id": 25,
+    "category": "Attachment Styles",
+    "title": "Understand Your Attachment Style",
+    "content": "Reflect on how you relate to others in relationships. Knowing your attachment style helps you identify patterns and work toward healthier connections. Seek partners who complement your style."
+  },
+  {
+    "id": 26,
+    "category": "Healing",
+    "title": "Take Time to Heal After Breakups",
+    "content": "Allow yourself space to process emotions after a breakup. Healing is essential for moving forward and building healthier relationships in the future. Self-compassion supports your emotional recovery."
+  },
+  {
+    "id": 27,
+    "category": "Past Baggage",
+    "title": "Acknowledge Your Past Experiences",
+    "content": "Recognize how past relationships shape your current views. Address unresolved issues and communicate your needs. Understanding your baggage helps you create healthier connections."
+  },
+  {
+    "id": 28,
+    "category": "Emotional Maturity",
+    "title": "Look for Emotional Maturity",
+    "content": "A mature partner handles conflict calmly, takes responsibility for mistakes, and communicates honestly. Emotional maturity creates a safe, respectful environment for both partners to grow."
+  },
+  {
+    "id": 29,
+    "category": "Readiness",
+    "title": "Assess Relationship Readiness",
+    "content": "Check if you and your partner are emotionally ready for a relationship. Both should feel secure, open, and willing to invest in each other. Readiness leads to healthier, more fulfilling connections."
+  },
+  {
+    "id": 30,
+    "category": "Long-Term Vision",
+    "title": "Share Your Future Goals",
+    "content": "Discuss your long-term aspirations with your partner. Aligning your visions for the future strengthens your bond and helps you build a life together with shared purpose."
+  },
+  {
+    "id": 31,
+    "category": "Healthy Love",
+    "title": "Cultivate Mutual Respect",
+    "content": "Healthy love is built on respect, trust, and support. Prioritize kindness and understanding in your relationship. Mutual respect fosters a lasting, fulfilling connection."
+  },
+  {
+    "id": 32,
+    "category": "Choosing Better",
+    "title": "Set High Standards for Partners",
+    "content": "Don’t settle for less than you deserve. Choose partners who value and respect you. High standards attract healthier, more rewarding relationships."
+  },
+  {
+    "id": 33,
+    "category": "Lessons Learned",
+    "title": "Reflect on Past Relationship Lessons",
+    "content": "Think about what you’ve learned from past relationships. Use those insights to make better choices moving forward. Reflection leads to growth and wiser decisions."
+  },
+  {
+    "id": 34,
+    "category": "Dating Mindset",
+    "title": "Stay Positive and Open",
+    "content": "Approach dating with a positive, open mindset. Focus on learning and growth rather than perfection. A healthy mindset attracts better connections and reduces stress."
+  },
+  {
+    "id": 35,
+    "category": "Red Flags",
+    "title": "Notice Lack of Accountability",
+    "content": "If he never admits fault or blames others for his mistakes, it’s a red flag. Accountability is essential for healthy relationships. Avoid partners who refuse to take responsibility."
+  },
+  {
+    "id": 36,
+    "category": "Green Flags",
+    "title": "Appreciate Thoughtful Gestures",
+    "content": "Look for small, thoughtful actions like remembering your preferences or checking in when you’re stressed. These gestures show he cares and pays attention to your needs."
+  },
+  {
+    "id": 37,
+    "category": "First Dates",
+    "title": "Be Yourself on First Dates",
+    "content": "Show your true personality on first dates. Authenticity attracts compatible partners and sets the stage for honest communication. Pretending to be someone else creates future problems."
+  },
+  {
+    "id": 38,
+    "category": "Early Dating",
+    "title": "Take Your Time Getting Close",
+    "content": "Don’t rush into emotional or physical intimacy. Take time to build trust and get to know each other. Patience helps create a strong foundation for a lasting relationship."
+  },
+  {
+    "id": 39,
+    "category": "Commitment",
+    "title": "Check for Shared Values",
+    "content": "Discuss core values like honesty, loyalty, and family. Shared values are the bedrock of commitment. If your values clash, it may be hard to build a lasting partnership."
+  },
+  {
+    "id": 40,
+    "category": "Boundaries",
+    "title": "Say No Without Guilt",
+    "content": "It’s okay to say no to things that make you uncomfortable. Setting boundaries without guilt protects your well-being and teaches others to respect your limits."
+  },
+  {
+    "id": 41,
+    "category": "Communication",
+    "title": "Use 'I' Statements in Arguments",
+    "content": "Frame disagreements with 'I' statements like 'I feel upset when...' instead of blaming. This approach encourages constructive dialogue and reduces defensiveness."
+  },
+  {
+    "id": 42,
+    "category": "Emotional Safety",
+    "title": "Validate Each Other’s Feelings",
+    "content": "Acknowledge your partner’s emotions, even if you don’t agree. Validation builds emotional safety and shows you care about their experience."
+  },
+  {
+    "id": 43,
+    "category": "Consistency",
+    "title": "Notice Patterns Over Time",
+    "content": "Look for consistent behaviors rather than isolated incidents. Patterns reveal true character and help you assess if someone is reliable and trustworthy."
+  },
+  {
+    "id": 44,
+    "category": "Dating Safety",
+    "title": "Trust Your Instincts on Safety",
+    "content": "If something feels unsafe, trust your instincts and remove yourself from the situation. Your safety comes first, and a respectful partner will understand your caution."
+  },
+  {
+    "id": 45,
+    "category": "Personal Boundaries",
+    "title": "Protect Your Time and Energy",
+    "content": "Don’t let anyone drain your energy or demand your time excessively. Protecting your time ensures you have space for your own needs and growth."
+  },
+  {
+    "id": 46,
+    "category": "Trust Your Gut",
+    "title": "Heed Early Warning Signs",
+    "content": "If your gut warns you about something, pay attention. Early warning signs often indicate deeper issues. Trusting your intuition helps you avoid future problems."
+  },
+  {
+    "id": 47,
+    "category": "Exit Strategies",
+    "title": "Know When to Walk Away",
+    "content": "Recognize when a relationship isn’t working and have the courage to leave. Walking away preserves your self-respect and opens doors to better opportunities."
+  },
+  {
+    "id": 48,
+    "category": "Online Dating Safety",
+    "title": "Avoid Sharing Sensitive Info",
+    "content": "Don’t share personal details like your address or financial information early on. Protect your privacy and safety when dating online."
+  },
+  {
+    "id": 49,
+    "category": "Situational Awareness",
+    "title": "Assess the Environment",
+    "content": "Be aware of your surroundings and the people around you. Assessing the environment helps you stay safe and respond to potential risks."
+  },
+  {
+    "id": 50,
+    "category": "Redirection Skills",
+    "title": "Deflect Inappropriate Questions",
+    "content": "If asked something too personal, politely deflect or change the subject. Redirecting keeps the conversation respectful and comfortable for both parties."
+  },
     {
       "id": 51,
       "category": "Trust",
@@ -402,207 +451,247 @@
       "category": "Long-Term",
       "content": "Check in regularly about how you both feel about the relationship. Open communication prevents problems from festering and growing."
     },
-    {
-      "id": 81,
-      "category": "Self-Love",
-      "content": "Don't sacrifice your dreams, education, or career for a relationship. A partner should support your ambitions, not hinder them."
-    },
-    {
-      "id": 82,
-      "category": "Boundaries",
-      "content": "You don't have to respond to every text immediately. Taking time to respond shows that you have a full life outside of him."
-    },
-    {
-      "id": 83,
-      "category": "Trust",
-      "content": "Observe whether he follows through on small commitments. If he can't be reliable with small things, he won't be reliable with big ones."
-    },
-    {
-      "id": 84,
-      "category": "Dating Mistakes",
-      "content": "Don't lower your standards just because you're getting older or worried about running out of time. Settling leads to lasting regret."
-    },
-    {
-      "id": 85,
-      "category": "Red Flags",
-      "content": "If he makes you feel like you're crazy for having emotions or concerns, that's gaslighting. Your feelings are valid and deserve to be heard."
-    },
-    {
-      "id": 86,
-      "category": "Communication",
-      "content": "Use specific examples when discussing issues, not vague accusations. 'When you forgot my birthday' is clearer than 'You never care about me.'"
-    },
-    {
-      "id": 87,
-      "category": "First Dates",
-      "content": "Don't feel obligated to give him your number if you don't feel a connection. Trust your instincts about whether you want to see him again."
-    },
-    {
-      "id": 88,
-      "category": "Long-Term",
-      "content": "Maintain physical affection even during routine times. Small touches, cuddles, and kisses keep your connection strong and remind him you care."
-    },
-    {
-      "id": 89,
-      "category": "Self-Love",
-      "content": "Invest in therapy or self-help if you have abandonment issues or codependency tendencies. Understanding yourself makes you a better partner."
-    },
-    {
-      "id": 90,
-      "category": "Boundaries",
-      "content": "You don't have to share your passwords, location, or give constant updates about where you are. Trust means freedom, not surveillance."
-    },
-    {
-      "id": 91,
-      "category": "Trust",
-      "content": "Notice if he supports your friendships or if he tries to isolate you. A secure partner celebrates your connections with others."
-    },
-    {
-      "id": 92,
-      "category": "Dating Mistakes",
-      "content": "Don't lend him large amounts of money or co-sign anything early in the relationship. Financial entanglement complicates everything."
-    },
-    {
-      "id": 93,
-      "category": "Communication",
-      "content": "Let him know what you appreciate about him. Positive reinforcement of good behavior encourages him to keep doing those things."
-    },
-    {
-      "id": 94,
-      "category": "Red Flags",
-      "content": "If he constantly criticizes your body, your clothing, or your appearance, that's emotional abuse. A loving partner uplifts you, not tears you down."
-    },
-    {
-      "id": 95,
-      "category": "First Dates",
-      "content": "Have your own transportation to and from dates early on. Independence shows confidence and gives you an exit if things go poorly."
-    },
-    {
-      "id": 96,
-      "category": "Long-Term",
-      "content": "Plan dates together, not just always doing what he wants. A balanced relationship means both people get their needs met."
-    },
-    {
-      "id": 97,
-      "category": "Self-Love",
-      "content": "Don't ignore your own needs to make him comfortable. Healthy relationships require both people to speak up about what they need."
-    },
-    {
-      "id": 98,
-      "category": "Boundaries",
-      "content": "It's okay to need alone time without him. Having independent time strengthens your relationship by preventing resentment and burnout."
-    },
-    {
-      "id": 99,
-      "category": "Trust",
-      "content": "If he cheated in past relationships, proceed with extreme caution. Past behavior is often the best predictor of future behavior."
-    },
-    {
-      "id": 100,
-      "category": "Dating Mistakes",
-      "content": "Don't stay hoping he'll change. People change when they want to, not when we hope they will. Accept him as he is or move on."
-    },
-    {
-      "id": 101,
-      "category": "Communication",
-      "content": "Don't bring up multiple issues at once in a conversation. Focus on one thing so he can actually address and resolve it."
-    },
-    {
-      "id": 102,
-      "category": "Red Flags",
-      "content": "If he's disrespectful to your family or friends, that's a sign of his true character. He might put on a good show for you while being dismissive of others."
-    },
-    {
-      "id": 103,
-      "category": "First Dates",
-      "content": "Ask about his previous relationships to understand patterns. Repetitive issues in his past dating life might repeat with you too."
-    },
-    {
-      "id": 104,
-      "category": "Long-Term",
-      "content": "Make sure you both have similar financial goals and habits. Money disagreements are a leading cause of relationship failure."
-    },
-    {
-      "id": 105,
-      "category": "Self-Love",
-      "content": "Never apologize for having standards. Expecting respect, honesty, and effort isn't being high-maintenance; it's being self-respecting."
-    },
-    {
-      "id": 106,
-      "category": "Boundaries",
-      "content": "You can say no to sex without providing an explanation. Your body is yours alone, and consent is never obligatory."
-    },
-    {
-      "id": 107,
-      "category": "Trust",
-      "content": "If he talks badly about his ex to paint her as crazy, consider that he might do the same to you someday. Listen to how he frames past relationships."
-    },
-    {
-      "id": 108,
-      "category": "Dating Mistakes",
-      "content": "Don't accept the bare minimum as a reason to stay. He shows up sometimes, remembers your birthday occasionally—that's not a relationship, that's crumbs."
-    },
-    {
-      "id": 109,
-      "category": "Communication",
-      "content": "Be willing to apologize when you're wrong, but also expect genuine apologies from him. Growth requires accountability on both sides."
-    },
-    {
-      "id": 110,
-      "category": "Red Flags",
-      "content": "If he refuses to discuss the future or makes vague promises about it, he's avoiding commitment. A man serious about you will be clear about his intentions."
-    },
-
-        {
-      "id": 111,
-      "category": "Self-Love",
-      "content": "Build a life that makes you happy independently. A man should be the cherry on top of your already full life, not the reason you have a life at all."
-    },
-    {
-      "id": 112,
-      "category": "Red Flags",
-      "content": "If he talks about his mother constantly or compares you to her, that's a red flag. Unhealthy attachment to his mother often signals future relationship problems."
-    },
-    {
-      "id": 113,
-      "category": "First Dates",
-      "content": "Notice if he's curious about your childhood and family background. Understanding where you come from shows emotional intelligence and genuine interest."
-    },
-    {
-      "id": 114,
-      "category": "Communication",
-      "content": "Don't text him constantly if he's not matching your energy. Let him invest effort in reaching out. One-sided effort early predicts one-sided relationships later."
-    },
-    {
-      "id": 115,
-      "category": "Long-Term",
-      "content": "Make sure he respects your independence and career ambitions. A supportive partner celebrates your professional success, not fears it."
-    },
-    {
-      "id": 116,
-      "category": "Boundaries",
-      "content": "You don't have to explain your decisions to him or justify your choices. Trusting that you know what's best for you is a sign of healthy confidence."
-    },
-    {
-      "id": 117,
-      "category": "Trust",
-      "content": "If he keeps secrets from you about his finances, health, or past relationships, that's a breach of trust. Transparency is foundational to any good relationship."
-    },
-    {
-      "id": 118,
-      "category": "Dating Mistakes",
-      "content": "Don't use intimacy as a tool to secure his commitment. Building a strong foundation emotionally is more important than physical connection early on."
-    },
-    {
-      "id": 119,
-      "category": "Red Flags",
-      "content": "If he's emotionally unavailable or dismisses your feelings as being too sensitive, that's a sign he won't be there for you when you need support."
-    },
-    {
-      "id": 120,
-      "category": "Communication",
-      "content": "Be clear about what you want from the relationship. Don't assume he knows if you want marriage, kids, or just companionship. Discuss expectations early."
-    },
+   
+  {
+    "id": 81,
+    "category": "Red Flags",
+    "title": "Notice If He Is Overly Critical",
+    "content": "If he frequently criticizes your choices, appearance, or friends, it’s a major red flag. Criticism erodes self-esteem and creates imbalance. Address it early or consider ending the relationship if it persists. Healthy partners uplift, not tear down."
+  },
+  {
+    "id": 82,
+    "category": "Green Flags",
+    "title": "Look for Consistent Appreciation",
+    "content": "A green flag is when he regularly expresses appreciation for your efforts and qualities. Consistent appreciation shows he values and respects you. These affirmations build confidence and strengthen your connection."
+  },
+  {
+    "id": 83,
+    "category": "First Dates",
+    "title": "Focus on Shared Laughter",
+    "content": "On a first date, pay attention to whether you both laugh together. Shared laughter creates a sense of connection and ease. If the conversation flows naturally and makes you smile, it’s a positive sign."
+  },
+  {
+    "id": 84,
+    "category": "Early Dating",
+    "title": "Notice His Effort in Small Gestures",
+    "content": "Observe if he makes small, thoughtful gestures like remembering your favorite drink or checking in when you’re busy. These actions show he pays attention and cares about your happiness."
+  },
+  {
+    "id": 85,
+    "category": "Commitment",
+    "title": "Discuss Future Plans Honestly",
+    "content": "Talk about your hopes and dreams for the future. Open discussions about long-term goals help ensure you’re on the same page. Honest communication builds trust and helps avoid disappointment later."
+  },
+  {
+    "id": 86,
+    "category": "Boundaries",
+    "title": "Communicate Your Needs Clearly",
+    "content": "Be clear about your needs and boundaries. Healthy relationships thrive when both partners communicate openly and respect each other’s limits. Clarity prevents misunderstandings and resentment."
+  },
+  {
+    "id": 87,
+    "category": "Communication",
+    "title": "Practice Honest Conversations",
+    "content": "Be honest about your feelings and expectations. Open, honest conversations help prevent misunderstandings and strengthen your connection. Clarity builds trust and fosters intimacy."
+  },
+  {
+    "id": 88,
+    "category": "Emotional Safety",
+    "title": "Encourage Openness and Vulnerability",
+    "content": "Create a safe space for both of you to share vulnerabilities. Encouraging openness builds intimacy and trust. Emotional safety is essential for a healthy relationship."
+  },
+  {
+    "id": 89,
+    "category": "Consistency",
+    "title": "Observe His Reliability",
+    "content": "Pay attention to whether he follows through on promises and keeps his word. Consistency in actions builds trust and shows he’s invested in the relationship. Notice patterns over time."
+  },
+  {
+    "id": 90,
+    "category": "Dating Safety",
+    "title": "Prioritize Your Well-Being",
+    "content": "Always put your well-being first when dating. Trust your instincts and remove yourself from situations that feel unsafe. Your safety is non-negotiable and should always come first."
+  },
+  {
+    "id": 91,
+    "category": "Personal Boundaries",
+    "title": "Protect Your Emotional Space",
+    "content": "Don’t let anyone invade your emotional space or pressure you to share more than you’re comfortable with. Protecting your emotional boundaries supports your mental health and self-respect."
+  },
+  {
+    "id": 92,
+    "category": "Trust Your Gut",
+    "title": "Listen to Your Inner Voice",
+    "content": "If something feels wrong, listen to your inner voice. Your intuition often picks up on subtle cues that your mind might miss. Trusting your gut keeps you safe and empowered."
+  },
+  {
+    "id": 93,
+    "category": "Exit Strategies",
+    "title": "Have a Plan for Unhealthy Relationships",
+    "content": "If a relationship becomes unhealthy, have a plan for leaving. Communicate your reasons clearly and set boundaries for future contact. Protecting your well-being is essential for your happiness."
+  },
+  {
+    "id": 94,
+    "category": "Online Dating Safety",
+    "title": "Don’t Share Sensitive Details",
+    "content": "Avoid sharing sensitive information like your address or financial details early on. Protecting your privacy keeps you safe while dating online and prevents potential risks."
+  },
+  {
+    "id": 95,
+    "category": "Situational Awareness",
+    "title": "Stay Alert in Public",
+    "content": "Be alert and aware of your surroundings when on dates. Notice how you feel and whether your partner respects your comfort. Staying aware helps you respond quickly to risks."
+  },
+  {
+    "id": 96,
+    "category": "Redirection Skills",
+    "title": "Redirect Awkward Conversations",
+    "content": "If a conversation becomes awkward or uncomfortable, politely redirect it to a more positive topic. Redirecting helps maintain a respectful and enjoyable interaction for both parties."
+  },
+  {
+    "id": 97,
+    "category": "Texting Etiquette",
+    "title": "Respond with Clarity",
+    "content": "When texting, be clear and concise about your thoughts. Avoid ambiguous language that can be misinterpreted. Clear messages help prevent misunderstandings and build trust."
+  },
+  {
+    "id": 98,
+    "category": "Mixed Signals",
+    "title": "Address Inconsistencies Directly",
+    "content": "If his behavior is inconsistent, address it directly. Ask for clarity about his intentions. Addressing mixed signals helps prevent confusion and sets the stage for honest communication."
+  },
+  {
+    "id": 99,
+    "category": "Ghosting",
+    "title": "Don’t Take Ghosting Personally",
+    "content": "If someone ghosts you, don’t blame yourself. Ghosting reflects their issues, not your worth. Focus on your own growth and move forward with confidence."
+  },
+  {
+    "id": 100,
+    "category": "Breadcrumbing",
+    "title": "Recognize Minimal Effort",
+    "content": "Breadcrumbing is when someone gives just enough attention to keep you interested. Recognize the pattern and address it directly or choose to walk away if it doesn’t meet your needs."
+  },
+  {
+    "id": 101,
+    "category": "Love Bombing",
+    "title": "Stay Grounded in Reality",
+    "content": "If someone overwhelms you with affection early on, stay grounded. Love bombing can be manipulative. Observe if his actions match his words over time for genuine connection."
+  },
+  {
+    "id": 102,
+    "category": "Situationships",
+    "title": "Define the Relationship Clearly",
+    "content": "If you’re in a situationship, clarify what you both want. Ask for honesty about intentions and set boundaries. Defining the relationship helps prevent confusion and emotional harm."
+  },
+  {
+    "id": 103,
+    "category": "Casual Dating",
+    "title": "Be Honest About Intentions",
+    "content": "Be upfront about what you want from casual dating. If you seek something light, say so. Honest communication ensures both parties are on the same page and prevents misunderstandings."
+  },
+  {
+    "id": 104,
+    "category": "Emotional Availability",
+    "title": "Assess Willingness to Connect",
+    "content": "Notice if he shares his feelings and listens to yours. Emotional availability is key for deep connection. If he avoids vulnerability, it may indicate he’s not ready for a serious relationship."
+  },
+  {
+    "id": 105,
+    "category": "Attachment Styles",
+    "title": "Identify Your Attachment Pattern",
+    "content": "Reflect on how you relate to others in relationships. Knowing your attachment style helps you identify patterns and work toward healthier connections. Seek partners who complement your style."
+  },
+  {
+    "id": 106,
+    "category": "Healing",
+    "title": "Allow Yourself to Heal",
+    "content": "Give yourself time to heal after a breakup. Healing is essential for moving forward and building healthier relationships in the future. Self-compassion supports your emotional recovery."
+  },
+  {
+    "id": 107,
+    "category": "Past Baggage",
+    "title": "Acknowledge Your Experiences",
+    "content": "Recognize how past relationships shape your current views. Address unresolved issues and communicate your needs. Understanding your baggage helps you create healthier connections."
+  },
+  {
+    "id": 108,
+    "category": "Emotional Maturity",
+    "title": "Look for Calm Conflict Resolution",
+    "content": "A mature partner handles conflict calmly, takes responsibility for mistakes, and communicates honestly. Emotional maturity creates a safe, respectful environment for both partners to grow."
+  },
+  {
+    "id": 109,
+    "category": "Readiness",
+    "title": "Check Emotional Readiness",
+    "content": "Check if you and your partner are emotionally ready for a relationship. Both should feel secure, open, and willing to invest in each other. Readiness leads to healthier, more fulfilling connections."
+  },
+  {
+    "id": 110,
+    "category": "Long-Term Vision",
+    "title": "Align Your Future Goals",
+    "content": "Discuss your long-term aspirations with your partner. Aligning your visions for the future strengthens your bond and helps you build a life together with shared purpose."
+  },
+  {
+    "id": 111,
+    "category": "Healthy Love",
+    "title": "Cultivate Mutual Respect",
+    "content": "Healthy love is built on respect, trust, and support. Prioritize kindness and understanding in your relationship. Mutual respect fosters a lasting, fulfilling connection."
+  },
+  {
+    "id": 112,
+    "category": "Choosing Better",
+    "title": "Set High Relationship Standards",
+    "content": "Don’t settle for less than you deserve. Choose partners who value and respect you. High standards attract healthier, more rewarding relationships."
+  },
+  {
+    "id": 113,
+    "category": "Lessons Learned",
+    "title": "Learn From Past Relationships",
+    "content": "Think about what you’ve learned from past relationships. Use those insights to make better choices moving forward. Reflection leads to growth and wiser decisions."
+  },
+  {
+    "id": 114,
+    "category": "Dating Mindset",
+    "title": "Stay Open and Positive",
+    "content": "Approach dating with a positive, open mindset. Focus on learning and growth rather than perfection. A healthy mindset attracts better connections and reduces stress."
+  },
+  {
+    "id": 115,
+    "category": "Red Flags",
+    "title": "Watch for Controlling Behavior",
+    "content": "If he tries to control your choices or isolates you from friends, it’s a major red flag. Healthy relationships respect independence. Avoid partners who seek to dominate or manipulate."
+  },
+  {
+    "id": 116,
+    "category": "Green Flags",
+    "title": "Notice His Support for Your Goals",
+    "content": "A green flag is when he actively supports your ambitions and celebrates your achievements. Supportive partners help you grow and feel seen, not threatened by your success."
+  },
+  {
+    "id": 117,
+    "category": "First Dates",
+    "title": "Be Mindful of Body Language",
+    "content": "Pay attention to his body language on first dates. Positive cues like eye contact and open posture show genuine interest. Body language reveals a lot about comfort and attraction."
+  },
+  {
+    "id": 118,
+    "category": "Early Dating",
+    "title": "Look for Effort in Planning",
+    "content": "Notice if he puts effort into planning dates and activities. Thoughtful planning shows he values your time and wants to make you happy. Consistent effort builds trust and connection."
+  },
+  {
+    "id": 119,
+    "category": "Commitment",
+    "title": "Discuss Values and Beliefs",
+    "content": "Talk about your core values and beliefs early on. Shared values are the foundation of commitment. If your values clash, it may be hard to build a lasting partnership."
+  },
+  {
+    "id": 120,
+    "category": "Boundaries",
+    "title": "Communicate Your Limits Clearly",
+    "content": "Be clear about your boundaries and communicate them respectfully. Healthy relationships thrive when both partners honor each other’s limits and communicate openly."
+  },
     {
       "id": 121,
       "category": "First Dates",
@@ -1105,155 +1194,251 @@
       "content": "If he's overly focused on his looks, his status, or impressing people, he's likely shallow. Substance matters more than appearance."
     },
     {
-      "id": 221,
-      "category": "First Dates",
-      "content": "See if he asks follow-up questions about what you say. Real interest means he wants to know more, not just surface-level details."
-    },
-    {
-      "id": 222,
-      "category": "Long-Term",
-      "content": "Build a partnership where you can be vulnerable without fear of judgment. Safe spaces create deep intimacy."
-    },
-    {
-      "id": 223,
-      "category": "Self-Love",
-      "content": "Don't stay in a relationship trying to prove something to your past relationships. Use past experience to make better choices now."
-    },
-    {
-      "id": 224,
-      "category": "Boundaries",
-      "content": "You don't have to fix his family issues, money problems, or emotional wounds. Support is good; enabling is harmful."
-    },
-    {
-      "id": 225,
-      "category": "Trust",
-      "content": "Notice if he's consistent in his words, feelings, and actions. Consistency builds trust; inconsistency breeds confusion and hurt."
-    },
-    {
-      "id": 226,
-      "category": "Dating Mistakes",
-      "content": "Don't overlook red flags because he's attractive or successful. One good quality doesn't cancel out multiple bad ones."
-    },
-    {
-      "id": 227,
-      "category": "Communication",
-      "content": "If you feel like you're always walking on eggshells around him, the relationship is unhealthy. You should feel safe to be yourself."
-    },
-    {
-      "id": 228,
-      "category": "Red Flags",
-      "content": "If he brings up his exes to make you jealous or to compare you to them, that's immature and disrespectful."
-    },
-    {
-      "id": 229,
-      "category": "First Dates",
-      "content": "Pay attention to whether he asks personal questions or only talks about himself. Genuine interest goes both ways."
-    },
-    {
-      "id": 230,
-      "category": "Long-Term",
-      "content": "Make sure you both celebrate each other's milestones and achievements. Shared joy strengthens your bond."
-    },
-    {
-      "id": 231,
-      "category": "Self-Love",
-      "content": "Your healing and growth are more important than any relationship. Don't sacrifice your mental health for connection."
-    },
-    {
-      "id": 232,
-      "category": "Boundaries",
-      "content": "You're allowed to change your mind about someone. If you feel differently later, honor that without guilt."
-    },
-    {
-      "id": 233,
-      "category": "Trust",
-      "content": "If he's kind to you but cruel to others, that's who he really is. His mask will slip eventually with you too."
-    },
-    {
-      "id": 234,
-      "category": "Dating Mistakes",
-      "content": "Don't go on dates just to fill your time. Being selective shows you respect yourself and your time."
-    },
-    {
-      "id": 235,
-      "category": "Communication",
-      "content": "Be honest about what you want physically and emotionally. A partner who cares will respect your preferences and boundaries."
-    },
-    {
-      "id": 236,
-      "category": "Red Flags",
-      "content": "If he uses substances to cope with problems or frequently gets drunk, that's a sign of deeper issues that will affect your relationship."
-    },
-    {
-      "id": 237,
-      "category": "First Dates",
-      "content": "Look for someone who balances confidence with humility. Arrogance and insecurity are both red flags."
-    },
-    {
-      "id": 238,
-      "category": "Long-Term",
-      "content": "Make sure you can be yourself completely—your weird side, your insecurities, your dreams. He should accept all of you."
-    },
-    {
-      "id": 239,
-      "category": "Self-Love",
-      "content": "Don't diminish your achievements to make him feel better about himself. Your success is not his failure."
-    },
-    {
-      "id": 240,
-      "category": "Boundaries",
-      "content": "You can have boundaries with people you love. Love doesn't mean tolerating disrespect or poor behavior."
-    },
-    {
-      "id": 241,
-      "category": "Trust",
-      "content": "If he disappears for periods of time and reappears when he wants something, he's using you. That's not a relationship."
-    },
-    {
-      "id": 242,
-      "category": "Dating Mistakes",
-      "content": "Don't date someone and hope they become different. Accept them as they are or don't date them at all."
-    },
-    {
-      "id": 243,
-      "category": "Communication",
-      "content": "Share your dreams and see how he responds. Does he encourage you or diminish them? His reaction reveals his character."
-    },
-    {
-      "id": 244,
-      "category": "Red Flags",
-      "content": "If he's dismissive of your feelings or emotions, he's not the one. Emotional attunement is crucial for healthy relationships."
-    },
-    {
-      "id": 245,
-      "category": "First Dates",
-      "content": "Notice how he treats people who serve him—servers, bartenders, Uber drivers. That's his real character on display."
-    },
-    {
-      "id": 246,
-      "category": "Long-Term",
-      "content": "Keep your own friendships strong and separate. Your partner shouldn't be your only source of connection and support."
-    },
-    {
-      "id": 247,
-      "category": "Self-Love",
-      "content": "Remember that you can't love someone into being a good partner. That work has to come from them."
-    },
-    {
-      "id": 248,
-      "category": "Boundaries",
-      "content": "Don't let him use your insecurities against you. If he weaponizes things you've shared, that's psychological abuse."
-    },
-    {
-      "id": 249,
-      "category": "Trust",
-      "content": "If he has a hard time being happy for you without it being about him, he's not emotionally mature enough for a real relationship."
-    },
-    {
-      "id": 250,
-      "category": "Dating Mistakes",
-      "content": "Don't make permanent decisions based on temporary emotions. Take time before you commit to moving in, getting engaged, or having kids."
-    },
+    "id": 210,
+    "category": "Red Flags",
+    "title": "Watch for Jealousy and Possessiveness",
+    "content": "If he shows excessive jealousy or tries to control who you see, it’s a major red flag. Healthy relationships are built on trust, not insecurity. Address possessive behavior early to protect your independence and well-being."
+  },
+  {
+    "id": 211,
+    "category": "Green Flags",
+    "title": "Notice His Encouragement",
+    "content": "A green flag is when he encourages your personal growth and celebrates your achievements. Supportive partners uplift you and want to see you succeed. These actions build a strong, positive relationship."
+  },
+  {
+    "id": 212,
+    "category": "First Dates",
+    "title": "Stay Present and Engaged",
+    "content": "On a first date, focus on being present and actively listening. Engage with genuine interest and ask follow-up questions. Being attentive creates a connection and shows respect for your date."
+  },
+  {
+    "id": 213,
+    "category": "Early Dating",
+    "title": "Observe His Curiosity About You",
+    "content": "Pay attention if he asks thoughtful questions about your life and interests. Genuine curiosity shows he wants to get to know you as a person. This is a sign of healthy interest and emotional investment."
+  },
+  {
+    "id": 214,
+    "category": "Commitment",
+    "title": "Discuss Relationship Goals Openly",
+    "content": "Talk about your expectations for commitment and the future. Open discussions help ensure you’re both on the same page. Honest communication prevents misunderstandings and sets the stage for a healthy partnership."
+  },
+  {
+    "id": 215,
+    "category": "Boundaries",
+    "title": "Set and Respect Your Limits",
+    "content": "Clearly define your boundaries and communicate them early. Healthy relationships respect limits, and a partner who honors them values your well-being and autonomy. Stick to your boundaries without guilt."
+  },
+  {
+    "id": 216,
+    "category": "Communication",
+    "title": "Be Honest About Your Feelings",
+    "content": "Express your emotions and needs openly. Honest communication helps prevent misunderstandings and strengthens your connection. Clarity and vulnerability build trust and intimacy."
+  },
+  {
+    "id": 217,
+    "category": "Emotional Safety",
+    "title": "Create a Safe Space for Vulnerability",
+    "content": "Encourage open conversations about emotions and vulnerabilities. Let your partner know it’s safe to share without judgment. Emotional safety fosters intimacy and trust in your relationship."
+  },
+  {
+    "id": 218,
+    "category": "Consistency",
+    "title": "Look for Reliable Actions",
+    "content": "Notice if he consistently follows through on promises and keeps his word. Reliability builds trust and shows he’s invested in the relationship. Patterns over time reveal true character."
+  },
+  {
+    "id": 219,
+    "category": "Dating Safety",
+    "title": "Prioritize Your Physical Safety",
+    "content": "Always meet new people in public places and let someone know your plans. Trust your instincts and leave if you feel unsafe. Your physical safety is non-negotiable and should always come first."
+  },
+  {
+    "id": 220,
+    "category": "Personal Boundaries",
+    "title": "Protect Your Time and Energy",
+    "content": "Don’t let anyone drain your energy or demand your time excessively. Protecting your time ensures you have space for your own needs and growth. Healthy boundaries support your well-being."
+  },
+  {
+    "id": 221,
+    "category": "Trust Your Gut",
+    "title": "Listen to Your Intuition",
+    "content": "If something feels off, don’t ignore it. Your intuition picks up on subtle cues that your conscious mind might miss. Trusting your gut can help you avoid potentially harmful situations or relationships."
+  },
+  {
+    "id": 222,
+    "category": "Exit Strategies",
+    "title": "Plan for Healthy Breakups",
+    "content": "Have a plan for ending relationships that aren’t working. Communicate your reasons clearly and kindly, and set boundaries for future contact. Knowing how to exit gracefully helps protect your emotional well-being."
+  },
+  {
+    "id": 223,
+    "category": "Online Dating Safety",
+    "title": "Verify Before Meeting in Person",
+    "content": "Take steps to verify someone’s identity before meeting in person. Use video calls or social media to confirm their profile matches reality. This helps reduce the risk of catfishing or unsafe encounters."
+  },
+  {
+    "id": 224,
+    "category": "Situational Awareness",
+    "title": "Stay Aware of Your Surroundings",
+    "content": "Be mindful of your environment when on dates. Notice how you feel and whether your partner respects your comfort. Staying aware helps you respond quickly to any red flags or unsafe situations."
+  },
+  {
+    "id": 225,
+    "category": "Redirection Skills",
+    "title": "Redirect Uncomfortable Topics",
+    "content": "If a conversation turns uncomfortable or invasive, politely steer it in another direction. Redirecting helps you maintain control and keeps the interaction positive and respectful."
+  },
+  {
+    "id": 226,
+    "category": "Texting Etiquette",
+    "title": "Be Clear and Kind in Messages",
+    "content": "Communicate your thoughts honestly and respectfully in texts. Avoid sarcasm or ambiguous language that can be misinterpreted. Clear, kind messages build trust and prevent misunderstandings."
+  },
+  {
+    "id": 227,
+    "category": "Mixed Signals",
+    "title": "Address Confusing Behavior",
+    "content": "If he sends mixed signals, ask for clarity. Express how his behavior makes you feel and seek honest answers. Addressing mixed signals helps prevent confusion and sets the stage for open communication."
+  },
+  {
+    "id": 228,
+    "category": "Ghosting",
+    "title": "Don’t Chase After Ghosting",
+    "content": "If someone ghosts you, don’t repeatedly reach out. Respect your own worth and move on. Ghosting is a reflection of their issues, not your value as a person."
+  },
+  {
+    "id": 229,
+    "category": "Breadcrumbing",
+    "title": "Recognize and Respond to Breadcrumbing",
+    "content": "Breadcrumbing is when someone gives just enough attention to keep you interested without real commitment. Recognize the pattern and address it directly or choose to walk away if it doesn’t meet your needs."
+  },
+  {
+    "id": 230,
+    "category": "Love Bombing",
+    "title": "Watch for Excessive Flattery",
+    "content": "Love bombing involves overwhelming affection or compliments early on. While it feels good, it can be a manipulation tactic. Stay grounded and observe if his actions match his words over time."
+  },
+  {
+    "id": 231,
+    "category": "Situationships",
+    "title": "Define Your Relationship Status",
+    "content": "If you’re in a situationship, clarify what you both want. Ask for honesty about intentions and set boundaries. Defining the relationship helps prevent confusion and emotional harm."
+  },
+  {
+    "id": 232,
+    "category": "Casual Dating",
+    "title": "Communicate Your Expectations",
+    "content": "Be clear about what you want from casual dating. If you seek something light, say so. Honest communication ensures both parties are on the same page and prevents misunderstandings."
+  },
+  {
+    "id": 233,
+    "category": "Emotional Availability",
+    "title": "Assess Emotional Openness",
+    "content": "Notice if he shares his feelings and listens to yours. Emotional availability is key for deep connection. If he avoids vulnerability, it may indicate he’s not ready for a serious relationship."
+  },
+  {
+    "id": 234,
+    "category": "Attachment Styles",
+    "title": "Understand Your Attachment Style",
+    "content": "Reflect on how you relate to others in relationships. Knowing your attachment style helps you identify patterns and work toward healthier connections. Seek partners who complement your style."
+  },
+  {
+    "id": 235,
+    "category": "Healing",
+    "title": "Take Time to Heal After Breakups",
+    "content": "Allow yourself space to process emotions after a breakup. Healing is essential for moving forward and building healthier relationships in the future. Self-compassion supports your emotional recovery."
+  },
+  {
+    "id": 236,
+    "category": "Past Baggage",
+    "title": "Acknowledge Your Past Experiences",
+    "content": "Recognize how past relationships shape your current views. Address unresolved issues and communicate your needs. Understanding your baggage helps you create healthier connections."
+  },
+  {
+    "id": 237,
+    "category": "Emotional Maturity",
+    "title": "Look for Emotional Maturity",
+    "content": "A mature partner handles conflict calmly, takes responsibility for mistakes, and communicates honestly. Emotional maturity creates a safe, respectful environment for both partners to grow."
+  },
+  {
+    "id": 238,
+    "category": "Readiness",
+    "title": "Assess Relationship Readiness",
+    "content": "Check if you and your partner are emotionally ready for a relationship. Both should feel secure, open, and willing to invest in each other. Readiness leads to healthier, more fulfilling connections."
+  },
+  {
+    "id": 239,
+    "category": "Long-Term Vision",
+    "title": "Share Your Future Goals",
+    "content": "Discuss your long-term aspirations with your partner. Aligning your visions for the future strengthens your bond and helps you build a life together with shared purpose."
+  },
+  {
+    "id": 240,
+    "category": "Healthy Love",
+    "title": "Cultivate Mutual Respect",
+    "content": "Healthy love is built on respect, trust, and support. Prioritize kindness and understanding in your relationship. Mutual respect fosters a lasting, fulfilling connection."
+  },
+  {
+    "id": 241,
+    "category": "Choosing Better",
+    "title": "Set High Standards for Partners",
+    "content": "Don’t settle for less than you deserve. Choose partners who value and respect you. High standards attract healthier, more rewarding relationships."
+  },
+  {
+    "id": 242,
+    "category": "Lessons Learned",
+    "title": "Reflect on Past Relationship Lessons",
+    "content": "Think about what you’ve learned from past relationships. Use those insights to make better choices moving forward. Reflection leads to growth and wiser decisions."
+  },
+  {
+    "id": 243,
+    "category": "Dating Mindset",
+    "title": "Stay Positive and Open",
+    "content": "Approach dating with a positive, open mindset. Focus on learning and growth rather than perfection. A healthy mindset attracts better connections and reduces stress."
+  },
+  {
+    "id": 244,
+    "category": "Red Flags",
+    "title": "Notice Lack of Accountability",
+    "content": "If he never admits fault or blames others for his mistakes, it’s a red flag. Accountability is essential for healthy relationships. Avoid partners who refuse to take responsibility."
+  },
+  {
+    "id": 245,
+    "category": "Green Flags",
+    "title": "Appreciate Thoughtful Gestures",
+    "content": "Look for small, thoughtful actions like remembering your preferences or checking in when you’re stressed. These gestures show he cares and pays attention to your needs."
+  },
+  {
+    "id": 246,
+    "category": "First Dates",
+    "title": "Be Yourself on First Dates",
+    "content": "Show your true personality on first dates. Authenticity attracts compatible partners and sets the stage for honest communication. Pretending to be someone else creates future problems."
+  },
+  {
+    "id": 247,
+    "category": "Early Dating",
+    "title": "Take Your Time Getting Close",
+    "content": "Don’t rush into emotional or physical intimacy. Take time to build trust and get to know each other. Patience helps create a strong foundation for a lasting relationship."
+  },
+  {
+    "id": 248,
+    "category": "Commitment",
+    "title": "Check for Shared Values",
+    "content": "Discuss core values like honesty, loyalty, and family. Shared values are the bedrock of commitment. If your values clash, it may be hard to build a lasting partnership."
+  },
+  {
+    "id": 249,
+    "category": "Boundaries",
+    "title": "Say No Without Guilt",
+    "content": "It’s okay to say no to things that make you uncomfortable. Setting boundaries without guilt protects your well-being and teaches others to respect your limits."
+  },
+  {
+    "id": 250,
+    "category": "Communication",
+    "title": "Use 'I' Statements in Arguments",
+    "content": "Frame disagreements with 'I' statements like 'I feel upset when...' instead of blaming. This approach encourages constructive dialogue and reduces defensiveness."
+  },
     {
       "id": 251,
       "category": "Communication",
@@ -1606,256 +1791,307 @@
       "category": "Red Flags",
       "content": "If he compares you to his mother in any way—whether positively or negatively—that's concerning. You're not her replacement."
     },
-    {
-      "id": 321,
-      "category": "First Dates",
-      "content": "Look for someone who has resolved his past trauma or is actively working on it. Unhealed wounds will spill into your relationship."
-    },
-    {
-      "id": 322,
-      "category": "Long-Term",
-      "content": "Build a relationship where you both can discuss hard topics without fear. Emotional safety is the foundation of intimacy."
-    },
-    {
-      "id": 323,
-      "category": "Self-Love",
-      "content": "Don't accept crumbs and call it a meal. Consistency, effort, and genuine interest are the bare minimum."
-    },
-    {
-      "id": 324,
-      "category": "Boundaries",
-      "content": "If he tries to make you jealous by talking about other women, that's a manipulation tactic. Walk away from that behavior."
-    },
-    {
-      "id": 325,
-      "category": "Trust",
-      "content": "Notice if he follows through on what he says he'll do—even small things. Reliability is the foundation of trust."
-    },
-    {
-      "id": 326,
-      "category": "Dating Mistakes",
-      "content": "Don't let loneliness drive your dating decisions. Being alone is better than being with the wrong person."
-    },
-    {
-      "id": 327,
-      "category": "Communication",
-      "content": "Be willing to have difficult conversations about the relationship. Avoidance doesn't solve problems; it amplifies them."
-    },
-    {
-      "id": 328,
-      "category": "Red Flags",
-      "content": "If he has a habit of flirting with others while in a relationship, he's showing you his character and priorities."
-    },
-    {
-      "id": 329,
-      "category": "First Dates",
-      "content": "Pay attention to how he talks about his mother, sisters, or close female friends. Respect for women reveals his values."
-    },
-    {
-      "id": 330,
-      "category": "Long-Term",
-      "content": "Make sure you both have similar energy levels. Extreme differences in how you like to spend time will cause friction."
-    },
-    {
-      "id": 331,
-      "category": "Self-Love",
-      "content": "You're not responsible for earning his love. He should offer it freely or not at all."
-    },
-    {
-      "id": 332,
-      "category": "Boundaries",
-      "content": "It's okay to want more than what he's offering. If your needs aren't being met, you have every right to leave."
-    },
-    {
-      "id": 333,
-      "category": "Trust",
-      "content": "If he doesn't respect your 'no' about small things, he won't respect it about big things either."
-    },
-    {
-      "id": 334,
-      "category": "Dating Mistakes",
-      "content": "Don't overlook how he handles disappointment or rejection. Character is revealed in moments of adversity."
-    },
-    {
-      "id": 335,
-      "category": "Communication",
-      "content": "Share your feelings without waiting for the perfect moment. Vulnerability happens when you're brave enough to express it."
-    },
-    {
-      "id": 336,
-      "category": "Red Flags",
-      "content": "If he makes you feel small or insignificant when you're around his friends or family, that's disrespectful."
-    },
-    {
-      "id": 337,
-      "category": "First Dates",
-      "content": "Notice if he takes responsibility for his mistakes or always finds someone else to blame. Accountability matters."
-    },
-    {
-      "id": 338,
-      "category": "Long-Term",
-      "content": "Work on your relationship during the good times, not just during crises. Maintenance prevents major breakdown."
-    },
-    {
-      "id": 339,
-      "category": "Self-Love",
-      "content": "Don't ignore warning signs just because you like him. Your safety and well-being come first."
-    },
-    {
-      "id": 340,
-      "category": "Boundaries",
-      "content": "You can love someone and still require him to treat you with respect. Love without respect isn't healthy."
-    },
-    {
-      "id": 341,
-      "category": "Trust",
-      "content": "If he keeps important things from you, that's a betrayal of trust. Transparency is essential for closeness."
-    },
-    {
-      "id": 342,
-      "category": "Dating Mistakes",
-      "content": "Don't ignore your friends' concerns about him if multiple people are worried. Outside perspective is often accurate."
-    },
-    {
-      "id": 343,
-      "category": "Communication",
-      "content": "Ask him about his expectations for the relationship. Different visions create conflict later if not addressed now."
-    },
-    {
-      "id": 344,
-      "category": "Red Flags",
-      "content": "If he shames you for your sexuality, your body, or your desires, he's not worthy of your time."
-    },
-    {
-      "id": 345,
-      "category": "First Dates",
-      "content": "Look for someone who asks questions about your life and remembers your answers. Attentiveness shows care."
-    },
-    {
-      "id": 346,
-      "category": "Long-Term",
-      "content": "Create shared goals and dreams together. A relationship without a vision becomes stagnant."
-    },
-    {
-      "id": 347,
-      "category": "Self-Love",
-      "content": "Your instincts are your superpower. Listen to them before your heart overrides your head."
-    },
-    {
-      "id": 348,
-      "category": "Boundaries",
-      "content": "You don't have to forgive him just because he apologizes. Forgiveness is earned through changed behavior."
-    },
-    {
-      "id": 349,
-      "category": "Trust",
-      "content": "Notice if he's the same person with you in different contexts. Consistency across environments shows authenticity."
-    },
-    {
-      "id": 350,
-      "category": "Dating Mistakes",
-      "content": "Don't let his potential overshadow his present behavior. People show you who they are; believe them."
-    },
-    {
-      "id": 351,
-      "category": "Communication",
-      "content": "Be honest about what you want from the relationship timeline. Don't agree to a pace that doesn't work for you."
-    },
-    {
-      "id": 352,
-      "category": "Red Flags",
-      "content": "If he uses your vulnerabilities to manipulate or control you, that's psychological abuse. Leave immediately."
-    },
-    {
-      "id": 353,
-      "category": "First Dates",
-      "content": "See if he's interested in understanding your perspective or if he just wants to be right."
-    },
-    {
-      "id": 354,
-      "category": "Long-Term",
-      "content": "Make sure you both respect each other's need for solitude and space. Healthy relationships need independence."
-    },
-    {
-      "id": 355,
-      "category": "Self-Love",
-      "content": "You're complete as you are. A relationship should add to your life, not complete it."
-    },
-    {
-      "id": 356,
-      "category": "Boundaries",
-      "content": "If he constantly criticizes how you look, dress, or act, that's an attempt to control and lower your confidence."
-    },
-    {
-      "id": 357,
-      "category": "Trust",
-      "content": "If he's secretive about his phone or social media, there's usually a reason. Trust your suspicions."
-    },
-    {
-      "id": 358,
-      "category": "Dating Mistakes",
-      "content": "Don't accept the bare minimum and call it commitment. Real love comes with consistent effort and presence."
-    },
-    {
-      "id": 359,
-      "category": "Communication",
-      "content": "Talk about your expectations for intimacy and sexuality. Sexual compatibility is important for long-term relationships."
-    },
-    {
-      "id": 360,
-      "category": "Red Flags",
-      "content": "If he refuses to discuss the future or makes vague promises, he's not ready for a serious relationship."
-    },
-    {
-      "id": 361,
-      "category": "First Dates",
-      "content": "Notice if he respects your time and your commitments. A man who values you won't keep you waiting."
-    },
-    {
-      "id": 362,
-      "category": "Long-Term",
-      "content": "Build a partnership where you're both willing to compromise. Relationships require give and take from both sides."
-    },
-    {
-      "id": 363,
-      "category": "Self-Love",
-      "content": "Don't change who you are to fit into his life. The right person will make room for all of you."
-    },
-    {
-      "id": 364,
-      "category": "Boundaries",
-      "content": "You can be kind without being a martyr. Sacrificing yourself doesn't earn love; it breeds resentment."
-    },
-    {
-      "id": 365,
-      "category": "Trust",
-      "content": "If he makes big decisions without consulting you, he's signaling that he doesn't see you as a partner."
-    },
-    {
-      "id": 366,
-      "category": "Dating Mistakes",
-      "content": "Don't settle for someone who's emotionally unavailable. You deserve someone who's fully present."
-    },
-    {
-      "id": 367,
-      "category": "Communication",
-      "content": "Be specific when you're upset instead of global accusations. 'I felt hurt when you didn't call' is better than 'You don't care.'"
-    },
-    {
-      "id": 368,
-      "category": "Red Flags",
-      "content": "If he's disrespectful to his parents or doesn't have meaningful relationships, that's a pattern to worry about."
-    },
-    {
-      "id": 369,
-      "category": "First Dates",
-      "content": "Pay attention to how he treats people he doesn't need anything from. His true nature shows in these interactions."
-    },
-    {
-      "id": 370,
-      "category": "Long-Term",
-      "content": "Ensure you both celebrate each other's growth and evolution. Relationships should help you become your best self."
-    },
+    
+  {
+    "id": 321,
+    "category": "Red Flags",
+    "title": "Watch for Disrespectful Humor",
+    "content": "If his jokes often target you or others in a hurtful way, it’s a red flag. Disrespectful humor can erode your self-esteem and create tension. Address it early or consider ending the relationship if it persists. Healthy partners uplift, not belittle."
+  },
+  {
+    "id": 322,
+    "category": "Green Flags",
+    "title": "Look for Genuine Interest",
+    "content": "A green flag is when he asks thoughtful questions and listens to your answers. Genuine interest shows he values getting to know you. These actions build a foundation for a healthy, lasting relationship."
+  },
+  {
+    "id": 323,
+    "category": "First Dates",
+    "title": "Focus on Shared Interests",
+    "content": "On a first date, talk about your hobbies and passions. Finding common interests helps create a connection and makes the conversation more engaging. Shared interests can lead to deeper conversations and future plans."
+  },
+  {
+    "id": 324,
+    "category": "Early Dating",
+    "title": "Observe His Effort in Small Gestures",
+    "content": "Notice if he remembers small details about you and acts on them. Thoughtful gestures show he pays attention and cares about your happiness. These actions create a sense of being valued and appreciated."
+  },
+  {
+    "id": 325,
+    "category": "Commitment",
+    "title": "Discuss Relationship Expectations",
+    "content": "Talk about what you both want from a relationship early on. If you’re looking for something serious and he’s not, it’s better to know now. Honest communication prevents misunderstandings and sets the stage for a healthy partnership."
+  },
+  {
+    "id": 326,
+    "category": "Boundaries",
+    "title": "Set Clear Personal Limits",
+    "content": "Define and communicate your boundaries early in any relationship. Let him know what behaviors you find unacceptable and stick to your limits. Healthy relationships respect boundaries, and a partner who honors them values your well-being."
+  },
+  {
+    "id": 327,
+    "category": "Communication",
+    "title": "Practice Active Listening",
+    "content": "Listen to understand, not just to respond. Show interest by maintaining eye contact, nodding, and asking follow-up questions. Active listening fosters trust and deeper connection, making your partner feel heard and valued."
+  },
+  {
+    "id": 328,
+    "category": "Emotional Safety",
+    "title": "Create a Safe Space for Feelings",
+    "content": "Encourage open conversations about emotions and vulnerabilities. Let your partner know it’s safe to share without fear of judgment. Emotional safety strengthens intimacy and builds a foundation for trust and mutual support."
+  },
+  {
+    "id": 329,
+    "category": "Consistency",
+    "title": "Value Steady Actions Over Words",
+    "content": "Pay attention to whether his actions match his words. Consistent effort, like regular check-ins and following through on promises, demonstrates reliability. Trust grows when you see that he’s dependable over time."
+  },
+  {
+    "id": 330,
+    "category": "Dating Safety",
+    "title": "Prioritize Your Physical Safety",
+    "content": "Always meet new people in public places and let someone know your plans. Trust your instincts and leave if you feel unsafe. Your physical safety is non-negotiable, and a respectful partner will understand and support your precautions."
+  },
+  {
+    "id": 331,
+    "category": "Personal Boundaries",
+    "title": "Respect Your Own Needs",
+    "content": "Don’t sacrifice your well-being to please someone else. Make time for your hobbies, friends, and self-care. Setting personal boundaries helps maintain your identity and prevents resentment in relationships."
+  },
+  {
+    "id": 332,
+    "category": "Trust Your Gut",
+    "title": "Listen to Your Intuition",
+    "content": "If something feels off, don’t ignore it. Your intuition picks up on subtle cues that your conscious mind might miss. Trusting your gut can help you avoid potentially harmful situations or relationships."
+  },
+  {
+    "id": 333,
+    "category": "Exit Strategies",
+    "title": "Plan for Healthy Breakups",
+    "content": "Have a plan for ending relationships that aren’t working. Communicate your reasons clearly and kindly, and set boundaries for future contact. Knowing how to exit gracefully helps protect your emotional well-being."
+  },
+  {
+    "id": 334,
+    "category": "Online Dating Safety",
+    "title": "Verify Profiles Before Meeting",
+    "content": "Take steps to verify someone’s identity before meeting in person. Use video calls or social media to confirm their profile matches reality. This helps reduce the risk of catfishing or unsafe encounters."
+  },
+  {
+    "id": 335,
+    "category": "Situational Awareness",
+    "title": "Stay Aware of Your Surroundings",
+    "content": "Be mindful of your environment when on dates. Notice how you feel and whether your partner respects your comfort. Staying aware helps you respond quickly to any red flags or unsafe situations."
+  },
+  {
+    "id": 336,
+    "category": "Redirection Skills",
+    "title": "Redirect Uncomfortable Topics",
+    "content": "If a conversation turns uncomfortable or invasive, politely steer it in another direction. Redirecting helps you maintain control and keeps the interaction positive and respectful."
+  },
+  {
+    "id": 337,
+    "category": "Texting Etiquette",
+    "title": "Be Clear and Kind in Messages",
+    "content": "Communicate your thoughts honestly and respectfully in texts. Avoid sarcasm or ambiguous language that can be misinterpreted. Clear, kind messages build trust and prevent misunderstandings."
+  },
+  {
+    "id": 338,
+    "category": "Mixed Signals",
+    "title": "Address Confusing Behavior",
+    "content": "If he sends mixed signals, ask for clarity. Express how his behavior makes you feel and seek honest answers. Addressing mixed signals helps prevent confusion and sets the stage for open communication."
+  },
+  {
+    "id": 339,
+    "category": "Ghosting",
+    "title": "Don’t Chase After Ghosting",
+    "content": "If someone ghosts you, don’t repeatedly reach out. Respect your own worth and move on. Ghosting is a reflection of their issues, not your value as a person."
+  },
+  {
+    "id": 340,
+    "category": "Breadcrumbing",
+    "title": "Recognize and Respond to Breadcrumbing",
+    "content": "Breadcrumbing is when someone gives just enough attention to keep you interested without real commitment. Recognize the pattern and address it directly or choose to walk away if it doesn’t meet your needs."
+  },
+  {
+    "id": 341,
+    "category": "Love Bombing",
+    "title": "Watch for Excessive Flattery",
+    "content": "Love bombing involves overwhelming affection or compliments early on. While it feels good, it can be a manipulation tactic. Stay grounded and observe if his actions match his words over time."
+  },
+  {
+    "id": 342,
+    "category": "Situationships",
+    "title": "Define Your Relationship Status",
+    "content": "If you’re in a situationship, clarify what you both want. Ask for honesty about intentions and set boundaries. Defining the relationship helps prevent confusion and emotional harm."
+  },
+  {
+    "id": 343,
+    "category": "Casual Dating",
+    "title": "Communicate Your Expectations",
+    "content": "Be clear about what you want from casual dating. If you seek something light, say so. Honest communication ensures both parties are on the same page and prevents misunderstandings."
+  },
+  {
+    "id": 344,
+    "category": "Emotional Availability",
+    "title": "Assess Emotional Openness",
+    "content": "Notice if he shares his feelings and listens to yours. Emotional availability is key for deep connection. If he avoids vulnerability, it may indicate he’s not ready for a serious relationship."
+  },
+  {
+    "id": 345,
+    "category": "Attachment Styles",
+    "title": "Understand Your Attachment Style",
+    "content": "Reflect on how you relate to others in relationships. Knowing your attachment style helps you identify patterns and work toward healthier connections. Seek partners who complement your style."
+  },
+  {
+    "id": 346,
+    "category": "Healing",
+    "title": "Take Time to Heal After Breakups",
+    "content": "Allow yourself space to process emotions after a breakup. Healing is essential for moving forward and building healthier relationships in the future. Self-compassion supports your emotional recovery."
+  },
+  {
+    "id": 347,
+    "category": "Past Baggage",
+    "title": "Acknowledge Your Past Experiences",
+    "content": "Recognize how past relationships shape your current views. Address unresolved issues and communicate your needs. Understanding your baggage helps you create healthier connections."
+  },
+  {
+    "id": 348,
+    "category": "Emotional Maturity",
+    "title": "Look for Emotional Maturity",
+    "content": "A mature partner handles conflict calmly, takes responsibility for mistakes, and communicates honestly. Emotional maturity creates a safe, respectful environment for both partners to grow."
+  },
+  {
+    "id": 349,
+    "category": "Readiness",
+    "title": "Assess Relationship Readiness",
+    "content": "Check if you and your partner are emotionally ready for a relationship. Both should feel secure, open, and willing to invest in each other. Readiness leads to healthier, more fulfilling connections."
+  },
+  {
+    "id": 350,
+    "category": "Long-Term Vision",
+    "title": "Share Your Future Goals",
+    "content": "Discuss your long-term aspirations with your partner. Aligning your visions for the future strengthens your bond and helps you build a life together with shared purpose."
+  },
+  {
+    "id": 351,
+    "category": "Healthy Love",
+    "title": "Cultivate Mutual Respect",
+    "content": "Healthy love is built on respect, trust, and support. Prioritize kindness and understanding in your relationship. Mutual respect fosters a lasting, fulfilling connection."
+  },
+  {
+    "id": 352,
+    "category": "Choosing Better",
+    "title": "Set High Standards for Partners",
+    "content": "Don’t settle for less than you deserve. Choose partners who value and respect you. High standards attract healthier, more rewarding relationships."
+  },
+  {
+    "id": 353,
+    "category": "Lessons Learned",
+    "title": "Reflect on Past Relationship Lessons",
+    "content": "Think about what you’ve learned from past relationships. Use those insights to make better choices moving forward. Reflection leads to growth and wiser decisions."
+  },
+  {
+    "id": 354,
+    "category": "Dating Mindset",
+    "title": "Stay Positive and Open",
+    "content": "Approach dating with a positive, open mindset. Focus on learning and growth rather than perfection. A healthy mindset attracts better connections and reduces stress."
+  },
+  {
+    "id": 355,
+    "category": "Red Flags",
+    "title": "Notice Lack of Accountability",
+    "content": "If he never admits fault or blames others for his mistakes, it’s a red flag. Accountability is essential for healthy relationships. Avoid partners who refuse to take responsibility."
+  },
+  {
+    "id": 356,
+    "category": "Green Flags",
+    "title": "Appreciate Thoughtful Gestures",
+    "content": "Look for small, thoughtful actions like remembering your preferences or checking in when you’re stressed. These gestures show he cares and pays attention to your needs."
+  },
+  {
+    "id": 357,
+    "category": "First Dates",
+    "title": "Be Yourself on First Dates",
+    "content": "Show your true personality on first dates. Authenticity attracts compatible partners and sets the stage for honest communication. Pretending to be someone else creates future problems."
+  },
+  {
+    "id": 358,
+    "category": "Early Dating",
+    "title": "Take Your Time Getting Close",
+    "content": "Don’t rush into emotional or physical intimacy. Take time to build trust and get to know each other. Patience helps create a strong foundation for a lasting relationship."
+  },
+  {
+    "id": 359,
+    "category": "Commitment",
+    "title": "Check for Shared Values",
+    "content": "Discuss core values like honesty, loyalty, and family. Shared values are the bedrock of commitment. If your values clash, it may be hard to build a lasting partnership."
+  },
+  {
+    "id": 360,
+    "category": "Boundaries",
+    "title": "Say No Without Guilt",
+    "content": "It’s okay to say no to things that make you uncomfortable. Setting boundaries without guilt protects your well-being and teaches others to respect your limits."
+  },
+  {
+    "id": 361,
+    "category": "Communication",
+    "title": "Use 'I' Statements in Arguments",
+    "content": "Frame disagreements with 'I' statements like 'I feel upset when...' instead of blaming. This approach encourages constructive dialogue and reduces defensiveness."
+  },
+  {
+    "id": 362,
+    "category": "Emotional Safety",
+    "title": "Validate Each Other’s Feelings",
+    "content": "Acknowledge your partner’s emotions, even if you don’t agree. Validation builds emotional safety and shows you care about their experience."
+  },
+  {
+    "id": 363,
+    "category": "Consistency",
+    "title": "Notice Patterns Over Time",
+    "content": "Look for consistent behaviors rather than isolated incidents. Patterns reveal true character and help you assess if someone is reliable and trustworthy."
+  },
+  {
+    "id": 364,
+    "category": "Dating Safety",
+    "title": "Trust Your Instincts on Safety",
+    "content": "If something feels unsafe, trust your instincts and remove yourself from the situation. Your safety comes first, and a respectful partner will understand your caution."
+  },
+  {
+    "id": 365,
+    "category": "Personal Boundaries",
+    "title": "Protect Your Time and Energy",
+    "content": "Don’t let anyone drain your energy or demand your time excessively. Protecting your time ensures you have space for your own needs and growth."
+  },
+  {
+    "id": 366,
+    "category": "Trust Your Gut",
+    "title": "Heed Early Warning Signs",
+    "content": "If your gut warns you about something, pay attention. Early warning signs often indicate deeper issues. Trusting your intuition helps you avoid future problems."
+  },
+  {
+    "id": 367,
+    "category": "Exit Strategies",
+    "title": "Know When to Walk Away",
+    "content": "Recognize when a relationship isn’t working and have the courage to leave. Walking away preserves your self-respect and opens doors to better opportunities."
+  },
+  {
+    "id": 368,
+    "category": "Online Dating Safety",
+    "title": "Avoid Sharing Sensitive Info",
+    "content": "Don’t share personal details like your address or financial information early on. Protect your privacy and safety when dating online."
+  },
+  {
+    "id": 369,
+    "category": "Situational Awareness",
+    "title": "Assess the Environment",
+    "content": "Be aware of your surroundings and the people around you. Assessing the environment helps you stay safe and respond to potential risks."
+  },
+  {
+    "id": 370,
+    "category": "Redirection Skills",
+    "title": "Deflect Inappropriate Questions",
+    "content": "If asked something too personal, politely deflect or change the subject. Redirecting keeps the conversation respectful and comfortable for both parties."
+  },
     {
       "id": 371,
       "category": "Self-Love",
@@ -2506,8 +2742,608 @@
       "id": 500,
       "category": "Long-Term",
       "content": "Build a partnership where you both feel free to be authentically yourselves without fear of rejection or judgment."
-    }
+    },
 
+  {
+    "id": 501,
+    "category": "Red Flags",
+    "title": "Watch for Disrespectful Language",
+    "content": "Pay attention if he uses belittling or dismissive language toward you or others. Disrespect is a clear red flag and often escalates over time. Address it early or consider walking away if it persists. Healthy relationships are built on mutual respect, not put-downs or sarcasm disguised as humor. If you feel diminished, your boundaries are being tested."
+  },
+  {
+    "id": 502,
+    "category": "Green Flags",
+    "title": "Look for Supportive Actions",
+    "content": "A green flag is when he celebrates your wins and supports your dreams without jealousy or competition. He listens to your goals and encourages you to pursue them. Supportive partners help you grow and feel seen, not threatened by your success. These actions build a foundation for a healthy, lasting relationship."
+  },
+  {
+    "id": 503,
+    "category": "First Dates",
+    "title": "Ask Open-Ended Questions",
+    "content": "On a first date, ask questions that invite deeper conversation, like 'What’s something you’re passionate about?' or 'What makes you happiest?' This helps you learn more about his personality and values. It also shows genuine interest, setting the tone for mutual connection and openness."
+  },
+  {
+    "id": 504,
+    "category": "Early Dating",
+    "title": "Observe Consistency in Effort",
+    "content": "Notice if he puts in consistent effort to plan dates, respond to messages, and show up as promised. Consistency reveals his interest and reliability. If he’s only attentive when it’s convenient, it’s a sign he may not be fully invested. Look for steady, thoughtful actions over time."
+  },
+  {
+    "id": 505,
+    "category": "Commitment",
+    "title": "Discuss Relationship Goals Early",
+    "content": "Talk about what you both want from a relationship early on. If you’re looking for something serious and he’s not, it’s better to know now. Honest communication about expectations prevents misunderstandings and sets the stage for a healthy partnership."
+  },
+  {
+    "id": 506,
+    "category": "Boundaries",
+    "title": "Set Clear Personal Limits",
+    "content": "Define and communicate your boundaries early in any relationship. Let him know what behaviors you find unacceptable and stick to your limits. Healthy relationships respect boundaries, and a partner who honors them values your well-being and autonomy."
+  },
+  {
+    "id": 507,
+    "category": "Communication",
+    "title": "Practice Active Listening",
+    "content": "Listen to understand, not just to respond. Show interest by maintaining eye contact, nodding, and asking follow-up questions. Active listening fosters trust and deeper connection, making your partner feel heard and valued in the relationship."
+  },
+  {
+    "id": 508,
+    "category": "Emotional Safety",
+    "title": "Create a Safe Space for Feelings",
+    "content": "Encourage open conversations about emotions and vulnerabilities. Let your partner know it’s safe to share without fear of judgment. Emotional safety strengthens intimacy and builds a foundation for trust and mutual support."
+  },
+  {
+    "id": 509,
+    "category": "Consistency",
+    "title": "Value Steady Actions Over Words",
+    "content": "Pay attention to whether his actions match his words. Consistent effort, like regular check-ins and following through on promises, demonstrates reliability. Trust grows when you see that he’s dependable over time."
+  },
+  {
+    "id": 510,
+    "category": "Dating Safety",
+    "title": "Prioritize Your Physical Safety",
+    "content": "Always meet new people in public places and let someone know your plans. Trust your instincts and leave if you feel unsafe. Your physical safety is non-negotiable, and a respectful partner will understand and support your precautions."
+  },
+  {
+    "id": 511,
+    "category": "Personal Boundaries",
+    "title": "Respect Your Own Needs",
+    "content": "Don’t sacrifice your well-being to please someone else. Make time for your hobbies, friends, and self-care. Setting personal boundaries helps maintain your identity and prevents resentment in relationships."
+  },
+  {
+    "id": 512,
+    "category": "Trust Your Gut",
+    "title": "Listen to Your Intuition",
+    "content": "If something feels off, don’t ignore it. Your intuition picks up on subtle cues that your conscious mind might miss. Trusting your gut can help you avoid potentially harmful situations or relationships."
+  },
+  {
+    "id": 513,
+    "category": "Exit Strategies",
+    "title": "Plan for Healthy Breakups",
+    "content": "Have a plan for ending relationships that aren’t working. Communicate your reasons clearly and kindly, and set boundaries for future contact. Knowing how to exit gracefully helps protect your emotional well-being."
+  },
+  {
+    "id": 514,
+    "category": "Online Dating Safety",
+    "title": "Verify Profiles Before Meeting",
+    "content": "Take steps to verify someone’s identity before meeting in person. Use video calls or social media to confirm their profile matches reality. This helps reduce the risk of catfishing or unsafe encounters."
+  },
+  {
+    "id": 515,
+    "category": "Situational Awareness",
+    "title": "Stay Aware of Your Surroundings",
+    "content": "Be mindful of your environment when on dates. Notice how you feel and whether your partner respects your comfort. Staying aware helps you respond quickly to any red flags or unsafe situations."
+  },
+  {
+    "id": 516,
+    "category": "Redirection Skills",
+    "title": "Redirect Uncomfortable Topics",
+    "content": "If a conversation turns uncomfortable or invasive, politely steer it in another direction. Redirecting helps you maintain control and keeps the interaction positive and respectful."
+  },
+  {
+    "id": 517,
+    "category": "Texting Etiquette",
+    "title": "Be Clear and Kind in Messages",
+    "content": "Communicate your thoughts honestly and respectfully in texts. Avoid sarcasm or ambiguous language that can be misinterpreted. Clear, kind messages build trust and prevent misunderstandings."
+  },
+  {
+    "id": 518,
+    "category": "Mixed Signals",
+    "title": "Address Confusing Behavior",
+    "content": "If he sends mixed signals, ask for clarity. Express how his behavior makes you feel and seek honest answers. Addressing mixed signals helps prevent confusion and sets the stage for open communication."
+  },
+  {
+    "id": 519,
+    "category": "Ghosting",
+    "title": "Don’t Chase After Ghosting",
+    "content": "If someone ghosts you, don’t repeatedly reach out. Respect your own worth and move on. Ghosting is a reflection of their issues, not your value as a person."
+  },
+  {
+    "id": 520,
+    "category": "Breadcrumbing",
+    "title": "Recognize and Respond to Breadcrumbing",
+    "content": "Breadcrumbing is when someone gives just enough attention to keep you interested without real commitment. Recognize the pattern and address it directly or choose to walk away if it doesn’t meet your needs."
+  },
+  {
+    "id": 521,
+    "category": "Love Bombing",
+    "title": "Watch for Excessive Flattery",
+    "content": "Love bombing involves overwhelming affection or compliments early on. While it feels good, it can be a manipulation tactic. Stay grounded and observe if his actions match his words over time."
+  },
+  {
+    "id": 522,
+    "category": "Situationships",
+    "title": "Define Your Relationship Status",
+    "content": "If you’re in a situationship, clarify what you both want. Ask for honesty about intentions and set boundaries. Defining the relationship helps prevent confusion and emotional harm."
+  },
+  {
+    "id": 523,
+    "category": "Casual Dating",
+    "title": "Communicate Your Expectations",
+    "content": "Be clear about what you want from casual dating. If you seek something light, say so. Honest communication ensures both parties are on the same page and prevents misunderstandings."
+  },
+  {
+    "id": 524,
+    "category": "Emotional Availability",
+    "title": "Assess Emotional Openness",
+    "content": "Notice if he shares his feelings and listens to yours. Emotional availability is key for deep connection. If he avoids vulnerability, it may indicate he’s not ready for a serious relationship."
+  },
+  {
+    "id": 525,
+    "category": "Attachment Styles",
+    "title": "Understand Your Attachment Style",
+    "content": "Reflect on how you relate to others in relationships. Knowing your attachment style helps you identify patterns and work toward healthier connections. Seek partners who complement your style."
+  },
+  {
+    "id": 526,
+    "category": "Healing",
+    "title": "Take Time to Heal After Breakups",
+    "content": "Allow yourself space to process emotions after a breakup. Healing is essential for moving forward and building healthier relationships in the future. Self-compassion supports your emotional recovery."
+  },
+  {
+    "id": 527,
+    "category": "Past Baggage",
+    "title": "Acknowledge Your Past Experiences",
+    "content": "Recognize how past relationships shape your current views. Address unresolved issues and communicate your needs. Understanding your baggage helps you create healthier connections."
+  },
+  {
+    "id": 528,
+    "category": "Emotional Maturity",
+    "title": "Look for Emotional Maturity",
+    "content": "A mature partner handles conflict calmly, takes responsibility for mistakes, and communicates honestly. Emotional maturity creates a safe, respectful environment for both partners to grow."
+  },
+  {
+    "id": 529,
+    "category": "Readiness",
+    "title": "Assess Relationship Readiness",
+    "content": "Check if you and your partner are emotionally ready for a relationship. Both should feel secure, open, and willing to invest in each other. Readiness leads to healthier, more fulfilling connections."
+  },
+  {
+    "id": 530,
+    "category": "Long-Term Vision",
+    "title": "Share Your Future Goals",
+    "content": "Discuss your long-term aspirations with your partner. Aligning your visions for the future strengthens your bond and helps you build a life together with shared purpose."
+  },
+  {
+    "id": 531,
+    "category": "Healthy Love",
+    "title": "Cultivate Mutual Respect",
+    "content": "Healthy love is built on respect, trust, and support. Prioritize kindness and understanding in your relationship. Mutual respect fosters a lasting, fulfilling connection."
+  },
+  {
+    "id": 532,
+    "category": "Choosing Better",
+    "title": "Set High Standards for Partners",
+    "content": "Don’t settle for less than you deserve. Choose partners who value and respect you. High standards attract healthier, more rewarding relationships."
+  },
+  {
+    "id": 533,
+    "category": "Lessons Learned",
+    "title": "Reflect on Past Relationship Lessons",
+    "content": "Think about what you’ve learned from past relationships. Use those insights to make better choices moving forward. Reflection leads to growth and wiser decisions."
+  },
+  {
+    "id": 534,
+    "category": "Dating Mindset",
+    "title": "Stay Positive and Open",
+    "content": "Approach dating with a positive, open mindset. Focus on learning and growth rather than perfection. A healthy mindset attracts better connections and reduces stress."
+  },
+  {
+    "id": 535,
+    "category": "Red Flags",
+    "title": "Notice Lack of Accountability",
+    "content": "If he never admits fault or blames others for his mistakes, it’s a red flag. Accountability is essential for healthy relationships. Avoid partners who refuse to take responsibility."
+  },
+  {
+    "id": 536,
+    "category": "Green Flags",
+    "title": "Appreciate Thoughtful Gestures",
+    "content": "Look for small, thoughtful actions like remembering your preferences or checking in when you’re stressed. These gestures show he cares and pays attention to your needs."
+  },
+  {
+    "id": 537,
+    "category": "First Dates",
+    "title": "Be Yourself on First Dates",
+    "content": "Show your true personality on first dates. Authenticity attracts compatible partners and sets the stage for honest communication. Pretending to be someone else creates future problems."
+  },
+  {
+    "id": 538,
+    "category": "Early Dating",
+    "title": "Take Your Time Getting Close",
+    "content": "Don’t rush into emotional or physical intimacy. Take time to build trust and get to know each other. Patience helps create a strong foundation for a lasting relationship."
+  },
+  {
+    "id": 539,
+    "category": "Commitment",
+    "title": "Check for Shared Values",
+    "content": "Discuss core values like honesty, loyalty, and family. Shared values are the bedrock of commitment. If your values clash, it may be hard to build a lasting partnership."
+  },
+  {
+    "id": 540,
+    "category": "Boundaries",
+    "title": "Say No Without Guilt",
+    "content": "It’s okay to say no to things that make you uncomfortable. Setting boundaries without guilt protects your well-being and teaches others to respect your limits."
+  },
+  {
+    "id": 541,
+    "category": "Communication",
+    "title": "Use 'I' Statements in Arguments",
+    "content": "Frame disagreements with 'I' statements like 'I feel upset when...' instead of blaming. This approach encourages constructive dialogue and reduces defensiveness."
+  },
+  {
+    "id": 542,
+    "category": "Emotional Safety",
+    "title": "Validate Each Other’s Feelings",
+    "content": "Acknowledge your partner’s emotions, even if you don’t agree. Validation builds emotional safety and shows you care about their experience."
+  },
+  {
+    "id": 543,
+    "category": "Consistency",
+    "title": "Notice Patterns Over Time",
+    "content": "Look for consistent behaviors rather than isolated incidents. Patterns reveal true character and help you assess if someone is reliable and trustworthy."
+  },
+  {
+    "id": 544,
+    "category": "Dating Safety",
+    "title": "Trust Your Instincts on Safety",
+    "content": "If something feels unsafe, trust your instincts and remove yourself from the situation. Your safety comes first, and a respectful partner will understand your caution."
+  },
+  {
+    "id": 545,
+    "category": "Personal Boundaries",
+    "title": "Protect Your Time and Energy",
+    "content": "Don’t let anyone drain your energy or demand your time excessively. Protecting your time ensures you have space for your own needs and growth."
+  },
+  {
+    "id": 546,
+    "category": "Trust Your Gut",
+    "title": "Heed Early Warning Signs",
+    "content": "If your gut warns you about something, pay attention. Early warning signs often indicate deeper issues. Trusting your intuition helps you avoid future problems."
+  },
+  {
+    "id": 547,
+    "category": "Exit Strategies",
+    "title": "Know When to Walk Away",
+    "content": "Recognize when a relationship isn’t working and have the courage to leave. Walking away preserves your self-respect and opens doors to better opportunities."
+  },
+  {
+    "id": 548,
+    "category": "Online Dating Safety",
+    "title": "Avoid Sharing Sensitive Info",
+    "content": "Don’t share personal details like your address or financial information early on. Protect your privacy and safety when dating online."
+  },
+  {
+    "id": 549,
+    "category": "Situational Awareness",
+    "title": "Assess the Environment",
+    "content": "Be aware of your surroundings and the people around you. Assessing the environment helps you stay safe and respond to potential risks."
+  },
+  {
+    "id": 550,
+    "category": "Redirection Skills",
+    "title": "Deflect Inappropriate Questions",
+    "content": "If asked something too personal, politely deflect or change the subject. Redirecting keeps the conversation respectful and comfortable for both parties."
+  },
+{
+    "id": 551,
+    "category": "Red Flags",
+    "title": "Notice If He Avoids Responsibility",
+    "content": "If he frequently avoids taking responsibility for his actions or blames others, it’s a major red flag. Healthy relationships require accountability. Avoid partners who refuse to own their mistakes or shift blame to others, as this often leads to resentment and imbalance."
+  },
+  {
+    "id": 552,
+    "category": "Green Flags",
+    "title": "Celebrate His Thoughtfulness",
+    "content": "A green flag is when he remembers small details about you and acts on them. Thoughtfulness shows he pays attention and cares about your happiness. These gestures create a sense of being valued and appreciated in the relationship."
+  },
+  {
+    "id": 553,
+    "category": "First Dates",
+    "title": "Keep Conversation Light and Fun",
+    "content": "On a first date, focus on lighthearted topics and shared interests. Avoid heavy subjects or oversharing personal issues. Keeping the mood positive helps both of you relax and enjoy the experience without pressure."
+  },
+  {
+    "id": 554,
+    "category": "Early Dating",
+    "title": "Pay Attention to His Curiosity",
+    "content": "Notice if he asks questions about your life and interests. Genuine curiosity shows he wants to get to know you as a person, not just physically. This is a sign of healthy interest and emotional investment."
+  },
+  {
+    "id": 555,
+    "category": "Commitment",
+    "title": "Discuss Future Plans Openly",
+    "content": "Talk about your hopes and dreams for the future. Open discussions about long-term goals help ensure you’re on the same page. Honest communication builds trust and helps avoid disappointment later."
+  },
+  {
+    "id": 556,
+    "category": "Boundaries",
+    "title": "Respect Your Own Limits",
+    "content": "Set and respect your own boundaries without guilt. If something makes you uncomfortable, speak up. Healthy relationships thrive when both partners honor each other’s limits and communicate openly."
+  },
+  {
+    "id": 557,
+    "category": "Communication",
+    "title": "Express Needs Clearly",
+    "content": "Be honest about your needs and expectations. Use clear, direct language to avoid misunderstandings. Open communication helps prevent resentment and strengthens your connection."
+  },
+  {
+    "id": 558,
+    "category": "Emotional Safety",
+    "title": "Create a Judgment-Free Zone",
+    "content": "Encourage honest conversations without fear of judgment. Let your partner know it’s safe to share vulnerabilities. Emotional safety fosters intimacy and trust in your relationship."
+  },
+  {
+    "id": 559,
+    "category": "Consistency",
+    "title": "Observe His Follow-Through",
+    "content": "Pay attention to whether he keeps promises and follows through on plans. Consistency in actions builds trust and shows he’s reliable. Notice patterns over time to assess his commitment."
+  },
+  {
+    "id": 560,
+    "category": "Dating Safety",
+    "title": "Always Trust Your Instincts",
+    "content": "If something feels off, don’t ignore it. Trusting your instincts protects you from potentially unsafe situations. Your intuition is a powerful tool for staying safe while dating."
+  },
+  {
+    "id": 561,
+    "category": "Personal Boundaries",
+    "title": "Protect Your Time and Energy",
+    "content": "Don’t let anyone drain your energy or demand your time excessively. Protecting your time ensures you have space for your own needs and growth. Healthy boundaries support your well-being."
+  },
+  {
+    "id": 562,
+    "category": "Trust Your Gut",
+    "title": "Heed Early Warning Signs",
+    "content": "If your gut warns you about something, pay attention. Early warning signs often indicate deeper issues. Trusting your intuition helps you avoid future problems and stay safe."
+  },
+  {
+    "id": 563,
+    "category": "Exit Strategies",
+    "title": "Know When to Walk Away",
+    "content": "Recognize when a relationship isn’t working and have the courage to leave. Walking away preserves your self-respect and opens doors to better opportunities. Trust your judgment."
+  },
+  {
+    "id": 564,
+    "category": "Online Dating Safety",
+    "title": "Verify Before Sharing Personal Info",
+    "content": "Before sharing personal information online, verify the person’s identity. Use video calls or social media to confirm they are who they say they are. Protecting your privacy keeps you safe."
+  },
+  {
+    "id": 565,
+    "category": "Situational Awareness",
+    "title": "Assess Your Surroundings",
+    "content": "Be aware of your environment and the people around you. Assessing the situation helps you stay safe and respond to potential risks. Stay alert and trust your instincts."
+  },
+  {
+    "id": 566,
+    "category": "Redirection Skills",
+    "title": "Deflect Unwanted Advances",
+    "content": "If someone makes unwanted advances, politely redirect the conversation or remove yourself from the situation. Deflecting keeps the interaction respectful and protects your comfort."
+  },
+  {
+    "id": 567,
+    "category": "Texting Etiquette",
+    "title": "Respond with Clarity",
+    "content": "When texting, be clear and concise about your thoughts. Avoid ambiguous language that can be misinterpreted. Clear messages help prevent misunderstandings and build trust."
+  },
+  {
+    "id": 568,
+    "category": "Mixed Signals",
+    "title": "Address Inconsistencies Directly",
+    "content": "If his behavior is inconsistent, address it directly. Ask for clarity about his intentions. Addressing mixed signals helps prevent confusion and sets the stage for honest communication."
+  },
+  {
+    "id": 569,
+    "category": "Ghosting",
+    "title": "Don’t Take Ghosting Personally",
+    "content": "If someone ghosts you, don’t blame yourself. Ghosting reflects their issues, not your worth. Focus on your own growth and move forward with confidence."
+  },
+  {
+    "id": 570,
+    "category": "Breadcrumbing",
+    "title": "Recognize Minimal Effort",
+    "content": "Breadcrumbing is when someone gives just enough attention to keep you interested. Recognize the pattern and address it directly or choose to walk away if it doesn’t meet your needs."
+  },
+  {
+    "id": 571,
+    "category": "Love Bombing",
+    "title": "Stay Grounded in Reality",
+    "content": "If someone overwhelms you with affection early on, stay grounded. Love bombing can be manipulative. Observe if his actions match his words over time for genuine connection."
+  },
+  {
+    "id": 572,
+    "category": "Situationships",
+    "title": "Define the Relationship Clearly",
+    "content": "If you’re in a situationship, clarify what you both want. Ask for honesty about intentions and set boundaries. Defining the relationship helps prevent confusion and emotional harm."
+  },
+  {
+    "id": 573,
+    "category": "Casual Dating",
+    "title": "Be Honest About Intentions",
+    "content": "Be upfront about what you want from casual dating. If you seek something light, say so. Honest communication ensures both parties are on the same page and prevents misunderstandings."
+  },
+  {
+    "id": 574,
+    "category": "Emotional Availability",
+    "title": "Assess Willingness to Connect",
+    "content": "Notice if he shares his feelings and listens to yours. Emotional availability is key for deep connection. If he avoids vulnerability, it may indicate he’s not ready for a serious relationship."
+  },
+  {
+    "id": 575,
+    "category": "Attachment Styles",
+    "title": "Identify Your Attachment Pattern",
+    "content": "Reflect on how you relate to others in relationships. Knowing your attachment style helps you identify patterns and work toward healthier connections. Seek partners who complement your style."
+  },
+  {
+    "id": 576,
+    "category": "Healing",
+    "title": "Allow Yourself to Heal",
+    "content": "Give yourself time to heal after a breakup. Healing is essential for moving forward and building healthier relationships in the future. Self-compassion supports your emotional recovery."
+  },
+  {
+    "id": 577,
+    "category": "Past Baggage",
+    "title": "Acknowledge Your Experiences",
+    "content": "Recognize how past relationships shape your current views. Address unresolved issues and communicate your needs. Understanding your baggage helps you create healthier connections."
+  },
+  {
+    "id": 578,
+    "category": "Emotional Maturity",
+    "title": "Look for Calm Conflict Resolution",
+    "content": "A mature partner handles conflict calmly, takes responsibility for mistakes, and communicates honestly. Emotional maturity creates a safe, respectful environment for both partners to grow."
+  },
+  {
+    "id": 579,
+    "category": "Readiness",
+    "title": "Check Emotional Readiness",
+    "content": "Check if you and your partner are emotionally ready for a relationship. Both should feel secure, open, and willing to invest in each other. Readiness leads to healthier, more fulfilling connections."
+  },
+  {
+    "id": 580,
+    "category": "Long-Term Vision",
+    "title": "Align Your Future Goals",
+    "content": "Discuss your long-term aspirations with your partner. Aligning your visions for the future strengthens your bond and helps you build a life together with shared purpose."
+  },
+  {
+    "id": 581,
+    "category": "Healthy Love",
+    "title": "Cultivate Mutual Respect",
+    "content": "Healthy love is built on respect, trust, and support. Prioritize kindness and understanding in your relationship. Mutual respect fosters a lasting, fulfilling connection."
+  },
+  {
+    "id": 582,
+    "category": "Choosing Better",
+    "title": "Set High Relationship Standards",
+    "content": "Don’t settle for less than you deserve. Choose partners who value and respect you. High standards attract healthier, more rewarding relationships."
+  },
+  {
+    "id": 583,
+    "category": "Lessons Learned",
+    "title": "Learn From Past Relationships",
+    "content": "Think about what you’ve learned from past relationships. Use those insights to make better choices moving forward. Reflection leads to growth and wiser decisions."
+  },
+  {
+    "id": 584,
+    "category": "Dating Mindset",
+    "title": "Stay Open and Positive",
+    "content": "Approach dating with a positive, open mindset. Focus on learning and growth rather than perfection. A healthy mindset attracts better connections and reduces stress."
+  },
+  {
+    "id": 585,
+    "category": "Red Flags",
+    "title": "Watch for Controlling Behavior",
+    "content": "If he tries to control your choices or isolates you from friends, it’s a major red flag. Healthy relationships respect independence. Avoid partners who seek to dominate or manipulate."
+  },
+  {
+    "id": 586,
+    "category": "Green Flags",
+    "title": "Notice His Support for Your Goals",
+    "content": "A green flag is when he actively supports your ambitions and celebrates your achievements. Supportive partners help you grow and feel seen, not threatened by your success."
+  },
+  {
+    "id": 587,
+    "category": "First Dates",
+    "title": "Be Mindful of Body Language",
+    "content": "Pay attention to his body language on first dates. Positive cues like eye contact and open posture show genuine interest. Body language reveals a lot about comfort and attraction."
+  },
+  {
+    "id": 588,
+    "category": "Early Dating",
+    "title": "Look for Effort in Planning",
+    "content": "Notice if he puts effort into planning dates and activities. Thoughtful planning shows he values your time and wants to make you happy. Consistent effort builds trust and connection."
+  },
+  {
+    "id": 589,
+    "category": "Commitment",
+    "title": "Discuss Values and Beliefs",
+    "content": "Talk about your core values and beliefs early on. Shared values are the foundation of commitment. If your values clash, it may be hard to build a lasting partnership."
+  },
+  {
+    "id": 590,
+    "category": "Boundaries",
+    "title": "Communicate Your Limits Clearly",
+    "content": "Be clear about your boundaries and communicate them respectfully. Healthy relationships thrive when both partners honor each other’s limits and communicate openly."
+  },
+  {
+    "id": 591,
+    "category": "Communication",
+    "title": "Practice Honest Conversations",
+    "content": "Be honest about your feelings and expectations. Open, honest conversations help prevent misunderstandings and strengthen your connection. Clarity builds trust."
+  },
+  {
+    "id": 592,
+    "category": "Emotional Safety",
+    "title": "Encourage Vulnerability",
+    "content": "Create a safe space for both of you to share vulnerabilities. Encouraging openness builds intimacy and trust. Emotional safety is essential for a healthy relationship."
+  },
+  {
+    "id": 593,
+    "category": "Consistency",
+    "title": "Look for Steady Actions",
+    "content": "Pay attention to whether his actions are steady and reliable. Consistency in effort and communication builds trust and shows he’s invested in the relationship."
+  },
+  {
+    "id": 594,
+    "category": "Dating Safety",
+    "title": "Prioritize Your Well-Being",
+    "content": "Always put your well-being first when dating. Trust your instincts and remove yourself from situations that feel unsafe. Your safety is non-negotiable."
+  },
+  {
+    "id": 595,
+    "category": "Personal Boundaries",
+    "title": "Protect Your Emotional Space",
+    "content": "Don’t let anyone invade your emotional space or pressure you to share more than you’re comfortable with. Protecting your emotional boundaries supports your mental health."
+  },
+  {
+    "id": 596,
+    "category": "Trust Your Gut",
+    "title": "Listen to Your Inner Voice",
+    "content": "If something feels wrong, listen to your inner voice. Your intuition often picks up on subtle cues that your mind might miss. Trusting your gut keeps you safe and empowered."
+  },
+  {
+    "id": 597,
+    "category": "Exit Strategies",
+    "title": "Have a Plan for Unhealthy Relationships",
+    "content": "If a relationship becomes unhealthy, have a plan for leaving. Communicate your reasons clearly and set boundaries for future contact. Protecting your well-being is essential."
+  },
+  {
+    "id": 598,
+    "category": "Online Dating Safety",
+    "title": "Don’t Share Sensitive Details",
+    "content": "Avoid sharing sensitive information like your address or financial details early on. Protecting your privacy keeps you safe while dating online and prevents potential risks."
+  },
+  {
+    "id": 599,
+    "category": "Situational Awareness",
+    "title": "Stay Alert in Public",
+    "content": "Be alert and aware of your surroundings when on dates. Notice how you feel and whether your partner respects your comfort. Staying aware helps you respond quickly to risks."
+  },
+  {
+    "id": 600,
+    "category": "Redirection Skills",
+    "title": "Redirect Awkward Conversations",
+    "content": "If a conversation becomes awkward or uncomfortable, politely redirect it to a more positive topic. Redirecting helps maintain a respectful and enjoyable interaction for both parties."
+  }
 
   ]
 }
